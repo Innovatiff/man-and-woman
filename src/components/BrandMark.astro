@@ -1,0 +1,50 @@
+---
+/**
+ * Brand mark for Men Women Psychology.
+ *
+ * Two overlapping circles — two perspectives (men and women, self and other)
+ * meeting in a shared lens of understanding, which is filled in the brand red.
+ * Deliberately gender-neutral (no Mars/Venus symbols), reads cleanly at favicon
+ * size, and ties to the site's red + slate palette.
+ *
+ * `id` must be unique per instance on a page (the clip path is referenced by id).
+ */
+export interface Props {
+  id?: string;
+  tone?: 'light' | 'dark';
+  size?: number;
+}
+const { id = 'mwp', tone = 'light', size = 24 } = Astro.props;
+const ring = tone === 'dark' ? '#f5f5f4' : '#a81d22';
+const lens = tone === 'dark' ? '#c1272d' : '#a81d22';
+const clipId = `mwp-clip-${id}`;
+const width = Math.round((size * 36) / 28);
+---
+
+<svg
+  class="brandmark"
+  width={width}
+  height={size}
+  viewBox="0 0 36 28"
+  fill="none"
+  aria-hidden="true"
+  focusable="false"
+>
+  <defs>
+    <clipPath id={clipId}><circle cx="13" cy="14" r="9"></circle></clipPath>
+  </defs>
+  <circle cx="23" cy="14" r="9" fill={lens} clip-path={`url(#${clipId})`}></circle>
+  <circle cx="13" cy="14" r="9" stroke={ring} stroke-width="2.4"></circle>
+  <circle cx="23" cy="14" r="9" stroke={ring} stroke-width="2.4"></circle>
+</svg>
+
+<style>
+  .brandmark {
+    display: block;
+    flex: none;
+    /* Scale with the surrounding wordmark so the lockup stays proportional
+       across breakpoints (overrides the width/height attributes). */
+    height: 1.35em;
+    width: auto;
+  }
+</style>

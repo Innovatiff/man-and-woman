@@ -1,5 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <clipPath id="fav-lens"><circle cx="25" cy="33" r="15"/></clipPath>
+  </defs>
   <rect width="64" height="64" rx="14" fill="#fafaf9"/>
-  <circle cx="32" cy="32" r="20" fill="none" stroke="#a81d22" stroke-width="5"/>
-  <circle cx="32" cy="32" r="7" fill="#a81d22"/>
+  <circle cx="39" cy="33" r="15" fill="#a81d22" clip-path="url(#fav-lens)"/>
+  <circle cx="25" cy="33" r="15" fill="none" stroke="#a81d22" stroke-width="4.5"/>
+  <circle cx="39" cy="33" r="15" fill="none" stroke="#a81d22" stroke-width="4.5"/>
 </svg>
