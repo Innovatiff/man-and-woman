@@ -22,15 +22,34 @@ export const SITE = {
 
 /**
  * Primary navigation shown in the header.
+ *
+ * Items may be a direct link ({ label, href }) or a dropdown group
+ * ({ label, children: [...] }). The three topic areas are grouped under a
+ * single "Topics" dropdown to keep the top bar uncluttered.
  */
-export const NAV_LINKS = [
+export interface NavLink {
+  label: string;
+  href: string;
+}
+export interface NavGroup {
+  label: string;
+  children: NavLink[];
+}
+export type NavItem = NavLink | NavGroup;
+
+export const NAV_LINKS: NavItem[] = [
   { label: 'Explore Men', href: '/male-psychology' },
   { label: 'Explore Women', href: '/female-psychology' },
-  { label: 'Relationships', href: '/relationships-and-communication' },
-  { label: 'Self Improvement', href: '/self-improvement-men' },
-  { label: 'Love and Attraction', href: '/love-and-attraction' },
+  {
+    label: 'Topics',
+    children: [
+      { label: 'Relationships', href: '/relationships-and-communication' },
+      { label: 'Self Improvement', href: '/self-improvement-men' },
+      { label: 'Love and Attraction', href: '/love-and-attraction' },
+    ],
+  },
   { label: 'About', href: '/about' },
-] as const;
+];
 
 /**
  * AdSense configuration.

@@ -2,6 +2,8 @@
 import { SITE, NAV_LINKS } from '../config';
 const path = Astro.url.pathname;
 const isActive = (href: string) => path === href || (href !== '/' && path.startsWith(href));
+const isGroup = (item: (typeof NAV_LINKS)[number]): item is { label: string; children: { label: string; href: string }[] } =>
+  'children' in item;
 ---
 
 <header class="site-header">
@@ -24,13 +26,36 @@ const isActive = (href: string) => path === href || (href !== '/' && path.starts
       </button>
       <ul id="nav-menu" class="nav-menu">
         {
-          NAV_LINKS.map((link) => (
-            <li>
-              <a href={link.href} aria-current={isActive(link.href) ? 'page' : undefined}>
-                {link.label}
-              </a>
-            </li>
-          ))
+          NAV_LINKS.map((item) =>
+            isGroup(item) ? (
+              <li class="nav-dropdown">
+                <button
+                  type="button"
+                  class:list={['nav-dropdown-toggle', { active: item.children.some((c) => isActive(c.href)) }]}
+                  aria-expanded="false"
+                  aria-haspopup="true"
+                >
+                  {item.label}
+                  <span class="nav-caret" aria-hidden="true"></span>
+                </button>
+                <ul class="nav-dropdown-menu">
+                  {item.children.map((c) => (
+                    <li>
+                      <a href={c.href} aria-current={isActive(c.href) ? 'page' : undefined}>
+                        {c.label}
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              </li>
+            ) : (
+              <li>
+                <a class="nav-link" href={item.href} aria-current={isActive(item.href) ? 'page' : undefined}>
+                  {item.label}
+                </a>
+              </li>
+            ),
+          )
         }
         <li class="nav-cta">
           <a href="/explore" class="btn btn--primary">Start Exploring</a>
@@ -90,25 +115,99 @@ const isActive = (href: string) => path === href || (href !== '/' && path.starts
     margin: 0;
     padding: 0;
   }
-  .nav-menu a {
+  .nav-menu > li {
+    margin: 0;
+  }
+
+  /* Plain top-level links + dropdown trigger share a look */
+  .nav-link,
+  .nav-dropdown-toggle {
     color: #44403c;
     text-decoration: none;
+    font-family: var(--font-body);
     font-size: 0.96rem;
     font-weight: 500;
+    line-height: 1.2;
     padding: 0.35rem 0;
+    border: none;
     border-bottom: 2px solid transparent;
     white-space: nowrap;
+    background: none;
+    cursor: pointer;
   }
-  .nav-menu a:hover {
+  .nav-link:hover,
+  .nav-dropdown-toggle:hover {
     color: var(--color-primary-strong);
   }
-  .nav-menu a[aria-current='page'] {
+  .nav-link[aria-current='page'] {
     color: var(--color-primary-strong);
     border-bottom-color: var(--color-primary);
   }
-  .nav-cta a {
-    border-bottom: none;
+
+  /* Dropdown */
+  .nav-dropdown {
+    position: relative;
   }
+  .nav-dropdown-toggle {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+  }
+  .nav-dropdown-toggle.active {
+    color: var(--color-primary-strong);
+  }
+  .nav-caret {
+    width: 0.45rem;
+    height: 0.45rem;
+    border-right: 2px solid currentColor;
+    border-bottom: 2px solid currentColor;
+    transform: rotate(45deg) translateY(-2px);
+    transition: transform 0.2s ease;
+  }
+  .nav-dropdown.open .nav-caret {
+    transform: rotate(-135deg) translateY(-1px);
+  }
+  .nav-dropdown-menu {
+    position: absolute;
+    top: calc(100% + 0.5rem);
+    left: 50%;
+    transform: translateX(-50%) translateY(-6px);
+    min-width: 14rem;
+    list-style: none;
+    margin: 0;
+    padding: 0.4rem;
+    background: #fff;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow-md);
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.16s ease, transform 0.16s ease;
+    z-index: 60;
+  }
+  .nav-dropdown.open .nav-dropdown-menu {
+    opacity: 1;
+    visibility: visible;
+    transform: translateX(-50%) translateY(0);
+  }
+  .nav-dropdown-menu li {
+    margin: 0;
+  }
+  .nav-dropdown-menu a {
+    display: block;
+    padding: 0.6rem 0.75rem;
+    border-radius: 8px;
+    color: #44403c;
+    text-decoration: none;
+    font-size: 0.92rem;
+    white-space: nowrap;
+  }
+  .nav-dropdown-menu a:hover,
+  .nav-dropdown-menu a[aria-current='page'] {
+    background: var(--color-primary-soft);
+    color: var(--color-primary-strong);
+  }
+
   .nav-toggle {
     display: none;
     flex-direction: column;
@@ -148,17 +247,44 @@ const isActive = (href: string) => path === href || (href !== '/' && path.starts
       visibility: hidden;
     }
     .nav-menu.open {
-      max-height: 80vh;
+      max-height: 85vh;
+      overflow-y: auto;
       visibility: visible;
       padding-block: var(--space-3) var(--space-4);
     }
-    .nav-menu li {
-      margin: 0;
-    }
-    .nav-menu a {
-      display: block;
+    .nav-link,
+    .nav-dropdown-toggle {
+      display: flex;
+      width: 100%;
+      justify-content: space-between;
       padding: 0.85rem 0;
       border-bottom: 1px solid var(--color-border);
+      font-size: 1rem;
+    }
+    /* Mobile dropdown becomes an inline accordion */
+    .nav-dropdown-menu {
+      position: static;
+      transform: none;
+      opacity: 1;
+      visibility: visible;
+      min-width: 0;
+      border: none;
+      box-shadow: none;
+      padding: 0;
+      max-height: 0;
+      overflow: hidden;
+      transition: max-height 0.2s ease;
+    }
+    .nav-dropdown.open .nav-dropdown-menu {
+      max-height: 16rem;
+      transform: none;
+      padding: 0.25rem 0 0.5rem;
+    }
+    .nav-dropdown-menu a {
+      padding: 0.7rem 0 0.7rem 1rem;
+      border-bottom: 1px solid var(--color-border);
+      border-radius: 0;
+      font-size: 0.95rem;
     }
     .nav-cta {
       margin-top: var(--space-3);
@@ -171,10 +297,41 @@ const isActive = (href: string) => path === href || (href !== '/' && path.starts
 </style>
 
 <script>
-  const toggle = document.querySelector('.nav-toggle');
+  const navToggle = document.querySelector<HTMLButtonElement>('.nav-toggle');
   const menu = document.getElementById('nav-menu');
-  toggle?.addEventListener('click', () => {
+  navToggle?.addEventListener('click', () => {
     const open = menu?.classList.toggle('open');
-    toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+    navToggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+  });
+
+  const dropdowns = Array.from(document.querySelectorAll<HTMLElement>('.nav-dropdown'));
+
+  function closeDropdown(dd: HTMLElement) {
+    dd.classList.remove('open');
+    dd.querySelector('.nav-dropdown-toggle')?.setAttribute('aria-expanded', 'false');
+  }
+
+  dropdowns.forEach((dd) => {
+    const btn = dd.querySelector<HTMLButtonElement>('.nav-dropdown-toggle');
+    btn?.addEventListener('click', (e) => {
+      e.stopPropagation();
+      const willOpen = !dd.classList.contains('open');
+      dropdowns.forEach(closeDropdown);
+      if (willOpen) {
+        dd.classList.add('open');
+        btn.setAttribute('aria-expanded', 'true');
+      }
+    });
+  });
+
+  // Close on outside click and on Escape.
+  document.addEventListener('click', (e) => {
+    const target = e.target as Node;
+    dropdowns.forEach((dd) => {
+      if (!dd.contains(target)) closeDropdown(dd);
+    });
+  });
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') dropdowns.forEach(closeDropdown);
   });
 </script>
