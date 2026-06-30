@@ -5,14 +5,14 @@
    ========================================================================== */
 
 :root {
-  /* Brand red — deep and confident, not clickbait-bright */
-  --red-50: #fdf3f2;
-  --red-100: #fbe3e1;
-  --red-200: #f5c4c0;
-  --red-500: #c1272d;
-  --red-600: #a81d22; /* primary */
-  --red-700: #8a1419; /* hover / strong */
-  --red-900: #5c0c10;
+  /* Brand red — anchored on #dc2626 (primary), with harmonious tints/shades */
+  --red-50: #fef2f2;
+  --red-100: #fee2e2;
+  --red-200: #fecaca;
+  --red-500: #ef4444;
+  --red-600: #dc2626; /* primary */
+  --red-700: #b91c1c; /* hover / strong */
+  --red-900: #7f1d1d;
 
   /* Neutrals (warm) from the brief */
   --slate: #1e293b;
