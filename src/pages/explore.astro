@@ -1,0 +1,550 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import DisclaimerBox from '../components/DisclaimerBox.astro';
+import { EXPLORER_STEPS } from '../data/explorer';
+import { CATEGORIES } from '../data/categories';
+import { insightIndex } from '../lib/insights';
+
+const index = await insightIndex();
+const steps = EXPLORER_STEPS;
+const categoryNames = Object.fromEntries(CATEGORIES.map((c) => [c.slug, c.name]));
+
+// Human phrases for each tag, used to explain *why* a page is recommended.
+const tagReasons: Record<string, string> = {
+  'how-they-think': 'how thinking and decisions actually work',
+  'what-they-want': 'what people genuinely want and need',
+  'falling-in-love': 'how love develops over time',
+  attraction: 'what really drives attraction',
+  happiness: 'what leads to lasting fulfillment',
+  emotions: 'how emotions are felt and expressed',
+  communication: 'how people communicate and listen',
+  behavior: 'the patterns behind everyday behavior',
+  conflict: 'how conflict plays out and repairs',
+  commitment: 'how commitment forms',
+  breakups: 'how people process loss and breakups',
+  'self-improvement': 'evidence-based ways to grow',
+};
+---
+
+<BaseLayout
+  title="Psychology Explorer — Find the insights that fit you"
+  description="A warm, private tool that points you to the most relevant, research-backed psychology insights for your situation. No account, no clickbait, and your answers are never stored."
+  canonical="/explore"
+>
+  <section class="explore-hero">
+    <div class="container">
+      <p class="eyebrow">Interactive tool</p>
+      <h1>Psychology Explorer</h1>
+      <p class="lede">
+        Answer four short questions and we will point you to the most relevant, research-backed
+        insights — and a reading path that makes sense in order.
+      </p>
+      <p class="privacy-note">
+        <span aria-hidden="true">🔒</span> Private by design: no account, nothing is stored, and
+        your answers never leave your device.
+      </p>
+    </div>
+  </section>
+
+  <div class="container explore-wrap">
+    <!-- Progress -->
+    <div class="explore-progress" id="progress" aria-hidden="true">
+      <div class="explore-progress-bar"><span id="progress-bar"></span></div>
+      <p class="explore-progress-text" id="progress-text"></p>
+    </div>
+
+    <!-- Question steps -->
+    <form id="explorer" novalidate>
+      {
+        steps.map((step, si) => (
+          <fieldset class="step" data-step={si} hidden={si !== 0}>
+            <legend class="sr-only">{step.title}</legend>
+            <p class="step-eyebrow">Question {si + 1} of {steps.length}</p>
+            <h2 class="step-title">{step.title}</h2>
+            <p class="step-helper">{step.helper}</p>
+            <div class="options">
+              {step.options.map((opt) => (
+                <button
+                  type="button"
+                  class="option"
+                  data-step-id={step.id}
+                  data-option-id={opt.id}
+                  data-tags={opt.tags.join(',')}
+                  data-focus={opt.focus ?? ''}
+                >
+                  {opt.label}
+                </button>
+              ))}
+            </div>
+            <div class="step-nav">
+              {si > 0 && (
+                <button type="button" class="btn btn--ghost" data-back>
+                  ← Back
+                </button>
+              )}
+            </div>
+          </fieldset>
+        ))
+      }
+    </form>
+
+    <!-- Results -->
+    <section id="results" class="results" hidden aria-live="polite">
+      <p class="eyebrow">Your reading path</p>
+      <h2 id="results-title">Insights chosen for you</h2>
+      <p class="muted" id="results-intro"></p>
+      <ol class="results-list" id="results-list"></ol>
+
+      <div class="results-related" id="results-related"></div>
+
+      <div class="results-actions">
+        <button type="button" class="btn btn--ghost" id="restart">Start over</button>
+        <a href="/" class="btn btn--ghost">Browse the full library</a>
+      </div>
+    </section>
+
+    <!-- No-JS fallback -->
+    <noscript>
+      <div class="noscript">
+        <p>
+          The interactive Explorer needs JavaScript. You can still browse everything directly:
+        </p>
+        <ul>
+          {CATEGORIES.map((c) => <li><a href={`/${c.slug}`}>{c.name}</a></li>)}
+        </ul>
+      </div>
+    </noscript>
+
+    <DisclaimerBox compact />
+  </div>
+
+  <script
+    type="application/json"
+    id="explorer-data"
+    set:html={JSON.stringify({ index, categoryNames, tagReasons, stepCount: steps.length })}
+  />
+
+  <script>
+    interface IndexEntry {
+      slug: string;
+      title: string;
+      category: string;
+      focusGender: 'men' | 'women' | 'both';
+      excerpt: string;
+      tags: string[];
+    }
+    interface Data {
+      index: IndexEntry[];
+      categoryNames: Record<string, string>;
+      tagReasons: Record<string, string>;
+      stepCount: number;
+    }
+
+    const dataEl = document.getElementById('explorer-data');
+    const DATA: Data = JSON.parse(dataEl?.textContent || '{}');
+
+    const form = document.getElementById('explorer') as HTMLFormElement;
+    const steps = Array.from(document.querySelectorAll<HTMLElement>('.step'));
+    const results = document.getElementById('results') as HTMLElement;
+    const progress = document.getElementById('progress') as HTMLElement;
+    const progressBar = document.getElementById('progress-bar') as HTMLElement;
+    const progressText = document.getElementById('progress-text') as HTMLElement;
+
+    let current = 0;
+    // answers[stepId] = { tags: string[], focus: string }
+    const answers: Record<string, { tags: string[]; focus: string }> = {};
+    const order: string[] = []; // selection order of focus gender
+
+    function showStep(i: number) {
+      steps.forEach((s, idx) => (s.hidden = idx !== i));
+      results.hidden = true;
+      current = i;
+      updateProgress();
+      const heading = steps[i].querySelector<HTMLElement>('.step-title');
+      heading?.setAttribute('tabindex', '-1');
+      heading?.focus();
+      window.scrollTo({ top: form.offsetTop - 90, behavior: 'smooth' });
+    }
+
+    function updateProgress() {
+      progress.removeAttribute('aria-hidden');
+      const answered = Object.keys(answers).length;
+      const pct = Math.round((answered / DATA.stepCount) * 100);
+      progressBar.style.width = `${pct}%`;
+      progressText.textContent = `Question ${current + 1} of ${DATA.stepCount}`;
+    }
+
+    function selectOption(btn: HTMLButtonElement) {
+      const stepId = btn.dataset.stepId!;
+      const tags = (btn.dataset.tags || '').split(',').filter(Boolean);
+      const focus = btn.dataset.focus || '';
+      answers[stepId] = { tags, focus };
+      if (focus) order.push(focus);
+
+      // visual selection within current fieldset
+      const fieldset = btn.closest('.step')!;
+      fieldset
+        .querySelectorAll('.option')
+        .forEach((o) => o.classList.toggle('selected', o === btn));
+
+      // advance after a short beat so the selection is visible
+      window.setTimeout(() => {
+        if (current < steps.length - 1) {
+          showStep(current + 1);
+        } else {
+          renderResults();
+        }
+      }, 180);
+    }
+
+    function preferredFocus(): 'men' | 'women' | 'both' {
+      // Use the first step's focus answer as the primary lens.
+      const f = answers['focus']?.focus;
+      if (f === 'men' || f === 'women') return f;
+      return 'both';
+    }
+
+    function collectTags(): Map<string, number> {
+      const weights = new Map<string, number>();
+      // later questions weigh slightly more (they are more specific)
+      const stepWeight: Record<string, number> = {
+        focus: 1,
+        interest: 2,
+        situation: 1.5,
+        priority: 2,
+      };
+      for (const [stepId, ans] of Object.entries(answers)) {
+        const w = stepWeight[stepId] ?? 1;
+        for (const t of ans.tags) weights.set(t, (weights.get(t) || 0) + w);
+      }
+      return weights;
+    }
+
+    function scoreInsights() {
+      const weights = collectTags();
+      const focus = preferredFocus();
+      return DATA.index
+        .map((entry) => {
+          let score = 0;
+          const matched: string[] = [];
+          for (const tag of entry.tags) {
+            const w = weights.get(tag);
+            if (w) {
+              score += w;
+              matched.push(tag);
+            }
+          }
+          // focus alignment
+          if (focus !== 'both') {
+            if (entry.focusGender === focus) score += 2.5;
+            else if (entry.focusGender === 'both') score += 1;
+            else score -= 0.5; // mild deprioritization of the other gender, never excluded
+          } else if (entry.focusGender === 'both') {
+            score += 0.75;
+          }
+          return { entry, score, matched };
+        })
+        .filter((r) => r.score > 0)
+        .sort((a, b) => b.score - a.score || a.entry.title.localeCompare(b.entry.title));
+    }
+
+    function reasonFor(matched: string[]): string {
+      const phrases = matched
+        .map((t) => DATA.tagReasons[t])
+        .filter(Boolean)
+        .slice(0, 2);
+      if (phrases.length === 0) return 'A strong starting point for what you are exploring.';
+      const joined =
+        phrases.length === 1 ? phrases[0] : `${phrases[0]} and ${phrases[1]}`;
+      return `Matches your interest in ${joined}.`;
+    }
+
+    function renderResults() {
+      const ranked = scoreInsights().slice(0, 6);
+      const list = document.getElementById('results-list')!;
+      const intro = document.getElementById('results-intro')!;
+      const relatedWrap = document.getElementById('results-related')!;
+      list.innerHTML = '';
+
+      if (ranked.length === 0) {
+        intro.textContent =
+          'Here is a great place to begin — explore the full library to find what fits.';
+      } else {
+        intro.textContent =
+          'Read them in this order — each one builds on the understanding before it.';
+      }
+
+      ranked.forEach((r, i) => {
+        const li = document.createElement('li');
+        li.className = 'result-item';
+        const catName = DATA.categoryNames[r.entry.category] || r.entry.category;
+        const focusLabel =
+          r.entry.focusGender === 'men'
+            ? 'Men'
+            : r.entry.focusGender === 'women'
+              ? 'Women'
+              : 'Men & Women';
+        li.innerHTML = `
+          <span class="result-step">${i + 1}</span>
+          <div class="result-body">
+            <div class="result-meta">
+              <span class="badge badge--${r.entry.focusGender}">● ${focusLabel}</span>
+              <span class="result-cat">${catName}</span>
+            </div>
+            <a class="result-title" href="/insights/${r.entry.slug}">${r.entry.title}</a>
+            <p class="result-excerpt">${r.entry.excerpt}</p>
+            <p class="result-reason">${reasonFor(r.matched)}</p>
+          </div>`;
+        list.appendChild(li);
+      });
+
+      // related categories from the top results
+      const cats = Array.from(new Set(ranked.map((r) => r.entry.category))).slice(0, 5);
+      if (cats.length) {
+        relatedWrap.innerHTML =
+          '<p class="results-related-label">Related topics to explore next</p>' +
+          '<div class="results-related-pills">' +
+          cats
+            .map(
+              (c) =>
+                `<a class="pill" href="/${c}">${DATA.categoryNames[c] || c}</a>`,
+            )
+            .join('') +
+          '</div>';
+      }
+
+      steps.forEach((s) => (s.hidden = true));
+      results.hidden = false;
+      progressBar.style.width = '100%';
+      progressText.textContent = 'Done';
+      const title = document.getElementById('results-title');
+      title?.setAttribute('tabindex', '-1');
+      (title as HTMLElement)?.focus();
+      window.scrollTo({ top: progress.offsetTop - 90, behavior: 'smooth' });
+    }
+
+    // wire up
+    form.querySelectorAll<HTMLButtonElement>('.option').forEach((btn) => {
+      btn.addEventListener('click', () => selectOption(btn));
+    });
+    form.querySelectorAll<HTMLButtonElement>('[data-back]').forEach((btn) => {
+      btn.addEventListener('click', () => {
+        if (current > 0) {
+          // forget the answer for the step we are leaving and the one we go back to
+          const leavingId = steps[current].querySelector<HTMLElement>('.option')?.dataset.stepId;
+          if (leavingId) delete answers[leavingId];
+          showStep(current - 1);
+        }
+      });
+    });
+    document.getElementById('restart')?.addEventListener('click', () => {
+      for (const k of Object.keys(answers)) delete answers[k];
+      order.length = 0;
+      form.querySelectorAll('.option').forEach((o) => o.classList.remove('selected'));
+      showStep(0);
+    });
+
+    updateProgress();
+  </script>
+</BaseLayout>
+
+<style>
+  .explore-hero {
+    padding-block: var(--space-6) var(--space-4);
+    background: radial-gradient(70% 80% at 90% 0%, rgba(168, 29, 34, 0.06), transparent 70%);
+  }
+  .privacy-note {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.9rem;
+    color: #44403c;
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: 999px;
+    padding: 0.45rem 1rem;
+    margin-top: var(--space-2);
+  }
+  .explore-wrap {
+    max-width: 50rem;
+    padding-bottom: var(--space-6);
+  }
+  .explore-progress {
+    margin: var(--space-5) 0 var(--space-4);
+  }
+  .explore-progress-bar {
+    height: 8px;
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: 999px;
+    overflow: hidden;
+  }
+  .explore-progress-bar span {
+    display: block;
+    height: 100%;
+    width: 0;
+    background: linear-gradient(90deg, var(--red-500), var(--red-700));
+    border-radius: 999px;
+    transition: width 0.3s ease;
+  }
+  .explore-progress-text {
+    font-size: 0.82rem;
+    color: var(--color-text-muted);
+    margin: 0.5rem 0 0;
+  }
+
+  .step {
+    border: none;
+    margin: 0;
+    padding: 0;
+  }
+  .step-eyebrow {
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    font-size: 0.74rem;
+    font-weight: 700;
+    color: var(--color-primary);
+    margin: 0 0 var(--space-2);
+  }
+  .step-title {
+    font-size: var(--step-2);
+    margin-bottom: var(--space-2);
+  }
+  .step-helper {
+    color: var(--color-text-muted);
+    margin-bottom: var(--space-4);
+  }
+  .options {
+    display: grid;
+    gap: var(--space-2);
+  }
+  .option {
+    text-align: left;
+    font-family: var(--font-body);
+    font-size: 1rem;
+    color: var(--slate);
+    background: #fff;
+    border: 1.5px solid var(--color-border);
+    border-radius: var(--radius);
+    padding: 1rem 1.2rem;
+    cursor: pointer;
+    transition: border-color 0.16s ease, background 0.16s ease, transform 0.16s ease;
+  }
+  .option:hover {
+    border-color: var(--color-primary);
+    background: var(--color-primary-soft);
+    transform: translateX(3px);
+  }
+  .option.selected {
+    border-color: var(--color-primary);
+    background: var(--color-primary-soft);
+    box-shadow: inset 0 0 0 1px var(--color-primary);
+  }
+  .step-nav {
+    margin-top: var(--space-4);
+  }
+
+  /* Results */
+  .results-list {
+    list-style: none;
+    padding: 0;
+    margin: var(--space-4) 0 var(--space-5);
+    display: grid;
+    gap: var(--space-3);
+  }
+  .result-item {
+    display: flex;
+    gap: var(--space-3);
+    background: #fff;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-lg);
+    padding: var(--space-4);
+  }
+  .result-step {
+    flex: none;
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+    background: var(--color-primary);
+    color: #fff;
+    font-weight: 700;
+    display: grid;
+    place-items: center;
+    font-family: var(--font-display);
+  }
+  .result-meta {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    flex-wrap: wrap;
+    margin-bottom: var(--space-2);
+  }
+  .result-cat {
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--color-text-muted);
+    font-weight: 600;
+  }
+  .result-title {
+    font-family: var(--font-display);
+    font-size: var(--step-1);
+    font-weight: 600;
+    color: var(--slate);
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 0.3rem;
+  }
+  .result-title:hover {
+    color: var(--color-primary-strong);
+  }
+  .result-excerpt {
+    color: #57534e;
+    font-size: 0.92rem;
+    margin: 0 0 0.5rem;
+  }
+  .result-reason {
+    font-size: 0.88rem;
+    color: var(--color-primary-strong);
+    background: var(--color-primary-soft);
+    border-radius: 8px;
+    padding: 0.5rem 0.7rem;
+    margin: 0;
+  }
+  .results-related-label {
+    font-weight: 600;
+    margin-bottom: var(--space-2);
+  }
+  .results-related-pills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: var(--space-5);
+  }
+  .pill {
+    display: inline-block;
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: 999px;
+    padding: 0.4rem 0.9rem;
+    font-size: 0.88rem;
+    text-decoration: none;
+    color: var(--slate);
+  }
+  .pill:hover {
+    border-color: var(--color-primary);
+    background: var(--color-primary-soft);
+  }
+  .results-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-3);
+  }
+  .noscript {
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+    padding: var(--space-4);
+    margin: var(--space-4) 0;
+  }
+</style>

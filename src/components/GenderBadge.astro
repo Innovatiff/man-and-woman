@@ -1,0 +1,13 @@
+---
+export interface Props {
+  focus: 'men' | 'women' | 'both';
+  size?: 'sm' | 'md';
+}
+const { focus } = Astro.props;
+const label = focus === 'men' ? 'Men' : focus === 'women' ? 'Women' : 'Men & Women';
+---
+
+<span class={`badge badge--${focus}`} title={`Focus: ${label}`}>
+  <span aria-hidden="true">●</span>
+  {label}
+</span>

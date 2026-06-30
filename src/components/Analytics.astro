@@ -1,0 +1,27 @@
+---
+/**
+ * Firebase / Google Analytics loader.
+ *
+ * Privacy-first: this renders NOTHING unless PUBLIC_ANALYTICS_ENABLED === "true".
+ * That keeps local dev, previews, and pre-launch builds free of any tracking.
+ * When enabled it loads Firebase Analytics with the project's public web config.
+ * What is collected (aggregate page analytics, no Explorer answers, no accounts)
+ * is disclosed in /privacy-policy.
+ */
+import { FIREBASE } from '../config';
+
+const enabled = FIREBASE.enabled;
+const config = FIREBASE.config;
+---
+
+{
+  enabled && (
+    <script type="module" is:inline set:html={`
+      import { initializeApp } from "https://www.gstatic.com/firebasejs/12.15.0/firebase-app.js";
+      import { getAnalytics, isSupported } from "https://www.gstatic.com/firebasejs/12.15.0/firebase-analytics.js";
+      const firebaseConfig = ${JSON.stringify(config)};
+      const app = initializeApp(firebaseConfig);
+      isSupported().then((ok) => { if (ok) getAnalytics(app); }).catch(() => {});
+    `} />
+  )
+}

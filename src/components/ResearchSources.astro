@@ -1,0 +1,36 @@
+---
+export interface Props {
+  sources: string[];
+}
+const { sources } = Astro.props;
+---
+
+<section class="sources" aria-labelledby="sources-h">
+  <h2 id="sources-h">Research sources</h2>
+  <p class="muted sources-note">
+    These references point to the published research and established frameworks behind this
+    page. They are provided for further reading; see our
+    <a href="/research-methodology">research methodology</a> for how sources are selected.
+  </p>
+  <ol class="sources-list">
+    {sources.map((s) => <li>{s}</li>)}
+  </ol>
+</section>
+
+<style>
+  .sources {
+    margin-top: var(--space-6);
+  }
+  .sources-note {
+    font-size: 0.9rem;
+    max-width: 60ch;
+  }
+  .sources-list {
+    font-size: 0.9rem;
+    color: #57534e;
+    line-height: 1.55;
+  }
+  .sources-list li {
+    margin-bottom: 0.65rem;
+  }
+</style>

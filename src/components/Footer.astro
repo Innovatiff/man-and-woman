@@ -1,0 +1,201 @@
+---
+import { SITE, DISCLAIMER } from '../config';
+import { CATEGORIES } from '../data/categories';
+
+const year = 2026;
+const exploreCols = [
+  {
+    heading: 'Understand Men',
+    links: [
+      { label: 'Male Psychology', href: '/male-psychology' },
+      { label: 'How Men Think', href: '/how-men-think' },
+      { label: 'What Men Want', href: '/what-men-want' },
+      { label: 'Self Improvement for Men', href: '/self-improvement-men' },
+    ],
+  },
+  {
+    heading: 'Understand Women',
+    links: [
+      { label: 'Female Psychology', href: '/female-psychology' },
+      { label: 'How Women Think', href: '/how-women-think' },
+      { label: 'What Women Want', href: '/what-women-want' },
+      { label: 'Self Improvement for Women', href: '/self-improvement-women' },
+    ],
+  },
+  {
+    heading: 'Relationships',
+    links: [
+      { label: 'Love and Attraction', href: '/love-and-attraction' },
+      { label: 'Relationships & Communication', href: '/relationships-and-communication' },
+      { label: 'Dating Psychology', href: '/dating-psychology' },
+      { label: 'Happiness & Fulfillment', href: '/happiness-and-fulfillment' },
+    ],
+  },
+  {
+    heading: 'The Site',
+    links: [
+      { label: 'About', href: '/about' },
+      { label: 'Research Methodology', href: '/research-methodology' },
+      { label: 'Data Sources', href: '/data-sources' },
+      { label: 'Contact', href: '/contact' },
+    ],
+  },
+];
+---
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-top">
+      <div class="footer-brand">
+        <a href="/" class="brand">
+          <span class="brand-mark" aria-hidden="true"></span>
+          <span>Mind<span class="brand-accent">The</span>Gender</span>
+        </a>
+        <p class="muted footer-tagline">{SITE.tagline}</p>
+        <a href="/explore" class="btn btn--ghost">Open the Psychology Explorer</a>
+      </div>
+
+      <div class="footer-cols">
+        {
+          exploreCols.map((col) => (
+            <nav class="footer-col" aria-label={col.heading}>
+              <h3 class="footer-heading">{col.heading}</h3>
+              <ul>
+                {col.links.map((l) => (
+                  <li>
+                    <a href={l.href}>{l.label}</a>
+                  </li>
+                ))}
+              </ul>
+            </nav>
+          ))
+        }
+      </div>
+    </div>
+
+    <p class="footer-disclaimer">{DISCLAIMER}</p>
+
+    <div class="footer-bottom">
+      <p class="muted">© {year} {SITE.name}. All findings represent general tendencies, not universal rules.</p>
+      <ul class="footer-legal">
+        <li><a href="/privacy-policy">Privacy Policy</a></li>
+        <li><a href="/terms">Terms</a></li>
+        <li><a href="/disclaimer">Disclaimer</a></li>
+        <li><a href="/contact">Contact</a></li>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+<style>
+  .site-footer {
+    background: var(--slate);
+    color: #e7e5e4;
+    padding-block: var(--space-7) var(--space-5);
+    margin-top: var(--space-7);
+  }
+  .footer-top {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 2.2fr);
+    gap: var(--space-6);
+  }
+  .footer-brand .brand {
+    color: #fff;
+    font-family: var(--font-display);
+    font-size: 1.35rem;
+    font-weight: 600;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.6rem;
+    text-decoration: none;
+  }
+  .brand-mark {
+    width: 1.1rem;
+    height: 1.1rem;
+    border-radius: 50%;
+    background: radial-gradient(circle at 30% 30%, var(--red-500), var(--red-700));
+    box-shadow: inset 0 0 0 3px var(--slate);
+    flex: none;
+  }
+  .brand-accent {
+    color: var(--red-200);
+  }
+  .footer-tagline {
+    color: #a8a29e;
+    margin: var(--space-3) 0 var(--space-4);
+    max-width: 22rem;
+  }
+  .footer-cols {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 11rem), 1fr));
+    gap: var(--space-5);
+  }
+  .footer-heading {
+    font-family: var(--font-body);
+    font-size: 0.78rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--red-200);
+    margin-bottom: var(--space-3);
+  }
+  .footer-col ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  .footer-col li {
+    margin-bottom: 0.6rem;
+  }
+  .footer-col a {
+    color: #d6d3d1;
+    text-decoration: none;
+    font-size: 0.92rem;
+  }
+  .footer-col a:hover {
+    color: #fff;
+    text-decoration: underline;
+  }
+  .footer-disclaimer {
+    font-size: 0.84rem;
+    color: #a8a29e;
+    border-top: 1px solid #3f3f46;
+    border-bottom: 1px solid #3f3f46;
+    padding: var(--space-4) 0;
+    margin: var(--space-6) 0 var(--space-4);
+    line-height: 1.6;
+  }
+  .footer-bottom {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--space-3);
+  }
+  .footer-bottom .muted {
+    color: #a8a29e;
+    font-size: 0.85rem;
+    margin: 0;
+  }
+  .footer-legal {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.25rem;
+    padding: 0;
+    margin: 0;
+  }
+  .footer-legal a {
+    color: #d6d3d1;
+    font-size: 0.85rem;
+    text-decoration: none;
+  }
+  .footer-legal a:hover {
+    color: #fff;
+  }
+  @media (max-width: 760px) {
+    .footer-top {
+      grid-template-columns: 1fr;
+      gap: var(--space-5);
+    }
+  }
+</style>

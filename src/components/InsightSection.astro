@@ -1,0 +1,58 @@
+---
+/**
+ * One titled section of an insight page. Renders an array of paragraph strings.
+ * `tone` switches the accent treatment for the callout-style sections
+ * ("what people get wrong", "the nuance") without changing the markup contract.
+ */
+export interface Props {
+  id: string;
+  heading: string;
+  eyebrow?: string;
+  paragraphs: string[];
+  tone?: 'default' | 'research' | 'warn' | 'nuance';
+}
+const { id, heading, eyebrow, paragraphs, tone = 'default' } = Astro.props;
+---
+
+<section id={id} class={`insight-section tone-${tone}`} aria-labelledby={`${id}-h`}>
+  {eyebrow && <p class="eyebrow">{eyebrow}</p>}
+  <h2 id={`${id}-h`}>{heading}</h2>
+  {paragraphs.map((p) => <p>{p}</p>)}
+</section>
+
+<style>
+  .insight-section {
+    margin: var(--space-6) 0;
+    scroll-margin-top: 5rem;
+  }
+  .insight-section p {
+    color: #3f3f46;
+    max-width: 65ch;
+  }
+  .tone-research,
+  .tone-warn,
+  .tone-nuance {
+    padding: var(--space-4) var(--space-5);
+    border-radius: var(--radius-lg);
+    border: 1px solid var(--color-border);
+  }
+  .tone-research {
+    background: #f0fdfa;
+    border-color: #ccfbf1;
+    border-left: 4px solid var(--teal);
+  }
+  .tone-warn {
+    background: #fffbeb;
+    border-color: #fef3c7;
+    border-left: 4px solid var(--amber);
+  }
+  .tone-nuance {
+    background: var(--color-surface);
+    border-left: 4px solid var(--slate);
+  }
+  .tone-research h2,
+  .tone-warn h2,
+  .tone-nuance h2 {
+    font-size: var(--step-2);
+  }
+</style>
