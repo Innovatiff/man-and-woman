@@ -1,0 +1,77 @@
+{
+  "title": "How Men Make Decisions — Risk, Deliberation, and the Myths",
+  "slug": "how-men-make-decisions",
+  "category": "how-men-think",
+  "focusGender": "men",
+  "featured": false,
+  "tags": ["how-they-think", "behavior"],
+  "metaTitle": "How Men Make Decisions — What Psychology Shows",
+  "metaDescription": "What research says about how men make decisions: a modestly higher average tolerance for risk, heavy context-dependence, and the myths worth dropping.",
+  "coreFinding": "Research finds men take somewhat more risks than women on average, but the gap is modest, highly context-dependent, and shrinking in many domains. There is little evidence that men are inherently more decisive, logical, or impulsive as a group. How any individual decides is shaped far more by personality, experience, and situation than by sex.",
+  "whatResearchShows": [
+    "The most cited evidence is a large meta-analysis by Byrnes, Miller and Schafer (1999) covering more than 150 studies. It found that men, on average, took more risks than women — but with two big caveats: the difference varied enormously by the type of decision, and it was narrowing across the years they studied. In some contexts the gap was sizeable; in others it was negligible or reversed.",
+    "Importantly, 'taking more risks' is not the same as 'deciding better' or 'deciding faster.' The research does not show that men are more rational, more logical, or less emotional in how they choose. Those are cultural stereotypes that the data on decision quality does not support; both sexes use a mix of analysis and intuition.",
+    "Self-determination theory (Deci and Ryan, 2000) adds a motivational layer that applies to everyone: people decide best when they feel a genuine sense of autonomy and competence in the choice. Pressure, low confidence, or feeling coerced degrade decision quality regardless of sex, which often matters more than any average group difference."
+  ],
+  "whyItHappens": [
+    "Where average differences in risk-taking exist, they likely reflect a blend of socialization and biology that is hard to disentangle. Boys are often encouraged toward bold, competitive, risk-tolerant behavior, while girls are more frequently steered toward caution — patterns that shape decision styles long before adulthood.",
+    "Context does much of the work. The Byrnes meta-analysis showed the sex gap depended heavily on the domain — financial, physical, social — and on whether outcomes and probabilities were known. People also take more risks when stakes feel low, when they are observed by peers, or when a decision touches identity and status, all of which interact with how men are socialized.",
+    "It is also worth separating decisiveness from confidence. What can look like decisive male decision-making is sometimes higher expressed confidence rather than better judgment, just as apparent caution can be careful deliberation rather than indecision. Bandura's work on self-efficacy (1977) is relevant here: belief in one's own ability shapes how readily someone commits to a choice, and that belief is built through experience rather than determined by sex. The visible style and the underlying quality are not the same thing."
+  ],
+  "realLifeExamples": [
+    "Two people facing the same financial choice may decide very differently — but whether the more risk-tolerant one is a man or a woman depends far more on their individual history with money than on their sex. The averages tell you almost nothing about a given pair.",
+    "A man who decides quickly in a crisis is not necessarily more rational; he may simply be more practiced or more comfortable projecting confidence. A man who deliberates at length is not indecisive; he may be weighing consequences others skip. Style is easy to misread as substance.",
+    "In group settings, perceived 'decisiveness' is often rewarded socially, which can pressure men to commit to a choice fast. That social incentive shapes visible behavior without necessarily improving the actual decision."
+  ],
+  "whatPeopleGetWrong": [
+    "The biggest misconception is that men are inherently the more logical, decisive sex and women the more cautious or emotional one. The evidence shows a modest, context-dependent average difference in risk-taking — not a difference in rationality. Both sexes blend reason and emotion in every real decision.",
+    "Self-help culture often inflates this into 'men decide with their heads, women with their hearts.' That binary is not supported by the research and tends to caricature both. Emotion is part of all good decision-making; pure detachment is neither typical nor ideal for anyone."
+  ],
+  "relationshipImplications": [
+    "Understanding that decision style is mostly individual, not gendered, can defuse a lot of conflict. Framing a partner's caution as 'overthinking' or their speed as 'recklessness' usually says more about differing risk tolerance and experience than about a male-versus-female way of thinking.",
+    "Decisions also go better when both partners feel autonomy and competence in them. Pressuring someone to decide on your timeline, or dismissing their reasoning, tends to lower the quality of the choice. Shared decisions benefit from each person feeling genuinely heard rather than rushed."
+  ],
+  "theNuance": [
+    "These are averages with heavy overlap. Hyde's gender similarities hypothesis (2005) shows the sexes are far more alike than different on most cognitive and behavioral measures, and decision-making is no exception — the within-sex variation dwarfs the between-sex average gap.",
+    "Personality, expertise, culture, age, and the specific domain all predict how someone decides better than their sex does. A risk-averse man and a risk-tolerant woman are entirely ordinary, not exceptions to a rule. The honest summary is a small, shifting average difference inside enormous individual variety."
+  ],
+  "faqs": [
+    {
+      "question": "Do men really take more risks than women?",
+      "answer": "On average, yes — a large meta-analysis found men took somewhat more risks across many studies. But the difference is modest, depends heavily on the type of decision, and has been narrowing over time. Individual risk tolerance varies far more than the average sex gap suggests."
+    },
+    {
+      "question": "Are men more logical or rational decision-makers?",
+      "answer": "The research doesn't support that. There's evidence of a modest average difference in risk-taking, but none showing men decide more logically or less emotionally as a group. Both sexes blend reasoning and emotion in real decisions; the 'logical man' stereotype is cultural, not empirical."
+    },
+    {
+      "question": "Why do men sometimes seem more decisive?",
+      "answer": "Often it's higher expressed confidence rather than better judgment, sometimes reinforced by social rewards for appearing decisive. Quick deciding isn't the same as deciding well, and lengthy deliberation isn't indecision. Visible style is easy to mistake for the underlying quality of a decision."
+    },
+    {
+      "question": "Does the risk-taking difference apply to everything?",
+      "answer": "No — it's highly context-dependent. The meta-analysis found the gap varied a lot by domain, like financial versus physical versus social risks, and by whether outcomes were known. In some contexts it was sizeable, in others negligible or even reversed. Context shapes behavior strongly."
+    },
+    {
+      "question": "Is it true men decide with their heads and women with their hearts?",
+      "answer": "That's a caricature the research doesn't support. Emotion is part of all sound decision-making for everyone; pure detachment is neither typical nor ideal. Framing decisions as head-versus-heart along gender lines oversimplifies and misrepresents how both men and women actually choose."
+    },
+    {
+      "question": "What predicts how someone makes decisions better than their sex?",
+      "answer": "Personality, expertise, past experience, culture, age, and the specific situation all predict decision style far better than gender. A cautious man and a bold woman are completely ordinary. Within-sex variation is much larger than the small, shifting average difference between the sexes."
+    }
+  ],
+  "researchSources": [
+    "Byrnes, J. P., Miller, D. C., & Schafer, W. D. (1999). Gender differences in risk taking: A meta-analysis. Psychological Bulletin, 125(3), 367–383.",
+    "Deci, E. L., & Ryan, R. M. (2000). The \"what\" and \"why\" of goal pursuits: Human needs and the self-determination of behavior. Psychological Inquiry, 11(4), 227–268.",
+    "Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. Psychological Review, 84(2), 191–215.",
+    "Hyde, J. S. (2005). The gender similarities hypothesis. American Psychologist, 60(6), 581–592."
+  ],
+  "relatedInsights": [
+    "what-drives-male-behavior",
+    "why-men-compartmentalize",
+    "how-women-make-decisions",
+    "how-men-deal-with-stress"
+  ],
+  "lastReviewed": "2026-06"
+}
