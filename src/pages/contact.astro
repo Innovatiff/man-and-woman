@@ -1,0 +1,51 @@
+---
+import TextPage from '../layouts/TextPage.astro';
+import { SITE } from '../config';
+---
+
+<TextPage
+  title="Contact"
+  description="Get in touch with the MindTheGender editorial team — corrections, source suggestions, and questions are all welcome."
+  canonical="/contact"
+  intro="We read everything. Corrections and source suggestions are especially welcome."
+>
+  <h2>Email</h2>
+  <p>
+    The best way to reach us is by email at
+    <a href={`mailto:${SITE.email}`}>{SITE.email}</a>. We aim to reply within a few business days.
+  </p>
+
+  <h2>What to send</h2>
+  <ul>
+    <li>
+      <strong>Corrections.</strong> If you believe a page misstates a finding or cites something
+      inaccurately, tell us which page and what is wrong. Where possible, include the source.
+    </li>
+    <li>
+      <strong>Source suggestions.</strong> Know a strong study we should reference? Send it. We
+      prioritize peer-reviewed research and well-established frameworks.
+    </li>
+    <li>
+      <strong>Topic requests.</strong> There is a question you wish we covered? Let us know — reader
+      questions shape what we write next.
+    </li>
+    <li>
+      <strong>General feedback.</strong> Tone, clarity, balance — we want this to be genuinely
+      useful and genuinely fair to everyone.
+    </li>
+  </ul>
+
+  <h2>A note on personal advice</h2>
+  <p>
+    We are not able to offer personalized relationship, psychological, or clinical advice over
+    email. MindTheGender is an educational resource, not a counseling service. If you are going
+    through something difficult, a licensed professional can help in a way we cannot — please
+    consider reaching out to one.
+  </p>
+
+  <h2>Privacy</h2>
+  <p>
+    If you email us, we use your message only to respond to you. We do not add you to marketing
+    lists. See our <a href="/privacy-policy">privacy policy</a> for the full picture.
+  </p>
+</TextPage>

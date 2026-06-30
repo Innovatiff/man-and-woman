@@ -1,0 +1,106 @@
+---
+import TextPage from '../layouts/TextPage.astro';
+import { SITE } from '../config';
+---
+
+<TextPage
+  title="Privacy Policy"
+  description="How MindTheGender handles data: no accounts, no stored Explorer answers, transparent analytics, and clear information about advertising and cookies."
+  canonical="/privacy-policy"
+  lastUpdated="June 30, 2026"
+  intro="Plain-language summary: we don't require accounts, we don't store your Psychology Explorer answers, and we tell you exactly what is collected."
+>
+  <h2>The short version</h2>
+  <ul>
+    <li>We do <strong>not</strong> require an account to use any part of this site.</li>
+    <li>The Psychology Explorer runs entirely in your browser. Your answers are <strong>never sent to us or stored</strong>.</li>
+    <li>We use privacy-conscious, aggregate analytics to understand which pages help people.</li>
+    <li>We may show ads in the future; if and when we do, this policy explains how that works.</li>
+    <li>We never sell your personal information.</li>
+  </ul>
+
+  <h2>Information we do not collect</h2>
+  <p>
+    We do not ask you to register, log in, or provide your name, and we do not collect the answers
+    you give in the Psychology Explorer. The Explorer's question flow and recommendations are
+    computed locally in your browser; nothing about your selections is transmitted to our servers
+    or stored anywhere.
+  </p>
+
+  <h2>Analytics</h2>
+  <p>
+    To understand which content is useful and to improve the site, we use Google Analytics
+    (provided through Google's Firebase platform). When enabled, this collects standard,
+    largely aggregate information such as pages visited, approximate region, device and browser
+    type, and how visitors move through the site. This data helps us see, for example, that a page
+    is hard to find or that readers leave it quickly — not who you personally are.
+  </p>
+  <p>
+    Google may set cookies or use similar identifiers to provide these analytics. You can limit
+    this through your browser settings, by using privacy extensions, or via Google's
+    <a href="https://tools.google.com/dlpage/gaoptout" rel="nofollow noopener" target="_blank">opt-out tools</a>.
+    For details on how Google handles data, see
+    <a href="https://policies.google.com/privacy" rel="nofollow noopener" target="_blank">Google's Privacy Policy</a>.
+  </p>
+
+  <h2>Advertising</h2>
+  <p>
+    This site is built to support advertising through Google AdSense, but ads are only displayed
+    once the relevant configuration is enabled. When advertising is active:
+  </p>
+  <ul>
+    <li>
+      Google and its partners may use cookies to serve ads based on your prior visits to this and
+      other websites.
+    </li>
+    <li>
+      You can opt out of personalized advertising by visiting
+      <a href="https://www.google.com/settings/ads" rel="nofollow noopener" target="_blank">Google Ads Settings</a>.
+    </li>
+    <li>
+      More information about how Google uses data from sites that use its services is available at
+      <a href="https://policies.google.com/technologies/partner-sites" rel="nofollow noopener" target="_blank">policies.google.com/technologies/partner-sites</a>.
+    </li>
+    <li>
+      Third-party vendors, including Google, use cookies to serve ads based on a user's previous
+      visits. Users may opt out via the links above or through the
+      <a href="https://optout.aboutads.info/" rel="nofollow noopener" target="_blank">Digital Advertising Alliance</a>.
+    </li>
+  </ul>
+
+  <h2>Cookies</h2>
+  <p>
+    Cookies are small files stored by your browser. We aim to keep our use of them minimal. The
+    cookies that may be set on this site come from the analytics and (when enabled) advertising
+    services described above, rather than from features we build ourselves. You can control or
+    delete cookies through your browser settings at any time; the core content of the site works
+    without them.
+  </p>
+
+  <h2>Children</h2>
+  <p>
+    This site is intended for adults and is not directed at children under 13. We do not knowingly
+    collect personal information from children.
+  </p>
+
+  <h2>Your choices and rights</h2>
+  <p>
+    Depending on where you live, you may have rights to access, correct, or delete personal data
+    held about you, or to object to certain processing. Because we do not maintain accounts and
+    collect very little personal data, most requests relate to the third-party analytics and
+    advertising services above, which provide their own controls. You can also contact us and we
+    will help where we can.
+  </p>
+
+  <h2>Changes to this policy</h2>
+  <p>
+    We may update this policy as the site evolves — for example, when advertising is switched on.
+    We will revise the "last updated" date above when we do.
+  </p>
+
+  <h2>Contact</h2>
+  <p>
+    Questions about privacy? Email us at <a href={`mailto:${SITE.email}`}>{SITE.email}</a> or use the
+    <a href="/contact">contact page</a>.
+  </p>
+</TextPage>

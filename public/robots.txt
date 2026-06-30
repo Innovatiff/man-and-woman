@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Be a good citizen with crawl-heavy bots if needed later.
+Sitemap: https://www.mindthegender.com/sitemap-index.xml

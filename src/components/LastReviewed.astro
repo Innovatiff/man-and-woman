@@ -1,0 +1,39 @@
+---
+export interface Props {
+  date: string; // e.g. "2026-06"
+}
+const { date } = Astro.props;
+
+const MONTHS = [
+  'January', 'February', 'March', 'April', 'May', 'June',
+  'July', 'August', 'September', 'October', 'November', 'December',
+];
+const [yearStr, monthStr] = date.split('-');
+const monthIndex = Number(monthStr) - 1;
+const pretty =
+  monthIndex >= 0 && monthIndex < 12 ? `${MONTHS[monthIndex]} ${yearStr}` : date;
+---
+
+<p class="last-reviewed">
+  <span aria-hidden="true">✓</span>
+  Last reviewed <time datetime={date}>{pretty}</time> by the MindTheGender editorial team.
+</p>
+
+<style>
+  .last-reviewed {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.85rem;
+    color: var(--color-text-muted);
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: 999px;
+    padding: 0.4rem 0.9rem;
+    margin: var(--space-4) 0;
+  }
+  .last-reviewed span {
+    color: var(--teal);
+    font-weight: 700;
+  }
+</style>

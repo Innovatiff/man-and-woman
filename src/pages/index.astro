@@ -1,0 +1,278 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import AdSlot from '../components/AdSlot.astro';
+import InsightCard from '../components/InsightCard.astro';
+import GenderBadge from '../components/GenderBadge.astro';
+import { SITE, DISCLAIMER } from '../config';
+import { CATEGORIES } from '../data/categories';
+import { FOCUSES } from '../data/explorer';
+import { featuredInsights, excerpt } from '../lib/insights';
+
+const featuredSlugs = [
+  'what-men-need-in-relationship',
+  'what-women-need-in-relationship',
+  'how-men-fall-in-love',
+  'how-women-fall-in-love',
+  'what-makes-men-happy',
+  'what-makes-women-happy',
+  'why-men-pull-away',
+  'why-women-test-men',
+  'what-men-find-attractive',
+  'what-women-find-attractive',
+];
+const featured = await featuredInsights(featuredSlugs);
+
+const strip = [
+  'Based on real psychology research',
+  'Equal depth on men and women',
+  'No stereotypes — patterns, not rules',
+  'No agenda — just honest findings',
+  'Written for curious, intelligent people',
+];
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: SITE.name,
+  url: SITE.url,
+  description: SITE.description,
+  potentialAction: {
+    '@type': 'SearchAction',
+    target: `${SITE.url}/explore`,
+    'query-input': 'required name=search_term_string',
+  },
+};
+---
+
+<BaseLayout
+  title={`${SITE.name} — Understand men, women, and yourself`}
+  description={SITE.description}
+  canonical="/"
+  jsonLd={jsonLd}
+>
+  <!-- HERO -->
+  <section class="hero">
+    <div class="container hero-inner">
+      <p class="eyebrow">A research-backed psychology reference</p>
+      <h1 class="hero-title">Understand men.<br />Understand women.<br /><span class="accent">Understand yourself.</span></h1>
+      <p class="lede hero-lede">
+        Real psychology. Honest research. Practical insight into how men and women think, feel,
+        love, and live — without stereotypes and without agenda.
+      </p>
+      <div class="hero-cta">
+        <a href="/explore" class="btn btn--primary btn--lg">Explore the Psychology</a>
+      </div>
+      <p class="hero-note muted">No account. No clickbait. No gender-war framing — just findings.</p>
+    </div>
+  </section>
+
+  <!-- AD: below hero (disabled until AdSense approval) -->
+  <div class="container">
+    <AdSlot variant="in-content" />
+  </div>
+
+  <!-- WHAT THIS SITE IS -->
+  <section class="strip" aria-label="What this site is">
+    <div class="container strip-inner">
+      {strip.map((s) => <span class="strip-item">{s}</span>)}
+    </div>
+  </section>
+
+  <!-- BROWSE BY FOCUS -->
+  <section class="section">
+    <div class="container">
+      <header class="section-head">
+        <p class="eyebrow">Start where you are</p>
+        <h2>Browse by what you want to understand</h2>
+        <p class="lede">Pick the door that fits you. Each path leads to honest, research-backed reading.</p>
+      </header>
+      <div class="grid grid--3">
+        {
+          FOCUSES.map((f) => (
+            <a class="card card--link focus-card" href={f.href}>
+              <h3>{f.label}</h3>
+              <p class="muted">{f.blurb}</p>
+              <span class="focus-cta">Explore →</span>
+            </a>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+
+  <!-- BROWSE BY CATEGORY -->
+  <section class="section section--tight category-section">
+    <div class="container">
+      <header class="section-head">
+        <p class="eyebrow">The library</p>
+        <h2>Browse by category</h2>
+        <p class="lede">Fourteen research areas, built to grow into a thousand evergreen pages.</p>
+      </header>
+      <div class="category-grid">
+        {
+          CATEGORIES.map((c) => (
+            <a class="category-pill" href={`/${c.slug}`}>
+              <GenderBadge focus={c.focus} />
+              <span class="category-name">{c.name}</span>
+            </a>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+
+  <!-- FEATURED INSIGHTS -->
+  <section class="section">
+    <div class="container">
+      <header class="section-head">
+        <p class="eyebrow">Featured insight pages</p>
+        <h2>Where most people start</h2>
+        <p class="lede">Ten of the questions readers ask most — answered plainly, then in depth.</p>
+      </header>
+      <div class="grid grid--3">
+        {
+          featured.map((i) => (
+            <InsightCard
+              title={i.data.title}
+              slug={i.data.slug}
+              category={i.data.category}
+              focusGender={i.data.focusGender}
+              excerpt={excerpt(i)}
+            />
+          ))
+        }
+      </div>
+      <div class="center" style="margin-top: var(--space-5)">
+        <a href="/explore" class="btn btn--ghost">Not sure where to start? Use the Explorer →</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- HONESTY DISCLAIMER -->
+  <section class="section--tight">
+    <div class="container">
+      <aside class="honesty">
+        <h2 class="honesty-title">A note on honesty</h2>
+        <p>{DISCLAIMER}</p>
+      </aside>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .hero {
+    padding-block: clamp(3rem, 8vw, 6rem) clamp(2.5rem, 6vw, 4.5rem);
+    background:
+      radial-gradient(60% 60% at 85% 0%, rgba(168, 29, 34, 0.07), transparent 70%),
+      radial-gradient(50% 50% at 0% 100%, rgba(13, 148, 136, 0.06), transparent 70%);
+  }
+  .hero-inner {
+    max-width: 54rem;
+  }
+  .hero-title {
+    font-size: var(--step-4);
+    line-height: 1.08;
+    margin-bottom: var(--space-4);
+  }
+  .hero-title .accent {
+    color: var(--color-primary);
+  }
+  .hero-lede {
+    max-width: 40rem;
+  }
+  .hero-cta {
+    margin: var(--space-5) 0 var(--space-3);
+  }
+  .hero-note {
+    font-size: 0.9rem;
+  }
+
+  .strip {
+    background: var(--slate);
+    color: #e7e5e4;
+  }
+  .strip-inner {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem 1.75rem;
+    padding-block: var(--space-4);
+    justify-content: center;
+  }
+  .strip-item {
+    font-size: 0.92rem;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: #e7e5e4;
+  }
+  .strip-item::before {
+    content: '✓';
+    color: var(--red-200);
+    font-weight: 700;
+  }
+
+  .section-head {
+    max-width: 42rem;
+    margin-bottom: var(--space-5);
+  }
+  .focus-card h3 {
+    font-size: var(--step-1);
+    margin-bottom: var(--space-2);
+  }
+  .focus-cta {
+    display: inline-block;
+    margin-top: var(--space-3);
+    color: var(--color-primary-strong);
+    font-weight: 600;
+    font-size: 0.92rem;
+  }
+
+  .category-section {
+    background: var(--color-surface);
+    border-block: 1px solid var(--color-border);
+  }
+  .category-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 15rem), 1fr));
+    gap: var(--space-3);
+  }
+  .category-pill {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    align-items: flex-start;
+    background: #fff;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+    padding: var(--space-3) var(--space-4);
+    text-decoration: none;
+    color: var(--slate);
+    transition: border-color 0.18s ease, transform 0.18s ease, box-shadow 0.18s ease;
+  }
+  .category-pill:hover {
+    border-color: color-mix(in srgb, var(--color-primary) 35%, var(--color-border));
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-sm);
+  }
+  .category-name {
+    font-family: var(--font-display);
+    font-weight: 600;
+    font-size: 1.05rem;
+  }
+
+  .honesty {
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-lg);
+    padding: var(--space-5);
+  }
+  .honesty-title {
+    font-size: var(--step-1);
+    margin-bottom: var(--space-2);
+  }
+  .honesty p {
+    margin: 0;
+    color: #44403c;
+    max-width: 70ch;
+  }
+</style>

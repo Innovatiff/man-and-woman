@@ -1,0 +1,85 @@
+---
+/**
+ * Policy-safe ad slot.
+ *
+ * Three states, by design:
+ *   1. Ads disabled (default, pre-approval): renders NOTHING. No fake ads, no
+ *      empty boxes, no "advertisement" labels with no ad — exactly what Google
+ *      AdSense and Publisher policies expect before a site is approved.
+ *   2. Ads enabled WITHOUT a slot id: renders a clearly-labelled reserved zone
+ *      (used only when explicitly previewing layout). Never shown in production.
+ *   3. Ads enabled WITH a slot id: renders a real <ins class="adsbygoogle"> unit.
+ *
+ * Placement rules (enforced by where this is used, not here): never inside the
+ * Explorer tool or its results, never disguised as content or navigation, never
+ * above the fold before the main content is reachable.
+ */
+import { ADS } from '../config';
+
+export interface Props {
+  /** AdSense ad slot id (data-ad-slot). Required to render a real unit. */
+  slot?: string;
+  /** Layout hint for spacing/format. */
+  variant?: 'in-content' | 'sidebar';
+  format?: string;
+}
+
+const { slot, variant = 'in-content', format = 'auto' } = Astro.props;
+const showReal = ADS.enabled && !!slot;
+const showPlaceholder = ADS.enabled && !slot;
+---
+
+{
+  showReal && (
+    <aside class={`ad-slot ad-slot--${variant}`} aria-label="Advertisement">
+      <span class="ad-label">Advertisement</span>
+      <ins
+        class="adsbygoogle"
+        style="display:block"
+        data-ad-client={ADS.client}
+        data-ad-slot={slot}
+        data-ad-format={format}
+        data-full-width-responsive="true"
+      />
+      <script type="text/partytown" is:inline>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
+    </aside>
+  )
+}
+
+{
+  showPlaceholder && (
+    <aside class={`ad-slot ad-slot--${variant} ad-slot--placeholder`} aria-hidden="true">
+      <span class="ad-label">Ad space (preview)</span>
+    </aside>
+  )
+}
+
+<style>
+  .ad-slot {
+    display: block;
+    margin: var(--space-5) auto;
+    max-width: var(--content-width);
+    text-align: center;
+  }
+  .ad-slot--sidebar {
+    margin: 0 0 var(--space-5);
+    max-width: 100%;
+  }
+  .ad-label {
+    display: block;
+    font-size: 0.68rem;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--color-text-muted);
+    margin-bottom: 0.4rem;
+  }
+  .ad-slot--placeholder {
+    border: 1px dashed var(--color-border);
+    border-radius: var(--radius);
+    padding: var(--space-5);
+    background: var(--color-surface);
+    color: var(--color-text-muted);
+  }
+</style>

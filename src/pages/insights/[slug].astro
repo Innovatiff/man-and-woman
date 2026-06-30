@@ -1,0 +1,255 @@
+---
+import type { GetStaticPaths } from 'astro';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import CoreFinding from '../../components/CoreFinding.astro';
+import InsightSection from '../../components/InsightSection.astro';
+import Faq from '../../components/Faq.astro';
+import ResearchSources from '../../components/ResearchSources.astro';
+import LastReviewed from '../../components/LastReviewed.astro';
+import GenderBadge from '../../components/GenderBadge.astro';
+import DisclaimerBox from '../../components/DisclaimerBox.astro';
+import InsightCard from '../../components/InsightCard.astro';
+import AdSlot from '../../components/AdSlot.astro';
+import { categoryName, CATEGORY_BY_SLUG } from '../../data/categories';
+import { SITE } from '../../config';
+import { allInsights, relatedInsights, excerpt } from '../../lib/insights';
+
+export const getStaticPaths = (async () => {
+  const insights = await allInsights();
+  return insights.map((insight) => ({
+    params: { slug: insight.data.slug },
+    props: { insight },
+  }));
+}) satisfies GetStaticPaths;
+
+const { insight } = Astro.props;
+const d = insight.data;
+const cat = CATEGORY_BY_SLUG[d.category];
+const related = await relatedInsights(insight);
+
+const sections = [
+  { id: 'research', heading: 'What the research actually shows', eyebrow: 'The evidence', paragraphs: d.whatResearchShows, tone: 'research' as const },
+  { id: 'why', heading: 'Why this happens', eyebrow: 'The mechanism', paragraphs: d.whyItHappens, tone: 'default' as const },
+  { id: 'real-life', heading: 'What this looks like in real life', eyebrow: 'In practice', paragraphs: d.realLifeExamples, tone: 'default' as const },
+  { id: 'misconceptions', heading: 'What most people get wrong about this', eyebrow: 'Myth vs. evidence', paragraphs: d.whatPeopleGetWrong, tone: 'warn' as const },
+  { id: 'relationships', heading: 'What this means for relationships', eyebrow: 'Why it matters', paragraphs: d.relationshipImplications, tone: 'default' as const },
+  { id: 'nuance', heading: 'The nuance', eyebrow: 'Where it varies', paragraphs: d.theNuance, tone: 'nuance' as const },
+];
+
+const canonical = `/insights/${d.slug}`;
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: d.title,
+    description: d.metaDescription,
+    inLanguage: 'en',
+    isAccessibleForFree: true,
+    author: { '@type': 'Organization', name: SITE.author },
+    publisher: {
+      '@type': 'Organization',
+      name: SITE.name,
+      logo: { '@type': 'ImageObject', url: `${SITE.url}/favicon.svg` },
+    },
+    mainEntityOfPage: `${SITE.url}${canonical}`,
+    articleSection: cat?.name ?? d.category,
+    about: d.tags,
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: d.faqs.map((f) => ({
+      '@type': 'Question',
+      name: f.question,
+      acceptedAnswer: { '@type': 'Answer', text: f.answer },
+    })),
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: SITE.url },
+      { '@type': 'ListItem', position: 2, name: cat?.name ?? 'Insights', item: `${SITE.url}/${d.category}` },
+      { '@type': 'ListItem', position: 3, name: d.title, item: `${SITE.url}${canonical}` },
+    ],
+  },
+];
+---
+
+<BaseLayout
+  title={d.metaTitle}
+  description={d.metaDescription}
+  canonical={canonical}
+  ogType="article"
+  jsonLd={jsonLd}
+>
+  <div class="container">
+    <Breadcrumbs
+      items={[
+        { label: 'Home', href: '/' },
+        { label: cat?.name ?? 'Insights', href: `/${d.category}` },
+        { label: d.title },
+      ]}
+    />
+  </div>
+
+  <article class="container insight-layout">
+    <div class="insight-main">
+      <header class="insight-head">
+        <div class="insight-head-meta">
+          <GenderBadge focus={d.focusGender} />
+          <a class="insight-head-cat" href={`/${d.category}`}>{categoryName(d.category)}</a>
+        </div>
+        <h1>{d.title}</h1>
+        <LastReviewed date={d.lastReviewed} />
+      </header>
+
+      <!-- The honest answer, first -->
+      <CoreFinding text={d.coreFinding} />
+
+      {sections[0] && <InsightSection {...sections[0]} />}
+      {sections[1] && <InsightSection {...sections[1]} />}
+
+      <AdSlot variant="in-content" />
+
+      {sections[2] && <InsightSection {...sections[2]} />}
+      {sections[3] && <InsightSection {...sections[3]} />}
+      {sections[4] && <InsightSection {...sections[4]} />}
+      {sections[5] && <InsightSection {...sections[5]} />}
+
+      <Faq items={d.faqs} heading="Questions people ask about this" />
+
+      <AdSlot variant="in-content" />
+
+      {
+        related.length > 0 && (
+          <section class="related" aria-labelledby="related-h">
+            <h2 id="related-h">Related insights</h2>
+            <div class="grid grid--2">
+              {related.map((r) => (
+                <InsightCard
+                  title={r.data.title}
+                  slug={r.data.slug}
+                  category={r.data.category}
+                  focusGender={r.data.focusGender}
+                  excerpt={excerpt(r)}
+                />
+              ))}
+            </div>
+          </section>
+        )
+      }
+
+      <ResearchSources sources={d.researchSources} />
+
+      <DisclaimerBox />
+    </div>
+
+    <!-- Desktop-only sidebar: on this page + sidebar ad -->
+    <aside class="insight-side" aria-label="Page navigation and notices">
+      <div class="side-sticky">
+        <nav class="onthispage" aria-label="On this page">
+          <p class="onthispage-label">On this page</p>
+          <ul>
+            <li><a href="#research">The research</a></li>
+            <li><a href="#why">Why it happens</a></li>
+            <li><a href="#real-life">In real life</a></li>
+            <li><a href="#misconceptions">Common myths</a></li>
+            <li><a href="#relationships">For relationships</a></li>
+            <li><a href="#nuance">The nuance</a></li>
+          </ul>
+        </nav>
+        <AdSlot variant="sidebar" />
+      </div>
+    </aside>
+  </article>
+</BaseLayout>
+
+<style>
+  .insight-layout {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 16rem;
+    gap: var(--space-6);
+    align-items: start;
+    padding-top: var(--space-3);
+  }
+  .insight-main {
+    min-width: 0;
+    max-width: 46rem;
+  }
+  .insight-head-meta {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+    margin-bottom: var(--space-3);
+  }
+  .insight-head-cat {
+    font-size: 0.78rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-weight: 600;
+    color: var(--color-text-muted);
+    text-decoration: none;
+  }
+  .insight-head-cat:hover {
+    color: var(--color-primary-strong);
+  }
+  .insight-head h1 {
+    font-size: var(--step-3);
+    margin-bottom: var(--space-2);
+    max-width: 24ch;
+  }
+  .related {
+    margin-top: var(--space-6);
+  }
+
+  .insight-side {
+    position: relative;
+  }
+  .side-sticky {
+    position: sticky;
+    top: 5.5rem;
+  }
+  .onthispage {
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+    padding: var(--space-3) var(--space-4);
+    background: #fff;
+    margin-bottom: var(--space-4);
+  }
+  .onthispage-label {
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--color-text-muted);
+    font-weight: 700;
+    margin: 0 0 var(--space-2);
+  }
+  .onthispage ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  .onthispage li {
+    margin-bottom: 0.55rem;
+  }
+  .onthispage a {
+    color: #44403c;
+    text-decoration: none;
+    font-size: 0.9rem;
+  }
+  .onthispage a:hover {
+    color: var(--color-primary-strong);
+  }
+
+  @media (max-width: 960px) {
+    .insight-layout {
+      grid-template-columns: 1fr;
+    }
+    .insight-side {
+      display: none;
+    }
+  }
+</style>

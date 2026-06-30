@@ -1,0 +1,72 @@
+---
+import GenderBadge from './GenderBadge.astro';
+import { categoryName } from '../data/categories';
+
+export interface Props {
+  title: string;
+  slug: string;
+  category: string;
+  focusGender: 'men' | 'women' | 'both';
+  excerpt: string;
+  /** Optional one-line reason this is recommended (used in Explorer results). */
+  reason?: string;
+}
+const { title, slug, category, focusGender, excerpt, reason } = Astro.props;
+---
+
+<a class="card card--link insight-card" href={`/insights/${slug}`}>
+  <div class="insight-card-meta">
+    <GenderBadge focus={focusGender} />
+    <span class="insight-card-cat">{categoryName(category)}</span>
+  </div>
+  <h3 class="insight-card-title">{title}</h3>
+  <p class="insight-card-excerpt">{excerpt}</p>
+  {reason && <p class="insight-card-reason"><strong>Why this:</strong> {reason}</p>}
+  <span class="insight-card-cta">Read the insight →</span>
+</a>
+
+<style>
+  .insight-card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+  .insight-card-meta {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    flex-wrap: wrap;
+    margin-bottom: var(--space-3);
+  }
+  .insight-card-cat {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--color-text-muted);
+    font-weight: 600;
+  }
+  .insight-card-title {
+    font-size: var(--step-1);
+    margin: 0 0 var(--space-2);
+    line-height: 1.25;
+  }
+  .insight-card-excerpt {
+    color: #57534e;
+    font-size: 0.95rem;
+    margin: 0 0 var(--space-3);
+  }
+  .insight-card-reason {
+    font-size: 0.88rem;
+    color: #44403c;
+    background: var(--color-primary-soft);
+    border-radius: 8px;
+    padding: 0.6rem 0.75rem;
+    margin: 0 0 var(--space-3);
+  }
+  .insight-card-cta {
+    margin-top: auto;
+    font-weight: 600;
+    color: var(--color-primary-strong);
+    font-size: 0.92rem;
+  }
+</style>

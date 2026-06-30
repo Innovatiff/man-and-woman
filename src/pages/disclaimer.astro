@@ -1,0 +1,46 @@
+---
+import TextPage from '../layouts/TextPage.astro';
+import { DISCLAIMER } from '../config';
+---
+
+<TextPage
+  title="Disclaimer"
+  description="Important context for reading MindTheGender: findings describe general tendencies, not universal rules, and the site is not a substitute for professional help."
+  canonical="/disclaimer"
+  lastUpdated="June 30, 2026"
+  intro="Please read this before drawing conclusions about yourself or anyone else from our content."
+>
+  <h2>The core disclaimer</h2>
+  <p>{DISCLAIMER}</p>
+
+  <h2>What "research suggests" really means</h2>
+  <p>
+    When we write that "research suggests" or "studies show" a pattern, we are describing
+    <strong>averages across groups of people</strong>. A finding that men, on average, do something
+    more often than women does not mean all men do it or that no women do. Human variation within
+    each group is almost always larger than the average difference between groups. Whenever you
+    read a finding here, mentally add: "on average, with many individual exceptions."
+  </p>
+
+  <h2>Not a diagnosis or advice</h2>
+  <p>
+    Nothing on this Site should be used to diagnose yourself or anyone else, or to make significant
+    decisions about a relationship, your mental health, or your life without appropriate support.
+    If a topic here resonates strongly or raises concerns, that is a good reason to talk to a
+    qualified professional — not to self-diagnose from an article.
+  </p>
+
+  <h2>Evolving science</h2>
+  <p>
+    Psychology is a living field. Some findings replicate strongly; others are debated or have been
+    revised as methods improve. We try to represent the current state of the evidence honestly,
+    including where it is uncertain, and we date each page. Still, science moves, and a page may not
+    reflect the very latest study on a topic.
+  </p>
+
+  <h2>If you are struggling</h2>
+  <p>
+    If you are in crisis or struggling with your mental health, please reach out to a licensed
+    professional or a local crisis line. This Site cannot provide emergency help.
+  </p>
+</TextPage>

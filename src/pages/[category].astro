@@ -1,0 +1,205 @@
+---
+import type { GetStaticPaths } from 'astro';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import InsightCard from '../components/InsightCard.astro';
+import Faq from '../components/Faq.astro';
+import AdSlot from '../components/AdSlot.astro';
+import DisclaimerBox from '../components/DisclaimerBox.astro';
+import GenderBadge from '../components/GenderBadge.astro';
+import { CATEGORIES, CATEGORY_BY_SLUG, categoryName } from '../data/categories';
+import { SITE } from '../config';
+import { insightsByCategory, excerpt } from '../lib/insights';
+
+export const getStaticPaths = (() => {
+  return CATEGORIES.map((c) => ({ params: { category: c.slug } }));
+}) satisfies GetStaticPaths;
+
+const { category } = Astro.params;
+const data = CATEGORY_BY_SLUG[category!];
+if (!data) {
+  return Astro.redirect('/404');
+}
+
+const insights = await insightsByCategory(data.slug);
+const related = data.related.map((slug) => CATEGORY_BY_SLUG[slug]).filter(Boolean);
+
+const metaTitle = `${data.name} — Psychology, Research & Insights`;
+const metaDescription = data.description.slice(0, 158);
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: data.name,
+    description: data.description,
+    url: `${SITE.url}/${data.slug}`,
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: data.faqs.map((f) => ({
+      '@type': 'Question',
+      name: f.question,
+      acceptedAnswer: { '@type': 'Answer', text: f.answer },
+    })),
+  },
+];
+---
+
+<BaseLayout
+  title={metaTitle}
+  description={metaDescription}
+  canonical={`/${data.slug}`}
+  ogType="website"
+  jsonLd={jsonLd}
+>
+  <div class="container">
+    <Breadcrumbs
+      items={[
+        { label: 'Home', href: '/' },
+        { label: 'Categories', href: '/explore' },
+        { label: data.name },
+      ]}
+    />
+  </div>
+
+  <header class="cat-header">
+    <div class="container">
+      <GenderBadge focus={data.focus} />
+      <h1>{data.name}</h1>
+      <p class="lede cat-desc">{data.description}</p>
+    </div>
+  </header>
+
+  <div class="container cat-body">
+    <!-- Key finding -->
+    <aside class="key-finding">
+      <p class="key-finding-label">The most important finding in this area</p>
+      <p class="key-finding-text">{data.keyFinding}</p>
+    </aside>
+
+    <!-- Insight cards -->
+    <section class="section--tight" aria-labelledby="cat-insights-h">
+      <h2 id="cat-insights-h">Insights in {data.name}</h2>
+      {
+        insights.length > 0 ? (
+          <div class="grid grid--2">
+            {insights.map((i) => (
+              <InsightCard
+                title={i.data.title}
+                slug={i.data.slug}
+                category={i.data.category}
+                focusGender={i.data.focusGender}
+                excerpt={excerpt(i)}
+              />
+            ))}
+          </div>
+        ) : (
+          <p class="muted">
+            In-depth pages for this category are being researched and added. Meanwhile, explore
+            related areas below or use the <a href="/explore">Psychology Explorer</a>.
+          </p>
+        )
+      }
+      <p class="roadmap muted">
+        This category is part of a growing library — planned to reach roughly {data.targetPages}{' '}
+        evergreen pages as the research is written and reviewed.
+      </p>
+    </section>
+
+    <AdSlot variant="in-content" />
+
+    <!-- FAQ -->
+    <Faq items={data.faqs} heading={`${data.name}: common questions`} />
+
+    <!-- Related categories -->
+    {
+      related.length > 0 && (
+        <section class="section--tight" aria-labelledby="related-cats-h">
+          <h2 id="related-cats-h">Related categories</h2>
+          <div class="related-cats">
+            {related.map((r) => (
+              <a class="related-cat" href={`/${r.slug}`}>
+                <span class="related-cat-name">{r.name}</span>
+                <span class="muted">{r.shortName}</span>
+              </a>
+            ))}
+          </div>
+        </section>
+      )
+    }
+
+    <DisclaimerBox />
+  </div>
+</BaseLayout>
+
+<style>
+  .cat-header {
+    padding-block: var(--space-5) var(--space-4);
+    background:
+      radial-gradient(60% 80% at 100% 0%, rgba(168, 29, 34, 0.06), transparent 70%);
+  }
+  .cat-header h1 {
+    margin-top: var(--space-3);
+  }
+  .cat-desc {
+    max-width: 50rem;
+  }
+  .cat-body {
+    max-width: var(--wide-width);
+  }
+  .key-finding {
+    background: var(--slate);
+    color: #f5f5f4;
+    border-radius: var(--radius-lg);
+    padding: var(--space-4) var(--space-5);
+    margin: var(--space-4) 0 var(--space-6);
+  }
+  .key-finding-label {
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    color: var(--red-200);
+    font-weight: 700;
+    margin: 0 0 var(--space-2);
+  }
+  .key-finding-text {
+    font-family: var(--font-display);
+    font-size: var(--step-1);
+    line-height: 1.45;
+    margin: 0;
+  }
+  .roadmap {
+    font-size: 0.88rem;
+    margin-top: var(--space-4);
+    font-style: italic;
+  }
+  .related-cats {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 14rem), 1fr));
+    gap: var(--space-3);
+  }
+  .related-cat {
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+    background: #fff;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+    padding: var(--space-3) var(--space-4);
+    text-decoration: none;
+    color: var(--slate);
+  }
+  .related-cat:hover {
+    border-color: var(--color-primary);
+    background: var(--color-primary-soft);
+  }
+  .related-cat-name {
+    font-family: var(--font-display);
+    font-weight: 600;
+  }
+  .related-cat .muted {
+    font-size: 0.8rem;
+  }
+</style>
