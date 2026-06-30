@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Content QA for MindTheGender insight pages.
+ * Content QA for Men Women Psychology insight pages.
  * Validates things the Zod schema can't: cross-link integrity, duplicate
  * titles/slugs, meta lengths, banned absolutist phrasing, and category coverage.
  *

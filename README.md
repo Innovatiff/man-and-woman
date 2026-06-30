@@ -1,4 +1,4 @@
-# MindTheGender
+# Men Women Psychology
 
 **Understand men. Understand women. Understand yourself.**
 
@@ -81,4 +81,4 @@ fake ad units. `public/ads.txt` is ready to be filled in after approval.
 
 ## License
 
-Content © MindTheGender. Cited research belongs to its respective authors and publishers.
+Content © Men Women Psychology. Cited research belongs to its respective authors and publishers.

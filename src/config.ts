@@ -1,5 +1,5 @@
 /**
- * Global site configuration for MindTheGender.
+ * Global site configuration for Men Women Psychology.
  *
  * Values that may change between environments (analytics IDs, the AdSense
  * publisher ID, the canonical URL) are read from environment variables so the
@@ -8,15 +8,15 @@
  */
 
 export const SITE = {
-  name: 'MindTheGender',
+  name: 'Men Women Psychology',
   tagline: 'Understand men. Understand women. Understand yourself.',
   description:
     'Real psychology, honest research, and practical insight into how men and women think, feel, love, and live — without stereotypes and without agenda.',
-  url: import.meta.env.SITE_URL || 'https://www.mindthegender.com',
+  url: import.meta.env.SITE_URL || 'https://menwomenpsychology.com',
   locale: 'en',
   // Used for Open Graph / structured data.
-  author: 'MindTheGender Editorial',
-  email: 'hello@mindthegender.com',
+  author: 'Men Women Psychology Editorial',
+  email: 'hello@menwomenpsychology.com',
   founded: '2026',
 } as const;
 
@@ -99,4 +99,4 @@ export const FIREBASE = {
  * language stays identical everywhere it appears.
  */
 export const DISCLAIMER =
-  'MindTheGender presents psychology research, behavioral science findings, and documented behavioral patterns for educational purposes. All content represents general tendencies observed in research — not universal rules that apply to every individual. This is not therapy, clinical advice, or relationship counseling. Individual variation is always significant.';
+  'Men Women Psychology presents psychology research, behavioral science findings, and documented behavioral patterns for educational purposes. All content represents general tendencies observed in research — not universal rules that apply to every individual. This is not therapy, clinical advice, or relationship counseling. Individual variation is always significant.';

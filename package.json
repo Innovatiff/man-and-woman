@@ -1,8 +1,8 @@
 {
-  "name": "mindthegender",
+  "name": "menwomenpsychology",
   "type": "module",
   "version": "1.0.0",
-  "description": "MindTheGender — a research-driven psychology reference helping people understand men, women, and relationships through honest science.",
+  "description": "Men Women Psychology — a research-driven psychology reference helping people understand men, women, and relationships through honest science.",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",

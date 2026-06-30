@@ -3,7 +3,7 @@ import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 
 // The canonical production URL. Override at build time with SITE_URL if needed.
-const SITE_URL = process.env.SITE_URL || 'https://www.mindthegender.com';
+const SITE_URL = process.env.SITE_URL || 'https://menwomenpsychology.com';
 
 // https://astro.build/config
 export default defineConfig({
