@@ -27,6 +27,10 @@ const { items } = Astro.props;
 </nav>
 
 <style>
+  /* Breathing room below the sticky header on content pages. */
+  .breadcrumbs {
+    padding-top: var(--space-5);
+  }
   .breadcrumbs ol {
     list-style: none;
     display: flex;

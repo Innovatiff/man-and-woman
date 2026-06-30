@@ -125,6 +125,19 @@ const exploreCols = [
     margin: var(--space-3) 0 var(--space-4);
     max-width: 22rem;
   }
+  /* The ghost button is designed for light backgrounds; on the dark footer the
+     default dark-red text is unreadable. Re-skin it for the dark surface:
+     white label, subtle white outline, red fill on hover. */
+  .footer-brand .btn--ghost {
+    color: #fff;
+    border-color: rgba(255, 255, 255, 0.35);
+    background: transparent;
+  }
+  .footer-brand .btn--ghost:hover {
+    color: #fff;
+    background: var(--color-primary);
+    border-color: var(--color-primary);
+  }
   .footer-cols {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(min(100%, 11rem), 1fr));
