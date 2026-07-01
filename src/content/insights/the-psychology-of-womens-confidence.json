@@ -74,5 +74,41 @@
     "how-women-can-trust-their-own-judgment",
     "how-women-can-overcome-self-doubt"
   ],
+  "quickTake": "Confidence isn't a fixed trait — it's self-efficacy, built through experience in specific domains. Where women look less confident, the gap usually reflects socialization, calibration, and real social costs rather than any deficit in ability. It's learnable, not innate.",
+  "pullQuote": "Confidence and competence are distinct — some of the most capable people present modestly, and some of the most assured are overestimating.",
+  "keyStats": [
+    {
+      "value": "4 sources",
+      "label": "Self-efficacy is built through mastery experiences, seeing others like you succeed, credible encouragement, and managing your own stress — so it's earned and learnable.",
+      "source": "Bandura (1977)"
+    },
+    {
+      "value": "Calibration, not ability",
+      "label": "Where a 'confidence gap' appears, it tends to reflect under-claiming and social costs rather than an actual difference in skill, and varies widely by domain.",
+      "source": "Contingencies of self-worth, Crocker & Wolfe (2001)"
+    },
+    {
+      "value": "Small effect",
+      "label": "Most measured psychological gender differences are small or near zero; the sexes overlap far more than they differ.",
+      "source": "Hyde (2005), review of 46 meta-analyses"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Self-assessment", "men": "More likely to over-claim ability", "women": "More likely to underestimate performance" },
+      { "aspect": "Applying / stepping up", "men": "Often act before feeling fully qualified", "women": "Often hold back until they meet most criteria" },
+      { "aspect": "How it's expressed", "men": "Boldness more often encouraged", "women": "Modesty more often rewarded; assertiveness can draw backlash" },
+      { "aspect": "Underlying competence", "men": "Not reliably higher", "women": "Not reliably lower — the gap is expression, not skill" }
+    ]
+  },
+  "keyTakeaways": [
+    "Confidence is self-efficacy — domain-specific belief built through experience — not a fixed personality gift.",
+    "Bandura's four sources (mastery, vicarious learning, credible encouragement, managing stress) make it learnable.",
+    "Where a 'confidence gap' appears, it usually reflects calibration and social costs, not lower ability.",
+    "Confidence and competence are distinct; judging skill by volume of self-promotion misreads quieter, well-calibrated people.",
+    "Assertive women can face more backlash than men for the same behavior, making careful calibration a rational response.",
+    "Supporting confidence often means changing the environment as much as the person — making it safe to speak up and make visible mistakes."
+  ],
   "lastReviewed": "2026-06"
 }

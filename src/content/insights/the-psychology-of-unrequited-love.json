@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "Someone develops strong feelings for a friend and replays every interaction, reading warmth into ambiguous moments. Even after sensing the feelings are not mutual, they may struggle to let go because the friendship keeps a flicker of hope alive, leaving them caught between longing and disappointment.",
     "On the other side, a person realizes a friend has feelings they cannot return. They feel guilty and awkward, unsure how to be honest without being cruel, and may avoid the subject or stay vague — not out of malice, but because there is no obvious gentle way to say no. Their main memory of the episode is discomfort rather than flattery.",
-    "A clear, kind conversation, though hard, often helps both people more than prolonged ambiguity. When the would-be lover gets an honest answer, the hope that kept the longing alive can finally begin to fade, and the rejector is relieved of the ongoing strain of mixed signals."
+    "A clear, kind conversation, though hard, often helps both people more than prolonged ambiguity. When the would-be lover gets an honest answer, the hope that kept the longing alive can finally begin to fade, and the rejector is relieved of the ongoing strain of mixed signals.",
+    "A person nursing feelings for a co-worker they see every day may find the constant low-level contact keeps hope simmering — each friendly exchange reopening the possibility — which is part of why some distance, rather than proximity, often helps the longing finally settle."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that the person being pursued has it easy or should feel flattered. Research suggests rejectors frequently experience real distress — guilt, discomfort, and a sense of being trapped — and tend to remember the episode as unpleasant rather than gratifying. Unrequited love is genuinely hard on both sides, not just for the one who loves.",
@@ -72,6 +73,42 @@
     "how-men-process-breakups",
     "how-women-process-breakups",
     "understanding-attachment-styles"
+  ],
+  "quickTake": "Unrequited love hurts on both sides, differently. The one who loves feels longing, hope, and eventual humiliation; the one who can't reciprocate feels guilt and awkwardness, with no clear script for saying no. Neither is usually a villain, and recovery mostly comes with time and refocused attachment.",
+  "pullQuote": "Would-be lovers remember it as bittersweet; rejectors more often recall it as simply an unwanted, awkward burden — the same episode, remembered from two very different sides.",
+  "keyStats": [
+    {
+      "value": "Both sides suffer",
+      "label": "First-person accounts from both would-be lovers and rejectors found the experience emotionally intense for each role, not just for the one who loves.",
+      "source": "Baumeister, Wotman & Stillwell (1993)"
+    },
+    {
+      "value": "Scriptlessness",
+      "label": "Rejectors frequently had no clear cultural script for turning someone down kindly, which added discomfort and sometimes led to mixed signals.",
+      "source": "Baumeister, Wotman & Stillwell (1993)"
+    },
+    {
+      "value": "Across genders",
+      "label": "The core dynamics appear to operate across genders rather than along them, consistent with heavy male-female overlap on most psychological measures.",
+      "source": "Hyde (2005)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: two sides of unrequited love",
+    "rows": [
+      { "aspect": "Dominant feelings", "men": "Would-be lover: hope, longing, later humiliation", "women": "Rejector: guilt, discomfort, feeling trapped" },
+      { "aspect": "How it's remembered", "men": "Would-be lover: bittersweet, mixed", "women": "Rejector: mostly negative, an awkward burden" },
+      { "aspect": "Central difficulty", "men": "Would-be lover: hope that won't switch off", "women": "Rejector: no kind script for saying no" },
+      { "aspect": "What helps", "men": "Would-be lover: honest clarity, then time", "women": "Rejector: kind honesty over vagueness" }
+    ]
+  },
+  "keyTakeaways": [
+    "Unrequited love is genuinely hard on both roles, not just the person doing the loving.",
+    "Would-be lovers tend to remember it as bittersweet; rejectors tend to remember it as an unwanted burden.",
+    "Hope is what keeps the longing alive — as long as things feel open, the feelings stay activated.",
+    "Rejectors often lack a clear, kind script for saying no, which can produce mixed signals.",
+    "Persistence rarely wins someone over and tends to prolong pain for both people.",
+    "Kind honesty, then time and refocused connection, supports recovery more than lingering ambiguity."
   ],
   "lastReviewed": "2026-06"
 }

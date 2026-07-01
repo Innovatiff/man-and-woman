@@ -73,5 +73,41 @@
     "how-women-experience-stress",
     "the-psychology-of-female-friendship"
   ],
+  "quickTake": "Bouncing back is ordinary, not rare. Most people — women included — recover from serious adversity and return to baseline. Resilience isn't a personality gift but a set of everyday processes: social support, meaning-making, and flexible coping. Many women lean especially on connection to get through.",
+  "pullQuote": "Resilience is not a rare toughness but 'ordinary magic' — built from everyday assets many people already have or can develop.",
+  "keyStats": [
+    {
+      "value": "Most common outcome",
+      "label": "Following people through bereavement and trauma, a stable trajectory of healthy functioning — resilience — was the typical response, not a rare one.",
+      "source": "Bonanno (2004)"
+    },
+    {
+      "value": "Ordinary magic",
+      "label": "Decades of developmental research found resilience arises from commonplace resources — supportive relationships, competence, self-regulation — not extraordinary traits.",
+      "source": "Masten (2001)"
+    },
+    {
+      "value": "Tend-and-befriend",
+      "label": "On average, women's stress response leans somewhat toward seeking and giving support; strong social ties are among the most reliable predictors of recovery.",
+      "source": "Taylor et al. (2000)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Stress response", "men": "Fight-or-flight more emphasized on average", "women": "Somewhat more tend-and-befriend alongside fight-or-flight" },
+      { "aspect": "Coping preference", "men": "Sometimes lean more on independent strategies", "women": "More often lean on confiding and social support" },
+      { "aspect": "Capacity to recover", "men": "Resilience widespread", "women": "Resilience widespread — the common outcome for both" },
+      { "aspect": "What predicts the path", "men": "Circumstance, resources, history", "women": "Circumstance, resources, history — more than gender" }
+    ]
+  },
+  "keyTakeaways": [
+    "Resilience is the most common response to adversity, not a rare gift — most people recover, though the path varies.",
+    "It's built from ordinary resources — supportive relationships, competence, self-regulation, flexible coping — that can be strengthened.",
+    "Recovery usually includes real pain; feeling loss deeply and still bouncing back is the norm, not stoic unaffectedness.",
+    "Strong social ties are among the most reliable predictors of recovery; reaching out is a strength, not a weakness.",
+    "Coping flexibility — shifting strategies to fit the moment — predicts recovery better than any single rigid technique.",
+    "Men and women overlap heavily; circumstance and history shape the path more than gender does."
+  ],
   "lastReviewed": "2026-06"
 }

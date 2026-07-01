@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "Security often shows up in small, repeated acts rather than dramatic ones: a partner who remembers what she was anxious about and checks in, who follows through on what he said he would do, who listens without immediately trying to fix. These responsive details are frequently what a woman means when she says she feels safe.",
     "Inconsistency tends to undermine security more than almost anything else. A partner who is attentive one week and distant the next can leave a woman feeling she must stay vigilant, because the risk regulation system reads unpredictability as a reason to protect herself rather than depend.",
-    "Being prioritized is its own signal. When a woman sees that the relationship is treated as important — protected time, her concerns taken seriously, decisions made with her in mind — it communicates the commitment that lets felt security take root."
+    "Being prioritized is its own signal. When a woman sees that the relationship is treated as important — protected time, her concerns taken seriously, decisions made with her in mind — it communicates the commitment that lets felt security take root.",
+    "After a hard day, many women describe wanting a partner to listen and reflect back that the day sounded rough before jumping to solutions. The rush to fix, however well-meant, can register as 'your feelings are a problem to close out' rather than the understanding that actually builds security."
   ],
   "whatPeopleGetWrong": [
     "The most damaging misconception is that women primarily want money, gifts, or status. The research points elsewhere: the durable need is for responsiveness and felt security — being understood, valued, and able to depend on a partner. Material gestures can be nice, but they do not substitute for the sense of being genuinely known and safely held.",
@@ -76,6 +77,42 @@
     "what-women-want-but-rarely-say",
     "what-men-need-in-relationship",
     "why-women-test-men"
+  ],
+  "quickTake": "What most reliably helps a woman feel secure is perceived partner responsiveness — feeling understood, validated, and cared for — backed by consistency over time. Being genuinely known and prioritized matters far more than money, gifts, or status.",
+  "pullQuote": "Responsiveness is not just kindness in general; it is kindness aimed accurately at who she actually is.",
+  "keyStats": [
+    {
+      "value": "Responsiveness",
+      "label": "A large body of relationship science converges on perceived partner responsiveness — feeling understood, validated, and cared for — as the core of intimacy and felt security.",
+      "source": "Reis & Shaver (1988)"
+    },
+    {
+      "value": "Felt security",
+      "label": "The risk regulation model finds people invest fully only when they perceive a partner values them and will not reject them; reassurance and reliability lower perceived risk.",
+      "source": "Murray, Holmes & Collins (2006)"
+    },
+    {
+      "value": "78%",
+      "label": "Of measured psychological gender differences are small or close to zero — responsiveness and felt security are human needs, not female-specific ones.",
+      "source": "Hyde (2005), review of 46 meta-analyses"
+    }
+  ],
+  "comparison": {
+    "title": "Feeling secure: average tendencies",
+    "rows": [
+      { "aspect": "Core need", "men": "Responsiveness and felt security too", "women": "Responsiveness and felt security" },
+      { "aspect": "How the need is voiced", "men": "Often less directly or through action", "women": "More likely to name it explicitly" },
+      { "aspect": "What undermines security", "men": "Inconsistency and feeling unappreciated", "women": "Inconsistency and mixed signals" },
+      { "aspect": "What restores it", "men": "Reliability, respect, steady presence", "women": "Reliability, accurate listening, being prioritized" }
+    ]
+  },
+  "keyTakeaways": [
+    "Perceived partner responsiveness — feeling understood, validated, and cared for — is the heart of what helps women feel secure.",
+    "Felt security, the confidence a partner is invested and won't let her down, matters more than material provision.",
+    "Consistency is decisive: steady, predictable care registers as safety; warmth that alternates with withdrawal registers as threat.",
+    "Reassurance-seeking is normal risk management, not neediness — steady reassurance settles it better than dismissal.",
+    "Listening to understand rather than to fix is often what converts attention into genuine security.",
+    "These needs are human, not female-specific; attachment style predicts an individual's needs better than gender."
   ],
   "lastReviewed": "2026-06"
 }

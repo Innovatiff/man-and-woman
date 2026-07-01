@@ -73,5 +73,41 @@
     "how-resentment-builds-in-relationships",
     "how-women-handle-emotions"
   ],
+  "quickTake": "Women tend to feel anger about as often and as intensely as men — the difference is in what social rules allow them to show. Anger gets suppressed, redirected, or turned inward, which can quietly build into resentment when it has nowhere honest to go.",
+  "pullQuote": "The anger is fully present; the expression is just routed underground.",
+  "keyStats": [
+    {
+      "value": "Feeling ≈ equal",
+      "label": "The internal experience of anger differs little by sex when measured directly; the reliable gap is in expression, not feeling.",
+      "source": "Kring & Gordon (1998)"
+    },
+    {
+      "value": "Worse over time",
+      "label": "Habitual suppression is linked to more negative emotion, less closeness, and lower well-being — held-in anger tends to leak out or turn inward.",
+      "source": "Gross & John (2003)"
+    },
+    {
+      "value": "Small effect",
+      "label": "Most measured psychological gender differences are small or near zero; anger is largely one of them, the main difference being socially shaped display.",
+      "source": "Hyde (2005), review of 46 meta-analyses"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Feeling anger", "men": "Comparable frequency and intensity", "women": "Comparable frequency and intensity" },
+      { "aspect": "Social permission to show it", "men": "More tolerated; can read as assertive", "women": "More sanctioned; risks stigmatizing labels" },
+      { "aspect": "Typical expression", "men": "More often direct or outward", "women": "More often indirect — quiet, tears, sarcasm, self-criticism" },
+      { "aspect": "When suppressed", "men": "Can build into resentment too", "women": "Often accumulates as resentment, then surfaces 'out of proportion'" }
+    ]
+  },
+  "keyTakeaways": [
+    "Women appear to feel anger about as often and intensely as men; the reliable difference is in expression, not experience.",
+    "Stronger social rules push women toward suppressing or rerouting anger — into withdrawal, tears, sarcasm, or self-criticism.",
+    "Habitual suppression is linked to more negative emotion, less closeness, and lower well-being over time.",
+    "Held-in anger doesn't vanish; it tends to build into resentment and can then 'explode' over something small.",
+    "Reading lower outward expression as lower feeling misjudges what's actually going on.",
+    "Relationships do better when anger can be named directly and safely, before it accumulates."
+  ],
   "lastReviewed": "2026-06"
 }

@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "Two people feel an instant, electric connection and conclude they are soulmates. Months later, when ordinary friction appears, the destiny-minded partner may take the conflict as a sign they were wrong about each other, while a growth-minded partner reads the same friction as normal and workable.",
     "A long-married couple often describes their bond as built rather than found — they did not start out perfectly matched but grew compatible through years of choices, repair, and shared experience. This fits the growth-belief pattern far more than the lightning-strike soulmate story.",
-    "Someone who keeps leaving relationships the moment they stop feeling magical may be holding a strong destiny belief, chasing the early-love high and treating its natural fade as evidence of a mismatch rather than a normal transition into deeper attachment."
+    "Someone who keeps leaving relationships the moment they stop feeling magical may be holding a strong destiny belief, chasing the early-love high and treating its natural fade as evidence of a mismatch rather than a normal transition into deeper attachment.",
+    "A dating-app user who swipes on for months, ending promising matches at the first sign of imperfect chemistry, may be running on a destiny script — waiting to 'just know' rather than giving a workable connection room to grow into something deeper."
   ],
   "whatPeopleGetWrong": [
     "The biggest misconception is that a true soulmate relationship should be easy. Knee's (1998) research points the other way: people who expect a right relationship to be effortless tend to give up sooner, while those who expect to work at it tend to last. Difficulty is not proof of a wrong match.",
@@ -72,6 +73,42 @@
     "why-we-idealize-our-partners",
     "the-stages-of-falling-in-love",
     "what-makes-relationships-last"
+  ],
+  "quickTake": "There's no evidence of one cosmic predestined match — but what you believe about soulmates shapes how you love. Seeing love as destiny can make you quit when problems appear; seeing it as something built helps you weather them. A little idealizing helps, as long as it stays honest.",
+  "pullQuote": "Difficulty is not proof of a wrong match — people who expect to work at love tend to last, while those who expect it to feel effortless tend to give up sooner.",
+  "keyStats": [
+    {
+      "value": "Destiny vs. growth",
+      "label": "Growth-oriented people coped better with conflict and stayed committed through rough patches, while destiny-oriented people more often disengaged when difficulties arose.",
+      "source": "Knee (1998)"
+    },
+    {
+      "value": "Positive illusions help",
+      "label": "Happy couples tend to see partners a little more favorably than the partners see themselves, and these idealized views predicted greater satisfaction and stability over time.",
+      "source": "Murray, Holmes & Griffin (1996)"
+    },
+    {
+      "value": "Belief, not fate",
+      "label": "The research studies the effects of soulmate beliefs and partner perception, not the existence of a single cosmic match.",
+      "source": "Knee (1998); Murray et al. (1996)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: two ways of framing love",
+    "rows": [
+      { "aspect": "Core assumption", "men": "Destiny: partners are meant to be, or not", "women": "Growth: relationships develop through effort" },
+      { "aspect": "Reaction to conflict", "men": "May read friction as a sign of mismatch", "women": "Tends to read friction as normal and workable" },
+      { "aspect": "Response to the early-love high fading", "men": "Can treat the fade as evidence it's wrong", "women": "Sees it as a shift into deeper attachment" },
+      { "aspect": "Effect on commitment", "men": "More likely to disengage in rough patches", "women": "More likely to stay and repair" }
+    ]
+  },
+  "keyTakeaways": [
+    "Research studies the effects of soulmate belief, not whether one predestined match exists.",
+    "Destiny beliefs bond fast but tend to buckle when ordinary problems appear.",
+    "Growth beliefs — that compatibility is partly built — support commitment through hard seasons.",
+    "A true match feeling 'easy' is a myth; expecting to work at love predicts lasting relationships.",
+    "Gently idealizing a partner can strengthen a bond, as long as it stays tethered to who they really are.",
+    "Most people hold a blend of both beliefs, and lean different ways at different stages."
   ],
   "lastReviewed": "2026-06"
 }

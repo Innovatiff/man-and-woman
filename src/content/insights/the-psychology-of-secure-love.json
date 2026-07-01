@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A securely bonded couple can have a sharp disagreement and, hours later, sit down together without either one fearing the relationship is ending. The fight is unpleasant, but the ground underneath it feels stable.",
     "One partner travels for work, and rather than spiraling, the other feels a manageable pang and trusts they will reconnect. The distance is tolerated because the bond is not in question — a hallmark of what researchers call a secure base.",
-    "Someone who grew up with unreliable caregiving may enter a relationship braced for disappointment, then find, over months of a partner consistently showing up, that their reflexive anxiety quiets. This gradual shift is what earned security tends to look like in practice."
+    "Someone who grew up with unreliable caregiving may enter a relationship braced for disappointment, then find, over months of a partner consistently showing up, that their reflexive anxiety quiets. This gradual shift is what earned security tends to look like in practice.",
+    "In an everyday moment, one partner mentions they had a rough day and the other puts down their phone, turns toward them, and asks about it. That small act of turning toward a bid, repeated across time, is precisely the kind of responsiveness that quietly accumulates into felt security."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that secure love feels boring or lacks passion. Calm is not the same as flat; research suggests secure partners often report both stability and satisfying intimacy, because safety frees them to be more open rather than guarded.",
@@ -74,6 +75,42 @@
     "the-psychology-of-emotional-safety-in-relationships",
     "what-makes-relationships-last",
     "how-to-build-genuine-connection"
+  ],
+  "quickTake": "Secure love feels calm and dependable rather than dramatic — partners trust the bond can survive conflict and distance. It is built through repeated responsiveness, and even people with insecure histories can earn it over time.",
+  "pullQuote": "Security is not the absence of conflict but a reliable sense that the bond can hold.",
+  "keyStats": [
+    {
+      "value": "~Half secure",
+      "label": "Roughly half of adults in early surveys described themselves as broadly secure — comfortable with closeness and not preoccupied with abandonment — though estimates vary by sample.",
+      "source": "Hazan & Shaver (1987)"
+    },
+    {
+      "value": "4 styles",
+      "label": "Attachment refined into a four-category model — secure, preoccupied, dismissing, and fearful — based on views of self and others.",
+      "source": "Bartholomew & Horowitz (1991)"
+    },
+    {
+      "value": "Earned security",
+      "label": "Insecure working models are not destiny: a stable, responsive relationship, therapy, or self-reflection can gradually revise them.",
+      "source": "Mikulincer & Shaver (2007)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Attachment style", "men": "Can hold any style; no clear gender divide", "women": "Can hold any style; no clear gender divide" },
+      { "aspect": "What predicts how you love", "men": "Attachment style more than sex", "women": "Attachment style more than sex" },
+      { "aspect": "Path to security", "men": "Earned through steady, responsive bonds", "women": "Earned through steady, responsive bonds" },
+      { "aspect": "Response to conflict when secure", "men": "Tends to repair faster, worry less", "women": "Tends to repair faster, worry less" }
+    ]
+  },
+  "keyTakeaways": [
+    "Secure love feels calm and dependable — trust that the bond survives conflict, distance, and bad days.",
+    "It is built moment to moment through repeated cycles of disclosure and responsive care, not personality alone.",
+    "Security is not the absence of fights; secure partners tend to repair faster and worry less that conflict threatens the bond.",
+    "Insecure attachment is not a life sentence — 'earned security' develops through stable, responsive relationships over time.",
+    "Calm is not flat: feeling safe tends to make intimacy and playfulness easier, not harder.",
+    "Attachment style, not gender, predicts how securely someone loves; people of any sex can hold any style."
   ],
   "lastReviewed": "2026-06"
 }

@@ -22,7 +22,8 @@
   "realLifeExamples": [
     "A man who is conventionally good-looking but cold or self-absorbed often loses appeal quickly once that comes through, while someone more ordinary in appearance who is genuinely kind and engaged tends to become more attractive the longer he is known.",
     "Confidence that is quiet and steady — comfortable in his own skin, secure enough to be wrong gracefully — frequently lands better than loud, performative bravado, which can read as insecurity dressed up.",
-    "Ambition tends to be attractive when it reflects genuine purpose and care, and far less so when it is purely about status or comes at the expense of being present. A partner driven by meaning usually appeals more than one driven only by image."
+    "Ambition tends to be attractive when it reflects genuine purpose and care, and far less so when it is purely about status or comes at the expense of being present. A partner driven by meaning usually appeals more than one driven only by image.",
+    "Someone who can laugh at himself, admit a mistake without defensiveness, and stay warm when teased often reads as far more attractive than a polished, guarded persona — because the ease itself signals the security and kindness people are drawn to."
   ],
   "whatPeopleGetWrong": [
     "A persistent myth is that women are primarily drawn to status, wealth, or dominance. The evidence is more nuanced: while women on average weight dependability and ambition somewhat more than men do, kindness and warmth consistently outrank status in what they say they want — and Eastwick and Finkel's work suggests stated status preferences often do not predict real attraction anyway.",
@@ -73,6 +74,42 @@
     "what-women-want-in-a-long-term-partner",
     "how-attraction-works",
     "the-psychology-of-physical-attraction"
+  ],
+  "quickTake": "In long-term partners, women tend to rate kindness, warmth, intelligence, dependability, and humor above looks or status. Confidence and ambition help too — but mostly when they come with genuine warmth rather than dominance for its own sake.",
+  "pullQuote": "Confidence appeals largely as a sign of security, not raw dominance — and confidence without warmth tends to repel rather than attract over time.",
+  "keyStats": [
+    {
+      "value": "Top-ranked",
+      "label": "Across dozens of countries, both sexes ranked kindness and intelligence near the very top of what they wanted in a long-term partner.",
+      "source": "Buss (1989)"
+    },
+    {
+      "value": "Thin slices",
+      "label": "Observers judged traits like warmth with meaningful accuracy from brief glimpses of behavior — which helps explain why kindness and ease register early and shape attraction fast.",
+      "source": "Ambady & Rosenthal (1992)"
+    },
+    {
+      "value": "Poor predictor",
+      "label": "Stated status preferences often failed to predict who people were actually attracted to once they met in person.",
+      "source": "Eastwick & Finkel (2008)"
+    }
+  ],
+  "comparison": {
+    "title": "Personality and attraction: average tendencies",
+    "rows": [
+      { "aspect": "Kindness and intelligence", "men": "Ranked near the top", "women": "Ranked near the top" },
+      { "aspect": "Weight on dependability/ambition", "men": "Somewhat lower on average", "women": "Somewhat higher on average" },
+      { "aspect": "Confidence", "men": "Attractive as security, not dominance", "women": "Attractive as security, not dominance" },
+      { "aspect": "Humor", "men": "Values a partner who appreciates humor", "women": "Often values a partner who makes her laugh" }
+    ]
+  },
+  "keyTakeaways": [
+    "Kindness, warmth, intelligence, dependability, and humor rank near the top for long-term attraction — often above looks or status.",
+    "Kindness and intelligence are the shared top priorities for both sexes; the average gaps are modest.",
+    "Confidence appeals as a signal of security and self-respect; when it tips into arrogance, its appeal drops.",
+    "Humor signals intelligence and warmth, and shared laughter builds closeness directly.",
+    "Ambition attracts most when it reflects genuine purpose, not pure status-seeking or absence.",
+    "The highest-rated traits are largely cultivable behaviors, so attractiveness is more changeable than fixed features suggest."
   ],
   "lastReviewed": "2026-06"
 }

@@ -73,5 +73,41 @@
     "why-comparison-undermines-happiness",
     "why-women-seek-reassurance"
   ],
+  "quickTake": "Insecurity is usually a learned threat-response, not a fixed flaw. It grows from attachment anxiety, shaky self-worth, and constant comparison, and shows up as reassurance-seeking or withdrawal. With steady safety and self-understanding, it tends to soften.",
+  "pullQuote": "Insecurity is a strategy that outlived its usefulness, not a character defect.",
+  "keyStats": [
+    {
+      "value": "Both sexes",
+      "label": "Insecurity appears across genders with small average differences — what tends to differ is how it is expressed, not whether it is felt.",
+      "source": "Hyde (2005), gender similarities hypothesis"
+    },
+    {
+      "value": "Self-reinforcing",
+      "label": "Reassurance-seeking soothes briefly but rarely resolves the doubt, and withdrawal blocks the closeness that would disconfirm the fear — so both responses tend to loop back.",
+      "source": "Murray, Holmes & Collins (2006), risk regulation system"
+    },
+    {
+      "value": "Since 1954",
+      "label": "Social comparison theory has shown for decades that chronic upward comparison reliably erodes confidence.",
+      "source": "Festinger (1954)"
+    }
+  ],
+  "keyTakeaways": [
+    "Insecurity is better understood as a learned pattern of threat-monitoring than as a fixable lack of confidence.",
+    "It draws on three main threads: attachment anxiety, fragile or contingent self-esteem, and habitual social comparison.",
+    "Reassurance-seeking and withdrawal both tend to be self-reinforcing, quietly deepening the original doubt.",
+    "Consistent, explicit signals of care from a partner can lower defensive vigilance, though no partner can fully cure another's self-doubt.",
+    "Men experience insecurity too, often through control, withdrawal, or overwork rather than open reassurance-seeking.",
+    "Building worth that does not hinge on approval or comparison is where the more durable change tends to come from."
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "How it often shows", "men": "More often withdrawal, control, or overwork", "women": "More often voiced doubt or reassurance-seeking" },
+      { "aspect": "Underlying driver", "men": "Attachment anxiety and self-worth, same as women", "women": "Attachment anxiety and self-worth, same as men" },
+      { "aspect": "Visibility to a partner", "men": "Can look like self-sufficiency or distance", "women": "Can look like protest or repeated checking" },
+      { "aspect": "What tends to help", "men": "Consistent care plus steadier self-worth", "women": "Consistent care plus steadier self-worth" }
+    ]
+  },
   "lastReviewed": "2026-06"
 }

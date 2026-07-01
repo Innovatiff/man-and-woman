@@ -74,5 +74,41 @@
     "what-men-need-in-relationship",
     "what-women-need-in-relationship"
   ],
+  "quickTake": "Lasting relationships are shaped less by how often couples fight than by how they treat each other while fighting and in ordinary moments. Low contempt, a steady surplus of positive interactions, working repair, responsiveness, and real commitment tend to hold things together.",
+  "pullQuote": "Much of lasting connection is made in tiny, easily missed moments — the everyday choice to turn toward a partner rather than away.",
+  "keyStats": [
+    {
+      "value": "5:1",
+      "label": "The ratio of positive to negative interactions Gottman found stable, happy couples tended to maintain during conflict.",
+      "source": "Gottman & Silver (1999)"
+    },
+    {
+      "value": "Contempt",
+      "label": "The single strongest predictor of breakup among the Four Horsemen, because it signals disgust rather than mere disagreement.",
+      "source": "Gottman & Levenson (1992)"
+    },
+    {
+      "value": "4 Horsemen",
+      "label": "The corrosive conflict patterns — criticism, contempt, defensiveness, stonewalling — that best forecast relationship dissolution.",
+      "source": "Gottman & Levenson (1992)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies in conflict",
+    "rows": [
+      { "aspect": "Under stress during conflict", "men": "Somewhat more prone to physiological flooding and stonewalling", "women": "Somewhat more likely to raise and pursue issues" },
+      { "aspect": "Response to contempt", "men": "Corrosive to the bond", "women": "Corrosive to the bond (very similar)" },
+      { "aspect": "What sustains closeness", "men": "Responsiveness, repair, feeling respected", "women": "Responsiveness, repair, feeling understood" },
+      { "aspect": "Value of turning toward bids", "men": "Builds trust over time", "women": "Builds trust over time (shared ingredient)" }
+    ]
+  },
+  "keyTakeaways": [
+    "What predicts longevity is how couples handle conflict and ordinary moments, not how often they fight.",
+    "Contempt — mockery, eye-rolling, an attitude of superiority — is the single strongest warning sign of a breakup.",
+    "Stable couples keep roughly a five-to-one ratio of positive to negative interactions during conflict.",
+    "Repair attempts and turning toward small bids for connection build the trust that carries a couple through hard times.",
+    "Commitment rests on investment and shared life, not just moment-to-moment satisfaction, which is why couples endure rough patches.",
+    "Most predictors are behaviors either partner can practice and improve, so struggling relationships can often be repaired."
+  ],
   "lastReviewed": "2026-06"
 }

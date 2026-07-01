@@ -73,5 +73,41 @@
     "why-we-cry-and-what-it-means",
     "the-pursue-withdraw-pattern-explained"
   ],
+  "quickTake": "An emotional trigger is a cue that sets off a reaction bigger than the moment seems to warrant, because it taps a learned association or old vulnerability. In close relationships it often activates the attachment system. Pausing to notice and name what is happening tends to help.",
+  "pullQuote": "The cue itself is not inherently threatening; it has been linked, through experience, to something that once mattered a great deal.",
+  "keyStats": [
+    {
+      "value": "Appraisal, not event",
+      "label": "Emotions arise from how we interpret a situation, not the raw event — a trigger is a fast, often automatic appraisal that codes a cue as threatening.",
+      "source": "Gross (1998)"
+    },
+    {
+      "value": "Attachment system",
+      "label": "In close relationships, perceived threats to a bond activate attachment responses; anxiety-prone people react to signs of distance, avoidance-prone people to too much closeness.",
+      "source": "Mikulincer & Shaver (2007)"
+    },
+    {
+      "value": "Learned",
+      "label": "Adult bonds draw on the attachment system formed early in life; experience teaches which cues signal danger, and the nervous system stores those associations.",
+      "source": "Hazan & Shaver (1987)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Underlying mechanism", "men": "Appraisal, attachment activation, learned associations", "women": "Appraisal, attachment activation, learned associations" },
+      { "aspect": "How triggered states show", "men": "Socialization may steer toward withdrawal or irritation", "women": "Socialization may steer toward voiced distress" },
+      { "aspect": "Common attachment trigger", "men": "Signs of demand or too much closeness (if avoidance-leaning)", "women": "Signs of distance or pulling away (if anxiety-leaning)" },
+      { "aspect": "What predicts triggering", "men": "Individual attachment style, not gender", "women": "Individual attachment style, not gender" }
+    ]
+  },
+  "keyTakeaways": [
+    "A trigger is a fast, automatic appraisal that codes a cue as threatening, so the reaction can feel instant and outsized.",
+    "In relationships, much of what gets triggered is the attachment system reacting to perceived threats to a bond.",
+    "Triggers are personal and learned — the same comment can sting one person and land neutrally for another.",
+    "Being triggered reflects history and threat-detection, not weakness or a character flaw.",
+    "Pause-and-name — noticing the surge and labeling it — gives the reasoning mind time to catch up.",
+    "Sharing your triggers with a partner tends to defuse them, inviting reassurance rather than escalation."
+  ],
   "lastReviewed": "2026-06"
 }

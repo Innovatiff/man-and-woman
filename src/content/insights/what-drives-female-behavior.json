@@ -74,5 +74,41 @@
     "what-drives-male-behavior",
     "what-women-need-in-relationship"
   ],
+  "quickTake": "Much of what can look puzzling in a woman's behavior is better read as communication of an unmet need — for emotional safety, responsiveness, fairness, or autonomy — than as something irrational. Reading it as a signal usually gets closer to the truth than reacting to the surface.",
+  "pullQuote": "Behavior that looks irrational usually means the underlying need has not been understood — not that there isn't one.",
+  "keyStats": [
+    {
+      "value": "3 basic needs",
+      "label": "Self-determination theory identifies autonomy, competence, and relatedness as core psychological needs, framing behavior as goal-directed rather than random.",
+      "source": "Deci & Ryan (2000)"
+    },
+    {
+      "value": "Tend-and-befriend",
+      "label": "Under stress women, on average, lean somewhat more toward reaching for bonds and caregiving than withdrawing — a coping strategy that can read as 'needing too much.'",
+      "source": "Taylor et al. (2000)"
+    },
+    {
+      "value": "Small effect",
+      "label": "Women are on average somewhat more prone to rumination, which can amplify worry under uncertainty — but most gender differences in psychology are small.",
+      "source": "Nolen-Hoeksema et al. (1999); Hyde (2005)"
+    }
+  ],
+  "keyTakeaways": [
+    "Women's behavior in relationships tends to track a few recurring needs: emotional safety, responsiveness, fairness, and autonomy.",
+    "Actions that look like 'pulling away' or 'pushing for more' are usually the attachment system trying to restore felt security.",
+    "The mental load — the invisible work of anticipating and managing a household — is a real and common driver of friction.",
+    "Reassurance-seeking is generally a bid for a clear signal of security, not an accusation.",
+    "Reading behavior as a signal ('what need is this pointing to?') works better than reading it as a problem to be won.",
+    "These are averages with heavy overlap; asking your specific partner beats assuming from gender."
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Response to stress", "men": "More often turn inward or toward problem-solving", "women": "More often move toward contact and conversation" },
+      { "aspect": "Under uncertainty", "men": "May go quiet or withdraw", "women": "May seek reassurance or a clear signal" },
+      { "aspect": "Processing feelings", "men": "Often more privately", "women": "More prone to rumination, on average" },
+      { "aspect": "Common underlying bid", "men": "Respect and a manageable balance of closeness", "women": "Responsiveness, fairness, and shared load" }
+    ]
+  },
   "lastReviewed": "2026-06"
 }

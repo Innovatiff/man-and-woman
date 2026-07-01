@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A man who describes his 'type' in physical terms but ends up falling for someone who simply makes him laugh and feel at ease is living out the gap Eastwick and Finkel documented between stated preference and lived attraction.",
     "Many men report that feeling genuinely liked and accepted by someone warm is a powerful draw — being around a person whose kindness extends to waiters, friends, and strangers often registers as more attractive over time than striking looks alone.",
-    "Shared humor frequently does heavy lifting early on. A conversation that flows and turns playful can shift someone from 'attractive on paper' to 'I can't stop thinking about them,' which is why personality so often outlasts first impressions."
+    "Shared humor frequently does heavy lifting early on. A conversation that flows and turns playful can shift someone from 'attractive on paper' to 'I can't stop thinking about them,' which is why personality so often outlasts first impressions.",
+    "A man who swiped past someone's profile photos without a second thought can find himself completely won over after one easy, funny conversation — the warmth and quick wit in person rewriting a first impression that looks alone had already dismissed."
   ],
   "whatPeopleGetWrong": [
     "The biggest misconception is that men are driven mainly by looks. The research suggests physical attractiveness matters more on average to men's initial interest, but for a relationship of any depth, kindness, intelligence, and warmth tend to weigh at least as heavily — and predict actual attraction better than appearance does once people interact.",
@@ -72,6 +73,41 @@
     "what-women-find-attractive-in-personality",
     "the-psychology-of-physical-attraction",
     "how-attraction-works"
+  ],
+  "quickTake": "Beyond looks, men consistently rank kindness, warmth, and intelligence at or near the top of what they find attractive — often above appearance for anything lasting. And once real attraction is studied face to face, the supposed male focus on looks largely fades.",
+  "pullQuote": "It is easy to name a physical type in the abstract, but in a real encounter the felt experience of someone's warmth, wit, and attentiveness tends to drive the spark.",
+  "keyStats": [
+    {
+      "value": "37 cultures",
+      "label": "Buss's cross-cultural study found both men and women ranked kindness and intelligence among the most desired traits in a partner.",
+      "source": "Buss (1989)"
+    },
+    {
+      "value": "Poor predictor",
+      "label": "Men's stated emphasis on looks did not reliably forecast who they were actually drawn to in live speed-dating; warmth and humor mattered a great deal.",
+      "source": "Eastwick & Finkel (2008)"
+    },
+    {
+      "value": "Small difference",
+      "label": "The average male edge on valuing physical attractiveness is modest, with large overlap between the sexes on what makes a partner appealing.",
+      "source": "Hyde (2005), gender similarities hypothesis"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Top-ranked traits", "men": "Kindness, intelligence, warmth", "women": "Kindness, intelligence, warmth" },
+      { "aspect": "Weight on physical looks", "men": "Somewhat higher, especially for initial interest", "women": "Somewhat lower, on average" },
+      { "aspect": "Stated 'type' vs. real attraction", "men": "Often diverge — checklists predict poorly", "women": "Also diverge, though tend to state preferences more accurately" },
+      { "aspect": "What sustains attraction", "men": "Warmth, humor, feeling at ease together", "women": "Warmth, responsiveness, feeling understood" }
+    ]
+  },
+  "keyTakeaways": [
+    "Kindness, warmth, and intelligence consistently rank at or near the top of what men find attractive, often above looks for a lasting relationship.",
+    "Men do report weighing physical attractiveness somewhat more than women on average, but the gap is modest and the overlap large.",
+    "Stated 'types' predict real attraction poorly — in live interaction, warmth and humor drive the spark more than a checklist does.",
+    "Humor often reads as a marker of warmth and intelligence at once, which is why it does so much early work.",
+    "Personality preferences are shaped by culture, age, and life stage far more than by gender — these are averages, not a formula."
   ],
   "lastReviewed": "2026-06"
 }

@@ -73,5 +73,41 @@
     "how-to-process-difficult-emotions",
     "how-to-build-emotional-resilience"
   ],
+  "quickTake": "Sadness is an adaptive emotion, not a malfunction — it signals loss, slows us down, and prompts reflection and support-seeking. What matters most for wellbeing is not whether you feel sad but how you engage with it: processing a loss differs sharply from getting stuck in rumination.",
+  "pullQuote": "The feeling itself is not what prolongs suffering — repetitive, self-focused rumination is what tends to keep us stuck. Allowing sadness is not the same as feeding it.",
+  "keyStats": [
+    {
+      "value": "Rumination prolongs it",
+      "label": "People who respond to low moods by repetitively turning the same distress over in their minds tend to stay low longer and are at greater risk for prolonged difficulty.",
+      "source": "Nolen-Hoeksema (2000), response styles theory"
+    },
+    {
+      "value": "Reappraisal > suppression",
+      "label": "Habitually reappraising a situation is generally associated with better mood and relationships than chronically suppressing what we feel.",
+      "source": "Gross & John (2003)"
+    },
+    {
+      "value": "Resilience is common",
+      "label": "Acute sadness after a loss is common, but a large share of people recover their footing over time without lasting impairment.",
+      "source": "Bonanno (2004), research on loss and resilience"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "What is felt", "men": "No reliable gap in the depth of sadness felt", "women": "No reliable gap in the depth of sadness felt" },
+      { "aspect": "How it is expressed", "men": "Often shaped by norms discouraging visible sadness", "women": "Often more socially permitted to show and share it" },
+      { "aspect": "Risk of rumination", "men": "Both sexes can get stuck in rumination", "women": "Both sexes can get stuck in rumination" },
+      { "aspect": "Overlap", "men": "Averages overlap heavily; differences reflect socialization", "women": "Averages overlap heavily; differences reflect socialization" }
+    ]
+  },
+  "keyTakeaways": [
+    "Sadness is generally an adaptive signal of loss, not a defect — it slows us down and prompts reflection and support-seeking.",
+    "How you respond matters more than the feeling itself: processing and re-engaging differs from getting stuck in rumination.",
+    "Repetitive, self-focused rumination tends to amplify and prolong low moods rather than resolve them.",
+    "Reappraisal — looking at a situation from another angle — generally beats chronically suppressing what you feel.",
+    "Most people are more resilient than expected and recover their footing over time after a loss.",
+    "Severe, persistent, impairing sadness is distinct from ordinary sadness and may warrant professional support."
+  ],
   "lastReviewed": "2026-06"
 }

@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "After a mistake at work, one person berates themselves for days and avoids anything that reminds them of it; another acknowledges the error, feels the disappointment, and asks what they'd tell a friend in the same spot. The second tends to recover and adjust faster.",
     "Someone starting a new habit slips up once and concludes they've 'failed' entirely, then quits. A more self-compassionate response — treating the slip as a normal part of change — tends to keep them going, which is what actually produces progress over time.",
-    "A person going through a breakup who tells themselves the pain means they are unlovable often deepens the wound. Reminding themselves that heartbreak is a shared human experience, not a personal defect, tends to ease the isolation and speed recovery."
+    "A person going through a breakup who tells themselves the pain means they are unlovable often deepens the wound. Reminding themselves that heartbreak is a shared human experience, not a personal defect, tends to ease the isolation and speed recovery.",
+    "A parent who loses their patience with a child at the end of a long day can either spiral into 'I'm a terrible parent' or pause and offer themselves the understanding they'd give a friend in the same spot. The kinder response tends to make it easier to repair with the child and do better next time, rather than getting stuck in shame."
   ],
   "whatPeopleGetWrong": [
     "The biggest misconception is that self-compassion is self-pity, weakness, or letting yourself off the hook. Research suggests the opposite: self-compassionate people tend to take more responsibility for mistakes, not less, because kindness makes it safe to look at failure honestly rather than defend against it.",
@@ -73,6 +74,41 @@
     "how-women-can-quiet-the-inner-critic",
     "the-psychology-of-shame-vs-guilt",
     "how-to-build-emotional-resilience"
+  ],
+  "quickTake": "Self-compassion is treating yourself with the kindness you'd offer a good friend, especially when you fail. Far from self-indulgent, research links it to more resilience, motivation, and follow-through than harsh self-criticism produces.",
+  "pullQuote": "Kindness makes it safe to look at failure honestly rather than defend against it — which is why self-compassionate people tend to take more responsibility, not less.",
+  "keyStats": [
+    {
+      "value": "3 components",
+      "label": "Neff defines self-compassion as self-kindness over self-judgment, common humanity over isolation, and mindful awareness over over-identification.",
+      "source": "Neff (2003)"
+    },
+    {
+      "value": "Lower distress",
+      "label": "Across studies, higher self-compassion tends to be associated with lower anxiety and depression and greater emotional resilience.",
+      "source": "Neff (2003) and later reviews"
+    },
+    {
+      "value": "Reappraisal helps",
+      "label": "Reappraising difficult situations with a gentler interpretation tends to produce healthier emotional outcomes than suppressing feelings.",
+      "source": "Gross & John (2003)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Self-criticism", "men": "Wrestle with a harsh inner voice too", "women": "Report somewhat more self-criticism on average" },
+      { "aspect": "Themes of the inner critic", "men": "Often competence and status", "women": "Often appearance and caregiving" },
+      { "aspect": "Capacity for self-compassion", "men": "A learnable skill; large overlap", "women": "A learnable skill; large overlap" }
+    ]
+  },
+  "keyTakeaways": [
+    "Self-compassion is treating yourself as you would a good friend — kindness, shared humanity, and mindful awareness.",
+    "It is not weakness or self-pity: it tends to increase responsibility and follow-through, not excuse-making.",
+    "It differs from self-esteem, which can collapse under failure; self-compassion stays steadier when you most need it.",
+    "Harsh self-criticism often triggers shame and avoidance, which tend to hinder learning rather than sharpen it.",
+    "It works partly by calming the threat response, making it easier to face mistakes and think clearly.",
+    "Both men and women struggle with a harsh inner voice; it is a skill that grows with deliberate practice."
   ],
   "lastReviewed": "2026-06"
 }

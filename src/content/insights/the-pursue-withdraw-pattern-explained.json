@@ -73,5 +73,41 @@
     "understanding-attachment-styles",
     "the-four-horsemen-of-relationship-failure"
   ],
+  "quickTake": "In the pursue-withdraw cycle, one partner presses for connection while the other retreats — and each move fuels the other. It's one of the most corrosive relationship dynamics, but it's driven by clashing attachment needs, not a villain, and both partners can learn to interrupt it.",
+  "pullQuote": "The pattern is a system, not a villain: each role provokes the other, and the same person can pursue in one conflict and withdraw in another.",
+  "keyStats": [
+    {
+      "value": "Roles reverse",
+      "label": "The demand-withdraw pattern shifts with who wants change in a given conflict; any modest average gender tendency is easily reversed.",
+      "source": "Christensen & Heavey (1990)"
+    },
+    {
+      "value": "Predicts distress",
+      "label": "Stonewalling — shutting down and withdrawing, often amid physiological flooding — is among the behaviors that forecast relationship distress.",
+      "source": "Gottman (2011)"
+    },
+    {
+      "value": "Anxiety vs. avoidance",
+      "label": "Those higher in attachment anxiety tend to pursue for reassurance; those higher in avoidance tend to deactivate and withdraw — a collision of strategies for the same need.",
+      "source": "Mikulincer & Shaver (2007)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: pursuer vs. withdrawer",
+    "rows": [
+      { "aspect": "Core move", "men": "More often the withdrawer, on average — but readily reverses", "women": "More often the pursuer, on average — but readily reverses" },
+      { "aspect": "Underlying need", "men": "Reduce conflict, regain composure, feel safe", "women": "Restore contact and a response, feel connected" },
+      { "aspect": "Attachment tendency", "men": "Often higher avoidance — deactivate, pull back", "women": "Often higher anxiety — seek reassurance, close distance" },
+      { "aspect": "Under stress", "men": "Flooding prompts stepping away", "women": "Sensed distance prompts pressing harder" }
+    ]
+  },
+  "keyTakeaways": [
+    "Pursue-withdraw (or demand-withdraw) is a self-reinforcing cycle where pressing and retreating each fuel the other.",
+    "It's a system, not a villain — blaming one partner tends to entrench the pattern rather than resolve it.",
+    "Roles reverse depending on who wants change; attachment style predicts who pursues or withdraws better than gender.",
+    "Withdrawal is often flooding — feeling overwhelmed — not rejection; pursuing is often anxiety seeking reassurance.",
+    "Naming the pattern together as a shared 'it' lets couples team up against the dynamic instead of each other.",
+    "Time-limited breaks with reassurance, softer openings, and staying present a little longer can interrupt the spiral."
+  ],
   "lastReviewed": "2026-06"
 }

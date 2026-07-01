@@ -74,5 +74,41 @@
     "love-vs-infatuation",
     "the-stages-of-falling-in-love"
   ],
+  "quickTake": "Chemistry appears to be a blend of physical arousal, novelty, and the feeling that someone expands your world — with the brain partly reading a racing heart as desire. The spark feels involuntary, but on its own it's a weak signal of long-term compatibility.",
+  "pullQuote": "A powerful initial pull says a great deal about the moment and relatively little, on its own, about long-term fit.",
+  "keyStats": [
+    {
+      "value": "Arousal misattribution",
+      "label": "Men who met a woman on a high, swaying suspension bridge later showed more romantic interest than those who met her on a stable one — arousal partly reinterpreted as desire.",
+      "source": "Dutton & Aron (1974), bridge study"
+    },
+    {
+      "value": "Novelty deepens bonds",
+      "label": "Couples who took part in novel, arousing activities together reported higher relationship quality afterward — evidence that chemistry is relational and ongoing, not fixed at first sight.",
+      "source": "Aron et al. (2000)"
+    },
+    {
+      "value": "One phase, not the whole",
+      "label": "Passionate love — measured by the Passionate Love Scale as longing, intrusive thinking, and arousal — is treated as a stage of love rather than its full or final form.",
+      "source": "Hatfield & Sprecher (1986)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Arousal read as attraction", "men": "Susceptible to misattributing arousal to a person", "women": "Susceptible to misattributing arousal to a person" },
+      { "aspect": "Pull of novelty and discovery", "men": "Fuels early spark through self-expansion", "women": "Fuels early spark through self-expansion" },
+      { "aspect": "Spark as a compatibility signal", "men": "Weak predictor of long-term fit on its own", "women": "Weak predictor of long-term fit on its own" },
+      { "aspect": "Can attraction grow without a spark", "men": "Often, through familiarity and repeated contact", "women": "Often, through familiarity and repeated contact" }
+    ]
+  },
+  "keyTakeaways": [
+    "Chemistry blends physical arousal, novelty, and the sense that someone expands your world.",
+    "The brain can misattribute a racing heart to the person you're with — the arousal is real, but context shapes it.",
+    "A strong spark reflects the moment more than long-term compatibility; weigh it against how someone treats you.",
+    "No instant fireworks doesn't mean no potential — attraction often builds through familiarity and repeated contact.",
+    "Shared novelty and adventure can renew attraction, so a softening spark need not mean fading interest.",
+    "The mechanisms apply broadly across men and women, with heavy individual overlap."
+  ],
   "lastReviewed": "2026-06"
 }

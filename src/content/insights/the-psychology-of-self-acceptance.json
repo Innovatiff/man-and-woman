@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "Someone who fails at an important goal might treat themselves with contempt, replaying the failure as evidence they are not good enough. A more self-accepting response acknowledges the disappointment, recognizes that struggle is part of being human, and offers the same understanding they would give a friend — which research suggests tends to support recovery rather than prolong shame.",
     "A person whose worth rests heavily on appearance or status may feel fine after a win and crushed after a setback, riding an exhausting emotional rollercoaster. Loosening that contingency — valuing themselves on grounds less tied to outcomes — tends to make their sense of self steadier and less hostage to each success or failure.",
-    "Many people assume that being hard on themselves keeps them motivated. In practice, those who relate to themselves with acceptance often pursue growth more sustainably, because they are working from security rather than fear of falling short, and they tend to bounce back from mistakes faster."
+    "Many people assume that being hard on themselves keeps them motivated. In practice, those who relate to themselves with acceptance often pursue growth more sustainably, because they are working from security rather than fear of falling short, and they tend to bounce back from mistakes faster.",
+    "Someone receiving critical feedback at work can hear it as a devastating judgment on their whole self or as useful information about one task. A more self-accepting person tends to take it the second way — able to absorb the correction, adjust, and move on without their sense of worth collapsing."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that self-acceptance means complacency or letting yourself off the hook. Research suggests the opposite is often true: self-compassion is associated with taking responsibility and trying again after failure, because it reduces the paralyzing shame that drives avoidance. Acceptance and growth can coexist rather than conflict.",
@@ -73,6 +74,41 @@
     "how-women-can-quiet-the-inner-critic",
     "the-science-of-lasting-happiness",
     "overcoming-people-pleasing"
+  ],
+  "quickTake": "Self-acceptance means relating to yourself with warmth and worth that does not hinge on constant achievement or approval. Closely tied to self-compassion, it holds steady even when you fail — and research treats it as a learnable stance, not a fixed trait.",
+  "pullQuote": "Acceptance and growth can coexist rather than conflict: warmth toward yourself reduces the paralyzing shame that drives avoidance.",
+  "keyStats": [
+    {
+      "value": "Steady vs. fragile",
+      "label": "Self-compassion holds even when we fail or fall short, unlike esteem that depends on feeling superior or succeeding — a more stable foundation.",
+      "source": "Neff (2003)"
+    },
+    {
+      "value": "Contingent worth",
+      "label": "The more someone's worth depends on external domains like appearance, achievement, or approval, the more their self-acceptance swings with success and failure.",
+      "source": "Crocker & Wolfe (2001)"
+    },
+    {
+      "value": "Core of flourishing",
+      "label": "Self-acceptance is identified as one of the core dimensions of genuine, eudaimonic well-being — not just feeling good, but flourishing.",
+      "source": "Ryff (1989)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Capacity for self-acceptance", "men": "Both can struggle with it and both can build it", "women": "Both can struggle with it and both can build it" },
+      { "aspect": "Domains worth is staked on", "men": "Often status, competence, provision", "women": "Often appearance, caregiving, approval" },
+      { "aspect": "Underlying process", "men": "Contingent worth loosened the same way", "women": "Contingent worth loosened the same way" }
+    ]
+  },
+  "keyTakeaways": [
+    "Self-acceptance is warmth and worth toward yourself that does not depend on constant achievement or approval.",
+    "It is distinct from self-esteem: esteem can collapse under failure, while acceptance and self-compassion hold steadier.",
+    "Tying worth to external outcomes makes it volatile; loosening that link produces a steadier relationship with yourself.",
+    "It does not breed complacency — it tends to support responsibility and trying again by reducing paralyzing shame.",
+    "It is largely learnable, developing unevenly across domains and over time rather than being fixed at birth.",
+    "Men and women overlap heavily here; the domains worth is staked on may differ, but the process is broadly shared."
   ],
   "lastReviewed": "2026-06"
 }

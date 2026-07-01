@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A man might describe an 'ideal' partner in physical terms but end up devoted to someone who simply makes him feel at ease, laughs with him, and is steady when life gets hard — illustrating the gap between stated preference and lived attraction that the research highlights.",
     "Many men report that the turning point toward seeing someone as long-term material was an act of kindness or emotional maturity — how she treated a stranger, handled a setback, or stayed calm in conflict — rather than a moment of physical attraction.",
-    "Couples who endure often credit ordinary compatibility: similar values, good humor, mutual respect, and reliability. The qualities men cite when explaining why a relationship lasted tend to be character traits, not the features that first caught their eye."
+    "Couples who endure often credit ordinary compatibility: similar values, good humor, mutual respect, and reliability. The qualities men cite when explaining why a relationship lasted tend to be character traits, not the features that first caught their eye.",
+    "A man weighing two potential partners may find the one he keeps thinking about is not the more conventionally striking one but the one who stayed calm and kind when a dinner plan fell apart — a small window into character that quietly outweighs the checklist he thought he wanted."
   ],
   "whatPeopleGetWrong": [
     "The biggest misconception is that men are driven mainly by looks when choosing a serious partner. Attraction matters, and men do weight it more than women on average in stated preferences, but research on long-term mate choice consistently puts kindness, intelligence, and emotional stability ahead of appearance.",
@@ -72,6 +73,42 @@
     "how-men-think-about-commitment",
     "what-men-need-in-relationship",
     "what-women-want-in-a-long-term-partner"
+  ],
+  "quickTake": "For a lasting partner, men consistently rank kindness, intelligence, and emotional stability near the top — above looks in most studies. Appearance weighs somewhat more in men's stated preferences than women's, but warmth and dependability tend to win out for the long haul, and most priorities are shared.",
+  "pullQuote": "The 'type' a man describes and the person he falls for are frequently not the same.",
+  "keyStats": [
+    {
+      "value": "37 cultures",
+      "label": "Buss found broad cross-cultural agreement that kindness and intelligence top the list of most-wanted long-term traits for both sexes.",
+      "source": "Buss (1989)"
+    },
+    {
+      "value": "Poor predictor",
+      "label": "In live speed-dating, men's stated preference for physical attractiveness did not reliably predict who they were actually drawn to.",
+      "source": "Eastwick & Finkel (2008)"
+    },
+    {
+      "value": "Difference of degree",
+      "label": "Men rate looks somewhat higher and a partner's earning capacity somewhat lower than women, but these gaps sit atop large shared priorities.",
+      "source": "Buss (1989); Hyde (2005)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Top long-term priorities", "men": "Kindness, intelligence, emotional stability", "women": "Kindness, intelligence, emotional stability" },
+      { "aspect": "Weight on physical attractiveness", "men": "Somewhat higher, especially in stated preferences", "women": "Somewhat lower, on average" },
+      { "aspect": "Weight on earning capacity/status", "men": "Somewhat lower, on average", "women": "Somewhat higher, on average" },
+      { "aspect": "Stated 'type' vs. real choice", "men": "Often diverge — chemistry emerges in interaction", "women": "Also diverge from the checklist" }
+    ]
+  },
+  "keyTakeaways": [
+    "For a long-term partner, kindness, intelligence, and emotional stability rank near the top for men — above looks in most studies.",
+    "Men do weight physical attractiveness more than women in stated preferences, but the difference is modest and priorities overlap heavily.",
+    "Sexual strategies theory: for lasting commitment, cues of warmth, fidelity, and good character outweigh novelty.",
+    "Stated preferences are an unreliable map of real attraction — men often fall for someone unlike their described 'type.'",
+    "What men credit for a relationship lasting tends to be character traits, not the features that first caught their eye.",
+    "These are averages with substantial overlap; personality, culture, and life stage reshape what any given man wants."
   ],
   "lastReviewed": "2026-06"
 }

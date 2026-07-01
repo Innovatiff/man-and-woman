@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "Someone who finally buys the car they dreamed about often feels a genuine lift — for a while. Within months the car has become simply the thing they drive to work, and the glow has faded. This is hedonic adaptation in everyday form, and it helps explain why the next purchase rarely delivers the lasting boost people expect.",
     "By contrast, a person who builds a regular ritual of seeing close friends, taking a weekly walk, or writing down a few things they are grateful for tends to draw a steadier, renewable kind of satisfaction. The activity can be refreshed each time, so it resists going flat the way a possession does.",
-    "People recovering from a hard loss frequently surprise themselves. The grief is real and should not be minimized, yet many find that, over time, they return closer to their former baseline than they would have predicted at the worst moment — an everyday illustration of the resilience adaptation can provide."
+    "People recovering from a hard loss frequently surprise themselves. The grief is real and should not be minimized, yet many find that, over time, they return closer to their former baseline than they would have predicted at the worst moment — an everyday illustration of the resilience adaptation can provide.",
+    "Someone who lands a long-awaited promotion or pay rise often notices the excitement lasting weeks rather than years. The higher salary quietly becomes the new normal, and daily mood settles back near where it started — a reminder that circumstances tend to fade into the background once they grow familiar, while sustained habits and relationships keep doing work."
   ],
   "whatPeopleGetWrong": [
     "A common misreading is that happiness is mostly about engineering the right circumstances — the better job, the bigger home, the perfect relationship. Research on adaptation suggests circumstances matter less for lasting happiness than people assume, because so much of their initial impact wears off. This is not a reason for fatalism but a redirection toward what tends to last.",
@@ -71,6 +72,33 @@
     "how-relationships-affect-happiness",
     "why-money-doesnt-buy-happiness",
     "the-role-of-purpose-in-a-meaningful-life"
+  ],
+  "quickTake": "A large share of happiness traces to a fairly stable set point, and we adapt to most good and bad events more than we expect. What tends to last is intentional activity — how we act and think day to day — more than changes in circumstances.",
+  "pullQuote": "Lasting happiness looks less like a destination reached and more like practices sustained over time.",
+  "keyStats": [
+    {
+      "value": "Set point + activity",
+      "label": "Sustainable happiness is framed as a mix of a partly genetic set point, circumstances, and intentional activity — with intentional activity the most promising route to lasting change.",
+      "source": "Lyubomirsky, Sheldon & Schkade (2005)"
+    },
+    {
+      "value": "Winners ≈ baseline",
+      "label": "Lottery winners were not dramatically happier day-to-day than a comparison group, and accident survivors not as unhappy as expected — people drift back toward a baseline.",
+      "source": "Brickman, Coates & Janoff-Bulman (1978)"
+    },
+    {
+      "value": "Relationships stood out",
+      "label": "The happiest people were distinguished not by money, religion, or dramatic events but by rich, satisfying social relationships.",
+      "source": "Diener & Seligman (2002), study of very happy people"
+    }
+  ],
+  "keyTakeaways": [
+    "A meaningful portion of happiness reflects a relatively stable, partly genetic set point — a pull, not a ceiling.",
+    "Hedonic adaptation drifts us back toward baseline after big events, softening both windfalls and many setbacks.",
+    "Circumstances matter less for lasting happiness than people assume, because so much of their impact wears off.",
+    "Intentional activity resists adaptation because it can be varied, savored, and renewed rather than becoming the new normal.",
+    "Rich, satisfying relationships are among the most reliable contributors to durable well-being.",
+    "The architecture of happiness is broadly similar for men and women; it isn't a meaningfully gendered story."
   ],
   "lastReviewed": "2026-06"
 }

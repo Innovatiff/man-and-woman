@@ -77,5 +77,41 @@
     "what-drives-female-behavior",
     "what-men-need-in-relationship"
   ],
+  "quickTake": "Much male behavior — withdrawing in conflict, throwing himself into work, pulling back after closeness — reads better as communication than indifference. It tends to track attachment style plus needs for respect, autonomy, and safety from shame, not a desire for control.",
+  "pullQuote": "The biggest error is reading withdrawal, silence, or busyness as not caring — more often it is regulation under stress.",
+  "keyStats": [
+    {
+      "value": "More often withdraw",
+      "label": "In the demand-withdraw pattern of conflict, men on average more often occupy the withdrawing role while the partner pursues.",
+      "source": "Christensen & Heavey (1990)"
+    },
+    {
+      "value": "Flooding",
+      "label": "Men tend to become physiologically 'flooded' in marital conflict, with sharper and longer-lasting stress arousal — so stepping back can feel like self-protection rather than avoidance.",
+      "source": "Gottman & Levenson (1992)"
+    },
+    {
+      "value": "78%",
+      "label": "Of measured psychological gender differences are small or close to zero, so 'male behavior' describes a loose central tendency, not a fixed script.",
+      "source": "Hyde (2005), review of 46 meta-analyses"
+    }
+  ],
+  "keyTakeaways": [
+    "Withdrawal, silence, and busyness are more often stress-regulation strategies than statements of indifference.",
+    "A man's attachment style predicts how he handles closeness, conflict, and reassurance far better than his gender alone.",
+    "Feeling respected and competent is a recurring anchor of male self-worth; perceived criticism can trigger disproportionate defensiveness.",
+    "Autonomy regulation produces a rhythm of closeness followed by a need for space — usually about internal balance, not rejection.",
+    "The provider drive is largely socialized rather than hardwired, and it varies widely across men and cultures.",
+    "Naming the underlying need tends to defuse patterns faster than escalating the demand."
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Role in conflict", "men": "More often withdraw or step back", "women": "More often pursue or press for discussion" },
+      { "aspect": "Physiological arousal", "men": "Flood sooner and stay elevated longer", "women": "Tend to recover somewhat faster, on average" },
+      { "aspect": "Expressing care", "men": "Often through doing, fixing, and providing", "women": "Often through talking and shared emotion" },
+      { "aspect": "Sensitive trigger", "men": "Feeling criticized, incompetent, or shamed", "women": "Feeling unheard or dismissed" }
+    ]
+  },
   "lastReviewed": "2026-06"
 }

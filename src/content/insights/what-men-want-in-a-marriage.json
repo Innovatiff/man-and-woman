@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A husband who says he 'just wants peace at home' is often describing a wish for warmth and low conflict rather than emotional distance — a marriage where he feels like a teammate, not someone being managed or criticized.",
     "Men frequently show what they want through provision and problem-solving — fixing things, planning, showing up reliably — and hope those actions are received as love. Feeling that this effort goes unnoticed can quietly erode satisfaction over time.",
-    "Sincere admiration tends to land powerfully. A partner noticing his patience, his work, or how he shows up for the family often deepens a husband's commitment more than expensive gestures do."
+    "Sincere admiration tends to land powerfully. A partner noticing his patience, his work, or how he shows up for the family often deepens a husband's commitment more than expensive gestures do.",
+    "After years together, a husband who quietly handles the car, the yard, or a home repair is often not avoiding closeness but offering it — hoping the effort is read as the love it is meant to be, and feeling the gap keenly when it passes unremarked."
   ],
   "whatPeopleGetWrong": [
     "The biggest misconception is that men mainly want sex and few emotional demands. Research points the other way: physical intimacy matters, but it usually sits within a larger desire for friendship, respect, and feeling valued. Reducing what men want to the physical misses most of the picture.",
@@ -72,6 +73,42 @@
     "why-men-crave-appreciation",
     "how-men-think-about-marriage",
     "what-women-want-in-a-marriage"
+  ],
+  "quickTake": "Beyond the stereotype of sex and a quiet house, many men want a marriage built on friendship, respect, and feeling their effort is genuinely seen. Physical and emotional intimacy matter, but they sit inside a larger wish to be a valued teammate.",
+  "pullQuote": "For many men, appreciation is not vanity — it is reassurance that the effort they put in is seen and matters.",
+  "keyStats": [
+    {
+      "value": "Friendship first",
+      "label": "In Gottman's longitudinal work, marital satisfaction for husbands and wives alike rests most on deep friendship — fondness, admiration, and turning toward each other in small moments.",
+      "source": "Gottman & Silver (1999)"
+    },
+    {
+      "value": "Predicts commitment",
+      "label": "Feeling appreciated and expressing gratitude predicted stronger commitment and relationship maintenance for both partners across daily and longitudinal measures.",
+      "source": "Gordon et al. (2012)"
+    },
+    {
+      "value": "78%",
+      "label": "Of measured psychological gender differences are small or close to zero — husbands and wives want more of the same things than stereotypes suggest.",
+      "source": "Hyde (2005), review of 46 meta-analyses"
+    }
+  ],
+  "comparison": {
+    "title": "In marriage: average tendencies",
+    "rows": [
+      { "aspect": "What sustains satisfaction", "men": "Friendship, respect, feeling effort is seen", "women": "Friendship, feeling understood and responded to" },
+      { "aspect": "How needs are expressed", "men": "Often through provision and problem-solving", "women": "Often through words and direct requests" },
+      { "aspect": "Emotional support network", "men": "Frequently fewer close confidants; spouse is primary", "women": "More likely to have confidants beyond the spouse" },
+      { "aspect": "Asking for closeness", "men": "May want it but struggle to name it", "women": "More likely to name the need directly" }
+    ]
+  },
+  "keyTakeaways": [
+    "The idea that men mainly want sex and few demands is largely a stereotype — friendship, respect, and appreciation matter more.",
+    "Deep friendship — fondness, admiration, turning toward small bids — is what most sustains marital satisfaction for husbands.",
+    "Many men channel what they want into provision and problem-solving, hoping those actions are received as love.",
+    "Sincere appreciation for a man's effort and character deepens commitment more reliably than material gestures.",
+    "A wish for 'peace at home' usually means warmth and low conflict, not emotional distance.",
+    "These are group averages with heavy overlap; attachment style and personality predict a man's needs better than gender."
   ],
   "lastReviewed": "2026-06"
 }

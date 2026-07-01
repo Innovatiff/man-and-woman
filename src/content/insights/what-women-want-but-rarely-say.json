@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A woman might say 'I'm fine' while hoping her partner notices she is clearly not, and checks in anyway. The want is to be seen without having to perform distress or file a request — to have a partner who pays attention closely enough to read the signs.",
     "Being delegated chores can feel different from a partner who simply notices what needs doing and handles it. The unspoken want is often to put down the mental load entirely for a while, not to manage a helper. 'Just tell me what to do' can land as one more task to assign.",
-    "Long into a relationship, many women still want to feel actively desired and emotionally pursued — chosen on purpose, not just present by default. They may rarely say this, partly because asking to be pursued can feel like it defeats the point, but the longing for ongoing pursuit is common and real."
+    "Long into a relationship, many women still want to feel actively desired and emotionally pursued — chosen on purpose, not just present by default. They may rarely say this, partly because asking to be pursued can feel like it defeats the point, but the longing for ongoing pursuit is common and real.",
+    "A woman may downplay her own accomplishment or exhaustion when asked, then feel quietly hurt when a partner takes the modesty at face value. The unspoken want is for him to look past the reflexive 'it was nothing' and recognize what it actually cost or meant to her."
   ],
   "whatPeopleGetWrong": [
     "A common mistake is treating these unspoken wants as manipulation or mind games — the idea that she 'should just say it' and is being difficult by not. The research points to vulnerability, socialization, and the genuine way that having to ask can undercut the value of what is given. It is rarely a trap; it is usually a real bind.",
@@ -72,6 +73,42 @@
     "how-women-handle-emotions",
     "what-men-want-but-rarely-say",
     "why-women-test-men"
+  ],
+  "quickTake": "Many women carry wants they rarely state: to be both desired and respected, noticed and helped without asking, reassured without requesting it, and to have the mental load shared. Having to ask often undercuts the value of what's given — it's a real bind, not a game.",
+  "pullQuote": "If she has to request that her partner notice she is overwhelmed, the noticing no longer signals attentiveness — it signals that she managed her own care once again.",
+  "keyStats": [
+    {
+      "value": "Responsiveness",
+      "label": "Intimacy grows when disclosure is met with responsive understanding — which is why attentiveness offered before it's requested feels so different from help that had to be asked for.",
+      "source": "Reis & Shaver (1988)"
+    },
+    {
+      "value": "Risk regulation",
+      "label": "People weigh the desire for closeness against the fear of rejection, so asking for reassurance can itself feel risky — many would rather have it offered freely.",
+      "source": "Murray, Holmes & Collins (2006)"
+    },
+    {
+      "value": "Indirect",
+      "label": "On vulnerable topics, people tend to gather information and signal wants indirectly rather than asking direct questions.",
+      "source": "Knobloch & Solomon (2002)"
+    }
+  ],
+  "comparison": {
+    "title": "Voicing wants: average tendencies",
+    "rows": [
+      { "aspect": "Stating vulnerable wants", "men": "Also often indirect, especially about needs", "women": "Frequently indirect around desire and reassurance" },
+      { "aspect": "The mental load", "men": "More likely to await tasks being assigned", "women": "More likely to carry planning by default" },
+      { "aspect": "Reassurance", "men": "May want it offered freely too", "women": "Prefers it volunteered over having to ask" },
+      { "aspect": "Why wants go unspoken", "men": "Socialized against showing vulnerability", "women": "Socialized to anticipate others and avoid seeming demanding" }
+    ]
+  },
+  "keyTakeaways": [
+    "Common unspoken wants: to be desired and respected, noticed without asking, reassured freely, pursued emotionally, and have autonomy honored.",
+    "Having to ask can spoil the thing asked for — volunteered attention and reassurance signal value in a way requested ones don't.",
+    "Socialization to anticipate others and avoid seeming demanding makes stating one's own wants plainly genuinely hard.",
+    "The 'mental load' — planning, remembering, emotional management — is a deep, often unspoken wish to share proactively.",
+    "Indirectness is usually vulnerability, not manipulation; silence on a want often means it feels too risky to raise.",
+    "Partners can't read minds — the healthiest pattern pairs close attention with enough safety to name wants out loud."
   ],
   "lastReviewed": "2026-06"
 }

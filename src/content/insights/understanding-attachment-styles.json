@@ -73,5 +73,46 @@
     "how-attraction-works",
     "what-makes-relationships-last"
   ],
+  "quickTake": "Attachment styles — secure, anxious, avoidant, and fearful — describe patterns in how people seek and handle closeness. They form from early and ongoing relationship experiences and shape adult bonds, but they are tendencies, not destiny: many people move toward greater security over time.",
+  "pullQuote": "A style is a pattern that can evolve, not a permanent verdict — many people develop 'earned security' through responsive relationships, reflection, and sometimes therapy.",
+  "keyStats": [
+    {
+      "value": "4 patterns",
+      "label": "Bartholomew and Horowitz's four-category model — secure, anxious/preoccupied, dismissing-avoidant, and fearful-avoidant — organized around views of self and others.",
+      "source": "Bartholomew & Horowitz (1991)"
+    },
+    {
+      "value": "2 dimensions",
+      "label": "Researchers increasingly describe attachment as positions along two continuous dimensions — anxiety and avoidance — rather than rigid boxes.",
+      "source": "Mikulincer & Shaver (2007)"
+    },
+    {
+      "value": "Changeable",
+      "label": "Attachment is relatively stable but genuinely open to change through new relationships, reflection, and sometimes therapy — the basis of 'earned security.'",
+      "source": "Mikulincer & Shaver (2007)"
+    },
+    {
+      "value": "Both sexes",
+      "label": "Attachment style is not a gender trait; both sexes span the full range, and it predicts relational behavior far better than sex does.",
+      "source": "Hyde (2005)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Range of styles", "men": "Span the full range of patterns", "women": "Span the full range of patterns" },
+      { "aspect": "Common expression", "men": "Avoidant patterns are sometimes more visible on average", "women": "Anxious patterns are sometimes more visible on average" },
+      { "aspect": "Under stress", "men": "May lean toward withdrawal or self-reliance", "women": "May lean toward pursuit or reassurance-seeking" },
+      { "aspect": "What predicts behavior", "men": "Individual attachment style, not gender", "women": "Individual attachment style, not gender" }
+    ]
+  },
+  "keyTakeaways": [
+    "The main patterns are secure, anxious/preoccupied, dismissing-avoidant, and fearful-avoidant — often described along anxiety and avoidance dimensions.",
+    "Styles begin in early relationships but later relationships and life events keep shaping them.",
+    "They are influential but not fixed; many people move toward greater security, sometimes called earned security.",
+    "The anxious-pursues, avoidant-withdraws pairing is a classic painful cycle that naming, not blaming, can defuse.",
+    "Consistent responsiveness from a partner can gradually build security over time.",
+    "Attachment is an individual trait, not a gender one; both sexes span the full range."
+  ],
   "lastReviewed": "2026-06"
 }

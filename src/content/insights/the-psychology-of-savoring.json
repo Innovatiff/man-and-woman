@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "Someone finishes a hard week and, instead of immediately scrolling their phone, pauses on a quiet evening to actually notice it — the warmth, the calm, the sense of having earned rest. That deliberate pause is savoring, and it tends to make the moment feel fuller than letting it pass unremarked.",
     "A couple comes back from a trip and spends an evening looking through photos and retelling the funny moments. The reminiscing is not just nostalgia; it can extend the pleasure of the trip well beyond the days themselves, which is one of the ways shared savoring may deepen a bond.",
-    "A person who gets good news at work calls a close friend to share it. The friend's genuine delight often makes the news feel bigger and more real — an everyday example of capitalization, where telling a responsive listener amplifies the original joy."
+    "A person who gets good news at work calls a close friend to share it. The friend's genuine delight often makes the news feel bigger and more real — an everyday example of capitalization, where telling a responsive listener amplifies the original joy.",
+    "Before a much-anticipated concert or holiday, someone lets themselves look forward to it on purpose — imagining the details, counting down the days. That anticipatory savoring can stretch the enjoyment across weeks, so the pleasure is not confined to the event itself but begins well before it arrives."
   ],
   "whatPeopleGetWrong": [
     "A common misunderstanding is that savoring means forcing positivity or ignoring problems. It does not. Savoring is about giving genuine good moments the attention they deserve, not pretending everything is fine. Trying to manufacture feelings that are not there tends to ring hollow, whereas noticing what is actually pleasant tends to feel authentic.",
@@ -72,6 +73,41 @@
     "the-science-of-lasting-happiness",
     "the-psychology-of-contentment",
     "how-mindfulness-improves-wellbeing"
+  ],
+  "quickTake": "Good moments fade fast because we adapt to them. Savoring is the learnable habit of deliberately noticing, sharing, and reliving positive experiences so they register more fully — before, during, and after they happen.",
+  "pullQuote": "Left on autopilot, the mind skims past pleasant moments while lingering on worries; savoring is the deliberate act of turning attention back toward what is good.",
+  "keyStats": [
+    {
+      "value": "Learnable skill",
+      "label": "Bryant and Veroff frame savoring not as a mood but as a family of practices — basking, marveling, reminiscing, anticipating — that can be strengthened.",
+      "source": "Bryant & Veroff (2007), Savoring"
+    },
+    {
+      "value": "Intentional activity",
+      "label": "A meaningful share of lasting happiness is proposed to come from intentional activities and habits like savoring, not just circumstances.",
+      "source": "Lyubomirsky, Sheldon & Schkade (2005)"
+    },
+    {
+      "value": "Sharing amplifies",
+      "label": "Telling a responsive listener about good news (capitalization) tends to boost well-being over and above the original event itself.",
+      "source": "Gable, Reis, Impett & Asher (2004)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Ease of savoring", "men": "Varies by individual, not reliably by sex", "women": "Varies by individual, not reliably by sex" },
+      { "aspect": "Sharing good news", "men": "Both tend to benefit from a responsive listener", "women": "Both tend to benefit from a responsive listener" },
+      { "aspect": "What shapes savoring most", "men": "Temperament, mood, stress, culture", "women": "Temperament, mood, stress, culture" }
+    ]
+  },
+  "keyTakeaways": [
+    "Savoring is deliberately noticing, holding, and amplifying a positive experience rather than letting it slip past.",
+    "It matters because people adapt quickly to good things — savoring helps slow that fade, though it cannot stop it entirely.",
+    "It spans time: anticipating, living, and reminiscing are all forms of savoring in Bryant and Veroff's model.",
+    "Sharing good news with a warm, responsive listener (capitalization) can amplify the joy beyond the event itself.",
+    "Savoring is an active, learnable skill — not forced positivity and not a mood that either arrives or does not.",
+    "It is not a gendered trait; how easily someone savors tracks personality and circumstance far more than sex."
   ],
   "lastReviewed": "2026-06"
 }

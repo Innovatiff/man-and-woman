@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A man who is genuinely kind — attentive to others, steady under stress, generous in small ways — often becomes more attractive over the course of an interaction, even to someone who said she prioritized status on paper. Warmth and emotional skill tend to register strongly in person.",
     "Humor and the ease of a conversation frequently do more in the moment than an impressive resume. Many women describe being drawn to someone who makes them laugh, listens well, and is comfortable to be around — qualities that a list of demographics cannot capture.",
-    "Shared values and direction matter for lasting attraction. A partner who is engaged with his own life, curious, and growing — and whose values align with hers — can be compelling in a way that a single flashy trait is not, reflecting the pull of self-expansion and genuine compatibility."
+    "Shared values and direction matter for lasting attraction. A partner who is engaged with his own life, curious, and growing — and whose values align with hers — can be compelling in a way that a single flashy trait is not, reflecting the pull of self-expansion and genuine compatibility.",
+    "The classic 'friend everyone dismissed' who slowly becomes the most attractive person in the room is a real pattern: sustained warmth, reliability, and ease often outrank a strong first impression once someone is actually known, which is why attraction can grow rather than fade over time."
   ],
   "whatPeopleGetWrong": [
     "The biggest misconception is that women are uniformly drawn only to tall, wealthy, or high-status men. The research is more nuanced: while stated preferences show some weighting toward resources on average, those stated criteria poorly predict real attraction (Eastwick and Finkel), and kindness and intelligence consistently rank near the top of what women say they want.",
@@ -72,6 +73,42 @@
     "how-attraction-works",
     "what-women-need-in-relationship",
     "how-women-fall-in-love"
+  ],
+  "quickTake": "Beyond looks, women on average put high value on kindness, warmth, intelligence, humor, and reliability. Stated preferences lean toward ambition and resources, but what actually draws people in person is character and chemistry, not a checklist.",
+  "pullQuote": "What women say they want and what actually moves them in person are simply different things — and in the room, warmth usually wins.",
+  "keyStats": [
+    {
+      "value": "37 cultures",
+      "label": "Buss's cross-cultural study found women weighted ambition and resources somewhat more than men on average — yet kindness and intelligence ranked near the top for both sexes.",
+      "source": "Buss (1989)"
+    },
+    {
+      "value": "Poor predictor",
+      "label": "In speed-dating research, the emphasis women reported on a partner's earning prospects did not predict who they were actually attracted to face to face.",
+      "source": "Eastwick & Finkel (2008)"
+    },
+    {
+      "value": "78%",
+      "label": "Of measured psychological gender differences are small or close to zero — men and women both rank kindness and intelligence highly.",
+      "source": "Hyde (2005), review of 46 meta-analyses"
+    }
+  ],
+  "comparison": {
+    "title": "Attraction: average tendencies",
+    "rows": [
+      { "aspect": "Stated weight on resources/ambition", "men": "Somewhat lower on average", "women": "Somewhat higher on average" },
+      { "aspect": "Stated weight on physical attractiveness", "men": "Somewhat higher on average", "women": "Somewhat lower on average" },
+      { "aspect": "Kindness and intelligence", "men": "Ranked near the top", "women": "Ranked near the top" },
+      { "aspect": "Stated vs. actual attraction", "men": "Stated preferences predict live attraction poorly", "women": "Stated preferences predict live attraction poorly" }
+    ]
+  },
+  "keyTakeaways": [
+    "Beyond looks, kindness, warmth, intelligence, humor, and reliability rank near the top of what women say they want.",
+    "Stated preferences show some average weighting toward ambition and resources, but they predict real attraction poorly.",
+    "Much of attraction emerges in interaction — chemistry, warmth, humor, feeling understood — not from a fixed checklist.",
+    "Shared novel experiences and aligned values sustain attraction over time through the self-expansion effect.",
+    "The gap between what women state and what draws them in person is real and well-documented, not hypocrisy.",
+    "These are averages with heavy overlap; personality, culture, and life stage shape individual taste far more than gender."
   ],
   "lastReviewed": "2026-06"
 }

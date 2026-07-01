@@ -73,5 +73,41 @@
     "what-makes-relationships-last",
     "the-stages-of-falling-in-love"
   ],
+  "quickTake": "Falling out of love is usually a slow erosion, not a sudden switch. Corrosive negativity — especially contempt — plus a quiet loss of everyday responsiveness weakens the bond over time, often long before anyone puts it into words.",
+  "pullQuote": "Love tends to erode through accumulated unrepaired hurts and withdrawn attention rather than a single betrayal.",
+  "keyStats": [
+    {
+      "value": "Contempt",
+      "label": "Communication conveying disgust or superiority — flagged as an especially strong predictor of relationship decline.",
+      "source": "Gottman & Levenson (1992); Gottman (2011)"
+    },
+    {
+      "value": "Gradual",
+      "label": "Love typically erodes slowly through unrepaired hurts and withdrawn attention, which is why partners are often surprised by how far they have drifted.",
+      "source": "Gottman (2011)"
+    },
+    {
+      "value": "Both sexes",
+      "label": "Men and women withdraw, show contempt, and stop being responsive in broadly similar ways; the corrosive dynamics are not the property of one sex.",
+      "source": "Hyde (2005)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Showing contempt or criticism", "men": "Can erode the bond", "women": "Can erode the bond (very similar)" },
+      { "aspect": "Withdrawing under strain", "men": "Somewhat more likely to stonewall and go quiet", "women": "Somewhat more likely to pursue then eventually detach" },
+      { "aspect": "Effect of ignored bids", "men": "Gradually stop reaching out", "women": "Gradually stop reaching out (shared pattern)" },
+      { "aspect": "What predicts decline", "men": "Unrepaired hurts, lost responsiveness", "women": "Unrepaired hurts, lost responsiveness (same)" }
+    ]
+  },
+  "keyTakeaways": [
+    "Falling out of love is usually gradual erosion, not a sudden vanishing of feeling.",
+    "Contempt and chronic criticism are especially corrosive because they attack a partner's sense of being respected and safe.",
+    "Lost responsiveness — routinely ignored bids for connection — quietly thins the bond even without dramatic conflict.",
+    "What predicts decline is less the occurrence of hurts than the failure to repair them.",
+    "Because much of the erosion is interactional, some couples rebuild respect and responsiveness and recover closeness they thought was gone.",
+    "The dynamics are broadly the same across sexes; attachment style and circumstances predict the pattern better than gender."
+  ],
   "lastReviewed": "2026-06"
 }

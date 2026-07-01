@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "Someone noticing a friend is 'off' from a slightly flat text or a subtle shift in tone is often demonstrating the nonverbal decoding skill Hall studied. This kind of attunement tends to come from years of practiced attention, not mind-reading.",
     "In a group, one person may instinctively track who seems left out or uncomfortable and move to include them. This perspective-taking is empathy in action — and it can be tiring, which is part of why emotional labor is unevenly distributed.",
-    "The motivational piece shows up clearly in relationships: a partner who 'never notices' feelings often becomes far more perceptive when they understand it matters and decide to pay attention. The capacity was usually there; the habit of using it was not."
+    "The motivational piece shows up clearly in relationships: a partner who 'never notices' feelings often becomes far more perceptive when they understand it matters and decide to pay attention. The capacity was usually there; the habit of using it was not.",
+    "In a controlled setting, the same men who 'read the room' poorly during a casual chat often decode emotions far more accurately when told their perception is being scored or that a reward is attached — a shift that illustrates how much of the gap is engagement rather than ceiling."
   ],
   "whatPeopleGetWrong": [
     "The biggest misconception is treating empathy as something women simply have and men simply lack. The research suggests the average difference is modest, heavily context-dependent, and largely about motivation and practice. Men are fully capable of high empathic accuracy, and many women are not especially attuned — individual variation dwarfs the group gap.",
@@ -71,6 +72,42 @@
     "why-women-notice-the-small-things",
     "the-importance-of-emotional-attunement",
     "the-mental-load-women-carry"
+  ],
+  "quickTake": "On average women score modestly higher at reading emotions, especially nonverbal cues — but the gap is smaller than stereotypes suggest and shrinks sharply when people don't know empathy is being measured. It's a practiced, motivation-dependent skill, not a fixed female superpower.",
+  "pullQuote": "The capacity was usually there; the habit of using it was not.",
+  "keyStats": [
+    {
+      "value": "Modest edge",
+      "label": "Women decode nonverbal cues — faces, tone, body language — somewhat better on average, one of the more replicated findings, but with heavily overlapping distributions.",
+      "source": "Hall (1978), meta-analysis"
+    },
+    {
+      "value": "Shrinks when unaware",
+      "label": "The gap narrows or disappears when people don't know their empathic accuracy is being tested, and widens when they're motivated — pointing to practice and expectation, not a hard limit.",
+      "source": "Empathic accuracy research"
+    },
+    {
+      "value": "Small effect",
+      "label": "Across most emotion-related measures the sexes are far more alike than different; individual variation dwarfs the group gap.",
+      "source": "Hyde (2005), review of 46 meta-analyses"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Reading nonverbal cues", "men": "Slightly lower on average", "women": "Slightly higher on average, with heavy overlap" },
+      { "aspect": "When empathy isn't being 'measured'", "men": "Accuracy rises toward women's", "women": "Roughly steady — the gap narrows or vanishes" },
+      { "aspect": "Emotional vs. cognitive empathy", "men": "Similar cognitive accuracy; less expressed emotion", "women": "Report stronger emotional responses; cognitive gap smaller" },
+      { "aspect": "Why the difference exists", "men": "Less often expected or practiced at attunement", "women": "More often expected and practiced — cultivated skill" }
+    ]
+  },
+  "keyTakeaways": [
+    "Women hold a modest average edge in reading emotions, especially nonverbal cues — but the distributions overlap heavily.",
+    "The gap shrinks or disappears when people don't know empathy is being measured, and widens with motivation.",
+    "Empathy is a cluster of skills: women report stronger emotional responses, but the accuracy-based cognitive gap is smaller.",
+    "Men are fully capable of high empathic accuracy; the habit of using it varies more than the underlying ability.",
+    "Framing empathy as an effortless female gift can burden women with unequal emotional labor and lead to depletion.",
+    "Attunement is largely practiced skill, so partners of any gender can build it deliberately."
   ],
   "lastReviewed": "2026-06"
 }

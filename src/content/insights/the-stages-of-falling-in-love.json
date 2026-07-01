@@ -73,5 +73,41 @@
     "how-men-fall-in-love",
     "how-women-fall-in-love"
   ],
+  "quickTake": "Love tends to unfold in overlapping phases, not one switch. Intense, arousal-driven passionate love usually comes first, alongside a slowly forming attachment bond that can mature into steadier companionate love. The stages blend, vary in pace, and look broadly similar across men and women.",
+  "pullQuote": "The fading of early passion usually coincides with a deeper attachment bond taking its place — the softening is a transition, not a failure.",
+  "keyStats": [
+    {
+      "value": "Passionate → companionate",
+      "label": "The Passionate Love Scale measures the intense, arousal-driven longing of early love — a state research treats as one phase, not built to stay at peak intensity indefinitely.",
+      "source": "Hatfield & Sprecher (1986)"
+    },
+    {
+      "value": "Love as attachment",
+      "label": "Adult romantic love was reframed as an attachment process drawing on the same system that bonds infants to caregivers, with partners becoming a secure base and safe haven.",
+      "source": "Hazan & Shaver (1987)"
+    },
+    {
+      "value": "Novelty renews closeness",
+      "label": "Couples who shared novel, arousing activities reported higher relationship quality — evidence the stages can be influenced, and early intensity partly renewed.",
+      "source": "Aron et al. (2000)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Early passionate phase", "men": "Intense longing and preoccupation; broadly similar", "women": "Intense longing and preoccupation; broadly similar" },
+      { "aspect": "Forming an attachment bond", "men": "Gradual shift toward felt security", "women": "Gradual shift toward felt security" },
+      { "aspect": "What predicts the journey", "men": "Attachment style more than gender", "women": "Attachment style more than gender" },
+      { "aspect": "Renewing early spark", "men": "Shared novelty and growth help", "women": "Shared novelty and growth help" }
+    ]
+  },
+  "keyTakeaways": [
+    "Falling in love unfolds in overlapping phases — passionate, attachment, companionate — not a single dramatic event.",
+    "Passionate love isn't built to stay at peak intensity; its softening usually signals a deeper bond forming.",
+    "Underneath the fireworks, an attachment bond forms gradually through closeness met with responsiveness.",
+    "Shared novelty and growth can renew closeness and reignite some early intensity well into a relationship.",
+    "The broad stages look similar across men and women; attachment style shapes the journey more than gender.",
+    "There's no fixed timeline — the phases blend and move at different paces for different people."
+  ],
   "lastReviewed": "2026-06"
 }

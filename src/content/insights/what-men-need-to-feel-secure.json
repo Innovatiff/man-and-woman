@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A man who senses tension or doubt in a relationship may say little and instead withdraw into work, hobbies, or silence — not because he has stopped caring, but because guardedness is how he manages uncertainty.",
     "Steady, predictable warmth — a partner who is consistent rather than hot and cold — often does more for a man's sense of security than dramatic declarations. Reliability tends to be reassuring precisely because it is dependable.",
-    "Being met with acceptance after admitting a worry or a mistake can deepen security markedly. When vulnerability is received without ridicule or being used against him later, a man learns that opening up is safe, which makes him more likely to do it again."
+    "Being met with acceptance after admitting a worry or a mistake can deepen security markedly. When vulnerability is received without ridicule or being used against him later, a man learns that opening up is safe, which makes him more likely to do it again.",
+    "A man who goes noticeably quiet and buries himself in his phone or a project after a tense exchange is often not stonewalling out of indifference — he may be bracing against a bond that suddenly feels shaky, and a calm, warm re-approach tends to settle him more than being pressed to talk on the spot."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that men do not need reassurance or felt safety — that security is mainly a female concern. The research suggests otherwise: the risk-regulation and attachment systems operate in both sexes. Men often need the same security; they are just, on average, less likely to ask for it in words.",
@@ -72,6 +73,42 @@
     "why-men-pull-away",
     "understanding-attachment-styles",
     "what-makes-a-man-feel-loved"
+  ],
+  "quickTake": "Men need felt security just as women do — a sense that they are valued, that the bond is dependable, and that vulnerability won't be punished. The difference is mostly in expression: male insecurity often shows up as quiet withdrawal rather than voiced reassurance-seeking.",
+  "pullQuote": "The risk-regulation and attachment systems operate in both sexes — men often need the same security, they are just, on average, less likely to ask for it in words.",
+  "keyStats": [
+    {
+      "value": "Both sexes",
+      "label": "The risk-regulation system — balancing the desire for closeness against the fear of rejection — is not gender-specific; men scan for safety and pull back too.",
+      "source": "Murray, Holmes & Collins (2006)"
+    },
+    {
+      "value": "Fewer confidants",
+      "label": "Men tend to have fewer close confidants than women, so a single partner's regard can carry outsized weight when trust feels shaky.",
+      "source": "Male friendship research (per Levant et al.)"
+    },
+    {
+      "value": "Mostly alike",
+      "label": "The underlying need for felt security is broadly human; the sexes differ more in how insecurity is expressed than in whether it is felt.",
+      "source": "Hyde (2005), gender similarities hypothesis"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "The underlying need for security", "men": "Present and real", "women": "Present and real" },
+      { "aspect": "How insecurity tends to show", "men": "Quiet withdrawal, guardedness, busying elsewhere", "women": "More likely to voice reassurance-seeking, on average" },
+      { "aspect": "What restores security", "men": "Consistency, respect, acceptance after vulnerability", "women": "Responsiveness, feeling understood and reassured" },
+      { "aspect": "Reading the signal", "men": "Withdrawal can look like indifference but often isn't", "women": "Distress is often more openly expressed" }
+    ]
+  },
+  "keyTakeaways": [
+    "Men need felt security too — attachment and risk-regulation systems operate in both sexes, not just women.",
+    "Male insecurity often surfaces as quiet withdrawal or guardedness rather than an explicit request for reassurance.",
+    "Steady, predictable warmth tends to build a man's security more than dramatic declarations.",
+    "Feeling respected and accepted is central; persistent criticism or contempt can undermine security like an outright threat.",
+    "Reading withdrawal as not-caring, rather than as possible insecurity, can deepen the very disconnection it reflects.",
+    "Attachment style predicts how someone handles insecurity better than gender does — these are averages with large overlap."
   ],
   "lastReviewed": "2026-06"
 }

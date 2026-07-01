@@ -73,5 +73,41 @@
     "why-women-seek-reassurance",
     "why-we-repeat-relationship-patterns"
   ],
+  "quickTake": "Fear of abandonment is usually rooted in anxious attachment — a heightened sensitivity to signs of distance or rejection. It is not a flaw or loving 'too much.' It often forms early and can soften over time through steady, responsive relationships and self-understanding, not constant reassurance.",
+  "pullQuote": "This is better understood as an adaptive response that once made sense than as something broken.",
+  "keyStats": [
+    {
+      "value": "Feeling valued",
+      "label": "Perceived partner responsiveness — feeling understood and valued — tends to calm these fears more reliably than repeated verbal reassurance alone.",
+      "source": "Murray, Holmes & Collins (2006)"
+    },
+    {
+      "value": "Not fixed",
+      "label": "Attachment patterns can shift toward 'earned security' through corrective relationship experiences and reflection.",
+      "source": "Mikulincer & Shaver (2007)"
+    },
+    {
+      "value": "Both sexes",
+      "label": "Attachment anxiety appears across genders; individual differences outweigh average gender differences.",
+      "source": "Hyde (2005)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Underlying pattern", "men": "Anxious attachment / threat sensitivity", "women": "Anxious attachment / threat sensitivity" },
+      { "aspect": "How the fear shows", "men": "May distance first or protect self to avoid being left", "women": "May seek reassurance or check in more openly" },
+      { "aspect": "What eases it", "men": "Steady, predictable responsiveness over time", "women": "Steady, predictable responsiveness over time" },
+      { "aspect": "What predicts it", "men": "Individual style and history, not gender", "women": "Individual style and history, not gender" }
+    ]
+  },
+  "keyTakeaways": [
+    "Fear of abandonment is a common expression of higher attachment anxiety, not neediness or a character flaw.",
+    "It often traces to early inconsistent care, but betrayals, losses, and unstable periods can also reactivate it.",
+    "It can drive a self-reinforcing loop of checking, reassurance-seeking, or testing that strains the very bond it aims to protect.",
+    "Feeling genuinely understood and valued calms it more reliably than repeated verbal reassurance.",
+    "Patterns can shift toward earned security through steady responsiveness, self-compassion, and sometimes therapy.",
+    "It appears across genders; individual style and context predict it far better than sex does."
+  ],
   "lastReviewed": "2026-06"
 }

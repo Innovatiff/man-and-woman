@@ -74,5 +74,41 @@
     "what-makes-men-happy",
     "how-women-handle-emotions"
   ],
+  "quickTake": "What sustains women's happiness looks a lot like what sustains anyone's: autonomy, competence, and close connection, plus meaningful work and purpose. Autonomy matters as much as relationships — and carrying an invisible mental load can quietly erode wellbeing.",
+  "pullQuote": "Feeling like the author of your own life is not a luxury; it is a core driver of contentment.",
+  "keyStats": [
+    {
+      "value": "3 needs",
+      "label": "Self-determination theory finds wellbeing rests on autonomy, competence, and relatedness — for women as for men, not on relationships alone.",
+      "source": "Deci & Ryan (2000)"
+    },
+    {
+      "value": "Small effect",
+      "label": "Most measured psychological gender differences are small or close to zero, so the ingredients of happiness are largely shared across the sexes.",
+      "source": "Hyde (2005)"
+    },
+    {
+      "value": "Mental load",
+      "label": "Disproportionate invisible planning and emotional labor, combined with rumination, can crowd out the autonomy and rest wellbeing depends on.",
+      "source": "Nolen-Hoeksema, Larson & Grayson (1999)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Core drivers of wellbeing", "men": "Autonomy, competence, relatedness", "women": "Autonomy, competence, relatedness (the same)" },
+      { "aspect": "Invisible mental load", "men": "On average carry less of it at home", "women": "On average carry more of it at home" },
+      { "aspect": "Tendency to ruminate", "men": "Somewhat less prone", "women": "Somewhat more prone, which can prolong low mood" },
+      { "aspect": "Role of close relationships", "men": "One pillar of wellbeing", "women": "One pillar of wellbeing (not the whole picture)" }
+    ]
+  },
+  "keyTakeaways": [
+    "Women's happiness rests on the same core needs as anyone's: autonomy, competence, and relatedness, plus purpose.",
+    "Autonomy matters as much as relationships — feeling like the author of your own life is a core driver of contentment.",
+    "The idea that women 'just want romance' underrates how much meaningful work and effectiveness contribute to a good life.",
+    "Carrying a disproportionate invisible mental load can deplete wellbeing even when nothing looks obviously wrong.",
+    "Constantly doing for others is not the same as flourishing; self-sacrifice is not a reliable engine of happiness.",
+    "Partners help most by protecting autonomy and sharing invisible labor, not only by being affectionate."
+  ],
   "lastReviewed": "2026-06"
 }

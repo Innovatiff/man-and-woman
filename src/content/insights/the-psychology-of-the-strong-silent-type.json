@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A man going through real difficulty may grow quieter rather than more talkative — withdrawing into himself precisely when a partner expects him to open up. The quiet can read as shutting down when it is closer to retreating somewhere to manage.",
     "Asked how he feels, a man may genuinely answer 'fine' or 'I don't know' — not as a deflection, but because the feeling is there without an easy label attached, exactly the difficulty in naming emotions that the research describes.",
-    "Some men express what they cannot say through action — fixing something, showing up, doing a quiet favor — letting behavior carry the emotional message that words do not come out for."
+    "Some men express what they cannot say through action — fixing something, showing up, doing a quiet favor — letting behavior carry the emotional message that words do not come out for.",
+    "After a hard day, a man may spend an hour in the garage or on a run rather than talking it through — not avoiding his partner, but processing the feeling in the wordless, doing-something way he learned to rely on, and often ready to reconnect once he has."
   ],
   "whatPeopleGetWrong": [
     "The biggest misreading is treating silence as proof of shallowness or not caring. Research points the other way: outward expression and inner experience can diverge sharply, so a calm or quiet exterior can sit over strong feeling. Quiet is not the same as empty.",
@@ -72,6 +73,42 @@
     "how-men-handle-emotions",
     "why-men-fear-vulnerability",
     "why-men-go-silent-when-upset"
+  ],
+  "quickTake": "The strong silent type usually isn't feeling less — he's showing less. Research suggests many men are socialized to mute outward expression, and some develop a genuine difficulty putting feelings into words. It's a learned style, not an empty inner life, and it varies a lot between individuals.",
+  "pullQuote": "Restricted expression does not mean restricted experience — men often feel as much; they just show less on the surface.",
+  "keyStats": [
+    {
+      "value": "Similar arousal",
+      "label": "Women tended to be more outwardly expressive, but men and women showed broadly similar physiological arousal to emotional stimuli — men often feel as much, and show less.",
+      "source": "Kring & Gordon (1998)"
+    },
+    {
+      "value": "Learned, not innate",
+      "label": "'Normative male alexithymia' — a learned difficulty naming one's own emotions — is linked to traditional masculine socialization, not a fixed male trait.",
+      "source": "Levant et al. (2009)"
+    },
+    {
+      "value": "Heavy overlap",
+      "label": "Men and women overlap heavily on emotional measures, so the strong silent style is a tendency some men adopt, not a universal male nature.",
+      "source": "Hyde (2005)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies in expression",
+    "rows": [
+      { "aspect": "Outward expression", "men": "Often mute or minimize visible emotion", "women": "On average more facially and outwardly expressive" },
+      { "aspect": "Inner experience", "men": "Similar physiological arousal underneath", "women": "Similar physiological arousal underneath" },
+      { "aspect": "Naming feelings in words", "men": "Some have a learned difficulty (alexithymia)", "women": "On average more practice putting feelings into language" },
+      { "aspect": "How feeling gets conveyed", "men": "Often through action — fixing, showing up", "women": "Often through words and shared talk" }
+    ]
+  },
+  "keyTakeaways": [
+    "The strong silent type reflects restricted expression, not a smaller emotional life.",
+    "Men and women show similar physiological arousal even when men express less outwardly.",
+    "For some men, naming feelings is a genuinely under-practiced skill, not a switch they can just flip.",
+    "It's largely a learned masculine norm around composure and self-reliance, not a fixed trait.",
+    "Pushing for feelings on demand tends to increase withdrawal; low-pressure conditions draw more out.",
+    "Reserved by temperament is fine; the concern is when silence becomes total and cuts off support and connection."
   ],
   "lastReviewed": "2026-06"
 }

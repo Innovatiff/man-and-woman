@@ -73,5 +73,41 @@
     "what-men-need-in-relationship",
     "how-men-fall-in-love"
   ],
+  "quickTake": "Looks get the headlines, but they are only part of what draws men in. On average, men rate kindness, warmth, intelligence, and humor highly, are strongly pulled toward people who seem to like them, and bond over shared values — and stated preferences predict real attraction surprisingly poorly.",
+  "pullQuote": "What men say they want and what moves them in the moment often diverge — rapport and chemistry frequently outweigh the checklist.",
+  "keyStats": [
+    {
+      "value": "37 cultures",
+      "label": "In Buss's cross-cultural study, kindness and intelligence ranked highest for both sexes nearly everywhere, with looks one factor among several.",
+      "source": "Buss (1989)"
+    },
+    {
+      "value": "Poor predictor",
+      "label": "Stated preferences, including for physical attractiveness, did a poor job of predicting who men actually felt drawn to in live settings.",
+      "source": "Eastwick & Finkel (2008)"
+    },
+    {
+      "value": "Reciprocal liking",
+      "label": "One of the most reliable findings in attraction research: we tend to be drawn to people who seem to like us.",
+      "source": "Attraction research; Aron et al. (2000)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies in attraction",
+    "rows": [
+      { "aspect": "Emphasis on physical looks", "men": "Somewhat higher, on average", "women": "Somewhat lower, on average" },
+      { "aspect": "Top-ranked traits", "men": "Kindness and intelligence", "women": "Kindness and intelligence (the same)" },
+      { "aspect": "Pull of being liked", "men": "Strong draw", "women": "Strong draw (shared)" },
+      { "aspect": "Stated vs. real preferences", "men": "Often diverge in the moment", "women": "Often diverge in the moment (similar)" }
+    ]
+  },
+  "keyTakeaways": [
+    "Physical appearance matters but is far from the whole story of what draws men in.",
+    "Across 37 cultures, kindness and intelligence ranked at the top for both sexes, not looks.",
+    "What men say they prioritize predicts real-life attraction poorly; rapport and chemistry often override the checklist.",
+    "Reciprocal liking is a powerful pull — feeling genuinely liked is itself attractive.",
+    "Shared values, humor, and emotional availability turn an initial spark into lasting attraction.",
+    "Novel, engaging shared experiences increase felt closeness, so what a couple does together can matter as much as appearance."
+  ],
   "lastReviewed": "2026-06"
 }

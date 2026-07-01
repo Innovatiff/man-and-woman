@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A man who lights up when his partner thanks him sincerely for something he worked hard on is not being needy — feeling appreciated for genuine effort is one of the most reliable ways many men feel loved. The same man may shrug off a compliment about his looks but remember a word of respect for months.",
     "A partner who reacts with warmth rather than alarm the first time a man admits he is struggling often finds he opens up far more after that. The reverse is common too: one dismissive or mocking response can quietly close the door for a long time, because the lesson 'it isn't safe here' is learned fast.",
-    "Companionship is easy to underrate. Many men describe their happiest relationships less in terms of romance and more in terms of having a teammate and best friend — someone to share ordinary life with, be trusted by, and rely on. Feeling needed and depended upon, rather than merely tolerated, tends to deepen that bond."
+    "Companionship is easy to underrate. Many men describe their happiest relationships less in terms of romance and more in terms of having a teammate and best friend — someone to share ordinary life with, be trusted by, and rely on. Feeling needed and depended upon, rather than merely tolerated, tends to deepen that bond.",
+    "A man whose partner asks his opinion on a decision she could easily make alone, and then takes it seriously, often feels a quiet sense of being trusted and relied upon that he would struggle to name — but that leaves him more invested and content than any grand romantic gesture would."
   ],
   "whatPeopleGetWrong": [
     "The largest misconception is that men are simple and mainly want sex. Research and clinical experience point the other way: physical intimacy matters, but it usually sits inside a wider need for respect, emotional safety, and closeness, and often serves as a route to feeling emotionally connected rather than an end in itself. Reducing men to appetite both insults them and obscures what actually makes them happy.",
@@ -77,6 +78,42 @@
     "what-men-want-but-rarely-say",
     "what-women-need-in-relationship",
     "how-men-handle-emotions"
+  ],
+  "quickTake": "The 'men just want sex' cliche is wrong. On average, men need respect and appreciation, emotional safety to be vulnerable, intimacy that is physical and emotional, the sense of being trusted and needed, and real friendship with their partner — needs that run as deep as anyone's.",
+  "pullQuote": "Physical intimacy matters, but it usually sits inside a wider need for respect, emotional safety, and closeness — often serving as a route to feeling connected rather than an end in itself.",
+  "keyStats": [
+    {
+      "value": "Top predictor",
+      "label": "Perceived partner responsiveness — feeling understood and valued — is one of the most robust predictors of relationship satisfaction for both sexes.",
+      "source": "Reis & Shaver (1988)"
+    },
+    {
+      "value": "Fewer confidants",
+      "label": "Men tend to have fewer close confidants than women, so a partner often becomes a primary source of emotional support.",
+      "source": "Male friendship research (per Levant et al., 2009)"
+    },
+    {
+      "value": "Strongest warning sign",
+      "label": "Contempt and chronic criticism are among the strongest predictors of relationship decline, eroding the fondness and admiration men rely on.",
+      "source": "Gottman & Levenson (1992)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Feeling loved most through", "men": "Respect, appreciation, being trusted and needed", "women": "Feeling cherished, understood, emotionally attended to" },
+      { "aspect": "Emotional expression", "men": "Often less practiced at naming needs out loud", "women": "On average more fluent at voicing needs" },
+      { "aspect": "Role of physical intimacy", "men": "Often a primary language of connection and reassurance", "women": "Often flows from feeling emotionally close first" },
+      { "aspect": "Sources of emotional support", "men": "Frequently concentrated in the partner", "women": "Often spread across friends and partner" }
+    ]
+  },
+  "keyTakeaways": [
+    "Men's needs run far past the 'just wants sex' stereotype: respect, emotional safety, intimacy, being trusted and needed, and genuine friendship.",
+    "Feeling understood and valued (partner responsiveness) predicts relationship satisfaction strongly for men, as it does for everyone.",
+    "Because vulnerability carries a higher perceived cost for many men, acceptance and non-judgment are often what unlock closeness.",
+    "Physical and emotional intimacy tend to be intertwined — sex frequently functions as a bid for bonding and feeling wanted.",
+    "Some needs go unspoken due to learned difficulty naming feelings, so they can be real even when hard to see.",
+    "These are averages with heavy overlap; attachment style and personality shape a specific man's needs more than gender does."
   ],
   "lastReviewed": "2026-06"
 }

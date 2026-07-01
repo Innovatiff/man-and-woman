@@ -73,5 +73,41 @@
     "why-women-want-emotional-safety",
     "why-women-overthink-relationships"
   ],
+  "quickTake": "Relationship anxiety is usually a sensitive attachment system firing on uncertainty, not proof the relationship is failing. Reassurance soothes for an hour but the doubt returns; steady, consistent responsiveness from both partners builds the felt security that actually helps. Everyone can experience it.",
+  "pullQuote": "The relief from reassurance is real but temporary, because it comes from outside rather than from the internal security that would actually quiet the worry.",
+  "keyStats": [
+    {
+      "value": "Both sexes",
+      "label": "Relationship anxiety is best understood as an attachment pattern, not a male or female trait; individual style predicts it far better than gender.",
+      "source": "Hyde (2005); Mikulincer & Shaver (2007)"
+    },
+    {
+      "value": "Not fixed",
+      "label": "Attachment anxiety is learned and can shift over time, especially through relationships with responsive partners.",
+      "source": "Mikulincer & Shaver (2007)"
+    },
+    {
+      "value": "Two systems",
+      "label": "The risk-regulation model describes people continuously balancing the wish for closeness against the fear of rejection; low felt security tilts the mind toward threat-detection.",
+      "source": "Murray, Holmes & Collins (2006)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "How the worry shows", "men": "May surface as irritability, withdrawal, or distraction", "women": "May surface as voiced worry or reassurance-seeking" },
+      { "aspect": "Reassurance loop", "men": "Both can fall into it; relief is temporary either way", "women": "Both can fall into it; relief is temporary either way" },
+      { "aspect": "What builds security", "men": "Consistent, responsive, predictable behavior over time", "women": "Consistent, responsive, predictable behavior over time" },
+      { "aspect": "Underlying driver", "men": "Attachment system reacting to uncertainty", "women": "Attachment system reacting to uncertainty" }
+    ]
+  },
+  "keyTakeaways": [
+    "Relationship anxiety usually reflects a sensitive attachment system reacting to uncertainty, not proof the relationship is wrong.",
+    "It is largely generated internally, so a caring, consistent partner can coexist with significant anxiety.",
+    "Reassurance soothes in the moment but rarely resolves the doubt, which regenerates from within and can create a loop.",
+    "Naming the feeling openly tends to work better than testing a partner or repeatedly seeking reassurance.",
+    "For the other partner, steady, predictable warmth builds felt security more than grand gestures do.",
+    "Everyone can experience it; attachment style predicts it far better than gender, and patterns can shift over time."
+  ],
   "lastReviewed": "2026-06"
 }

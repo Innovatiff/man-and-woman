@@ -73,5 +73,41 @@
     "does-playing-hard-to-get-work",
     "why-we-overthink-dating-and-texting"
   ],
+  "quickTake": "A little uncertainty can heighten attraction, mostly by keeping someone on your mind — and novelty gives you plenty to discover. But mystery is a temporary amplifier, not a foundation. Real closeness grows from trust and familiarity, not from staying unknowable.",
+  "pullQuote": "Mystery works as a temporary amplifier, not a foundation — sustained connection depends on growing closeness and trust, not on staying unknowable.",
+  "keyStats": [
+    {
+      "value": "Uncertainty raised attraction",
+      "label": "Women felt more drawn to men when unsure how much those men liked them, versus knowing they were liked a lot — with more thinking about the man linked to stronger attraction.",
+      "source": "Whitchurch, Wilson & Gilbert (2011)"
+    },
+    {
+      "value": "Novelty helps",
+      "label": "Couples who shared novel, arousing activities together reported higher relationship quality — part of why ongoing discovery keeps attraction lively.",
+      "source": "Aron et al. (2000)"
+    },
+    {
+      "value": "Familiarity → liking",
+      "label": "Repeated exposure tends to increase liking, so attraction can deepen as you know someone better rather than requiring them to stay unknowable.",
+      "source": "Zajonc (1968), mere-exposure effect"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Brief early uncertainty", "men": "Can heighten interest and attention", "women": "Can heighten interest and attention" },
+      { "aspect": "Prolonged, one-sided ambiguity", "men": "Tends to turn into frustration and disengagement", "women": "Tends to turn into anxiety and eroded trust" },
+      { "aspect": "What sustains attraction", "men": "Shared novelty and openness, not secrecy", "women": "Shared novelty and openness, not secrecy" },
+      { "aspect": "Response to ambiguity", "men": "Shaped more by attachment style than gender", "women": "Shaped more by attachment style than gender" }
+    ]
+  },
+  "keyTakeaways": [
+    "A degree of uncertainty can heighten attraction, largely by keeping the other person on your mind.",
+    "Much of what feels like intense attraction to someone hard to read is the pull of the ambiguity itself.",
+    "Novelty and ongoing discovery keep attraction lively — but familiarity generally builds liking, not kills it.",
+    "Deliberately playing games or withholding interest tends to backfire, breeding insecurity rather than desire.",
+    "Prolonged, unresolved ambiguity shifts from intriguing to painful, especially for anxiously attached people.",
+    "The effects apply broadly across men and women; attachment style predicts the response better than gender."
+  ],
   "lastReviewed": "2026-06"
 }

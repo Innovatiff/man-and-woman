@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "After snapping at a partner, someone feeling guilt thinks 'that was unfair, I should apologize' and does — repairing the moment. Someone sliding into shame thinks 'I'm a terrible partner,' feels exposed, and may withdraw or get defensive, which leaves the rupture unmended.",
     "A worker who makes a mistake on a project can treat it as a fixable error to own and correct, or as proof they are incompetent. The first stance tends to lead to learning and disclosure; the second to concealment and avoidance.",
-    "Parents and teachers can shape which emotion takes hold by criticizing the behavior ('hitting was wrong') rather than the child ('you're bad'), since global condemnation tends to seed shame while specific feedback tends to cultivate reparative guilt."
+    "Parents and teachers can shape which emotion takes hold by criticizing the behavior ('hitting was wrong') rather than the child ('you're bad'), since global condemnation tends to seed shame while specific feedback tends to cultivate reparative guilt.",
+    "A person who receives critical feedback at work can hear 'this report had errors' as a fixable problem to correct, or as 'I'm not good enough' — the same words landing as guilt for one person and shame for another, depending on how secure their sense of worth is."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that shame is simply a stronger or deeper form of guilt. Research suggests they are qualitatively different in focus and effect — guilt on the deed, shame on the self — and that more shame is not 'more conscience.' In fact, shame-proneness is often less associated with constructive moral behavior than guilt-proneness.",
@@ -72,6 +73,42 @@
     "how-to-process-difficult-emotions",
     "the-psychology-of-forgiveness-in-relationships",
     "how-women-can-quiet-the-inner-critic"
+  ],
+  "quickTake": "Guilt says 'I did a bad thing'; shame says 'I am bad.' That one shift in focus matters: guilt tends to push you toward apology and repair, while shame pushes you to hide, deflect, or attack. Feeling guilt without sliding into shame is a learnable skill.",
+  "pullQuote": "Guilt keeps the problem bounded to an action that can be repaired; shame generalizes it to a self that cannot easily be fixed.",
+  "keyStats": [
+    {
+      "value": "Deed vs. self",
+      "label": "The core distinction: guilt focuses on a specific behavior and tends to prompt repair, while shame condemns the whole self and tends to prompt hiding or defensiveness.",
+      "source": "Tangney, Stuewig & Mashek (2007)"
+    },
+    {
+      "value": "More constructive",
+      "label": "Across studies, guilt-proneness predicts reparative, constructive outcomes, while shame-proneness is linked to defensiveness, anger, and poorer adjustment.",
+      "source": "Tangney, Stuewig & Mashek (2007)"
+    },
+    {
+      "value": "Supports accountability",
+      "label": "Self-compassion is associated with taking responsibility more readily, not less — contrary to the fear that it excuses bad behavior.",
+      "source": "Neff (2003)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: guilt vs shame",
+    "rows": [
+      { "aspect": "Focus", "men": "Guilt targets a specific behavior ('I did a bad thing')", "women": "Shame targets the whole self ('I am bad')" },
+      { "aspect": "Typical impulse", "men": "Apologize, fix the harm, do better", "women": "Hide, escape, deflect blame, or strike back" },
+      { "aspect": "Effect on relationships", "men": "Tends to lead to repair and recovery", "women": "Tends to escalate ruptures and block repair" },
+      { "aspect": "Best feedback style", "men": "Naming the specific act ('when you did X')", "women": "Character attacks ('you always') that seed shame" }
+    ]
+  },
+  "keyTakeaways": [
+    "Guilt centers on a behavior ('I did a bad thing'); shame condemns the whole self ('I am bad').",
+    "Guilt tends to be the more adaptive emotion — it motivates apology and repair.",
+    "Shame's pull to hide, deflect, or attack often blocks the very repair that would resolve the situation.",
+    "When self-worth feels conditional, ordinary guilt is more likely to tip into shame.",
+    "Self-compassion supports accountability rather than excusing it — being harsh on yourself does not make you more responsible.",
+    "Feedback aimed at specific behavior invites reparative guilt; feedback aimed at character tends to provoke shame."
   ],
   "lastReviewed": "2026-06"
 }

@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A person who starts seeing someone a few weeks after a long relationship ends, and feels lighter and more themselves, is often not in denial — for many people, gentle new connection is part of how confidence and equilibrium return.",
     "Someone who jumps from partner to partner without ever feeling settled may be using each relationship to outrun grief. Here the rebound pattern can postpone the processing that eventually has to happen, and the unresolved feelings tend to resurface.",
-    "A rebound that involves constantly comparing the new partner to the ex, or seeking reassurance to quiet anxiety, often signals that the attachment wound is still raw — not that the new person is wrong, but that more healing is still underway."
+    "A rebound that involves constantly comparing the new partner to the ex, or seeking reassurance to quiet anxiety, often signals that the attachment wound is still raw — not that the new person is wrong, but that more healing is still underway.",
+    "A person who dates again quickly and openly tells a new partner they are fresh out of something, staying honest about where their head is, often navigates a rebound well — the candor lets both people calibrate expectations rather than pretending the recent loss did not happen."
   ],
   "whatPeopleGetWrong": [
     "The biggest misconception is that rebounds are uniformly unhealthy and destined to fail. The evidence suggests the opposite is at least as common: new connection often supports recovery and self-esteem. Labeling every post-breakup relationship a doomed rebound is not well supported.",
@@ -72,6 +73,42 @@
     "how-women-process-breakups",
     "why-we-stay-in-bad-relationships",
     "understanding-attachment-styles"
+  ],
+  "quickTake": "Rebounds have a worse reputation than the evidence supports. On average, starting a new connection after a breakup is associated with higher self-esteem and faster recovery, not dysfunction — though a rebound used mainly to avoid grief can delay real healing.",
+  "pullQuote": "The same behavior — dating soon after a split — can be growth or avoidance depending on what is driving it; motivation matters more than timing.",
+  "keyStats": [
+    {
+      "value": "Higher self-esteem",
+      "label": "On average, faster re-partnering after a breakup is associated with greater confidence, wellbeing, and feeling over the ex — not less.",
+      "source": "Research on post-breakup re-partnering; cf. Sbarra & Emery (2005)"
+    },
+    {
+      "value": "Non-linear",
+      "label": "Recovery from a breakup is a gradual, non-linear process shaped heavily by how people re-engage with life and others.",
+      "source": "Sbarra & Emery (2005)"
+    },
+    {
+      "value": "No fixed timeline",
+      "label": "Research points to no single correct waiting period; readiness and honest motivation predict good outcomes better than the calendar.",
+      "source": "Attachment research; Mikulincer & Shaver (2007)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Healthiness of rebounding", "men": "No reliable evidence one sex rebounds more healthily", "women": "No reliable evidence one sex rebounds more healthily" },
+      { "aspect": "What drives the pull to reconnect", "men": "Attachment system seeking a new secure base", "women": "Attachment system seeking a new secure base" },
+      { "aspect": "What predicts the outcome", "men": "Attachment style and motivation, not gender", "women": "Attachment style and motivation, not gender" },
+      { "aspect": "Overlap", "men": "Averages overlap heavily across the sexes", "women": "Averages overlap heavily across the sexes" }
+    ]
+  },
+  "keyTakeaways": [
+    "The belief that rebounds are doomed is more folklore than finding; new connection often supports recovery.",
+    "On average, faster re-partnering tracks with higher self-esteem and feeling over an ex, not with dysfunction.",
+    "A breakup can leave the attachment system seeking a new secure base, which is why reaching for someone can feel stabilizing.",
+    "Motivation matters more than timing: connection that adds to a rebuilt life differs from connection used to numb grief.",
+    "There is no single correct waiting period — readiness and honest motivation predict outcomes better than the calendar.",
+    "Attachment style and circumstance predict how someone rebounds far better than their gender does."
   ],
   "lastReviewed": "2026-06"
 }

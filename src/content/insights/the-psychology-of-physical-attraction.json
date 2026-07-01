@@ -74,5 +74,41 @@
     "the-psychology-of-first-impressions",
     "love-vs-infatuation"
   ],
+  "quickTake": "Faces close to the average and reasonably symmetrical tend to be rated attractive, and good looks trigger a 'halo' of assumed good traits. But what people say they want in looks predicts who they actually feel drawn to surprisingly poorly, especially in person.",
+  "pullQuote": "In the abstract we list traits like a shopping list; in person, attraction emerges from chemistry no checklist captures — which is why people fall for someone who matches none of their 'type.'",
+  "keyStats": [
+    {
+      "value": "Averageness wins",
+      "label": "Composite faces made by mathematically averaging many individuals were rated more attractive than most of the faces composing them.",
+      "source": "Langlois & Roggman (1990)"
+    },
+    {
+      "value": "Cross-cultural agreement",
+      "label": "A meta-analytic review found broad agreement about who is attractive across cultures and even among infants, challenging the idea that beauty is purely subjective.",
+      "source": "Langlois et al. (2000), meta-analytic review"
+    },
+    {
+      "value": "Type ≠ reality",
+      "label": "What people claim to prefer in looks does not reliably forecast whom they are actually drawn to face to face.",
+      "source": "Eastwick & Finkel (2008); Walster et al. (1966)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Emphasis on looks when asked", "men": "Tend to rate physical attractiveness as more important on average", "women": "Tend to rate it somewhat lower when stating ideals" },
+      { "aspect": "In live interaction", "men": "The gap shrinks sharply once people actually meet", "women": "The gap shrinks sharply once people actually meet" },
+      { "aspect": "Predictive value of stated 'type'", "men": "Stated ideals predict real attraction poorly", "women": "Stated ideals predict real attraction poorly" },
+      { "aspect": "The halo effect", "men": "Both sexes assume attractive people have other good traits", "women": "Both sexes assume attractive people have other good traits" }
+    ]
+  },
+  "keyTakeaways": [
+    "Averageness and symmetry reliably raise attractiveness ratings, likely because average faces are easy for the brain to process.",
+    "There is more cross-cultural agreement about who is attractive than the 'eye of the beholder' idea suggests.",
+    "The halo effect leads us to assume attractive people are also kind and competent, quietly skewing first impressions.",
+    "What people say they want in looks predicts real, in-person attraction surprisingly poorly.",
+    "Perceived attractiveness is partly malleable — warmth, humor, and good interaction can make someone 'grow on you.'",
+    "Holding your 'type' loosely may keep you open to partners you would actually click with."
+  ],
   "lastReviewed": "2026-06"
 }

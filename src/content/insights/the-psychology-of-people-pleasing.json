@@ -73,5 +73,41 @@
     "the-psychology-of-healthy-boundaries-in-relationships",
     "the-psychology-of-self-worth"
   ],
+  "quickTake": "People-pleasing usually starts as a healthy need to belong turned up too high. Wanting to be liked is normal; the cost comes when approval feels required for self-worth and you keep silencing your own needs to avoid conflict.",
+  "pullQuote": "Chronic people-pleasing is not the same as kindness — genuine generosity is freely chosen, while pleasing is often driven by fear and quietly breeds resentment.",
+  "keyStats": [
+    {
+      "value": "Fundamental need",
+      "label": "The desire for acceptance and stable bonds is framed as a basic human motivation, so some sensitivity to approval is normal — people-pleasing is that instinct turned up too high.",
+      "source": "Baumeister & Leary (1995), 'The need to belong'"
+    },
+    {
+      "value": "Self-silencing",
+      "label": "Systematically suppressing one's own needs and opinions to preserve relationships is linked to lowered wellbeing and, over time, resentment.",
+      "source": "Jack (1991), Silencing the Self"
+    },
+    {
+      "value": "Contingent worth",
+      "label": "When self-esteem hinges heavily on others' approval, a person becomes highly reactive to acceptance and rejection, which can drive chronic pleasing.",
+      "source": "Crocker & Wolfe (2001), contingencies of self-worth"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Socialization around accommodation", "men": "Somewhat less encouraged toward self-silencing, on average", "women": "More often encouraged toward accommodation and self-silencing" },
+      { "aspect": "How pleasing tends to show", "men": "Often via over-functioning, fixing, or avoiding conflict", "women": "Often via caretaking, agreeing, and hiding needs" },
+      { "aspect": "Underlying driver", "men": "Fear of disapproval and feeling inadequate", "women": "Fear of rupture and losing connection" },
+      { "aspect": "Overlap", "men": "Both sexes people-please; the gap is modest with heavy overlap", "women": "Both sexes people-please; the gap is modest with heavy overlap" }
+    ]
+  },
+  "keyTakeaways": [
+    "People-pleasing grows from a normal need to belong turned up too high and applied too indiscriminately.",
+    "Chronic self-silencing — hiding your real needs to keep the peace — is linked to lower wellbeing and buried resentment.",
+    "When self-worth depends on approval, every interaction becomes a referendum on your value, raising the stakes of saying no.",
+    "Genuine kindness is freely chosen and sustainable; fear-driven pleasing looks similar from outside but feels different inside.",
+    "Reflexive accommodation can erode closeness rather than build it, because a partner never meets the whole person.",
+    "Change comes gradually — through small acts of honesty and boundary-setting — not a sudden switch to not caring."
+  ],
   "lastReviewed": "2026-06"
 }

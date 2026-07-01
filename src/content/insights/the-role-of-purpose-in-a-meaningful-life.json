@@ -72,5 +72,37 @@
     "how-relationships-affect-happiness",
     "why-money-doesnt-buy-happiness"
   ],
+  "quickTake": "Feeling good and living meaningfully are related but distinct. A sense of purpose, growth, and direction — eudaimonic well-being — contributes to a flourishing life in ways pleasure alone often can't, even when the days themselves aren't always pleasant.",
+  "pullQuote": "Some of the most meaningful pursuits are demanding rather than easy — a life optimized only for comfort can still feel empty.",
+  "keyStats": [
+    {
+      "value": "6 dimensions",
+      "label": "Ryff's model of psychological well-being spans purpose, personal growth, autonomy, environmental mastery, positive relationships, and self-acceptance — well-being as more than feeling good.",
+      "source": "Ryff (1989)"
+    },
+    {
+      "value": "3 basic needs",
+      "label": "Self-determination theory holds that autonomy, competence, and relatedness must be satisfied for activities to feel meaningful and intrinsically motivating.",
+      "source": "Deci & Ryan (2000)"
+    },
+    {
+      "value": "Presence vs. search",
+      "label": "The Meaning in Life Questionnaire distinguishes the presence of meaning from the search for it; presence tends to be associated with greater well-being.",
+      "source": "Steger et al. (2006)"
+    },
+    {
+      "value": "Not gendered",
+      "label": "The human need for purpose and growth holds broadly across the sexes, consistent with most psychological measures showing more similarity than difference.",
+      "source": "Hyde (2005)"
+    }
+  ],
+  "keyTakeaways": [
+    "Well-being involves more than pleasure; purpose, growth, and meaning add something pleasure alone often can't.",
+    "Meaning organizes effort over time, linking daily tasks to something larger and helping people endure hardship.",
+    "Activities feel meaningful when they satisfy autonomy, competence, and relatedness — not when chasing external rewards alone.",
+    "Purpose usually grows gradually from ordinary commitments, rather than arriving as a single dramatic calling.",
+    "What feels purposeful is deeply personal; research describes purpose's role, not where any one person should find it.",
+    "The need for purpose and growth is not meaningfully gendered — it holds broadly across men and women."
+  ],
   "lastReviewed": "2026-06"
 }

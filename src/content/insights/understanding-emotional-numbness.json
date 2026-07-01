@@ -74,5 +74,41 @@
     "the-psychology-of-emotional-withdrawal",
     "why-men-struggle-to-open-up"
   ],
+  "quickTake": "Emotional numbness is usually a protective shutting-down, not an absence of feeling. Chronic suppression, difficulty naming feelings, or burnout flattens emotional life as a way to cope. It tends to lift when the underlying load eases and people gradually relearn to notice, name, and express what they feel.",
+  "pullQuote": "Numbness is more often a defense than a true absence — the feelings are usually present but blocked from awareness by suppression, overload, or a weak emotional vocabulary.",
+  "keyStats": [
+    {
+      "value": "Broad cost",
+      "label": "Habitual expressive suppression is linked to less positive emotion, more relationship difficulty, and a sense of inauthenticity — it dampens pleasant feeling along with the unpleasant.",
+      "source": "Gross & John (2003)"
+    },
+    {
+      "value": "Somewhat higher",
+      "label": "Alexithymia — difficulty identifying and naming feelings — appears somewhat more common on average in men, linked to traditional masculine socialization.",
+      "source": "Levant et al. (2009)"
+    },
+    {
+      "value": "Protective brake",
+      "label": "Under chronic stress, burnout, or overwhelm the nervous system can turn down emotional volume as a coping measure, which tends to ease as safety returns.",
+      "source": "Gross (1998)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Common root", "men": "Alexithymia somewhat more common, tied to socialization", "women": "More often burnout- or overload-related, though patterns overlap" },
+      { "aspect": "How it presents", "men": "May answer feelings with thoughts, facts, or solutions", "women": "May report a general flatness or loss of enjoyment" },
+      { "aspect": "Underlying mechanism", "men": "Suppression, weak sensation-to-emotion link, overload", "women": "Suppression, weak sensation-to-emotion link, overload" },
+      { "aspect": "What helps", "men": "Easing the load, naming emotion, expressive writing", "women": "Easing the load, naming emotion, expressive writing" }
+    ]
+  },
+  "keyTakeaways": [
+    "Numbness is usually a protective shutting-down, not a genuine absence of feeling or a sign of not caring.",
+    "Chronic suppression flattens emotion broadly — dampening positive feelings, not just painful ones.",
+    "Alexithymia — difficulty identifying and naming feelings — can leave someone genuinely unsure what they feel.",
+    "Burnout, chronic stress, and overwhelm can trigger a protective shutdown that eases as safety returns.",
+    "Forcing feeling tends to overwhelm; easing the load and gradually rebuilding emotional awareness helps more.",
+    "Persistent numbness, especially with low mood or after trauma, is worth discussing with a professional."
+  ],
   "lastReviewed": "2026-06"
 }

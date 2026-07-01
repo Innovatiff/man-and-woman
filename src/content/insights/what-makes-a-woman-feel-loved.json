@@ -74,5 +74,41 @@
     "why-women-want-to-feel-chosen",
     "why-women-value-emotional-connection"
   ],
+  "quickTake": "Less about grand gestures and more about felt responsiveness — the sense that a partner genuinely understands, values, and attends to you. For many women, love registers through undistracted attention, quality time, warmth, and specific words that name what is appreciated.",
+  "pullQuote": "Feeling loved is built from many ordinary moments of being noticed and responded to, not from rare romantic peaks.",
+  "keyStats": [
+    {
+      "value": "Most robust ingredient",
+      "label": "Perceived partner responsiveness — feeling understood, validated, and cared for — is one of the strongest predictors of relationship satisfaction, and maps closely onto what many women describe as feeling loved.",
+      "source": "Reis & Shaver (1988)"
+    },
+    {
+      "value": "Everyday bids",
+      "label": "Small daily moments of turning toward a partner's bids for attention predict relationship health far more than rare romantic peaks.",
+      "source": "Gottman (2011)"
+    },
+    {
+      "value": "Limited support",
+      "label": "The popular 'five love languages' framework has limited empirical backing; responsiveness, gratitude, and attunement are what more reliably strengthen relationships.",
+      "source": "Gordon et al. (2012); love-languages research reviews"
+    }
+  ],
+  "keyTakeaways": [
+    "Felt responsiveness — being genuinely understood, valued, and attended to — is the deeper currency, more than gifts or expense.",
+    "Everyday moments of turning toward small bids for connection matter more over time than rare grand gestures.",
+    "Quality time tends to mean presence, not just proximity — being met and engaged with, not merely co-located.",
+    "Specific, named appreciation lands better than vague praise because it signals real attention to who someone is.",
+    "The 'love languages' framework is a useful conversation starter but has limited empirical support.",
+    "These needs are broadly human; the same practices help partners of any gender, so asking directly beats assuming."
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "What tends to register as love", "men": "Often appreciation, acceptance, and affection", "women": "Often responsiveness, attention, and quality time" },
+      { "aspect": "Route to closeness", "men": "Often through shared activity and doing", "women": "More often through self-disclosure and talking" },
+      { "aspect": "Value of words", "men": "Meaningful alongside action and touch", "women": "Specific, named appreciation lands strongly" },
+      { "aspect": "Underlying need", "men": "To feel respected and accepted", "women": "To feel understood and responded to" }
+    ]
+  },
   "lastReviewed": "2026-06"
 }

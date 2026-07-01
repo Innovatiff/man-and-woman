@@ -79,5 +79,41 @@
     "what-makes-women-happy",
     "how-men-handle-emotions"
   ],
+  "quickTake": "For most men, lasting happiness tracks warm, dependable relationships far more than income or status. Autonomy, competence, and purpose matter too — and money helps mainly up to the point where it removes financial stress, then its returns to daily mood flatten.",
+  "pullQuote": "The men who aged happiest were not the richest or most accomplished, but those embedded in warm, dependable relationships.",
+  "keyStats": [
+    {
+      "value": "80+ years",
+      "label": "Length of the Harvard Study of Adult Development, which found close relationships — not wealth or fame — best predicted men who aged happy and healthy.",
+      "source": "Vaillant (2012); Waldinger & Schulz (2023)"
+    },
+    {
+      "value": "~50%",
+      "label": "Greater likelihood of survival associated with strong social relationships — an effect comparable to quitting smoking.",
+      "source": "Holt-Lunstad, Smith & Layton (2010), meta-analysis of 300,000+ people"
+    },
+    {
+      "value": "Plateaus",
+      "label": "Day-to-day emotional wellbeing rose with income only up to a modest baseline, after which more money did little for everyday mood.",
+      "source": "Kahneman & Deaton (2010)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Where happiness is concentrated", "men": "More often in one relationship, usually a partner", "women": "More often spread across several close ties" },
+      { "aspect": "Close confidants in adulthood", "men": "Tend to report fewer", "women": "Tend to report more" },
+      { "aspect": "Pursuit of external markers", "men": "Often lean toward status, titles, achievement", "women": "Also pursue them, with less social pressure to lead with them" },
+      { "aspect": "Underlying needs for wellbeing", "men": "Autonomy, competence, relatedness", "women": "Autonomy, competence, relatedness (largely the same)" }
+    ]
+  },
+  "keyTakeaways": [
+    "The strongest predictor of men's long-term happiness is the quality of close relationships, not income or status.",
+    "Money reliably improves daily mood mainly up to the point where it removes financial stress, then its returns tend to flatten.",
+    "Autonomy, competence, and relatedness — the three needs in self-determination theory — sustain deeper wellbeing than external rewards.",
+    "Achievement-based happiness fades once the goal is reached; purpose and connection are renewable, which is why they predict wellbeing better.",
+    "Men, on average, keep fewer close confidants, which can concentrate wellbeing in a single relationship and raise loneliness over time.",
+    "Lower expressed need for connection is often socialized reticence, not genuine indifference — men benefit from close ties as much as women do."
+  ],
   "lastReviewed": "2026-06"
 }

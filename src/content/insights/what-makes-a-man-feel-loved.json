@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A man may not say much when a partner thanks him sincerely for something he worked hard at, but that acknowledgment can stay with him and quietly deepen his sense of being valued and loved.",
     "Easy physical warmth that is not always a prelude to something else — a hug, sitting close, affectionate touch in passing — often communicates love to a man more directly than a carefully worded message.",
-    "Being accepted on an off day, without being managed or improved, can feel profoundly loving. Many men report that a partner's calm acceptance of their flaws and moods is one of the clearest signs that they are genuinely loved rather than tolerated."
+    "Being accepted on an off day, without being managed or improved, can feel profoundly loving. Many men report that a partner's calm acceptance of their flaws and moods is one of the clearest signs that they are genuinely loved rather than tolerated.",
+    "A partner who turns toward a small bid — glancing up from her phone when he mentions his day, or asking a follow-up question about something he cares about — can make a man feel loved in a way a scheduled date night does not. It is the everyday noticing, not the occasion, that registers."
   ],
   "whatPeopleGetWrong": [
     "A frequent misconception is that men do not need or want emotional warmth and just want practical or physical things. The research points elsewhere: men want to feel understood, accepted, and cared for as much as anyone — they are often simply more practiced at giving and reading those signals through action and touch than through extended talk.",
@@ -73,5 +74,41 @@
     "why-men-want-to-feel-needed",
     "what-men-need-in-relationship"
   ],
+  "quickTake": "Many men feel most loved through sincere appreciation, warm physical affection, and being accepted rather than corrected. The underlying need — to feel seen and cared for — is the same as anyone's; men are often just more practiced at giving and reading it through action and touch.",
+  "pullQuote": "For many men, being accepted rather than evaluated is what feeling loved is made of.",
+  "keyStats": [
+    {
+      "value": "Predicts commitment",
+      "label": "Feeling genuinely appreciated predicts stronger commitment and greater willingness to invest in the relationship, with appreciation for effort and character landing especially hard for men.",
+      "source": "Gordon et al. (2012)"
+    },
+    {
+      "value": "Everyday bids",
+      "label": "Turning toward a partner's small bids for connection and keeping fondness alive predicts marital health more than grand romantic displays.",
+      "source": "Gottman & Silver (1999)"
+    },
+    {
+      "value": "Limited support",
+      "label": "The popular 'love languages' framework has limited empirical backing; perceived responsiveness and appreciation are what reliably make people, including men, feel loved.",
+      "source": "Reis & Shaver (1988); love-languages research reviews"
+    }
+  ],
+  "keyTakeaways": [
+    "Sincere appreciation, warm physical affection, and being accepted as he is rank highly for many men.",
+    "Perceived responsiveness — feeling seen and cared for rather than evaluated — is a core ingredient, communicated through presence as much as words.",
+    "Appreciation for effort and character often lands more powerfully than praise for appearance.",
+    "Touch is an important channel, especially affection that is not always a prelude to sex.",
+    "Men want emotional warmth as much as anyone; they are often just more practiced at giving and reading it through action.",
+    "Individual differences predict what reaches a man better than gender, so paying attention to the specific person matters most."
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Primary channel", "men": "Often action and physical affection", "women": "Often words and shared conversation" },
+      { "aspect": "Appreciation that lands", "men": "For effort, competence, and character", "women": "For being seen and understood" },
+      { "aspect": "What can read as unloving", "men": "Feeling criticized or treated as a project", "women": "Feeling unheard or unattended to" },
+      { "aspect": "Core need underneath", "men": "To feel respected and accepted", "women": "To feel understood and responded to" }
+    ]
+  },
   "lastReviewed": "2026-06"
 }

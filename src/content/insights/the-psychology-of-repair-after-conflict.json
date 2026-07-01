@@ -74,5 +74,41 @@
     "why-we-argue-with-the-people-we-love",
     "how-to-rebuild-trust-after-betrayal"
   ],
+  "quickTake": "How a couple recovers from a fight may matter more than the fight itself. Small attempts to reconnect — a softened tone, an apology, turning back toward each other — are among the stronger signals of a lasting bond, and repair is a learnable skill.",
+  "pullQuote": "It is the absence of repair, not conflict itself, that tends to erode a bond over time.",
+  "keyStats": [
+    {
+      "value": "Repair attempts",
+      "label": "In stable relationships, attempts to de-escalate a conflict are frequent and, crucially, received; in distressed ones they are often missed or rejected.",
+      "source": "Gottman & Silver (1999)"
+    },
+    {
+      "value": "Both making and accepting",
+      "label": "The ability to accept a partner's repair appears as important to the outcome as making one.",
+      "source": "Gottman & Silver (1999); Gottman (2011)"
+    },
+    {
+      "value": "Empathy + apology",
+      "label": "Forgiveness — a shift from resentment toward goodwill — is aided by empathy for the offending partner and a sincere apology, and works as an ongoing process rather than a one-time event.",
+      "source": "McCullough et al. (1998)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Physiological arousal after conflict", "men": "Some research finds men stay flooded longer, on average", "women": "Tend to settle somewhat sooner, on average" },
+      { "aspect": "Tendency to withdraw", "men": "Somewhat more prone to withdraw and delay reconnecting", "women": "Somewhat more likely to pursue reconnection" },
+      { "aspect": "Capacity to repair", "men": "Repair is learnable for either partner", "women": "Repair is learnable for either partner" },
+      { "aspect": "Overlap", "men": "Individuals vary widely; either partner can withdraw or reach out", "women": "Individuals vary widely; either partner can withdraw or reach out" }
+    ]
+  },
+  "keyTakeaways": [
+    "A repair attempt is any word or action — a joke, a touch, an apology, a step back — that keeps a conflict from spiraling.",
+    "Accepting a partner's repair is as much a skill as offering one; many attempts fail because a still-flooded partner cannot take them in.",
+    "Genuine repair is hard while physiologically flooded, so self-soothing or a short break often has to come first.",
+    "Reconnecting emotionally often precedes resolving the issue — restoring warmth creates the safety to problem-solve well.",
+    "Specific apologies that name what you did and its impact aid forgiveness more than a vague 'sorry you're upset.'",
+    "Repair is learnable: pausing when flooded, returning after a break, and offering specific apologies can become habits."
+  ],
   "lastReviewed": "2026-06"
 }
