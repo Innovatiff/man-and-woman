@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A woman who asks her partner to 'spend more time together' may already have plenty of hours in his company — what she is missing is the phone-down, eyes-up kind of attention where a conversation can actually unfold.",
     "A brief but fully present exchange — ten minutes of real listening after work — can leave a partner feeling more connected than an entire evening spent side by side with a screen between them.",
-    "When someone shares a small piece of good news and is met with a distracted 'that's nice,' the moment can quietly sting. The same news met with genuine interest and follow-up questions tends to deepen the bond noticeably."
+    "When someone shares a small piece of good news and is met with a distracted 'that's nice,' the moment can quietly sting. The same news met with genuine interest and follow-up questions tends to deepen the bond noticeably.",
+    "A couple who instituted a short phones-in-a-drawer window over dinner often finds it does more for closeness than a rare weekend away — the daily ritual of undistracted attention accumulates in a way a single big event cannot."
   ],
   "whatPeopleGetWrong": [
     "A frequent misconception is that quality time is about doing something elaborate or expensive. Research suggests the active ingredient is responsive attention, not the activity — washing dishes together with real conversation can build more closeness than an outing spent half-distracted.",
@@ -72,6 +73,41 @@
     "why-women-value-emotional-connection",
     "how-physical-touch-builds-connection",
     "why-women-value-consistency-over-grand-gestures"
+  ],
+  "quickTake": "For many women, 'quality time' is not about more hours together but about undistracted presence — phones down, attention fully given. Intimacy research suggests closeness is built by responsiveness, not quantity, so a short, fully engaged exchange can beat a long, divided one.",
+  "pullQuote": "Sitting in the same room while each person scrolls separately can leave both feeling lonelier than being apart.",
+  "keyStats": [
+    {
+      "value": "Turning toward",
+      "label": "Couples who consistently respond to each other's small 'bids' for attention build a reservoir of goodwill, while those who turn away erode it.",
+      "source": "Gottman (2011), The Science of Trust"
+    },
+    {
+      "value": "Good news matters",
+      "label": "How a partner responds to your good news predicts relationship quality, sometimes more than how they respond to bad news.",
+      "source": "Gable et al. (2004)"
+    },
+    {
+      "value": "Responsiveness",
+      "label": "Intimacy grows through a cycle of disclosure met with attentive, warm responding — distraction breaks the cycle.",
+      "source": "Reis & Shaver (1988)"
+    }
+  ],
+  "comparison": {
+    "title": "Quality time: average tendencies",
+    "rows": [
+      { "aspect": "What reads as connection", "men": "Often shared activity and side-by-side company", "women": "Often responsive, face-to-face attention" },
+      { "aspect": "Sensitivity to distraction", "men": "May feel it less acutely, on average", "women": "Often notice divided attention more keenly" },
+      { "aspect": "How closeness is built", "men": "Sometimes through doing things together", "women": "Sometimes through being listened to and met" },
+      { "aspect": "Response to a bid for time", "men": "May read it literally as scheduling", "women": "May mean a wish for present engagement" }
+    ]
+  },
+  "keyTakeaways": [
+    "The active ingredient in quality time is responsive attention, not the quantity of hours or how elaborate the activity is.",
+    "A request for 'more time together' is often a request for phones-down, present engagement — not literally more hours.",
+    "Small daily doses of undistracted presence tend to matter more than occasional large blocks of divided attention.",
+    "Turning toward a partner's small bids, especially when inconvenient, is one of the most reliable ways relationships stay warm.",
+    "This is a common tendency with heavy overlap; many men crave the same presence, and love-language and personality predict it better than gender."
   ],
   "lastReviewed": "2026-06"
 }

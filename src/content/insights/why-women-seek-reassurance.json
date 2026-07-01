@@ -73,5 +73,41 @@
     "why-women-overthink-relationships",
     "why-women-value-consistency-over-grand-gestures"
   ],
+  "quickTake": "Seeking reassurance is usually the relationship system doing its job — checking that closeness is safe — not neediness. Women may voice it more openly through socialization, but the underlying need for felt security is human, and men seek it too, often more quietly.",
+  "pullQuote": "Reassurance-seeking is the relationship system doing exactly what it is designed to do — checking that closeness is safe.",
+  "keyStats": [
+    {
+      "value": "Both sexes",
+      "label": "Attachment anxiety is distributed across men and women; any average difference is in how openly reassurance is voiced, not in how much it is felt.",
+      "source": "Mikulincer & Shaver (2007); Hyde (2005)"
+    },
+    {
+      "value": "A dimension, not a trait",
+      "label": "People higher in attachment anxiety monitor a partner's availability more closely and seek reassurance more actively under uncertainty — a personality dimension, not a fixed feature of one gender.",
+      "source": "Mikulincer & Shaver (2007)"
+    },
+    {
+      "value": "Context-driven",
+      "label": "The same person may rarely need reassurance in a stable, responsive relationship and often need it in an uncertain one — it tracks circumstances as much as character.",
+      "source": "Murray, Holmes & Collins (2006)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "How the need is expressed", "men": "Often quieter — checking approval, withdrawing when unsure", "women": "More often voiced directly, e.g. 'are we okay?'" },
+      { "aspect": "Underlying drive", "men": "Same need for felt security", "women": "Same need for felt security" },
+      { "aspect": "Permission to name it", "men": "Often socialized to suppress or redirect", "women": "Often given more permission to ask for closeness" },
+      { "aspect": "What settles it", "men": "Signs of approval and steadiness", "women": "Brief, sincere reassurance and warmth" }
+    ]
+  },
+  "keyTakeaways": [
+    "Reassurance-seeking is usually normal risk regulation — checking that it is safe to depend on a partner — not a red flag.",
+    "The need for felt security is human; attachment anxiety appears in both sexes, so this is not a uniquely female trait.",
+    "Socialization affects the voice, not the heart: women may name the need more openly while men feel it just as much.",
+    "Brief, sincere reassurance defuses it fastest; irritation or dismissiveness tends to raise the perceived risk and intensify it.",
+    "It becomes worth addressing only when it turns into a relentless loop no reassurance settles, which usually signals deeper anxiety.",
+    "Consistency and responsiveness from a partner can gradually lower the alarm that drives the seeking over time."
+  ],
   "lastReviewed": "2026-06"
 }

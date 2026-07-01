@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A woman may feel deeply secure not because of a grand gesture but because her partner consistently makes her a priority in small, visible ways — protecting their time together, introducing her to the people who matter to him, choosing her company when other options exist. The message read is steady: you are wanted on purpose.",
     "Conversely, someone can feel quietly unsettled in a relationship that looks fine from outside if they sense they are the default rather than the choice — contacted when convenient, fitted into the gaps. The hurt usually is not about wanting to win a competition; it is the absence of clear evidence that the bond is intentional and safe.",
-    "Being chosen can also mean being chosen again after conflict. When a partner stays and repairs rather than withdrawing or keeping options open, it sends a powerful signal that the relationship is something they actively keep, not merely something they have not yet left."
+    "Being chosen can also mean being chosen again after conflict. When a partner stays and repairs rather than withdrawing or keeping options open, it sends a powerful signal that the relationship is something they actively keep, not merely something they have not yet left.",
+    "A partner who, without being asked, turns down an appealing invitation to protect a planned evening together often communicates 'chosen' more powerfully than any anniversary gift — the small, visible act of choosing this bond over an alternative is what registers as being wanted on purpose."
   ],
   "whatPeopleGetWrong": [
     "A common misreading is that wanting to feel chosen is insecurity or a demand to be flattered. More often it is a request for clarity — for a partner's commitment to be legible rather than guessed at. Felt security generally makes people steadier and more generous, not more demanding.",
@@ -73,6 +74,41 @@
     "why-women-value-consistency-over-grand-gestures",
     "what-makes-a-woman-feel-loved",
     "why-women-need-to-feel-heard"
+  ],
+  "quickTake": "Many women describe feeling actively chosen — prioritized, pursued, and kept rather than merely tolerated — as central to relationship security. It is less about ego than about reading clear, ongoing signals that the bond is safe and intentional.",
+  "pullQuote": "The message read is steady: you are wanted on purpose.",
+  "keyStats": [
+    {
+      "value": "Need to belong",
+      "label": "Forming and maintaining a few strong, stable bonds is argued to be a fundamental human motivation — feeling chosen is direct evidence that need is met.",
+      "source": "Baumeister & Leary (1995)"
+    },
+    {
+      "value": "Risk regulation",
+      "label": "People continually gauge a partner's regard and calibrate how much to invest — signals of being prioritized lower perceived risk and let them lean in.",
+      "source": "Murray, Holmes & Collins (2006)"
+    },
+    {
+      "value": "Broadly human",
+      "label": "The desire to feel chosen is shared across the sexes, not exclusively female, with heavy overlap between men and women.",
+      "source": "Hyde (2005)"
+    }
+  ],
+  "comparison": {
+    "title": "Feeling chosen: average tendencies",
+    "rows": [
+      { "aspect": "How the need is voiced", "men": "Often felt but voiced less openly", "women": "Often named and attended to more explicitly" },
+      { "aspect": "What signals commitment", "men": "May weigh shared plans and loyalty", "women": "May weigh protected time and visible prioritization" },
+      { "aspect": "Sensitivity to relational cues", "men": "Present, sometimes less deliberately tracked", "women": "Often monitored more closely, on average" },
+      { "aspect": "What erodes it", "men": "Feeling replaceable or unneeded", "women": "Feeling like a default rather than a choice" }
+    ]
+  },
+  "keyTakeaways": [
+    "Feeling chosen signals that the human needs to belong and to matter are being met — it is evidence the bond is not provisional.",
+    "Wanting it is usually a request for clarity and visible commitment, not insecurity or a demand to be flattered.",
+    "Visible, consistent prioritization matters more than dramatic gestures — small, repeated acts of choosing register most.",
+    "Being chosen again after conflict — staying and repairing — is one of the strongest signals of an intentional bond.",
+    "This is a broadly human need with heavy overlap; attachment style predicts its intensity better than gender does."
   ],
   "lastReviewed": "2026-06"
 }

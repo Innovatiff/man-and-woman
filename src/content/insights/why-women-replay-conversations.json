@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "Lying awake re-running a work conversation — 'why did I say that, what did she mean by that look' — is rumination in its most recognizable form. The replay feels like preparation or problem-solving, but by 2 a.m. it is usually just recycling the same uncertainty.",
     "After a small disagreement with a partner, someone might mentally rehearse the exchange dozens of times, scripting better responses for an argument that is already over. This can occasionally surface a genuine insight, but more often it keeps the hurt active without changing anything.",
-    "A brief, ambiguous text — 'ok.' — can trigger extended replaying about tone and meaning. Because the message itself offers no resolution, the mind supplies endless interpretations, none of which can be confirmed without simply asking."
+    "A brief, ambiguous text — 'ok.' — can trigger extended replaying about tone and meaning. Because the message itself offers no resolution, the mind supplies endless interpretations, none of which can be confirmed without simply asking.",
+    "Days after a job interview, someone keeps re-running one answer they gave — 'I should have phrased that differently' — long after the decision is out of their hands. The replay changes nothing about the outcome, but it keeps the moment alive as if it could still be edited."
   ],
   "whatPeopleGetWrong": [
     "A common error is treating rumination as the same thing as thoughtfulness or caring, and therefore as purely positive. Reflection can be valuable, but the looping, unresolved version reliably worsens mood without solving the problem. Recognizing when reflection has tipped into rumination is the key distinction the research draws.",
@@ -71,6 +72,42 @@
     "how-women-process-emotions",
     "how-to-process-difficult-emotions",
     "why-women-seek-reassurance"
+  ],
+  "quickTake": "Mentally replaying a conversation — what was said, what you should have said — is a form of rumination. Women tend to do it somewhat more than men on average, often to process uncertainty. Brief reflection can help, but a conclusion-less loop worsens mood rather than solving anything.",
+  "pullQuote": "Re-examining a fixed memory rarely yields new information, so the loop can run indefinitely — figuring it out long after it has stopped helping.",
+  "keyStats": [
+    {
+      "value": "Learned coping style",
+      "label": "Rumination is repetitively focusing on distress without moving to action; women tend to do it more on average, men more often distract or turn to activity.",
+      "source": "Nolen-Hoeksema (2000)"
+    },
+    {
+      "value": "~2x",
+      "label": "Women are roughly twice as likely to report depression, a gap linked partly to rumination amplifying and prolonging low mood.",
+      "source": "Nolen-Hoeksema, Larson & Grayson (1999)"
+    },
+    {
+      "value": "Small effect",
+      "label": "Most psychological gender differences are small or near zero — the replaying gap is real but modest, with heavy overlap.",
+      "source": "Hyde (2005)"
+    }
+  ],
+  "comparison": {
+    "title": "Processing an ambiguous interaction: average tendencies",
+    "rows": [
+      { "aspect": "Default response", "men": "More often distract or stay busy", "women": "More often replay and analyze" },
+      { "aspect": "Where the mind goes", "men": "Toward the next task", "women": "Back to what was said and meant" },
+      { "aspect": "Potential upside", "men": "Avoids some looping", "women": "Sometimes surfaces genuine insight or repair" },
+      { "aspect": "Shared risk", "men": "Suppression has its own costs", "women": "Looping recycles distress without resolving it" }
+    ]
+  },
+  "keyTakeaways": [
+    "Replaying conversations is a form of rumination — the mind seeking closure a fixed memory can't provide.",
+    "Women ruminate somewhat more on average, but the difference is modest with heavy overlap.",
+    "Brief, focused reflection is healthy; the harmful version is the repetitive, conclusion-less loop.",
+    "The looping and the useful kind both feel like 'figuring it out,' so the unhelpful one masquerades as effort.",
+    "Interrupting the loop — naming it, a worry window, action, or an absorbing activity — beats analyzing it to the end.",
+    "For a partner who replays, offering early clarity removes the ambiguity that fuels the loop."
   ],
   "lastReviewed": "2026-06"
 }

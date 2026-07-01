@@ -73,5 +73,41 @@
     "how-women-fall-in-love",
     "what-drives-female-behavior"
   ],
+  "quickTake": "What people call 'testing' is usually not calculated manipulation but reassurance-seeking and the attachment system reacting to uncertainty — often unconscious. The pickup-artist 'shit test' framing distorts it. Men do the same, and the better response is steady reassurance, not games.",
+  "pullQuote": "The 'test,' in other words, is mostly about whether reassurance arrives.",
+  "keyStats": [
+    {
+      "value": "No research base",
+      "label": "There is no serious body of psychology describing women as systematically administering deliberate 'tests' to manipulate men; that framing comes from pickup-artist culture, not science.",
+      "source": "Overview of the research literature"
+    },
+    {
+      "value": "Uncertainty reduction",
+      "label": "When relational uncertainty is high, people seek information to resolve it — sometimes indirectly, by raising a hard topic or pulling back to see if a partner pursues.",
+      "source": "Knobloch & Solomon (2002)"
+    },
+    {
+      "value": "Risk regulation",
+      "label": "People continually gauge whether it is safe to depend on a partner, sometimes seeking signals of commitment before investing further — the aim is security, not control.",
+      "source": "Murray, Holmes & Collins (2006)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "What it usually is", "men": "Reassurance-seeking under uncertainty", "women": "Reassurance-seeking under uncertainty" },
+      { "aspect": "Common indirect form", "men": "Withdrawing to see if a partner pursues", "women": "Raising a hard question or voicing a worry" },
+      { "aspect": "How conscious it is", "men": "Often unconscious, driven by attachment anxiety", "women": "Often unconscious, driven by attachment anxiety" },
+      { "aspect": "What resolves it", "men": "Steady reassurance and direct talk", "women": "Steady reassurance and direct talk" }
+    ]
+  },
+  "keyTakeaways": [
+    "The 'shit test' framing comes from pickup-artist culture, not psychology, and misreads vulnerability as an adversarial move.",
+    "What looks like testing is usually reassurance-seeking, risk regulation, or relational uncertainty — much of it unconscious.",
+    "It is not female-specific: men probe for reassurance too, often by withdrawing to see if a partner pursues.",
+    "The most effective response is the least strategic one — meet the underlying need for reassurance with steadiness and care.",
+    "Gently naming what you notice can turn an indirect probe into a direct conversation that actually resolves the uncertainty.",
+    "Consistent reassurance and reliability tend to reduce the behavior over time, because the doubt driving it shrinks."
+  ],
   "lastReviewed": "2026-06"
 }

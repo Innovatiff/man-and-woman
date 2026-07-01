@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A woman who is genuinely capable at her job may still feel like an impostor, attributing successes to luck and failures to herself — a pattern in which no amount of achievement ever quiets the underlying doubt.",
     "Scrolling through others' polished posts, someone may end the evening feeling smaller and behind, comparing her ordinary inside to everyone else's edited outside without noticing the mismatch.",
-    "A person may pour energy into being everything for everyone — partner, parent, colleague, friend — and still feel she is failing at all of it, because the combined standard is one no human could fully meet."
+    "A person may pour energy into being everything for everyone — partner, parent, colleague, friend — and still feel she is failing at all of it, because the combined standard is one no human could fully meet.",
+    "Receiving warm praise for a finished project, someone may deflect it instantly — 'anyone could have done that' — and fixate on the one flaw only she noticed, so the compliment slides off while the imagined shortfall sticks. That asymmetry is the contingent-worth pattern in miniature."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that feeling 'not good enough' means someone genuinely lacks ability. Research points the other way: these feelings track far more with where self-worth is staked and how much comparison and perfectionism are running than with actual competence. Highly capable people are often the hardest on themselves.",
@@ -72,6 +73,42 @@
     "how-women-can-overcome-self-doubt",
     "the-psychology-of-self-worth",
     "how-women-can-stop-comparing-themselves"
+  ],
+  "quickTake": "The nagging 'not good enough' feeling rarely reflects real inadequacy. It usually grows from self-worth staked on external markers, constant upward comparison, and perfectionism — so even genuine success never quite settles the doubt.",
+  "pullQuote": "When worth is contingent, meeting one standard simply reveals the next, so the feeling of 'not enough' persists even amid real success.",
+  "keyStats": [
+    {
+      "value": "Contingent worth",
+      "label": "When self-esteem is staked on domains like appearance, approval, or competence, it becomes fragile and reactive — one setback can trigger a global sense of not measuring up.",
+      "source": "Crocker & Wolfe (2001)"
+    },
+    {
+      "value": "Upward comparison",
+      "label": "People evaluate themselves by comparing to others, and measuring against those who seem more successful reliably deflates self-evaluation — now supplied constantly by curated feeds.",
+      "source": "Festinger (1954), social comparison theory"
+    },
+    {
+      "value": "Self-compassion helps",
+      "label": "Harsh self-criticism tends to correlate with anxiety and stalled progress, while self-compassion predicts greater resilience and, paradoxically, more follow-through.",
+      "source": "Neff (2003)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Domains worth is often staked on", "men": "More often status, provision, competence", "women": "More often appearance, approval, caretaking" },
+      { "aspect": "Comparison triggers", "men": "Achievement, income, standing", "women": "Appearance, relationships, 'doing it all'" },
+      { "aspect": "How it tends to show", "men": "May mask doubt with bravado or withdrawal", "women": "May voice it as self-criticism or impostor feelings" },
+      { "aspect": "Underlying mechanism", "men": "Contingent worth and comparison", "women": "Contingent worth and comparison" }
+    ]
+  },
+  "keyTakeaways": [
+    "Feeling 'not good enough' tracks with where self-worth is staked, not with actual ability — capable people are often hardest on themselves.",
+    "Contingent self-worth makes each achievement reveal the next impossible bar, so success alone rarely quiets the doubt.",
+    "Constant upward comparison — especially against curated social feeds — reliably deflates how people rate themselves.",
+    "Harsh self-criticism is not the motivator it feels like; self-compassion supports more resilience and follow-through.",
+    "Men experience this too, more often around status or provision — the domain differs by socialization, not the vulnerability.",
+    "Reassurance rarely fixes it alone; grounding worth in values and questioning perfectionistic standards tends to help over time."
   ],
   "lastReviewed": "2026-06"
 }

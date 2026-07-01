@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "She describes a frustrating day at work, and within seconds her partner offers three fixes. The advice may be good, but it can feel like being managed rather than met — and the common response, 'I don't want you to solve it, I just want you to listen,' is not unreasonable. It is naming the connection she was actually after.",
     "By contrast, a partner who says 'that sounds exhausting, no wonder you're upset' before anything else often watches the tension drain out of the room. Nothing was solved, yet she feels closer and calmer — a direct illustration of validation doing the work that advice could not.",
-    "Feeling unheard accumulates quietly. A pattern of being met with solutions or distraction can leave a woman gradually sharing less, not because the issues went away but because disclosing them stopped feeling worth it. The withdrawal is often misread as 'she's fine now' when it is closer to the opposite."
+    "Feeling unheard accumulates quietly. A pattern of being met with solutions or distraction can leave a woman gradually sharing less, not because the issues went away but because disclosing them stopped feeling worth it. The withdrawal is often misread as 'she's fine now' when it is closer to the opposite.",
+    "A partner learns to ask one small question — 'do you want me to help with this, or just listen?' — before responding. That single check turns a guessing game into a reliable connection, and she starts opening up more because sharing finally lands where she intended it to."
   ],
   "whatPeopleGetWrong": [
     "The biggest misconception is that wanting to be heard rather than helped is illogical or a refusal of good advice. The research frames it as the opposite: validation is doing essential relational work, and feeling understood is often the precondition for being open to solutions at all. Listening first is not the absence of help — it is a form of it.",
@@ -72,6 +73,42 @@
     "why-women-want-emotional-safety",
     "the-importance-of-emotional-attunement",
     "how-men-and-women-communicate"
+  ],
+  "quickTake": "When she shares a problem and wants to be heard, she's usually after connection, not a fix. Feeling understood — perceived partner responsiveness — is a core engine of closeness. Jumping to solutions can signal the feelings themselves weren't received.",
+  "pullQuote": "Listening first is not the absence of help — it is a form of it; feeling understood is often the precondition for being open to solutions at all.",
+  "keyStats": [
+    {
+      "value": "Core mechanism",
+      "label": "Perceived partner responsiveness — feeling understood, valued, and cared for — is described as the central engine of intimacy and closeness.",
+      "source": "Reis & Shaver (1988)"
+    },
+    {
+      "value": "Turning toward",
+      "label": "Habitually turning toward a partner's small emotional 'bids' rather than dismissing them predicts relationship stability over time.",
+      "source": "Gottman (2011)"
+    },
+    {
+      "value": "Tend-and-befriend",
+      "label": "Seeking social support and connection is itself a stress-regulation strategy, so talking through a hard day can be the coping, not avoidance of it.",
+      "source": "Taylor et al. (2000)"
+    }
+  ],
+  "comparison": {
+    "title": "Responding to a hard day: average tendencies",
+    "rows": [
+      { "aspect": "First instinct when a partner vents", "men": "Often move to fix or solve", "women": "Often seek to be heard and validated" },
+      { "aspect": "What the conversation is for", "men": "More often to report and resolve", "women": "More often to process and connect" },
+      { "aspect": "What settles distress", "men": "Can vary; often a plan of action", "women": "Frequently feeling understood first" },
+      { "aspect": "Underlying need", "men": "To feel respected and useful", "women": "To feel understood and not alone" }
+    ]
+  },
+  "keyTakeaways": [
+    "Wanting to be heard rather than helped is not illogical — validation does real relational work.",
+    "Feeling understood settles the nervous system, and a settled mind is more open to solutions anyway.",
+    "Jumping straight to advice can land as 'your feelings were a problem to close' rather than receive.",
+    "The learnable skill is to validate first, then ask whether she wants to vent or wants input.",
+    "Feeling chronically unheard leads to quietly sharing less — often misread as 'she's fine now.'",
+    "This is a human need, not a female one — most people want their feelings received before their problems fixed."
   ],
   "lastReviewed": "2026-06"
 }

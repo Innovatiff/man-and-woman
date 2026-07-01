@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A woman might pick up that a friend is upset from a slight change in tone or a shorter-than-usual reply, before anything is said directly — the cue was there for anyone to read, but she was attending to it closely.",
     "Noticing that a partner seems 'off' despite him insisting he is fine often reflects accurate reading of subtle nonverbal signals — a tighter expression, a change in posture — rather than imagining things, though it is not infallible.",
-    "Remembering small details a partner mentioned in passing can reflect both attention and the value placed on the relationship; the noticing and the caring tend to travel together rather than being separate abilities."
+    "Remembering small details a partner mentioned in passing can reflect both attention and the value placed on the relationship; the noticing and the caring tend to travel together rather than being separate abilities.",
+    "Walking into a room, she registers that a friend has rearranged the furniture or is wearing a new haircut before anyone comments — not a sixth sense, but attention aimed at the details other people are simply not scanning for in that moment."
   ],
   "whatPeopleGetWrong": [
     "A common exaggeration is treating this as a near-magical 'female intuition' that always reads people correctly. The research describes a modest average advantage in decoding cues, not infallibility. Misreads happen in both directions, and confidence in a read does not guarantee accuracy — context and direct communication still matter.",
@@ -72,6 +73,42 @@
     "how-women-read-between-the-lines",
     "the-power-of-small-gestures",
     "how-women-handle-emotions"
+  ],
+  "quickTake": "Women hold a modest average edge in reading nonverbal cues — tone, expression, body language — which can make them quicker to catch small shifts in mood and detail. The effect is real but small, driven largely by attention and motivation, with big overlap between the sexes.",
+  "pullQuote": "It reflects skill and focus, not a separate way of perceiving the world — the cue was there for anyone to read; she was attending to it closely.",
+  "keyStats": [
+    {
+      "value": "Small edge",
+      "label": "A small but consistent average advantage for women in decoding nonverbal cues — one of the more replicated findings in the area.",
+      "source": "Hall (1978), review of many studies"
+    },
+    {
+      "value": "Flexible, not fixed",
+      "label": "Nonverbal decoding accuracy improves with motivation, and the gender gap can shrink or disappear depending on context.",
+      "source": "Hall (1978); Kring & Gordon (1998)"
+    },
+    {
+      "value": "Small effect",
+      "label": "Across psychological measures the sexes are far more alike than different, so the noticing edge is a modest tendency, not a divide.",
+      "source": "Hyde (2005)"
+    }
+  ],
+  "comparison": {
+    "title": "Reading nonverbal cues: average tendencies",
+    "rows": [
+      { "aspect": "Decoding tone and expression", "men": "Slightly lower average accuracy", "women": "Small average advantage" },
+      { "aspect": "Attention to emotional cues", "men": "Can vary widely by motivation", "women": "Often more consistently directed there" },
+      { "aspect": "When motivated to read a person", "men": "Accuracy rises, gap narrows", "women": "Already attending closely" },
+      { "aspect": "Source of the skill", "men": "Attention and practice", "women": "Attention and practice" }
+    ]
+  },
+  "keyTakeaways": [
+    "Women show a small but replicated average advantage in reading tone, expression, and body language.",
+    "The edge is modest and context-dependent, not a near-magical 'female intuition' that is always right.",
+    "Much of it comes from where attention is directed — noticing tracks caring about the information.",
+    "Men's accuracy rises when they are motivated to read a situation; the underlying capacity is broadly shared.",
+    "Because reads can be wrong, it helps to check impressions out loud rather than assume them.",
+    "Individual attention, personality, and experience shape cue-reading at least as much as gender does."
   ],
   "lastReviewed": "2026-06"
 }

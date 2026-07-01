@@ -73,5 +73,41 @@
     "why-women-want-emotional-availability",
     "the-psychology-of-emotional-intimacy"
   ],
+  "quickTake": "Emotional intimacy is the felt sense of being known — disclosing something real and being met with understanding. For many women it is less about constant talking than about whether a partner genuinely engages, and its absence can make even a stable relationship feel lonely.",
+  "pullQuote": "A few genuinely responsive exchanges can matter more than hours of surface chatter — it is the quality of being met that builds closeness, not the amount of talking.",
+  "keyStats": [
+    {
+      "value": "Disclosure + response",
+      "label": "Intimacy is an interpersonal process: closeness rises when one person discloses something personal and the other responds with understanding and care.",
+      "source": "Reis & Shaver, intimacy model (1988)"
+    },
+    {
+      "value": "Secure base",
+      "label": "Adult love is built on the attachment system; being met with responsiveness signals a partner is a reliable secure base, strengthening the bond.",
+      "source": "Hazan & Shaver (1987)"
+    },
+    {
+      "value": "Modest difference",
+      "label": "Women may lean somewhat more toward connection-seeking under stress, but the tendency is modest and overlaps heavily with men.",
+      "source": "Taylor et al. (2000); Hyde (2005)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "How closeness is often sought", "men": "More through shared activity and gradual disclosure", "women": "More through self-disclosure and emotional conversation" },
+      { "aspect": "Under stress", "men": "More varied responses", "women": "Somewhat more likely to confide and seek connection" },
+      { "aspect": "Socialized pressures", "men": "Often toward restraint and 'doing'", "women": "Often toward talking and emotional sharing" },
+      { "aspect": "Underlying desire for closeness", "men": "Broadly human, expressed differently", "women": "Broadly human, expressed differently" }
+    ]
+  },
+  "keyTakeaways": [
+    "Emotional intimacy is being known and responded to — disclosure met with understanding — not surface companionship.",
+    "It is about quality of responsiveness, not volume; a few attentive exchanges beat hours of surface chatter.",
+    "Closeness stalls when disclosure is repeatedly met with distraction or problem-solving instead of understanding.",
+    "Responsiveness plus reciprocal disclosure builds the bond more than advice or grand gestures.",
+    "Men want intimacy too, often built through shared activity and gradual opening up.",
+    "Attachment style and personality predict the need for intimacy better than gender does."
+  ],
   "lastReviewed": "2026-06"
 }

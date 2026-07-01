@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "After being ghosted, a person may replay the last conversations for weeks, hunting for the moment it went wrong. The distress often comes less from the loss itself than from the unanswered 'why' — there is no explanation to accept, so the mind cannot settle.",
     "Sometimes a single honest conversation does more than weeks of guessing. Even a painful answer ('I'm not ready for this') can bring relief, because it replaces a swirl of theories with a fixed reality the mind can finally accept and move past.",
-    "Closure does not always require the other person. Many people reach it internally — through journaling, talking it through with a friend, or simply accepting that some questions will never be answered. The goal is a settled mind, not necessarily a confession from the other side."
+    "Closure does not always require the other person. Many people reach it internally — through journaling, talking it through with a friend, or simply accepting that some questions will never be answered. The goal is a settled mind, not necessarily a confession from the other side.",
+    "A person may draft a long message to an ex they never send — writing out everything they wanted to say. The act of putting the swirl of theories into words, and then choosing not to send it, can itself close the file: the search finally has somewhere to land, even without a reply."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that needing closure is a sign of weakness, obsession, or inability to 'just move on.' Research frames it as a normal cognitive and emotional process — the mind doing its job of resolving uncertainty. Telling someone to stop wanting answers rarely helps; understanding why the loop persists does.",
@@ -72,6 +73,42 @@
     "the-psychology-of-ghosting",
     "why-women-overthink-relationships",
     "how-women-process-breakups"
+  ],
+  "quickTake": "Wanting closure isn't neediness — it's the mind trying to resolve an open question so it can rest. An unexplained ending stays 'active' and keeps getting replayed. A clear answer, even a painful one, often brings more relief than silence.",
+  "pullQuote": "When an ending lacks explanation, there is nothing to close the file on, so the mind keeps reopening it, searching for the missing piece.",
+  "keyStats": [
+    {
+      "value": "Individual trait",
+      "label": "Need for cognitive closure is a measurable individual-difference trait — the aversion to ambiguity varies more between people than between genders.",
+      "source": "Webster & Kruglanski (1994)"
+    },
+    {
+      "value": "~2x",
+      "label": "Women are roughly twice as likely to experience depression, a gap Nolen-Hoeksema links partly to a greater average tendency to ruminate on distress.",
+      "source": "Nolen-Hoeksema (2000)"
+    },
+    {
+      "value": "Small effect",
+      "label": "Gender differences in psychological measures are mostly small or near zero — the sexes overlap far more than they differ.",
+      "source": "Hyde (2005)"
+    }
+  ],
+  "comparison": {
+    "title": "Handling an unresolved ending: average tendencies",
+    "rows": [
+      { "aspect": "Response to ambiguity", "men": "More likely, on average, to distract or move on", "women": "More likely, on average, to replay and seek an answer" },
+      { "aspect": "What relief looks like", "men": "Often action, closing the chapter", "women": "Often a clear explanation to accept and file away" },
+      { "aspect": "Where closure comes from", "men": "Can vary widely by person", "women": "Can vary widely by person" },
+      { "aspect": "Underlying driver", "men": "Attachment and investment", "women": "Attachment and investment" }
+    ]
+  },
+  "keyTakeaways": [
+    "The need for closure is a normal drive to resolve uncertainty, not a character flaw or excess emotion.",
+    "An unexplained ending stays 'active' in the mind and gets replayed because there is nothing definite to accept.",
+    "A clear answer — even an unwelcome one — often brings relief by replacing swirling theories with a fixed reality.",
+    "Closure can be built internally, through journaling, talking it out, or accepting some questions stay unanswered.",
+    "Offering a brief, honest explanation when ending things is usually kinder than vanishing.",
+    "Need for closure varies more between individuals — by attachment style and rumination — than between genders."
   ],
   "lastReviewed": "2026-06"
 }

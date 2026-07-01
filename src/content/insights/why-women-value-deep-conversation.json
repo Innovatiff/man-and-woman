@@ -73,5 +73,41 @@
     "why-women-value-emotional-connection",
     "why-women-connect-feelings-and-talking"
   ],
+  "quickTake": "For many women, deep conversation is not just exchanging information — it is how intimacy gets built. Closeness grows through self-disclosure met by genuine responsiveness, and many women are socialized toward 'rapport-talk' that uses conversation to connect. Often the point is the connection itself, not a fix.",
+  "pullQuote": "When shares are met with distraction or quick fixes, the opportunity for closeness is missed even if the 'problem' gets solved.",
+  "keyStats": [
+    {
+      "value": "Disclosure + responsiveness",
+      "label": "Closeness deepens through a loop of one person disclosing something meaningful and the other responding with understanding — one of the most robust findings in relationship science.",
+      "source": "Reis & Shaver (1988)"
+    },
+    {
+      "value": "Rapport vs. report",
+      "label": "On average, many women use conversation to build and maintain relationships ('rapport-talk') while many men lean toward conveying information or solving problems ('report-talk') — tendencies shaped by socialization, with wide overlap.",
+      "source": "Tannen (1990)"
+    },
+    {
+      "value": "Talk as regulation",
+      "label": "On average, women respond to stress partly by seeking and offering social connection, so talking things through can be genuinely regulating, not only enjoyable.",
+      "source": "Taylor et al. (2000), tend-and-befriend"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Typical use of talk", "men": "Often to convey information or solve a problem", "women": "Often to build and maintain connection" },
+      { "aspect": "When sharing a problem", "men": "May move quickly to solutions", "women": "May want to feel heard before any fix" },
+      { "aspect": "Role of conversation", "men": "Frequently a means to an end", "women": "Frequently a channel for closeness itself" },
+      { "aspect": "Underlying capacity", "men": "Equal — differences are habit, not ability", "women": "Equal — differences are habit, not ability" }
+    ]
+  },
+  "keyTakeaways": [
+    "For many women, deep conversation is how intimacy is built, not just a way to trade information.",
+    "Closeness grows through a loop of meaningful disclosure met by genuine responsiveness.",
+    "The 'rapport-talk' versus 'report-talk' pattern reflects socialized tendencies, not differences in emotional capacity.",
+    "When someone shares a problem, the first need is often to feel heard before any solution — jumping to fixes can feel dismissive.",
+    "Asking 'do you want help thinking it through, or just to be heard?' tends to resolve the common mismatch.",
+    "These are averages with wide overlap: many men crave deep conversation and many women prefer brevity or action."
+  ],
   "lastReviewed": "2026-06"
 }

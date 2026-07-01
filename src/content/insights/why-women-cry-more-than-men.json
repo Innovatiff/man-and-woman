@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A woman who tears up during a hard conversation is often not 'losing control' — for many people tears arrive alongside clear thinking and can signal how much something matters. Reading them as manipulation or fragility usually misses what is actually happening.",
     "Many men describe wanting to cry but feeling physically unable to, or only doing so alone. That is frequently the residue of years of being told tears are unmanly, not evidence that they feel less. The capacity is there; the permission was withdrawn early.",
-    "Tears at happy or moving moments — a wedding, a reunion, a piece of music — show that crying is not only about sadness. It tracks intensity of feeling of many kinds, which is part of why it functions so well as a signal to the people around us."
+    "Tears at happy or moving moments — a wedding, a reunion, a piece of music — show that crying is not only about sadness. It tracks intensity of feeling of many kinds, which is part of why it functions so well as a signal to the people around us.",
+    "A boy who stops crying at school around age ten or eleven has usually not stopped feeling things — he has learned that visible tears carry a social cost among peers. The same child at five might have wept freely, which is exactly the childhood-to-adolescence shift researchers point to when they call the gap largely socialized."
   ],
   "whatPeopleGetWrong": [
     "The biggest misconception is that crying more means feeling more, or that crying less means feeling less. The evidence suggests experienced emotion is far more similar across genders than visible expression is. A man who rarely cries may be feeling every bit as much as a woman who cries easily.",
@@ -72,6 +73,42 @@
     "how-women-handle-emotions",
     "how-women-experience-stress",
     "the-psychology-of-female-self-criticism"
+  ],
+  "quickTake": "On average women report crying more than men, but most of that gap looks socialized rather than biological — it barely exists in childhood and widens in adolescence. Crying is a signal that invites support and releases tension, not a sign of weakness.",
+  "pullQuote": "The capacity is there; the permission was withdrawn early — a man who rarely cries may be feeling every bit as much as a woman who cries easily.",
+  "keyStats": [
+    {
+      "value": "Widens in adolescence",
+      "label": "The crying gap between the sexes is small in childhood and grows around adolescence — a timing that points toward learned gender norms rather than biology alone.",
+      "source": "Vingerhoets, 'Why Only Humans Weep' (2013)"
+    },
+    {
+      "value": "Similar experience",
+      "label": "Men and women report broadly similar intensity of emotional experience; women tend to be more facially and behaviorally expressive.",
+      "source": "Kring & Gordon (1998)"
+    },
+    {
+      "value": "Difference of averages",
+      "label": "Crying is one of the larger reported gender gaps, yet still a difference across heavily overlapping distributions, not two separate categories of people.",
+      "source": "Hyde (2005), gender similarities hypothesis"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Reported crying frequency", "men": "Report crying less often", "women": "Report crying more often" },
+      { "aspect": "Intensity of emotion felt", "men": "Broadly similar", "women": "Broadly similar" },
+      { "aspect": "Outward expressiveness", "men": "Tend to show less visibly", "women": "Tend to be more expressive" },
+      { "aspect": "Early socialization", "men": "Often taught tears are 'unmanly'", "women": "Often taught tears are acceptable" }
+    ]
+  },
+  "keyTakeaways": [
+    "Women do report crying more, so it is not purely a stereotype — but the gap is largely socialized, not fixed biology.",
+    "The gap is small in childhood and widens in adolescence, when gender norms intensify — a strong clue it is learned.",
+    "Crying more does not mean feeling more: experienced emotion is far more similar across sexes than visible expression.",
+    "Tears are a communication and self-soothing tool that invites comfort and releases tension — not weakness or instability.",
+    "When a partner cries, calm presence usually helps more than alarm or rushing to fix the problem.",
+    "These are group averages with enormous individual variation — personality and upbringing predict crying better than gender."
   ],
   "lastReviewed": "2026-06"
 }

@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A delayed reply turns into a branching tree of interpretations: he is busy, he is annoyed, he is losing interest, I said something wrong last night. Each branch feels worth checking because the stakes — the security of the relationship — feel high. The effort is real care pointed at an unanswerable question.",
     "After a small disagreement, the conversation gets replayed in detail hours later, with new things she wishes she had said. This is the mind trying to repair and prepare at once. It often produces insight, but when it runs in circles past midnight it mostly produces exhaustion.",
-    "Sometimes overthinking is accurate pattern-detection, not noise. A partner genuinely has been more withdrawn, and the analysis is picking up a real shift. The difficulty is that rumination alone cannot tell her which case she is in — that usually requires an actual conversation rather than more private theorizing."
+    "Sometimes overthinking is accurate pattern-detection, not noise. A partner genuinely has been more withdrawn, and the analysis is picking up a real shift. The difficulty is that rumination alone cannot tell her which case she is in — that usually requires an actual conversation rather than more private theorizing.",
+    "Composing and deleting a text three times before sending it — weighing how each word might be read — is overthinking in miniature. The care is genuine, but the spiral often ends the moment she simply sends a plain version and gets a warm reply that none of the drafts predicted."
   ],
   "whatPeopleGetWrong": [
     "The biggest misconception is that overthinking means a woman is 'crazy,' insecure, or looking for problems. The research frames it very differently: it is a common coping response to uncertainty in something she is invested in, and the feelings driving it are ordinary. Dismissing it as drama tends to increase the very anxiety that fuels it.",
@@ -73,6 +74,42 @@
     "how-women-experience-stress",
     "understanding-attachment-styles",
     "how-women-handle-emotions"
+  ],
+  "quickTake": "What looks like 'overthinking' is usually rumination — turning a worry over without resolving it. Women, on average, lean toward this style more than men, shaped by how emotions are socialized and how uncertainty activates the attachment system. It reflects investment, not irrationality — but it can backfire when it loops.",
+  "pullQuote": "Overthinking is, in part, a safety-checking system running on incomplete information — real care pointed at an unanswerable question.",
+  "keyStats": [
+    {
+      "value": "~2x",
+      "label": "Women are roughly twice as likely to experience depression, a gap Nolen-Hoeksema links partly to a greater average tendency to ruminate.",
+      "source": "Nolen-Hoeksema, Larson & Grayson (1999)"
+    },
+    {
+      "value": "Coping style",
+      "label": "Rumination is a learned way of handling distress, not a defect of character — many men cope with the same worries through distraction.",
+      "source": "Nolen-Hoeksema (2000)"
+    },
+    {
+      "value": "Risk-checking",
+      "label": "People constantly gauge how far to trust a partner's regard before risking closeness, and ambiguous signals make the mind work harder.",
+      "source": "Murray, Holmes & Collins (2006)"
+    }
+  ],
+  "comparison": {
+    "title": "Coping with relationship uncertainty: average tendencies",
+    "rows": [
+      { "aspect": "Typical coping style", "men": "More often distraction or avoidance", "women": "More often rumination and analysis" },
+      { "aspect": "How it looks from outside", "men": "Calmer, but processing may be hidden", "women": "More visible worry and replaying" },
+      { "aspect": "What the worry signals", "men": "Investment and concern", "women": "Investment and concern" },
+      { "aspect": "What calms it", "men": "Clarity and consistency", "women": "Clarity, reassurance, consistency" }
+    ]
+  },
+  "keyTakeaways": [
+    "'Overthinking' is usually rumination — repetitive worry that doesn't move toward resolution.",
+    "Women report ruminating more on average, but the difference is modest with large overlap.",
+    "It's driven by uncertainty plus investment — the attachment system flagging possible threat to the bond.",
+    "It isn't 'crazy' or insecure; dismissing it as drama tends to increase the anxiety that fuels it.",
+    "Consistent communication and reassurance work well because they remove the ambiguity the loop feeds on.",
+    "Attachment style and personality predict overthinking far better than gender does."
   ],
   "lastReviewed": "2026-06"
 }

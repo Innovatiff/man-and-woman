@@ -73,5 +73,41 @@
     "the-importance-of-emotional-attunement",
     "how-trust-is-built-and-broken"
   ],
+  "quickTake": "Many women value steady, reliable responsiveness over occasional grand gestures — not because they are picky, but because predictable day-to-day care is what builds felt security. Intimacy is cumulative: a hundred small responsive moments outweigh one spectacular gesture.",
+  "pullQuote": "Consistency reassures in a way that intensity cannot.",
+  "keyStats": [
+    {
+      "value": "Cumulative, not event-driven",
+      "label": "Intimacy is built through repeated cycles of disclosure met by responsive care, so many small responsive moments outweigh one spectacular gesture.",
+      "source": "Reis & Shaver (1988), intimacy-as-process model"
+    },
+    {
+      "value": "Turning toward small bids",
+      "label": "Strong relationships rest less on big romantic moments than on partners reliably 'turning toward' each other's everyday bids for connection.",
+      "source": "Gottman (2011)"
+    },
+    {
+      "value": "Dependability over intensity",
+      "label": "What calms the risk-regulation system is evidence of reliable care, not intensity — a grand gesture can leave the question 'can I count on this person day to day?' unanswered.",
+      "source": "Murray, Holmes & Collins (2006)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "What builds felt security", "men": "Also reassured by dependable, steady care", "women": "Predictable, everyday responsiveness" },
+      { "aspect": "Effect of grand gestures", "men": "Enjoyable, but not a security substitute", "women": "Can ring hollow if daily care is missing" },
+      { "aspect": "Effect of inconsistency", "men": "Also unsettling to the risk-regulation system", "women": "Keeps the alarm on alert, feels less safe" },
+      { "aspect": "Underlying need", "men": "Reliable care — largely shared", "women": "Reliable care — largely shared" }
+    ]
+  },
+  "keyTakeaways": [
+    "Felt security is built from predictability, not intensity — only a steady pattern answers 'is this person reliably here for me?'",
+    "Intimacy is cumulative: many small responsive moments outweigh one spectacular gesture.",
+    "Inconsistency can feel worse than modest, steady warmth because it keeps the risk-regulation system on alert.",
+    "Grand gestures work best resting on a foundation of everyday care — as garnish, not the foundation.",
+    "Building a secure relationship is less about money or flair than showing up reliably, which is within anyone's reach.",
+    "The need for reliable, dependable care is largely human — many men value the same steadiness."
+  ],
   "lastReviewed": "2026-06"
 }

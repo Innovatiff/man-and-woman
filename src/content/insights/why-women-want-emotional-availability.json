@@ -73,5 +73,41 @@
     "what-women-need-in-relationship",
     "the-importance-of-emotional-attunement"
   ],
+  "quickTake": "Wanting an emotionally available partner is mostly wanting responsiveness — feeling understood, validated, and cared for when it counts. It is less about endless talk of feelings and more about a partner who reliably turns toward you in the moments that matter.",
+  "pullQuote": "A relatively reserved partner who reliably turns toward his partner can be deeply emotionally available — reserve and responsiveness are separate things.",
+  "keyStats": [
+    {
+      "value": "Responsiveness",
+      "label": "Intimacy deepens when disclosure is met with understanding, validation, and care; when that responsiveness is missing, disclosure stalls.",
+      "source": "Reis & Shaver, intimacy-as-process model (1988)"
+    },
+    {
+      "value": "Secure base",
+      "label": "Adult love works as an attachment process; feeling a partner is accessible and responsive in distress is a strong predictor of relationship security.",
+      "source": "Hazan & Shaver (1987)"
+    },
+    {
+      "value": "Lower risk",
+      "label": "People gauge how safe it is to depend on a partner before becoming vulnerable; perceived responsiveness lowers that felt risk.",
+      "source": "Murray, Holmes & Collins (2006), risk regulation"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Naming the need explicitly", "men": "Feel it, but less likely to label it this way", "women": "Somewhat more likely to name availability as a priority" },
+      { "aspect": "What it looks like when met", "men": "Also valued, often shown through presence", "women": "Feeling listened to and met, not just provided for" },
+      { "aspect": "Response to a shared problem", "men": "More likely to move quickly to solutions", "women": "Often want presence with the feeling first" },
+      { "aspect": "Underlying attachment need", "men": "The same need to depend on a responsive partner", "women": "The same need to depend on a responsive partner" }
+    ]
+  },
+  "keyTakeaways": [
+    "Emotional availability is largely responsiveness — being met with care in the moments that count, not constant talk of feelings.",
+    "Feeling a partner is reachable and responsive builds security that grand gestures rarely provide on their own.",
+    "A quiet or reserved partner can be deeply available; reserve and responsiveness are separate traits.",
+    "Physical presence is not the same as emotional presence — loneliness in a relationship usually points at responsiveness.",
+    "Availability is learnable: fewer distractions, curious follow-ups, and acknowledging a feeling before fixing it.",
+    "The need is broadly human and shaped more by attachment style than by gender."
+  ],
   "lastReviewed": "2026-06"
 }

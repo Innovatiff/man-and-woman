@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A woman recovering from illness or a hard week may insist she is 'fine' and keep doing for everyone else, finding it genuinely harder to let others carry her than to keep carrying them.",
     "When a partner offers to handle something, she may redo it, wave it off, or feel oddly anxious rather than relieved — the help landing as discomfort rather than support.",
-    "Compliments and gratitude get deflected almost automatically — 'oh, it was nothing' — because taking them in fully would mean sitting with being valued rather than useful."
+    "Compliments and gratitude get deflected almost automatically — 'oh, it was nothing' — because taking them in fully would mean sitting with being valued rather than useful.",
+    "Booking a whole day off to rest can bring a restless, guilty edge rather than relief — the unstructured time feels indulgent, so she fills it with errands and small tasks for others instead of letting herself simply be cared for by the pause."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that difficulty receiving reflects strength or selflessness to be admired without qualification. It often coexists with depletion, quiet resentment, and unmet needs. Endless one-way giving is not the same as healthy generosity, and it can strain the very relationships it aims to serve.",
@@ -72,6 +73,42 @@
     "overcoming-people-pleasing",
     "how-women-can-prioritize-self-care",
     "the-mental-load-women-carry"
+  ],
+  "quickTake": "Many women give more easily than they receive, deflecting help, care, and rest. It usually grows from socialization toward caretaking, self-silencing, and worth staked on being useful — a learned pattern, not a virtue or flaw. Receiving is a skill that can be practiced.",
+  "pullQuote": "You cannot easily receive what you cannot let yourself want, so offers of care can be reflexively deflected before they land.",
+  "keyStats": [
+    {
+      "value": "Learned, not innate",
+      "label": "Self-silencing describes how some women learn to subordinate their own needs to preserve relationships, judging themselves by an ideal of selfless caretaking.",
+      "source": "Jack (1991)"
+    },
+    {
+      "value": "Tend-and-befriend",
+      "label": "On average, women's stress response leans somewhat more toward nurturing others and seeking connection — a tendency shaped by biology and socialization, not a universal rule.",
+      "source": "Taylor et al. (2000)"
+    },
+    {
+      "value": "3 core needs",
+      "label": "Well-being rests on autonomy, competence, and relatedness — and healthy relatedness is mutual, so chronic over-giving without receiving can quietly starve the needs it appears to serve.",
+      "source": "Deci & Ryan (2000), self-determination theory"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Where receiving feels hard", "men": "Often around asking for help or admitting need", "women": "Often around accepting care, rest, and appreciation" },
+      { "aspect": "Common driver", "men": "Self-reliance and stoicism scripts", "women": "Worth tied to caretaking and usefulness" },
+      { "aspect": "How depletion shows", "men": "Withdrawal, going it alone", "women": "Over-giving, quiet resentment, feeling unseen" },
+      { "aspect": "Underlying pattern", "men": "Learned, shaped by history", "women": "Learned, shaped by history" }
+    ]
+  },
+  "keyTakeaways": [
+    "Difficulty receiving usually reflects learned socialization and personal history, not an inherent female trait.",
+    "When worth is tied to being useful, accepting help can register as weakness or a debt rather than ordinary interdependence.",
+    "Self-silencing makes needs hard to even notice — you cannot easily receive what you will not let yourself want.",
+    "One-way giving is not the same as healthy generosity; it often coexists with depletion and quiet resentment.",
+    "Relationships thrive on mutuality, so learning to receive is often a gift to the bond, not a withdrawal from it.",
+    "Receiving is a skill that grows with practice — accepting small offers, letting compliments land, naming needs directly."
   ],
   "lastReviewed": "2026-06"
 }

@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "Someone vents about a hard day at work. A partner who immediately lists what she should have said can leave her feeling more alone, even if the suggestions are reasonable. A partner who first reflects back the frustration — 'that sounds genuinely unfair, no wonder you're upset' — often finds she becomes more open to brainstorming next steps.",
     "A simple shift in question can change everything: asking 'do you want me to help solve this, or do you just need to talk it through?' lets the person signal what they need. Many report relief at being asked, because it removes the guesswork and prevents a caring partner's instinct to fix from landing as dismissal.",
-    "Sometimes understanding is the whole solution. A worry that felt overwhelming can shrink considerably just from being spoken aloud to someone who listens without rushing to repair it. The problem may remain, but the person feels steadier and less alone in facing it."
+    "Sometimes understanding is the whole solution. A worry that felt overwhelming can shrink considerably just from being spoken aloud to someone who listens without rushing to repair it. The problem may remain, but the person feels steadier and less alone in facing it.",
+    "A partner who catches himself mid-fix and switches to 'that sounds really hard — tell me more' often watches the whole conversation change tone. Once she feels met, she frequently asks for his input herself, and the advice he was itching to give lands as help rather than dismissal."
   ],
   "whatPeopleGetWrong": [
     "A common misreading is that wanting empathy first means a woman is rejecting advice or does not want her problem solved. Usually she wants both — just in order, with understanding first. Reaching straight for solutions, however well meant, can unintentionally communicate impatience with the feeling rather than care for the person.",
@@ -72,6 +73,41 @@
     "why-women-need-to-feel-heard",
     "how-men-and-women-communicate",
     "the-importance-of-emotional-attunement"
+  ],
+  "quickTake": "When many women share a problem, they want to feel understood before — or instead of — being handed a solution. It is not an aversion to advice but a sequence: empathy first builds connection, and only then does problem-solving usually land well.",
+  "pullQuote": "The friction arises when solving substitutes for understanding rather than following it.",
+  "keyStats": [
+    {
+      "value": "Responsiveness",
+      "label": "Closeness deepens when disclosure is met with a response that feels understanding and caring — perceived responsiveness, not correct answers, builds connection.",
+      "source": "Reis & Shaver (1988)"
+    },
+    {
+      "value": "Tend-and-befriend",
+      "label": "Seeking and giving social support is a primary stress-regulation strategy, more pronounced on average in women — talking it through is itself soothing.",
+      "source": "Taylor et al. (2000)"
+    },
+    {
+      "value": "Broadly human",
+      "label": "The wish to feel understood before being managed is a shared human preference, even if voiced more often by women.",
+      "source": "Hyde (2005)"
+    }
+  ],
+  "comparison": {
+    "title": "Sharing a problem: average tendencies",
+    "rows": [
+      { "aspect": "First instinct when a partner vents", "men": "Often to offer a solution", "women": "Often to offer empathy and validation" },
+      { "aspect": "What a shared problem signals", "men": "Sometimes a request to fix it", "women": "Often a bid for connection first" },
+      { "aspect": "How support tends to regulate stress", "men": "Sometimes by solving the stressor", "women": "Often by talking it through and feeling met" },
+      { "aspect": "When advice lands well", "men": "May want it straight away", "women": "Usually after feeling genuinely heard" }
+    ]
+  },
+  "keyTakeaways": [
+    "Wanting empathy first is about sequence and tone, not a refusal of advice — most people want both, with understanding leading.",
+    "Jumping straight to solutions can read as impatience with the feeling, even when the advice is sound.",
+    "Feeling heard helps regulate emotion and lower distress, which is often what needs to happen before a fix can be useful.",
+    "A simple ask — 'do you want help solving this, or just to talk it through?' — removes the guesswork for both people.",
+    "The urge to fix and the wish to be understood both come from caring; the skill is sequencing them, and neither is a purely male or female trait."
   ],
   "lastReviewed": "2026-06"
 }

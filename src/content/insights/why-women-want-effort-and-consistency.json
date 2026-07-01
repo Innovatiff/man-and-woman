@@ -73,5 +73,41 @@
     "how-trust-is-built-and-broken",
     "the-power-of-small-gestures"
   ],
+  "quickTake": "Wanting effort and consistency is really wanting reliable investment — a partner whose care is steady and predictable. On average, small dependable actions build more security than occasional grand gestures, because reliability is what makes it safe to depend on someone.",
+  "pullQuote": "It is the pattern, not the peak, that deepens intimacy — steady reliability tends to feel more meaningful than sporadic intensity.",
+  "keyStats": [
+    {
+      "value": "Investment",
+      "label": "Commitment grows not just from satisfaction but from accumulated investment and how reliable a relationship feels — steady effort is a clear signal of it.",
+      "source": "Rusbult, investment model (1980)"
+    },
+    {
+      "value": "Small moments",
+      "label": "Trust is built in everyday 'bids' for attention that partners turn toward or away from; consistency in these ordinary moments builds a strong foundation.",
+      "source": "Gottman, The Science of Trust (2011)"
+    },
+    {
+      "value": "Broadly human",
+      "label": "The sexes are more alike than different on most psychological measures; wanting reliable investment is shared, not female-specific.",
+      "source": "Hyde (2005), gender similarities hypothesis"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "What signals investment", "men": "Reliability and follow-through are valued too", "women": "Steady, repeated effort reads as investment" },
+      { "aspect": "Grand gesture vs. steady care", "men": "Often value dependable steadiness as well", "women": "Consistency tends to outweigh sporadic intensity" },
+      { "aspect": "Effect of hot-and-cold behavior", "men": "Also finds unpredictability unsettling", "women": "Erratic effort keeps the system on alert" },
+      { "aspect": "How trust forms", "men": "Built from observed reliability over time", "women": "Built from observed reliability over time" }
+    ]
+  },
+  "keyTakeaways": [
+    "Wanting effort and consistency is wanting reliable investment — steady, predictable care over time.",
+    "Consistent small actions tend to build security more durably than occasional grand gestures.",
+    "Inconsistency erodes trust because it never becomes safe to fully depend on a hot-and-cold partner.",
+    "Trust is built in everyday moments of turning toward a partner, not in dramatic peaks.",
+    "Committing to a sustainable, realistic level of care beats swinging between intense and absent.",
+    "The need for reliable investment is broadly human; attachment history shapes how much steadiness someone needs."
+  ],
   "lastReviewed": "2026-06"
 }

@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "Feeling personally responsible for a partner's bad mood — scanning for what's wrong, trying to fix it, feeling unsettled until they cheer up — even when the mood has nothing to do with you. The emotion belongs to them, but it registers as a problem you must solve.",
     "Being the one who remembers everyone's needs at a family gathering — who's hungry, who feels left out, who had a hard week — and managing the room's emotional weather while no one notices it's happening. This is emotional labor in its most familiar form.",
-    "Apologizing or adjusting oneself to defuse someone else's frustration, even when one did nothing wrong, because another person's discomfort feels intolerable to leave unaddressed. This reflects the self-silencing pattern: one's own standing yields to keeping others comfortable."
+    "Apologizing or adjusting oneself to defuse someone else's frustration, even when one did nothing wrong, because another person's discomfort feels intolerable to leave unaddressed. This reflects the self-silencing pattern: one's own standing yields to keeping others comfortable.",
+    "Silently reading the room before a group dinner — steering the conversation away from a touchy subject, checking that the quiet guest is included, absorbing the tension so no one else has to — then feeling drained afterward while everyone else recalls a relaxed evening. The work was real, but invisible, so it never got shared or thanked."
   ],
   "whatPeopleGetWrong": [
     "The biggest misconception is that this reflects women being naturally more nurturing in a fixed, biological way. Research suggests it's largely learned through socialization and reinforced by uneven emotional labor — which means it can be rebalanced. Framing it as innate makes the burden invisible and treats it as something women should simply carry.",
@@ -72,6 +73,42 @@
     "how-women-can-protect-their-energy",
     "how-women-can-set-boundaries",
     "overcoming-people-pleasing"
+  ],
+  "quickTake": "Feeling responsible for everyone's moods usually comes from emotional labor and socialization, not nature — girls are often raised to tend relationships and put others first. It is a real, often invisible burden that can be rebalanced without losing genuine care.",
+  "pullQuote": "The same person tracking who needs what is usually the one tracking who is upset and why — and it registers as a problem she must fix.",
+  "keyStats": [
+    {
+      "value": "Falls on women",
+      "label": "The cognitive work of a household — anticipating needs, monitoring everyone's wellbeing, planning ahead — falls disproportionately on women, often invisibly.",
+      "source": "Daminger (2019)"
+    },
+    {
+      "value": "Self-silencing",
+      "label": "Learning to subordinate one's own needs to maintain relationships and others' comfort is linked over time to depletion and lower mood.",
+      "source": "Jack, 'Silencing the Self' (1991)"
+    },
+    {
+      "value": "Tend-and-befriend",
+      "label": "On average women may respond to stress with more nurturing, affiliative behavior — adaptive, but able to shade into chronic over-responsibility when expectations reinforce it.",
+      "source": "Taylor et al. (2000)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Emotional / mental load", "men": "Often carries a smaller share, less by default", "women": "Often the default manager of the household's mood" },
+      { "aspect": "Response to another's bad mood", "men": "More likely to leave the mood with its owner", "women": "More likely to feel it as a problem to fix" },
+      { "aspect": "Self-silencing tendency", "men": "On average lower", "women": "On average higher, tied to keeping the peace" },
+      { "aspect": "Root of the pattern", "men": "Socialization and temperament", "women": "Socialization and temperament" }
+    ]
+  },
+  "keyTakeaways": [
+    "Feeling responsible for others' emotions is largely learned through socialization and uneven emotional labor — not a fixed biological trait.",
+    "The person who anticipates everyone's needs usually becomes the default emotional manager, often invisibly.",
+    "Self-silencing — putting one's own needs last to keep others comfortable — is linked to depletion and lower mood over time.",
+    "Genuine care is healthy; feeling obligated to manage and fix everyone's emotions is the over-responsibility to rebalance.",
+    "Naming the invisible labor lets it be shared, and letting others own their feelings reduces depletion without losing warmth.",
+    "Plenty of men feel this too and plenty of women don't — social roles and temperament predict it more than sex does."
   ],
   "lastReviewed": "2026-06"
 }

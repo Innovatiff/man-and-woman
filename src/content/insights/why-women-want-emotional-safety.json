@@ -74,5 +74,41 @@
     "the-importance-of-emotional-attunement",
     "how-trust-is-built-and-broken"
   ],
+  "quickTake": "Emotional safety is the sense that a partner is responsive, predictable, and unlikely to punish vulnerability. It is not neediness — it is the basic attachment need to feel secure before opening up. When safety is present, closeness follows; when it is absent, people pull back.",
+  "pullQuote": "Safety is what allows independence, not what undermines it — people who feel secure tend to be less clingy and better able to give a partner space.",
+  "keyStats": [
+    {
+      "value": "Secure base",
+      "label": "A felt sense of security lets people take emotional risks and rest in a relationship; adult love runs on the same security-seeking system that bonds children to caregivers.",
+      "source": "Hazan & Shaver (1987)"
+    },
+    {
+      "value": "The hinge",
+      "label": "Intimacy deepens only when vulnerable disclosure is met with understanding and care; perceived partner responsiveness is what turns openness into closeness.",
+      "source": "Reis & Shaver, intimacy-as-process model (1988)"
+    },
+    {
+      "value": "Risk gauging",
+      "label": "Because closeness exposes us to rejection, people continuously gauge how safe it is to depend on a partner and calibrate how much they invest.",
+      "source": "Murray, Holmes & Collins (2006)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Attentiveness to relational security", "men": "Present, sometimes less overtly monitored", "women": "Somewhat higher on average, often finely tuned" },
+      { "aspect": "Sensitivity to small cues", "men": "Also reads cues; often less socialized to monitor", "women": "Often heightened by socialization toward relationships" },
+      { "aspect": "When safety feels absent", "men": "May pull away, especially if avoidant", "women": "May hold back or self-protect until trust is shown" },
+      { "aspect": "Underlying need for safety", "men": "Fundamentally human, felt just as much", "women": "Fundamentally human, felt just as much" }
+    ]
+  },
+  "keyTakeaways": [
+    "Emotional safety is feeling a partner is responsive, predictable, and unlikely to punish vulnerability.",
+    "It is a basic attachment need, not weakness — security is what makes real openness possible.",
+    "Predictability matters as much as warmth; hot-and-cold behavior keeps the risk-regulation system on alert.",
+    "Feeling secure tends to make people less clingy and better able to give a partner space.",
+    "Safety is built through consistency, responsiveness, and reliable repair after conflict — not the absence of conflict.",
+    "The need is fundamentally human; attachment style predicts it better than gender does."
+  ],
   "lastReviewed": "2026-06"
 }

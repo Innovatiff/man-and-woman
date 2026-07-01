@@ -74,5 +74,41 @@
     "what-makes-a-woman-feel-loved",
     "the-importance-of-emotional-attunement"
   ],
+  "quickTake": "For many women, emotional connection means feeling truly known and responded to — not just spending time together. It reflects the universal human need to belong, and valuing it tends to support well-being, not signal neediness.",
+  "pullQuote": "The longing is usually not for more time together but for more being-known: real conversation, responsiveness, the feeling of being met rather than merely managed.",
+  "keyStats": [
+    {
+      "value": "Strongest predictor",
+      "label": "Perceived partner responsiveness — feeling understood, validated, and cared for — is among the most consistent predictors of relationship satisfaction and personal well-being.",
+      "source": "Reis & Shaver, intimacy-as-process model (1988)"
+    },
+    {
+      "value": "Fundamental need",
+      "label": "The need to belong — forming a few strong, caring bonds — is framed as a universal human motivation, not a female-specific one.",
+      "source": "Baumeister & Leary (1995)"
+    },
+    {
+      "value": "Small differences",
+      "label": "Across most psychological measures the sexes are far more alike than different; connection matters broadly, differing mainly in average emphasis.",
+      "source": "Hyde (2005), gender similarities hypothesis"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "How closeness is often built", "men": "Frequently through shared activity and side-by-side time", "women": "Frequently through self-disclosure and emotional sharing" },
+      { "aspect": "Signal a relationship is 'working'", "men": "Weighed alongside shared life and logistics", "women": "Often centered on felt emotional closeness" },
+      { "aspect": "Response to stress", "men": "More varied; connection is one route among several", "women": "Somewhat more tend-and-befriend — seeking close bonds" },
+      { "aspect": "How the need is expressed", "men": "Real but sometimes less explicitly named", "women": "More likely to name connection as a priority" }
+    ]
+  },
+  "keyTakeaways": [
+    "Emotional connection is largely responsiveness — feeling known, heard, and met — not simply time spent together.",
+    "It reflects the universal need to belong, so valuing it tends to support well-being and stability rather than signal neediness.",
+    "Men value connection too; the average gender difference is one of emphasis and expression, not capacity.",
+    "A relationship can run smoothly on logistics yet feel hollow when felt closeness quietly thins.",
+    "Attuned conversation and turning toward a partner's bids build connection more reliably than occasional big experiences.",
+    "Attachment style and personality shape how central connection feels more than gender does."
+  ],
   "lastReviewed": "2026-06"
 }

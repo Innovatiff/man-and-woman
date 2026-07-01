@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A woman in a stable, kind relationship may still long to feel actively pursued — not because the security is unwelcome, but because comfort without expressed desire can start to feel like being taken for granted. Small signals that a partner still chooses her, deliberately, often matter as much as the underlying commitment.",
     "Feeling desired frequently shows up in attention to the specific person rather than grand romance: a partner who notices what she's wearing, initiates closeness, or expresses wanting her company can move her more than an expensive gift. The felt message — you, in particular, are wanted — is what tends to land.",
-    "For many women, desire and safety reinforce each other. Being wanted by someone who is also reliable and emotionally present feels different from being wanted by someone whose interest seems shallow or conditional. The combination of being pursued and feeling secure is often what deepens attraction most."
+    "For many women, desire and safety reinforce each other. Being wanted by someone who is also reliable and emotionally present feels different from being wanted by someone whose interest seems shallow or conditional. The combination of being pursued and feeling secure is often what deepens attraction most.",
+    "A long-married partner who still initiates a kiss on the way out the door, or says 'I couldn't stop thinking about you today,' can reignite a sense of being desired that years of dependable routine had quietly let fade — the small, deliberate signal of active wanting is what lands."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that wanting to feel desired is mainly about ego or appearance. The research points more toward reassurance and intimacy: feeling wanted lowers the perceived risk of rejection (Murray and colleagues) and signals responsiveness (Reis and Shaver), making it easier to trust and open up. It is often more about emotional safety than vanity.",
@@ -72,6 +73,41 @@
     "why-women-want-emotional-safety",
     "what-makes-a-woman-feel-loved",
     "why-women-value-emotional-connection"
+  ],
+  "quickTake": "Many women want to feel genuinely desired — actively wanted and pursued, not merely tolerated. Crucially, that wish sits alongside a need for emotional safety rather than against it: being wanted by someone reliable and present is what tends to satisfy most.",
+  "pullQuote": "For many women, feeling wanted is not vanity but a form of reassurance that lowers the cost of vulnerability.",
+  "keyStats": [
+    {
+      "value": "Risk regulation",
+      "label": "People withhold closeness when unsure of a partner's regard — clear, ongoing desire lowers perceived rejection risk and makes it safer to open up.",
+      "source": "Murray, Holmes & Collins (2006)"
+    },
+    {
+      "value": "Mutual longing",
+      "label": "Passionate love captures the wish to be longed for in return; desire felt only one way tends to feel precarious, while reciprocated longing affirms.",
+      "source": "Hatfield & Sprecher (1986)"
+    },
+    {
+      "value": "Responsiveness",
+      "label": "Being actively desired functions as a strong signal that a partner has noticed you specifically — a form of responsiveness that deepens intimacy.",
+      "source": "Reis & Shaver (1988)"
+    }
+  ],
+  "comparison": {
+    "title": "Feeling desired: average tendencies",
+    "rows": [
+      { "aspect": "Desire and safety", "men": "Often felt as compatible, sometimes weighted toward wanting", "women": "Often most satisfying when the two go together" },
+      { "aspect": "What being desired signals", "men": "Sometimes attraction and validation", "women": "Often reassurance that interest is alive and mutual" },
+      { "aspect": "Preferred signals", "men": "May respond to direct expressions of wanting", "women": "Often value specific, person-focused attention over grand romance" },
+      { "aspect": "How the wish is voiced", "men": "Present but sometimes less openly named", "women": "Sometimes named more explicitly, on average" }
+    ]
+  },
+  "keyTakeaways": [
+    "Wanting to feel desired is more about reassurance and intimacy than ego or appearance — feeling wanted lowers the perceived risk of vulnerability.",
+    "Desire and security are not a trade-off; for many women, being wanted by a dependable, present partner is more compelling than either alone.",
+    "Specific, person-focused signals — noticing, initiating, expressing wanting their company — tend to land more than expensive gestures.",
+    "Reciprocity matters: mutual longing feels affirming, while desire that flows only one way can feel precarious.",
+    "This is broadly shared with heavy overlap — many men want to feel desired just as strongly, and attachment style shapes how much it matters."
   ],
   "lastReviewed": "2026-06"
 }

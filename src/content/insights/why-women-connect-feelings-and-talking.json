@@ -73,5 +73,40 @@
     "how-women-handle-emotions",
     "the-importance-of-emotional-attunement"
   ],
+  "quickTake": "For many women, talking about feelings is how emotions get processed and closeness gets built — not a sign of being 'more emotional.' It reflects a different aim for the conversation: to feel understood, not only to fix the problem.",
+  "pullQuote": "When she talks through a hard day, the talking is often doing the work of metabolizing the emotion, not merely describing it.",
+  "keyStats": [
+    {
+      "value": "Tend-and-befriend",
+      "label": "Under stress, people — women somewhat more often on average — turn toward others for support and connection, with talking a core part of that response.",
+      "source": "Taylor et al. (2000)"
+    },
+    {
+      "value": "Similar intensity",
+      "label": "Men and women report experiencing emotions with broadly similar intensity; the reliable difference is in expression, not in how much is felt.",
+      "source": "Kring & Gordon (1998)"
+    },
+    {
+      "value": "Small differences",
+      "label": "Across most psychological measures, including communication, the sexes overlap far more than they differ — gender predicts conversational style only weakly.",
+      "source": "Hyde (2005), gender similarities hypothesis"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Common aim of talking", "men": "Often leans toward conveying facts or solving", "women": "Often leans toward building rapport and connection" },
+      { "aspect": "Response to a partner venting", "men": "More likely to offer fixes or advice", "women": "More likely to offer empathy and validation" },
+      { "aspect": "Processing hard feelings", "men": "Somewhat more likely to think it through alone", "women": "Somewhat more likely to process out loud" },
+      { "aspect": "What 'being heard' means", "men": "Can mean the problem got addressed", "women": "Often means the feeling was understood first" }
+    ]
+  },
+  "keyTakeaways": [
+    "For many women, talking is how emotions get processed and closeness is built — not just how information is shared.",
+    "Men and women feel emotions with similar intensity; the pattern is about how talking is used, not about feeling more.",
+    "The 'she vents, he fixes' mismatch is usually a clash of purpose, not of caring — the two are pursuing different aims.",
+    "Leading with empathy before advice, or simply asking 'listen or solve?', tends to meet the actual need.",
+    "These are overlapping average tendencies shaped by socialization — many men talk to connect, many women prefer to solve."
+  ],
   "lastReviewed": "2026-06"
 }
