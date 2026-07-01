@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "After a few promising dates, one person stops replying entirely — no message, no explanation. The other is left refreshing the conversation, replaying interactions for a clue, and wondering what went wrong. The silence, more than the rejection itself, is what tends to sting, because it offers nothing to make sense of and invites self-blame.",
     "Someone who feels a relationship cooling but dreads the conversation simply lets messages go unanswered until the connection fades. They may genuinely intend no cruelty and even tell themselves they are avoiding hurt feelings, yet the ambiguity they leave behind often causes more lingering distress than an honest, brief message would have.",
-    "A person with a strong avoidant streak repeatedly disappears whenever a connection starts to deepen, not because of any specific fault in the other person but because closeness itself triggers withdrawal. The pattern recurs across relationships, pointing to attachment dynamics rather than anything about a particular partner."
+    "A person with a strong avoidant streak repeatedly disappears whenever a connection starts to deepen, not because of any specific fault in the other person but because closeness itself triggers withdrawal. The pattern recurs across relationships, pointing to attachment dynamics rather than anything about a particular partner.",
+    "After weeks of steady texting, one person goes quiet, then resurfaces months later with a casual 'hey' as if nothing happened — a pattern sometimes called 'zombieing.' The reappearance can reopen the old confusion rather than resolve it, showing how the lack of a clear ending leaves the door ajar in a way that keeps the ambiguity alive."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that ghosting always reflects deliberate cruelty or that being ghosted means something is wrong with the person left behind. Research suggests it more often reflects the ghoster's avoidance of discomfort and the low-cost exits of modern dating than a verdict on the other person's worth. Reading it as a personal indictment tends to add unwarranted self-blame to an already painful situation.",
@@ -77,6 +78,33 @@
     "understanding-attachment-styles",
     "why-people-self-sabotage-relationships",
     "why-we-overthink-dating-and-texting"
+  ],
+  "quickTake": "Ghosting usually reflects avoidance of a hard conversation and the low-cost exits of app dating, not calculated cruelty. It stings so much because the ambiguity — no reason, no closure — leaves the other person to fill the silence with self-blame.",
+  "pullQuote": "The silence, more than the rejection itself, is what tends to sting — because it offers nothing to make sense of and invites self-blame.",
+  "keyStats": [
+    {
+      "value": "Avoidance",
+      "label": "People higher in attachment avoidance tend to withdraw rather than confront relational discomfort — a pattern that fits disappearing without a word.",
+      "source": "Mikulincer & Shaver (2007)"
+    },
+    {
+      "value": "Low-cost exit",
+      "label": "Large partner pools and connections between strangers with no shared social network strip away the usual accountability, making a silent exit feel easier.",
+      "source": "Finkel et al. (2012), online dating review"
+    },
+    {
+      "value": "Both sexes",
+      "label": "Men and women ghost and are ghosted at broadly similar rates; attachment style and comfort with confrontation predict it better than gender.",
+      "source": "Hyde (2005), gender similarities hypothesis"
+    }
+  ],
+  "keyTakeaways": [
+    "Ghosting is more often avoidance coping and a low-cost exit than deliberate cruelty.",
+    "People higher in attachment avoidance are especially prone to disappearing rather than having a hard conversation.",
+    "App dating lowers accountability — no shared social network, many alternatives — which makes vanishing feel consequence-free.",
+    "Being ghosted hurts because the need to belong makes rejection painful, and the ambiguity makes it linger and invites self-blame.",
+    "A short, honest message replaces painful ambiguity with something the other person can process — usually kinder than silence.",
+    "Both men and women ghost; attachment style and comfort with confrontation predict it far better than gender."
   ],
   "lastReviewed": "2026-06"
 }

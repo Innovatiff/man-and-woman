@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A flash of anger when a partner dismisses your feelings can be useful information — a signal that a boundary or need is being crossed. Expressed calmly as 'that hurt, and I need us to talk about it,' the same anger can open a conversation rather than start a fight.",
     "Someone who was taught that anger is dangerous might suppress it for years, only to find it leaking out as resentment, passive aggression, or a disproportionate outburst — a pattern consistent with research on the costs of chronic suppression.",
-    "Pausing before responding — even briefly — lets the initial surge of arousal settle so that judgment can catch up, which tends to make the difference between reacting and responding."
+    "Pausing before responding — even briefly — lets the initial surge of arousal settle so that judgment can catch up, which tends to make the difference between reacting and responding.",
+    "A driver cut off in traffic feels an instant spike of anger, but the situation offers no useful action and no one to hold accountable. Recognizing that the surge is just information — not a command to retaliate — and letting it pass is often the skillful move, illustrating that feeling anger and acting on it are two separate things."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that anger is inherently bad or a sign of poor character. Research suggests anger is a normal emotion that often carries useful information; the problems usually come from how it is expressed — through aggression or contempt — not from feeling it in the first place.",
@@ -73,6 +74,41 @@
     "the-psychology-of-male-anger",
     "the-psychology-of-womens-anger",
     "how-to-process-difficult-emotions"
+  ],
+  "quickTake": "Anger is a signal, not a character flaw — it flags something that feels unfair, threatening, or wrong. Research suggests the emotion is rarely the problem; the harm comes from how it is expressed. Regulation turns anger into useful information, while suppression and aggression backfire.",
+  "pullQuote": "The emotion itself is rarely the problem; what matters is how it is understood and expressed.",
+  "keyStats": [
+    {
+      "value": "Mostly constructive",
+      "label": "Studies of everyday anger found it usually arises in close relationships over perceived unfairness and more often leads to clarifying a problem than to aggression.",
+      "source": "Averill (1983)"
+    },
+    {
+      "value": "Reappraisal > suppression",
+      "label": "Rethinking what a situation means tends to defuse anger more healthily than habitually pushing the feeling down, which leaves arousal running unresolved.",
+      "source": "Gross & John (2003)"
+    },
+    {
+      "value": "Small differences",
+      "label": "The sexes overlap far more than they differ on most psychological measures; men and women feel anger at broadly similar rates, with socialization shaping expression.",
+      "source": "Hyde (2005)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "How often anger is felt", "men": "Broadly similar rates to women", "women": "Broadly similar rates to men" },
+      { "aspect": "Expression that is socially encouraged", "men": "Often more permitted to show outward anger", "women": "Often steered toward containing or softening it" },
+      { "aspect": "What actually corrodes relationships", "men": "Contempt and personal attacks, not disagreement", "women": "Contempt and personal attacks, not disagreement" }
+    ]
+  },
+  "keyTakeaways": [
+    "Anger is a normal signal of unfairness, threat, or a crossed boundary — not a character flaw.",
+    "Most everyday anger happens in close relationships and can lead to constructive change.",
+    "The harm comes from how anger is expressed — aggression or contempt — not from feeling it.",
+    "'Venting' is unreliable; reappraisal and calming the body's arousal work better than blowing off steam.",
+    "Target the issue, not the person, and pause until the initial surge settles before responding.",
+    "Men and women feel anger at broadly similar rates; socialization shapes how each expresses it."
   ],
   "lastReviewed": "2026-06"
 }

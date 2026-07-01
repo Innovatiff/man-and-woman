@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A man who snaps over something small after a stressful day is often not really angry about the small thing. The irritation can be accumulated stress, worry, or feeling overwhelmed finding the one outlet that feels available.",
     "Receiving criticism or feeling disrespected, some men respond with a flash of anger that masks a sting of shame underneath. The anger arrives fast precisely because the vulnerable feeling beneath it is harder to acknowledge.",
-    "Fear for a loved one can come out sideways as anger — a parent who is terrified after a child wanders off may yell rather than weep. The yelling is the fear, transformed into the emotion that feels more manageable to express."
+    "Fear for a loved one can come out sideways as anger — a parent who is terrified after a child wanders off may yell rather than weep. The yelling is the fear, transformed into the emotion that feels more manageable to express.",
+    "A man facing job insecurity or money worries may become short-tempered and critical at home over minor things, when the real feeling is fear about failing to provide. The household reads irritability; underneath is anxiety that has no permitted outlet."
   ],
   "whatPeopleGetWrong": [
     "The biggest misconception is that anger in men is simply aggression or a character flaw. Research suggests it frequently sits on top of more vulnerable feelings that had nowhere else to go. Reading only the anger, and not what it may be protecting, misses what is actually happening.",
@@ -73,6 +74,42 @@
     "how-men-can-build-emotional-intelligence",
     "how-to-regulate-your-emotions",
     "how-men-deal-with-stress"
+  ],
+  "quickTake": "For many men, anger is the emotion that feels permitted, so it often becomes the visible surface of hurt, fear, or shame underneath. Men do not feel more anger than women on average — they tend to express it more outwardly. Reading what it protects, not just its volume, usually explains it.",
+  "pullQuote": "Hurt that might otherwise show as tears can instead come out as frustration, because that is the response that was never punished.",
+  "keyStats": [
+    {
+      "value": "Similar intensity",
+      "label": "Men and women experience emotions with broadly similar intensity; the reliable difference is in outward expression, with men more likely to show anger.",
+      "source": "Kring & Gordon (1998)"
+    },
+    {
+      "value": "Reappraisal helps",
+      "label": "People who habitually reframe situations manage anger better and report more well-being, while habitual suppressors tend to fare worse.",
+      "source": "Gross & John (2003)"
+    },
+    {
+      "value": "Learned, not fixed",
+      "label": "Many boys are socialized into a narrow emotional range where anger is permitted but sadness, fear, and shame are discouraged.",
+      "source": "Levant et al. (2009)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Felt intensity of emotion", "men": "Broadly similar to women", "women": "Broadly similar to men" },
+      { "aspect": "Outward expression of anger", "men": "Somewhat more likely to show it outwardly", "women": "Somewhat more likely to voice softer feelings" },
+      { "aspect": "Emotional range that feels 'permitted'", "men": "Often narrower, with anger the safe outlet", "women": "Often wider for sadness and fear" },
+      { "aspect": "What matters most", "men": "Upbringing, temperament, stress load", "women": "Upbringing, temperament, stress load" }
+    ]
+  },
+  "keyTakeaways": [
+    "Anger is often the more socially permitted emotion for men, so it becomes the visible surface of hurt, fear, or shame.",
+    "Men do not feel more anger on average than women — the difference is in outward expression, not felt intensity.",
+    "Shame in particular converts quickly into anger because it restores a sense of agency in a powerless moment.",
+    "A regulation gap — fewer tools for softer feelings — makes anger the default release valve.",
+    "Reappraisal, naming the underlying feeling, and physical outlets are learnable skills that help.",
+    "Understanding what anger masks is never a reason to tolerate aggression, which is never acceptable."
   ],
   "lastReviewed": "2026-06"
 }

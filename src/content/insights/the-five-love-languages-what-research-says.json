@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "One partner shows love by handling chores and fixing problems, while the other longs to hear it said out loud. Both feel they are loving generously, yet both can feel unseen. The love languages framework can usefully surface this gap, even if a partner's needs rarely fit neatly into one box.",
     "A couple might discover that what one person most wants is not a single 'language' but simply to feel noticed — sometimes through a hug, sometimes through undivided attention, sometimes through a kind word. Research suggests this flexible attentiveness matters more than identifying one fixed primary language.",
-    "Someone may read about love languages and finally articulate, 'I feel most cared for when we spend unhurried time together.' The lasting benefit usually comes less from the label and more from the conversation it opens about what each partner needs."
+    "Someone may read about love languages and finally articulate, 'I feel most cared for when we spend unhurried time together.' The lasting benefit usually comes less from the label and more from the conversation it opens about what each partner needs.",
+    "A couple takes an online quiz and learns they have 'different' primary languages, then treats the mismatch as an explanation for every conflict. In practice, the more useful move is smaller and less tidy: each simply asking the other what made them feel loved this week, and staying willing to update the answer as it changes."
   ],
   "whatPeopleGetWrong": [
     "The biggest misconception is treating the five love languages as established science. It is a popular, clinically derived framework that has not been strongly validated in peer-reviewed research, and several of its specific claims — especially the idea of one fixed primary language per person — have weak support. That does not make it useless, but it should be held loosely.",
@@ -72,6 +73,47 @@
     "the-power-of-small-gestures",
     "how-gratitude-improves-wellbeing",
     "what-makes-relationships-last"
+  ],
+  "quickTake": "The five love languages is a hugely popular framework whose specific claims hold up only partially. That people differ in how they express affection rings true; the stronger claims — one primary language each, matching as the key to lasting love — have limited support next to responsiveness and gratitude.",
+  "pullQuote": "The 'language' is the vehicle; the underlying responsiveness and appreciation are what actually move the relationship.",
+  "keyStats": [
+    {
+      "value": "5 categories",
+      "label": "Chapman's framework — words of affirmation, quality time, acts of service, physical touch, and gifts — is intuitive but not strongly validated in peer-reviewed research.",
+      "source": "Chapman, popular framework"
+    },
+    {
+      "value": "Decades of study",
+      "label": "Observational research on couples finds lasting relationships are distinguished by the steady accumulation of small positive interactions and turning toward everyday bids.",
+      "source": "Gottman & Silver (1999)"
+    },
+    {
+      "value": "Responsiveness",
+      "label": "Feeling understood, validated and cared for — perceived partner responsiveness — appears to drive closeness regardless of the channel through which care is expressed.",
+      "source": "Reis & Shaver (1988)"
+    },
+    {
+      "value": "Gratitude helps",
+      "label": "Expressing and feeling appreciation is linked to better relationship maintenance over time, suggesting affection matters most when it is noticed and reciprocated.",
+      "source": "Gordon et al. (2012)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Having a single 'primary' language", "men": "Preferences vary widely by individual, not by sex", "women": "Preferences vary widely by individual, not by sex" },
+      { "aspect": "Words of affirmation", "men": "Plenty most value being told, out loud", "women": "Plenty most value being told, out loud" },
+      { "aspect": "Acts of service or quality time", "men": "Many feel most cared for through help or time together", "women": "Many feel most cared for through help or time together" },
+      { "aspect": "What predicts lasting satisfaction", "men": "Responsiveness, bids, and gratitude — not category-match", "women": "Responsiveness, bids, and gratitude — not category-match" }
+    ]
+  },
+  "keyTakeaways": [
+    "The love languages capture something real — people differ in how they prefer to give and receive affection — but the model's central predictions aren't strongly supported.",
+    "The weakest claim is that each person has one fixed primary language; many people feel cared for through several channels depending on context.",
+    "Broader factors — perceived responsiveness, turning toward bids, and expressed gratitude — predict satisfaction more reliably than matching languages.",
+    "There's little reliable basis for assigning a love language by gender; preferences vary far more between individuals than between the sexes.",
+    "Used as a conversation starter rather than a rulebook, the framework can surface needs that might otherwise go unspoken.",
+    "The durable drivers of love are broader than any five-category scheme, and can be expressed through many different gestures."
   ],
   "lastReviewed": "2026-06"
 }

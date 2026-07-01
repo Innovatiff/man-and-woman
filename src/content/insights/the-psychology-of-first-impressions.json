@@ -73,5 +73,41 @@
     "how-to-tell-if-someone-likes-you",
     "why-dating-feels-harder-now"
   ],
+  "quickTake": "First impressions form in seconds and carry real signal — brief 'thin slices' of behavior predict some outcomes above chance. But the same speed makes them prone to bias, especially the halo effect. Treat snap judgments as useful hunches, not verdicts.",
+  "pullQuote": "A confident snap judgment is not the same as a correct one.",
+  "keyStats": [
+    {
+      "value": "Seconds",
+      "label": "Thin slices of expressive behavior — clips just a few seconds long — let observers predict outcomes like teacher effectiveness well above chance.",
+      "source": "Ambady & Rosenthal (1992)"
+    },
+    {
+      "value": "Halo effect",
+      "label": "A robust bias: more attractive people are assumed to be more competent and warm, and are judged more favorably, often without supporting evidence.",
+      "source": "Langlois et al. (2000), meta-analysis"
+    },
+    {
+      "value": "Strongest predictor",
+      "label": "After a brief meeting in the classic 'computer dance' study, physical attractiveness was the strongest predictor of how much someone liked their partner.",
+      "source": "Walster et al. (1966)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "How fast impressions form", "men": "Within seconds", "women": "Within seconds" },
+      { "aspect": "Reading nonverbal cues", "men": "Slightly less accurate on average", "women": "Slightly more accurate on average" },
+      { "aspect": "Susceptibility to the halo effect", "men": "Present", "women": "Present" },
+      { "aspect": "What comes across best", "men": "Genuine warmth and presence", "women": "Genuine warmth and presence" }
+    ]
+  },
+  "keyTakeaways": [
+    "First impressions form within seconds and carry genuine behavioral signal — they are not pure noise.",
+    "They are also skewed by the halo effect, where one trait like attractiveness colors the read of everything else.",
+    "Confirmation bias makes early impressions stick, so a wrong first read can quietly shape a whole relationship.",
+    "Hold impressions loosely when someone seems nervous or when a strong positive glow makes them seem flawless.",
+    "Genuine warmth and attention register better than rehearsed technique, because thin slices capture real behavior.",
+    "Men and women form impressions in broadly similar ways, with only small average differences in reading cues."
+  ],
   "lastReviewed": "2026-06"
 }

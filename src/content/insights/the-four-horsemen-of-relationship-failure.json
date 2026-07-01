@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A complaint sounds like 'I felt alone when you didn't call'; criticism sounds like 'you're so selfish, you never think about anyone but yourself.' The first targets a behavior in a moment; the second indicts the whole person, and tends to put the listener on the defensive before the real issue is even discussed.",
     "Contempt is often nonverbal — the eye-roll, the sneer, the sarcastic 'oh, nice job.' A partner on the receiving end frequently feels not just criticized but diminished. This is the pattern most worth catching early, because it signals that respect itself is eroding.",
-    "Stonewalling can look like one partner going silent, looking away, busying themselves with a phone, or leaving the room mid-argument. From the outside it reads as cold or dismissive; internally the person is often overwhelmed and shutting down to cope rather than trying to punish."
+    "Stonewalling can look like one partner going silent, looking away, busying themselves with a phone, or leaving the room mid-argument. From the outside it reads as cold or dismissive; internally the person is often overwhelmed and shutting down to cope rather than trying to punish.",
+    "Defensiveness often sounds like an instant counter-complaint: one partner says 'you forgot to call the plumber' and the other fires back 'well, you never told me it was my job.' Instead of taking even a sliver of responsibility, the reply reroutes the blame, and the original issue stalls while both dig in."
   ],
   "whatPeopleGetWrong": [
     "The common misreading is that conflict itself is the danger. It is not — Gottman's research finds that happy and unhappy couples argue about the same things and argue often. What separates them is how they argue: the presence of the horsemen, not the presence of disagreement. Couples who never fight are not necessarily healthier; sometimes they have simply stopped engaging.",
@@ -73,6 +74,41 @@
     "why-couples-stop-talking",
     "the-pursue-withdraw-pattern-explained",
     "what-makes-relationships-last"
+  ],
+  "quickTake": "Gottman found four conflict habits — criticism, contempt, defensiveness, and stonewalling — that predict breakup when they become the norm. Contempt is the most corrosive. They are warning signs, not a verdict, and each has a practiced antidote.",
+  "pullQuote": "It isn't whether couples fight that predicts the end — it's how they fight, and whether contempt has crept in.",
+  "keyStats": [
+    {
+      "value": "Contempt",
+      "label": "Singled out across Gottman's work as the most poisonous horseman and the strongest single predictor of divorce.",
+      "source": "Gottman & Silver (1999)"
+    },
+    {
+      "value": "4 patterns",
+      "label": "Criticism, contempt, defensiveness, and stonewalling — the corrosive conflict behaviors isolated in the observational lab.",
+      "source": "Gottman & Levenson (1992)"
+    },
+    {
+      "value": "Small skew",
+      "label": "On average women tilt slightly toward the demanding role and men toward withdrawing, but the roles reverse depending on who wants change, with heavy overlap.",
+      "source": "Christensen & Heavey (1990)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Role in demand-withdraw", "men": "Somewhat more likely to withdraw or stonewall", "women": "Somewhat more likely to press the issue" },
+      { "aspect": "Emotional flooding in conflict", "men": "Some research suggests men may flood a bit more easily", "women": "Also flood, though on average somewhat less readily" },
+      { "aspect": "Whose role it is", "men": "Reverses when he is the one seeking change", "women": "Reverses when she is the one being pressed" }
+    ]
+  },
+  "keyTakeaways": [
+    "The four horsemen are criticism, contempt, defensiveness, and stonewalling — destructive when they become a couple's default way of arguing.",
+    "Contempt is the most damaging and the strongest single predictor of divorce, because it signals eroding respect rather than mere disagreement.",
+    "Conflict itself is not the danger; happy and unhappy couples argue about the same things and argue often. How they argue is what differs.",
+    "Stonewalling is frequently driven by flooding — feeling overwhelmed — not indifference or a wish to punish.",
+    "Each horseman has a learnable antidote, and the gender skew in demand-withdraw is a soft average that flips with who wants change.",
+    "Their presence is a signal to change how you communicate, not a sentence that the relationship is doomed."
   ],
   "lastReviewed": "2026-06"
 }

@@ -73,5 +73,41 @@
     "why-women-need-to-feel-heard",
     "male-friendship-and-loneliness"
   ],
+  "quickTake": "On average, women's friendships tend to be built face-to-face through talking, self-disclosure, and emotional support — a 'tend-and-befriend' way of coping with stress. It is a real pattern of degree, not a rule, and men's activity-based bonds meet the same need to belong.",
+  "pullQuote": "Seeking connection when stressed is not avoidance — for many women it is the coping strategy itself.",
+  "keyStats": [
+    {
+      "value": "Tend-and-befriend",
+      "label": "Under stress, humans may not only fight-or-flight but also care for others and seek social bonds — a response argued to be especially pronounced in women on average.",
+      "source": "Taylor et al. (2000)"
+    },
+    {
+      "value": "Disclosure + responsiveness",
+      "label": "Intimacy grows through self-disclosure met with a warm, attuned response — the cycle that characterizes many women's friendships.",
+      "source": "Reis & Shaver (1988)"
+    },
+    {
+      "value": "Both sexes",
+      "label": "The need to form and maintain close, lasting bonds is a fundamental human drive, not a gendered one — the style differs more than the need.",
+      "source": "Baumeister & Leary (1995)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Typical closeness style", "men": "Often 'side-by-side', built through shared activity", "women": "Often 'face-to-face', built through talking and disclosure" },
+      { "aspect": "Coping with stress", "men": "More likely to process alone or through doing", "women": "More likely to reach for a friend to process out loud" },
+      { "aspect": "How bonds deepen", "men": "Through reliability and time spent together", "women": "Through accumulated small disclosures met with warmth" },
+      { "aspect": "Underlying need", "men": "Belonging — met differently", "women": "Belonging — met differently" }
+    ]
+  },
+  "keyTakeaways": [
+    "On average, women's friendships lean toward emotional disclosure and talking; men's lean toward shared activity — both meet the same need to belong.",
+    "The 'tend-and-befriend' pattern frames seeking connection under stress as an active coping strategy, not avoidance.",
+    "Intimacy is built by self-disclosure met with responsiveness — being heard matters more than being fixed.",
+    "The 'gossip and drama' stereotype caricatures bonds that are usually about care, trust, and support.",
+    "A partner and close friends meet overlapping but distinct needs; leaning on both tends to build resilience.",
+    "These are differences of degree across overlapping distributions — personality and life stage shape friendship more than gender."
+  ],
   "lastReviewed": "2026-06"
 }

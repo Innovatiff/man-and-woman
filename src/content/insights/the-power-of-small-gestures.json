@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A partner mentions an interesting bird at the window. The other can glance up and share the moment, or stay buried in their phone. Research suggests it is the accumulation of thousands of these tiny choices — far more than anniversaries or vacations — that shapes how connected a couple feels.",
     "Bringing a partner a cup of coffee, sending a brief 'thinking of you' message, or sincerely thanking them for something they usually do unnoticed are all small gestures that signal attention. Their value lies less in any single instance and more in the steady pattern they form.",
-    "Couples sometimes invest heavily in elaborate romantic occasions while letting daily bids go unanswered. Research suggests this can backfire — the grand gesture cannot offset the quiet erosion that comes from routinely turning away in ordinary moments."
+    "Couples sometimes invest heavily in elaborate romantic occasions while letting daily bids go unanswered. Research suggests this can backfire — the grand gesture cannot offset the quiet erosion that comes from routinely turning away in ordinary moments.",
+    "A partner who quietly refills the other's water glass, warms up the car on a cold morning, or remembers to pick up the specific snack they mentioned once in passing is making a small bid of care. None of these register as romantic on their own, yet the steady drumbeat of being noticed is often what a person means when they say they feel loved."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that big romantic gestures are what keep love alive. Research suggests the opposite emphasis is closer to the truth: the steady accumulation of small responsive moments tends to predict lasting satisfaction more reliably than occasional dramatic displays.",
@@ -72,6 +73,41 @@
     "how-gratitude-improves-wellbeing",
     "the-importance-of-emotional-attunement",
     "what-makes-relationships-last"
+  ],
+  "quickTake": "The everyday beats the grand. Research suggests love is sustained less by anniversaries and big romantic events than by the running tally of tiny responsive moments — turning toward a partner's bids, noticing effort, and saying a sincere thank-you.",
+  "pullQuote": "It is not the occasional grand gesture but the running tally of small responsive acts that determines whether a relationship feels secure.",
+  "keyStats": [
+    {
+      "value": "Turn toward",
+      "label": "Gottman's observational work found that consistently responding to a partner's small bids for connection predicted staying together and satisfaction more reliably than grand displays.",
+      "source": "Gottman & Silver (1999)"
+    },
+    {
+      "value": "Cumulative",
+      "label": "Individual small gestures look trivial, but their effect compounds — the pattern, not any single act, does most of the work.",
+      "source": "Gottman (2011)"
+    },
+    {
+      "value": "Both directions",
+      "label": "Expressing gratitude increases commitment and responsiveness in both partners, forming a small loop that reinforces the bond over time.",
+      "source": "Gordon et al. (2012)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Which gestures land best", "men": "Vary widely by individual — words, touch, time, or help", "women": "Vary widely by individual — words, touch, time, or help" },
+      { "aspect": "Value of everyday responsiveness", "men": "Strongly linked to feeling close and secure", "women": "Strongly linked to feeling close and secure" },
+      { "aspect": "Predicting a partner's needs", "men": "Better read by personality and history than sex", "women": "Better read by personality and history than sex" }
+    ]
+  },
+  "keyTakeaways": [
+    "Small, everyday gestures tend to sustain love more than occasional grand romantic events.",
+    "A 'bid' is any small attempt to connect; turning toward bids builds an accumulating reserve of goodwill.",
+    "The effect is cumulative — individual acts look trivial while the overall pattern does most of the work.",
+    "Expressing genuine gratitude increases commitment and responsiveness in both partners.",
+    "Which gestures land best varies by individual far more than by gender — do not assume by sex.",
+    "Small gestures maintain a healthy bond but cannot substitute for repairing serious problems like contempt or betrayal."
   ],
   "lastReviewed": "2026-06"
 }

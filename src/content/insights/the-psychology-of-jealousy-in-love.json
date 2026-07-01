@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "One partner feels a jolt of unease when the other laughs warmly with a coworker. For a secure person this may pass in seconds; for someone carrying old fears of abandonment, the same moment can spark hours of replaying and worry — illustrating how much the inner sense of security shapes the reaction.",
     "A person who suspects they are 'less than' their partner's exes or friends may seek reassurance again and again. The reassurance soothes briefly, then the doubt returns, creating a loop that can wear down both people even when no real threat exists.",
-    "Jealousy can also surface as quiet withdrawal rather than open accusation. Someone who feels threatened but cannot say so may go cool and distant, leaving a partner confused about what changed — a pattern more common among those who tend to avoid emotional confrontation."
+    "Jealousy can also surface as quiet withdrawal rather than open accusation. Someone who feels threatened but cannot say so may go cool and distant, leaving a partner confused about what changed — a pattern more common among those who tend to avoid emotional confrontation.",
+    "One partner starts checking the other's location, scrolling their social media likes, or timing how long replies take — small acts of monitoring meant to soothe anxiety. Each check calms the worry for a moment but tightens the loop, and over time the surveillance itself erodes the trust it was trying to secure, illustrating how jealousy acted on can damage the very bond it aims to protect."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that jealousy proves love, or conversely that any jealousy is a red flag. Research suggests the truth is in between: an occasional pang can reflect genuine investment, but persistent jealousy expressed through monitoring, accusations, or control tends to predict lower trust and satisfaction rather than deeper love.",
@@ -72,6 +73,42 @@
     "understanding-fear-of-abandonment",
     "understanding-attachment-styles",
     "how-trust-is-built-and-broken"
+  ],
+  "quickTake": "Jealousy is the attachment system's alarm that a valued bond might be at risk — both men and women feel it strongly. An occasional pang can reflect investment, but when it drives monitoring or control it tends to corrode the very trust it is trying to protect.",
+  "pullQuote": "A flash of jealousy is the alarm going off — the emotion itself is not pathological; what matters is what we do with it.",
+  "keyStats": [
+    {
+      "value": "Attachment alarm",
+      "label": "Jealousy is tied to the attachment system — the same circuitry that drives us to seek closeness also keeps us vigilant to threats against it.",
+      "source": "Mikulincer & Shaver (2007)"
+    },
+    {
+      "value": "Modest, overlapping",
+      "label": "Men reported somewhat more distress over sexual infidelity, women over emotional infidelity — but it is an average tendency with heavy overlap that varies by method and culture.",
+      "source": "Buss et al. (1992)"
+    },
+    {
+      "value": "Self-worth",
+      "label": "In the risk-regulation model, people who doubt their own value or their partner's regard more readily read ambiguous cues as signs of rejection.",
+      "source": "Murray, Holmes & Collins (2006)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Trigger reported as most distressing", "men": "Somewhat more often sexual infidelity, on average", "women": "Somewhat more often emotional infidelity, on average" },
+      { "aspect": "Size of that difference", "men": "Modest tilt with heavy overlap; many report the reverse", "women": "Modest tilt with heavy overlap; many report the reverse" },
+      { "aspect": "Overall intensity of jealousy", "men": "Felt strongly", "women": "Felt strongly" },
+      { "aspect": "What predicts it best", "men": "Attachment style and self-worth more than sex", "women": "Attachment style and self-worth more than sex" }
+    ]
+  },
+  "keyTakeaways": [
+    "Jealousy is a protective alarm from the attachment system, flagging that a valued bond might be at risk.",
+    "Both men and women feel it strongly; the men-vs-women infidelity difference is a modest average with heavy overlap.",
+    "Attachment anxiety and low self-worth amplify jealousy, making ambiguous moments feel like real threats.",
+    "What matters is the gap between feeling jealousy and acting on it — naming it invites closeness, surveillance erodes trust.",
+    "Persistent, controlling jealousy predicts lower trust and satisfaction rather than deeper love.",
+    "Building a steadier sense of self-worth often reduces jealousy more than seeking endless reassurance from a partner."
   ],
   "lastReviewed": "2026-06"
 }

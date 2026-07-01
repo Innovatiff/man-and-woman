@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "During an argument, one partner keeps pressing to 'talk it out right now' while the other goes silent, looks away, or leaves the room. The pursuer feels stonewalled; the withdrawer feels cornered. Both are distressed, and neither response is calming the other.",
     "Someone with an avoidant history may respond to a partner's bid for closeness by becoming busy, distant, or unusually independent — not because they have stopped caring, but because intensity of connection itself can trigger an instinct to create space.",
-    "After a stressful day, a person may go quiet and withdraw to recover, intending it as self-protection. A partner who reads the silence as rejection may push for reassurance, which makes the withdrawer feel even more depleted and likely to retreat further."
+    "After a stressful day, a person may go quiet and withdraw to recover, intending it as self-protection. A partner who reads the silence as rejection may push for reassurance, which makes the withdrawer feel even more depleted and likely to retreat further.",
+    "A partner sends a series of increasingly urgent texts when the other goes quiet after a disagreement. Each unanswered message raises the pursuer's alarm and each new message raises the withdrawer's sense of being cornered — a demand-withdraw loop playing out in miniature over a phone."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that a withdrawing partner does not care. Research suggests withdrawal is more often a protective or self-soothing response to feeling overwhelmed or unsafe than a sign of indifference. Reading it as rejection tends to fuel exactly the pursuit that deepens the cycle.",
@@ -72,6 +73,42 @@
     "the-psychology-of-stonewalling",
     "why-men-go-silent-when-upset",
     "understanding-attachment-styles"
+  ],
+  "quickTake": "Emotional withdrawal is usually protection, not indifference. It's linked to avoidant 'deactivating' strategies and the demand-withdraw cycle, where one partner pushes and the other retreats. It escalates under pressure and eases when both people feel safe enough to re-engage.",
+  "pullQuote": "The more one partner pursues, the more the other retreats — and the more they retreat, the harder the first pursues.",
+  "keyStats": [
+    {
+      "value": "Protective, not uncaring",
+      "label": "Avoidant 'deactivating' strategies suppress needs and create distance when closeness feels threatening — a learned way of managing vulnerability, not a lack of care.",
+      "source": "Mikulincer & Shaver (2007)"
+    },
+    {
+      "value": "Mutual loop",
+      "label": "The demand-withdraw pattern is a self-reinforcing cycle in which each partner's behavior triggers the other's, so it persists even when both want closeness.",
+      "source": "Christensen & Heavey (1990)"
+    },
+    {
+      "value": "Roles reverse",
+      "label": "Women somewhat more often occupy the demanding role and men the withdrawing one, but this is an average with heavy overlap that flips with who wants change.",
+      "source": "Christensen & Heavey (1990); Hyde (2005)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies in the demand-withdraw cycle",
+    "rows": [
+      { "aspect": "More common role", "men": "Somewhat more often the withdrawer", "women": "Somewhat more often the pursuer" },
+      { "aspect": "How the role reverses", "men": "Tend to pursue on issues they want changed", "women": "Tend to withdraw on issues they want changed" },
+      { "aspect": "What drives the response", "men": "Often physiological flooding and a bid to self-soothe", "women": "Often a bid for engagement and reassurance" },
+      { "aspect": "What helps re-engagement", "men": "Lower pressure; space with a promise to return", "women": "A signal the partner will come back, not vanish" }
+    ]
+  },
+  "keyTakeaways": [
+    "Withdrawal is usually a protective, self-soothing response to feeling overwhelmed or unsafe, not a sign of indifference.",
+    "It is often half of the demand-withdraw cycle: one partner pursues while the other retreats, each reacting to the other.",
+    "Physiological flooding — a racing heart, scrambled thoughts — can make retreat feel like the only way to cope in the moment.",
+    "Reading silence as rejection tends to fuel the pursuit that deepens the loop.",
+    "Re-engagement works best when the pursuer lowers pressure and the withdrawer signals a return rather than vanishing.",
+    "Both genders pursue and both withdraw; roles reverse with the issue and who wants change."
   ],
   "lastReviewed": "2026-06"
 }

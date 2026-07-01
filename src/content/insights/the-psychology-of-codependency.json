@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A partner who cannot feel okay when the other is upset, and who reorganizes their day around managing the other's moods, may be caught in an enmeshed pattern. Their emotional state rises and falls almost entirely with the relationship, leaving little stable ground of their own.",
     "Someone who routinely abandons their own preferences, friendships, or interests to keep a partner happy may experience this as devotion. Over time, though, the loss of a separate self tends to breed quiet resentment and a fragile, anxious form of closeness rather than a secure one.",
-    "Conflict can feel catastrophic in these patterns. Because disagreement is experienced as a threat to the bond rather than a normal part of it, one partner may give in immediately, apologize for things that are not their fault, or do almost anything to restore harmony — at the cost of their own needs."
+    "Conflict can feel catastrophic in these patterns. Because disagreement is experienced as a threat to the bond rather than a normal part of it, one partner may give in immediately, apologize for things that are not their fault, or do almost anything to restore harmony — at the cost of their own needs.",
+    "Someone repeatedly texting a partner through the workday, feeling a spike of anxiety when replies are slow, and reading silence as evidence the relationship is in danger is often experiencing anxious attachment rather than simple insecurity. The constant reaching for reassurance briefly calms the fear but tends to tighten the very dependence it is trying to soothe."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that codependency simply means caring deeply or being very giving. Care and generosity are healthy; the concerning pattern is when a person can no longer hold on to their own self, needs, and boundaries within the relationship. The issue is loss of autonomy, not the presence of love.",
@@ -72,6 +73,41 @@
     "understanding-attachment-styles",
     "understanding-fear-of-abandonment",
     "why-we-stay-in-bad-relationships"
+  ],
+  "quickTake": "Codependency is best understood as low differentiation — struggling to hold on to your own feelings and needs while staying close to someone. It often overlaps with anxious attachment. It is not a permanent flaw; with awareness and support, autonomy and closeness can grow together.",
+  "pullQuote": "The issue is loss of autonomy, not the presence of love — care and generosity are healthy; losing your own self is not.",
+  "keyStats": [
+    {
+      "value": "Low differentiation",
+      "label": "Difficulty keeping a clear sense of self while staying emotionally connected — measured by the Differentiation of Self Inventory — is linked to more distress and less stable relationships.",
+      "source": "Skowron & Friedlander (1998)"
+    },
+    {
+      "value": "Anxious attachment",
+      "label": "An intense need for closeness, reassurance, and approval alongside fear of abandonment frequently underlies patterns labeled codependent.",
+      "source": "Mikulincer & Shaver (2007)"
+    },
+    {
+      "value": "Autonomy",
+      "label": "Autonomy is a basic psychological need; when well-being depends almost entirely on a partner's approval, that need goes unmet, lowering vitality and well-being.",
+      "source": "Deci & Ryan (2000)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Where the pattern appears", "men": "Across genders; varies by individual", "women": "Across genders; varies by individual" },
+      { "aspect": "How social roles shape it", "men": "May be steered toward over-providing or fixing", "women": "May be steered toward over-caretaking or accommodating" },
+      { "aspect": "Underlying difficulty", "men": "Low differentiation and anxious attachment", "women": "Low differentiation and anxious attachment" }
+    ]
+  },
+  "keyTakeaways": [
+    "Codependency largely maps onto low differentiation — losing your own self while staying close to someone.",
+    "It often overlaps with anxious attachment: a strong need for reassurance and fear of abandonment.",
+    "Caring deeply is healthy; the concern is when you can no longer hold on to your own needs and boundaries.",
+    "These are learned strategies for managing anxiety, not fixed character flaws, and they can shift.",
+    "The patterns vary by individual far more than by gender — it is not primarily a 'women's' issue.",
+    "Building a stronger sense of self tends to make closeness more secure, not more distant."
   ],
   "lastReviewed": "2026-06"
 }

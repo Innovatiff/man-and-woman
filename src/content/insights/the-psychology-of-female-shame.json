@@ -73,5 +73,47 @@
     "why-women-feel-not-good-enough",
     "how-women-can-quiet-the-inner-critic"
   ],
+  "realLifeExamples": [
+    "A woman who makes a small mistake at work may replay it for days, not as 'that was a bad call' but as evidence that she is fundamentally incompetent or a fraud — a global verdict on herself rather than a specific error to fix.",
+    "Someone who feels resentful about carrying most of the household load may struggle to voice it, because part of her has absorbed the idea that a good partner or mother would not feel this way. The unspoken anger curdles into shame and self-blame.",
+    "A person may avoid photos, dodge compliments, or over-apologize for taking up space — behaviors that often trace back to shame about appearance or worth rather than genuine preference.",
+    "Telling a trusted friend about a struggle that felt too humiliating to admit, and being met with warmth rather than judgment, can visibly loosen its grip — a small illustration of why shame weakens when it is brought into safe connection instead of hidden."
+  ],
+  "quickTake": "Shame is the painful sense that the whole self is flawed, not just an action. Many women learn to route distress through shame — often around appearance, caretaking, or impossible role standards — which quietly drives hiding. It is a learned pattern that can be unlearned.",
+  "pullQuote": "Shame thrives in secrecy and dissolves in the presence of empathy.",
+  "keyStats": [
+    {
+      "value": "'I did' vs 'I am'",
+      "label": "Guilt targets a specific act and pushes toward repair; shame targets the whole self and pushes toward hiding — shame is generally the more corrosive of the two.",
+      "source": "Tangney, Stuewig & Mashek (2007)"
+    },
+    {
+      "value": "Self-silencing",
+      "label": "Suppressing one's own needs and anger to preserve relationships can feed depression and a sense that the authentic self is unacceptable.",
+      "source": "Jack (1991)"
+    },
+    {
+      "value": "Contingent worth",
+      "label": "When self-worth is staked on appearance, approval, or caretaking, a perceived failure there can trigger shame about the self as a whole.",
+      "source": "Crocker & Wolfe (2001)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Common capacity for shame", "men": "Deep — experienced intensely too", "women": "Deep — experienced intensely too" },
+      { "aspect": "Typical trigger domains", "men": "Often status, competence, failure to provide", "women": "Often appearance, caretaking, falling short of role ideals" },
+      { "aspect": "How it tends to show", "men": "May convert to anger, withdrawal, or bravado", "women": "May convert to self-silencing and self-blame" },
+      { "aspect": "What loosens it", "men": "Empathy and safe vulnerability", "women": "Empathy and safe vulnerability" }
+    ]
+  },
+  "keyTakeaways": [
+    "Shame ('I am bad') differs from guilt ('I did something bad') — guilt motivates repair, shame motivates hiding.",
+    "Many women learn to route distress into shame rather than anger, a socialized pattern rather than an innate trait.",
+    "Body and role expectations concentrate shame around impossible standards for appearance and caretaking.",
+    "Shame is self-perpetuating: it drives concealment, which blocks the reassurance that would disconfirm it.",
+    "Men experience intense shame too, often triggered and expressed differently.",
+    "Shame weakens when shared with someone safe; deeper shame may benefit from professional support."
+  ],
   "lastReviewed": "2026-06"
 }

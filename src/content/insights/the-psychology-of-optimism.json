@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "Facing a job loss, a more optimistic person is likelier to treat it as a setback to work through — updating their approach and applying widely — while assuming the effort will eventually pay off. The optimism does not remove the pain, but it tends to keep them engaged.",
     "In a health scare, realistic optimism looks like taking the diagnosis seriously and following through on treatment while expecting to cope, rather than either catastrophizing or pretending nothing is wrong. Both extremes tend to undermine good self-care.",
-    "A student who believes they can improve with practice tends to keep studying after a poor grade, whereas one who concludes they are simply 'not smart enough' may disengage — and the belief becomes partly self-fulfilling in each direction."
+    "A student who believes they can improve with practice tends to keep studying after a poor grade, whereas one who concludes they are simply 'not smart enough' may disengage — and the belief becomes partly self-fulfilling in each direction.",
+    "Recovering from surgery, someone with a realistic-optimistic outlook is more likely to stick with rehab exercises and expect the effort to pay off — one of the pathways through which optimism has been linked to steadier recovery, working largely through the behavior it encourages rather than by magic."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that optimism means positive thinking that ignores reality. The research-backed version is the opposite: helpful optimism stays engaged with problems and takes them seriously. So-called 'toxic positivity' — denying difficulty or pressuring people to feel upbeat — tends to backfire and can leave real emotions unaddressed.",
@@ -73,6 +74,41 @@
     "the-psychology-of-hope",
     "the-happiness-set-point-explained",
     "how-to-build-emotional-resilience"
+  ],
+  "quickTake": "Optimism is the general expectation that good things are more likely than bad. The helpful kind is realistic, not blind — it keeps facing problems rather than denying them. It's linked to better coping and, in some studies, better health, and it can be cultivated to some degree.",
+  "pullQuote": "The research-backed version of optimism is not positive thinking that ignores reality — it stays engaged with problems and takes them seriously.",
+  "keyStats": [
+    {
+      "value": "Modest but real",
+      "label": "Decades of evidence link optimism to better psychological and, in some studies, physical health outcomes — effects that are modest and partly correlational, working mainly through behavior like persistence and staying engaged.",
+      "source": "Carver, Scheier & Segerstrom (2010)"
+    },
+    {
+      "value": "Life Orientation Test",
+      "label": "Dispositional optimism is measured as a fairly stable trait using this scale, defined as a general tendency to expect favorable outcomes.",
+      "source": "Scheier & Carver (1985)"
+    },
+    {
+      "value": "Partly trainable",
+      "label": "A meaningful portion of lasting happiness comes from intentional activity and habits of thought, not just circumstances or a fixed set point — suggesting outlook can be practiced.",
+      "source": "Lyubomirsky, Sheldon & Schkade (2005)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Level of optimism", "men": "Any average gender differences tend to be small, with large overlap", "women": "Any average gender differences tend to be small, with large overlap" },
+      { "aspect": "What shapes it most", "men": "Temperament, history, circumstance — far more than gender", "women": "Temperament, history, circumstance — far more than gender" },
+      { "aspect": "Healthiest stance", "men": "Flexible: hopeful about outcomes, realistic about the work", "women": "Flexible: hopeful about outcomes, realistic about the work" }
+    ]
+  },
+  "keyTakeaways": [
+    "Optimism is an expectation that good outcomes are more likely than bad — not merely a cheerful mood.",
+    "The helpful version is realistic: it takes problems seriously and stays engaged, unlike 'toxic positivity' that denies difficulty.",
+    "It's linked to better coping and, in some studies, better health, mainly by encouraging persistence and active stress management.",
+    "Temperament sets a baseline, but expectations and coping styles can shift with practice and experience.",
+    "Pessimism isn't simply a defect — defensive pessimism helps some people prepare and manage anxiety.",
+    "Average gender differences in outlook are small; individual temperament and history matter far more."
   ],
   "lastReviewed": "2026-06"
 }

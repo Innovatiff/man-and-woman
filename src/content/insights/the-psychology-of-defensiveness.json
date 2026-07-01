@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "One partner says, 'I felt hurt that you were late.' The other, instead of acknowledging it, replies, 'Well, you're late all the time too.' That counter-complaint is textbook defensiveness — it swaps hearing the concern for redirecting the blame, and usually escalates the exchange.",
     "A person receives feedback at work and immediately explains all the reasons it wasn't their fault, before pausing to consider whether any part of it is fair. The rush to justify often signals a threat response rather than genuine engagement with the feedback.",
-    "In a disagreement, someone says, 'yes, but you did the same thing last week.' The 'yes, but' formula acknowledges nothing and shifts focus onto the other person, which tends to leave the original concern unaddressed and both people feeling unheard."
+    "In a disagreement, someone says, 'yes, but you did the same thing last week.' The 'yes, but' formula acknowledges nothing and shifts focus onto the other person, which tends to leave the original concern unaddressed and both people feeling unheard.",
+    "A partner raises a gentle concern about a forgotten errand, and the other instantly lists everything they did handle that day. The defensive tally may all be true, yet it answers a request for acknowledgment with a case for the defense — and the person raising it walks away feeling the point was dodged rather than heard."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that defensiveness means standing up for yourself, and that dropping it means simply accepting blame you don't deserve. Gottman's work suggests otherwise: the antidote is taking responsibility for even a small part of the problem, which is not the same as accepting total fault. It is possible to own your share while still raising your own valid concerns separately.",
@@ -72,6 +73,33 @@
     "how-to-resolve-conflict-in-relationships",
     "the-psychology-of-stonewalling",
     "why-men-find-it-hard-to-apologize"
+  ],
+  "quickTake": "Defensiveness is reflexive self-protection — warding off criticism that feels like a threat to your worth. Gottman names it one of the four communication patterns most corrosive to relationships. It usually backfires, and the reliable antidote is taking responsibility for even a small part of the problem.",
+  "pullQuote": "Defensiveness is closer to a reflex than a decision — it's guarding something that feels essential, not merely arguing a point.",
+  "keyStats": [
+    {
+      "value": "1 of 4",
+      "label": "Defensiveness is one of Gottman's 'four horsemen' — communication patterns that reliably predict relationship distress, alongside criticism, contempt, and stonewalling.",
+      "source": "Gottman & Levenson (1992); Gottman & Silver (1999)"
+    },
+    {
+      "value": "Take some responsibility",
+      "label": "Gottman's research identifies owning even a small part of the issue as the reliable antidote — it tends to lower the temperature quickly, and isn't the same as accepting total fault.",
+      "source": "Gottman & Silver (1999)"
+    },
+    {
+      "value": "Broadly human",
+      "label": "Defensiveness is a threat response found across men and women, not a trait of one gender; what may differ is its surface form more than its frequency.",
+      "source": "Hyde (2005)"
+    }
+  ],
+  "keyTakeaways": [
+    "Defensiveness is self-protection against feedback that feels like an attack on your worth.",
+    "It's one of Gottman's four horsemen — among the patterns most predictive of relationship distress.",
+    "It typically shows up as excuses, counter-complaints, or 'yes, but' — and tends to escalate rather than resolve conflict.",
+    "The reliable antidote is taking responsibility for even a small part of the issue, which is not the same as accepting total blame.",
+    "It often fires automatically, so change usually starts with awareness — catching the reflex — rather than willpower.",
+    "It's a broadly human response, not a gendered trait; how a concern is raised often matters more than who's raising it."
   ],
   "lastReviewed": "2026-06"
 }

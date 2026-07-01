@@ -73,5 +73,41 @@
     "why-listening-matters-more-than-advice",
     "how-to-build-genuine-connection"
   ],
+  "quickTake": "Empathy isn't one trait but several — understanding a feeling, sharing it, and being moved to help. Women score a little higher on some self-report measures, but the gaps are modest and shrink under objective tests. Most encouragingly, empathy is partly a skill you can build.",
+  "pullQuote": "Empathy is better understood as a skill exercised in conditions than as a fixed personal trait — it can be turned up or down, and it responds to practice.",
+  "keyStats": [
+    {
+      "value": "Small gap",
+      "label": "Women's advantage in reading nonverbal emotional cues is real but small and consistent, and it shrinks on objective performance measures versus self-report.",
+      "source": "Hall (1978), meta-analysis of nonverbal decoding"
+    },
+    {
+      "value": "4 components",
+      "label": "Davis's model separates perspective-taking, empathic concern, personal distress, and fantasy — which do not always move together.",
+      "source": "Davis (1983), Interpersonal Reactivity Index"
+    },
+    {
+      "value": "Partly trainable",
+      "label": "Perspective-taking and emotional attunement improve with practice and intention, and empathy shifts with context — supporting a skill view over a fixed-trait one.",
+      "source": "Davis (1983); Hyde (2005)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Reading nonverbal cues", "men": "Slightly lower on average, large overlap", "women": "Slightly higher on average, large overlap" },
+      { "aspect": "Self-report vs objective tests", "men": "Gap smaller on objective tests", "women": "Gap largest on self-report questionnaires" },
+      { "aspect": "Likely drivers of the gap", "men": "Less early practice and social encouragement", "women": "More early practice naming and reading feelings" },
+      { "aspect": "Room to grow", "men": "Highly trainable with practice", "women": "Highly trainable with practice" }
+    ]
+  },
+  "keyTakeaways": [
+    "Empathy is multidimensional — cognitive (understanding), affective (sharing), and compassionate concern — and a person can be strong in one and weaker in another.",
+    "Women's average advantage is modest, largest on self-report, and likely reflects socialization and motivation as much as ability.",
+    "Empathy is partly a skill: perspective-taking and attunement improve with deliberate practice.",
+    "Context matters — empathy drops under stress and fatigue and rises with safety and clear cues that someone is struggling.",
+    "Understanding without feeling moved to act is a gap between components, not usually coldness; a clear cue can bridge it.",
+    "Too much affective empathy can tip into personal distress and withdrawal; the most useful empathy pairs warmth with regulation."
+  ],
   "lastReviewed": "2026-06"
 }

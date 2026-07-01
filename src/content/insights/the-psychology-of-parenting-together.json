@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A couple who used to talk for hours find their exchanges reduced to logistics — feeds, naps, pickups — and slowly feel more like co-managers than partners. The love is still there, but the connection has gone quiet under the scheduling.",
     "One partner handles most night wakings and doctor's appointments and begins to feel invisible, while the other feels criticized every time they try to help and gets it 'wrong.' Both feel unappreciated, and the same argument repeats in different clothes.",
-    "A couple who deliberately protect a small ritual — a short walk, a proper conversation after bedtime, a genuine thank-you — often report that the relationship holds up better through the exhausting early years, even when everything else is chaotic."
+    "A couple who deliberately protect a small ritual — a short walk, a proper conversation after bedtime, a genuine thank-you — often report that the relationship holds up better through the exhausting early years, even when everything else is chaotic.",
+    "Two new parents discover they were raised with opposite defaults — one grew up with strict bedtimes and firm rules, the other with a looser, negotiate-as-you-go style — and each quietly assumes their own way is simply 'normal.' Until they say this out loud, small clashes over routines feel like character flaws rather than a difference in scripts."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that a drop in satisfaction after a baby means the relationship is failing or that the couple chose wrong. The research suggests some strain is typical and does not doom a partnership; how a couple responds tends to matter far more than whether they feel the strain at all.",
@@ -73,6 +74,41 @@
     "how-to-resolve-conflict-in-relationships",
     "what-makes-relationships-last",
     "the-psychology-of-repair-after-conflict"
+  ],
+  "quickTake": "Becoming parents tends to lower relationship satisfaction for a while — usually from sleep loss, uneven workload, and less couple time rather than the baby itself. What protects the bond is facing the strain as a team: shared load, appreciation, and repair after conflict.",
+  "pullQuote": "The couple's connection and the child's security tend to rise and fall together.",
+  "keyStats": [
+    {
+      "value": "Common dip",
+      "label": "A large longitudinal study found relationship satisfaction tended to drop noticeably after the transition to parenthood — often suddenly and, for many couples, lastingly, though it was an average trend, not a universal fate.",
+      "source": "Doss, Rhoades, Stanley & Markman (2009)"
+    },
+    {
+      "value": "Turn toward",
+      "label": "Couples who keep turning toward each other in small moments, rather than drifting into parallel lives, tend to weather the transition best.",
+      "source": "Gottman, The Science of Trust (2011)"
+    },
+    {
+      "value": "Both parents shift",
+      "label": "Both mothers and fathers can undergo real hormonal and neural changes around caregiving, and supportive coparenting is linked to warmer parenting and more secure children.",
+      "source": "Feldman (2017)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Investment in the child", "men": "Both can be deeply invested; neither is naturally the 'primary' parent", "women": "Both can be deeply invested; neither is naturally the 'primary' parent" },
+      { "aspect": "Common source of strain", "men": "Can feel criticized or shut out as a caregiver", "women": "Often carries more of the mental and physical load" },
+      { "aspect": "Biological shifts", "men": "Real hormonal and neural changes around caregiving", "women": "Real hormonal and neural changes around caregiving" }
+    ]
+  },
+  "keyTakeaways": [
+    "A dip in relationship satisfaction after a baby is common and usually reflects stress, not that the couple chose wrong.",
+    "The strain rarely comes from the baby directly — it flows from sleep loss, uneven workload, and less couple time.",
+    "How a couple responds matters far more than whether they feel the strain at all.",
+    "Naming the load and dividing it openly reduces the slow build of resentment.",
+    "Small, consistent acts of appreciation and turning toward each other tend to protect the bond more than grand gestures.",
+    "A stable, warm partnership tends to create a steadier home; protecting the couple is not a distraction from the kids."
   ],
   "lastReviewed": "2026-06"
 }

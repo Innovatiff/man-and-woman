@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A man may bristle at being corrected in front of others far more than at the same correction in private. The content is identical; what differs is the public stake to status and competence, which is where contingent self-worth is most exposed.",
     "Someone who downplays a problem, insists he doesn't need help, or changes the subject when feeling inadequate is often managing shame rather than showing confidence. The bravado and the avoidance can be two surfaces of the same underlying vulnerability.",
-    "Sincere, specific recognition — for effort, skill, or character — often lands with surprising weight. Because worth is frequently staked on competence and respect, genuine appreciation can steady a man in a way that generic praise or reassurance does not."
+    "Sincere, specific recognition — for effort, skill, or character — often lands with surprising weight. Because worth is frequently staked on competence and respect, genuine appreciation can steady a man in a way that generic praise or reassurance does not.",
+    "A man who has lost a job or hit a setback at work may pull away from his partner rather than lean on her, going quiet or irritable instead of asking for support. Where provision and competence are load-bearing pillars of self-worth, the difficulty is less about the money than about a felt threat to who he is."
   ],
   "whatPeopleGetWrong": [
     "The popular idea of a 'fragile male ego' frames the whole thing as immature vanity to be mocked or tiptoed around. That misses the mechanism: much of it is contingent self-worth and shame sensitivity, which are human, not signs of inflated self-regard. Treating it as ridiculous tends to trigger more defensiveness, not less.",
@@ -72,6 +73,42 @@
     "building-confidence-as-a-man",
     "what-drives-male-behavior",
     "why-men-crave-appreciation"
+  ],
+  "quickTake": "The 'male ego' isn't arrogance or fragility so much as self-worth staked heavily on competence, status, and respect — with shame lurking underneath. Threats there sting sharply. It's a human, socialized pattern, and it eases when worth rests on more than one pillar.",
+  "pullQuote": "What looks like a fragile ego is usually self-worth staked on a single pillar — competence and respect — and how exposed that leaves a man to shame.",
+  "keyStats": [
+    {
+      "value": "Contingent worth",
+      "label": "Self-esteem staked heavily on one domain — for many men, competence and respect — takes harder hits when that domain is threatened.",
+      "source": "Crocker & Wolfe (2001)"
+    },
+    {
+      "value": "Need to belong",
+      "label": "The drive for acceptance and standing is framed as a fundamental human motivation, so sensitivity to disrespect reads as a threat to worth, not vanity.",
+      "source": "Baumeister & Leary (1995)"
+    },
+    {
+      "value": "Core need",
+      "label": "Competence is one of three basic psychological needs; feeling capable supports well-being for everyone, which is why perceived failure can cut deep.",
+      "source": "Deci & Ryan (2000)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Where worth is often staked", "men": "More often competence, status, provision", "women": "More often, on average, appearance or approval" },
+      { "aspect": "Reaction to public disrespect", "men": "Can register as a threat to identity", "women": "Also stings, though staked domains differ" },
+      { "aspect": "Underlying mechanism", "men": "Contingent self-worth and shame", "women": "Same human mechanism, different domains" },
+      { "aspect": "What steadies it", "men": "Broadening worth beyond one pillar", "women": "Broadening worth beyond one pillar" }
+    ]
+  },
+  "keyTakeaways": [
+    "The 'male ego' is better read as contingent self-worth and shame sensitivity than as arrogance or a fragile flaw.",
+    "Many men are socialized to stake self-esteem on competence, status, and respect, so setbacks there can feel like threats to identity itself.",
+    "Defensiveness and bravado are often ways of managing shame, not expressions of genuine superiority.",
+    "Delivering hard feedback privately and separating a mistake from a man's worth lowers defenses more than confrontation or ridicule.",
+    "Contingent self-worth is not male-only — anyone can stake value on a domain; the specific domains differ more than the mechanism.",
+    "Broadening where self-worth rests — to character and connection, not competence alone — makes a man steadier and less reactive."
   ],
   "lastReviewed": "2026-06"
 }

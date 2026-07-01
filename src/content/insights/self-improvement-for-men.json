@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "Scheduling a recurring time with friends — a standing call, a weekly basketball game, a regular check-in — often does more for a man's wellbeing over years than any productivity system. The research on connection suggests this is among the highest-return investments available, even though it rarely feels like 'self-improvement.'",
     "Someone trying to get fitter through sheer willpower tends to stall; someone who attaches a short walk or workout to an existing daily cue, repeated until it is automatic, tends to stick. The habit-formation evidence favors small, repeatable, context-anchored actions over dramatic overhauls.",
-    "Learning to say 'I've been struggling with this' to a friend, partner or therapist — rather than toughing it out alone — is a concrete skill that reduces isolation and risk. Men who build this capacity tend to report closer relationships and better mental health, not lost respect."
+    "Learning to say 'I've been struggling with this' to a friend, partner or therapist — rather than toughing it out alone — is a concrete skill that reduces isolation and risk. Men who build this capacity tend to report closer relationships and better mental health, not lost respect.",
+    "A man who swaps two hours of late-night doom-scrolling for a standing gym session with a friend often ends up with three wins at once — regular exercise, a maintained friendship, and less isolation — from a single change. The research on connection, movement and habit-anchoring all point the same direction: small, repeatable, socially embedded actions compound."
   ],
   "whatPeopleGetWrong": [
     "The biggest distortion is 'alpha male' and grindset content, which frames self-improvement as dominance, relentless hustle and emotional suppression. The actual evidence points the opposite way: warm relationships, emotional honesty and sustainable habits predict health and satisfaction, while isolation and chronic overwork undermine them. The loud advice is often the wrong advice.",
@@ -74,6 +75,38 @@
     "how-men-handle-emotions",
     "self-improvement-for-women",
     "what-men-need-in-relationship"
+  ],
+  "quickTake": "What actually improves men's lives is unglamorous and well-supported: close friendships, movement, emotional literacy, small habits over willpower, and purpose. The 'alpha' and grindset myths get it backwards — connection and steady growth, not dominance and hustle, are what reliably change lives.",
+  "pullQuote": "The loud advice is often the wrong advice: warm relationships and sustainable habits — not dominance and relentless hustle — predict health and satisfaction.",
+  "keyStats": [
+    {
+      "value": "80+ years",
+      "label": "The Harvard Grant Study followed men across their whole adult lives and found warm relationships, more than wealth or status, predicted health and life satisfaction.",
+      "source": "Vaillant (2012), Triumphs of Experience"
+    },
+    {
+      "value": "~2x mortality effect",
+      "label": "Strong social connection is associated with substantially lower mortality risk — comparable in scale to well-known health factors.",
+      "source": "Holt-Lunstad, Smith & Layton (2010), meta-analysis of 148 studies"
+    },
+    {
+      "value": "~66 days",
+      "label": "Average time for a new behavior to become automatic through repetition in a stable context — with wide variation — reframing discipline as habit design, not willpower.",
+      "source": "Lally et al. (2010)"
+    },
+    {
+      "value": "Real effect",
+      "label": "Exercise shows a meaningful antidepressant effect even after adjusting for publication bias, making movement one of the more reliable mood levers.",
+      "source": "Schuch et al. (2016)"
+    }
+  ],
+  "keyTakeaways": [
+    "Close relationships are the highest-return investment — the Harvard Grant Study and large meta-analyses tie warm connection to health, longevity and life satisfaction above wealth or status.",
+    "Men average fewer close confidants, so deliberately building and maintaining friendships is high-leverage even though the culture rarely calls it 'self-improvement.'",
+    "Change comes from habit design — repeating small, cue-anchored actions in a stable context — not from white-knuckling willpower that runs out.",
+    "Exercise is one of the more reliable mood levers, with a meaningful antidepressant effect that holds up after adjusting for publication bias.",
+    "Emotional literacy is a learnable strength: naming feelings and asking for help reduces isolation and mental-health risk rather than costing respect.",
+    "'Alpha' and grindset content largely gets the science backwards; almost every lever here helps everyone, with only a few male-leaning emphases."
   ],
   "lastReviewed": "2026-06"
 }

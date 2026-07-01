@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A partner mentions an offhand worry about work. If the other puts down their phone and asks a follow-up question, a small thread of intimacy is reinforced. If the comment is brushed off, the moment passes — and over months, many such missed moments can quietly add up to distance.",
     "Couples who feel close often describe a sense of being 'known' — that their partner understands their fears, history, and inner world. This is usually the product of years of disclosure that was met with care, not a single grand revelation.",
-    "One partner may open up more readily through talking while the other shares more through doing things side by side. Neither is wrong, but mismatched styles can leave one person feeling shut out unless they recognize the different ways the other reaches for closeness."
+    "One partner may open up more readily through talking while the other shares more through doing things side by side. Neither is wrong, but mismatched styles can leave one person feeling shut out unless they recognize the different ways the other reaches for closeness.",
+    "During a hard week, one partner quietly mentions feeling overwhelmed. If the other looks up, sets aside what they're doing, and simply says 'tell me more' before offering any fix, the small moment of being met tends to deepen the bond more than any planned date-night conversation — a single responsive turn doing the real work of intimacy."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that intimacy is mainly about how much you disclose. Research points instead to responsiveness — how the listener receives it. Pouring out personal information to someone who does not respond with care does not build closeness, and can even feel exposing. The quality of the response matters more than the volume of sharing.",
@@ -73,5 +74,41 @@
     "why-listening-matters-more-than-advice",
     "how-physical-touch-builds-connection"
   ],
+  "quickTake": "Emotional intimacy grows through a repeating cycle: one person shares something meaningful, and the other responds with understanding and care. Research suggests it's this responsiveness — feeling understood and valued — that builds closeness, more than the sharing alone. It develops gradually and depends on both partners.",
+  "pullQuote": "The key ingredient is not disclosure by itself but perceived responsiveness — the sense that 'this person gets me and is on my side.'",
+  "keyStats": [
+    {
+      "value": "Responsiveness",
+      "label": "In the influential intimacy-process model, closeness develops when disclosure is met with a response that feels understanding and caring — perceived partner responsiveness, not disclosure alone, does the work.",
+      "source": "Reis & Shaver (1988)"
+    },
+    {
+      "value": "36 questions",
+      "label": "In a landmark experiment, pairs of strangers who took turns answering escalating personal questions reported significantly more closeness than those making small talk — showing intimacy can be deliberately generated.",
+      "source": "Aron et al. (1997)"
+    },
+    {
+      "value": "Turning toward",
+      "label": "Couples who consistently respond to small everyday 'bids' for connection build a deeper reservoir of trust and intimacy; those who turn away or against erode it.",
+      "source": "Gottman, The Science of Trust (2011)"
+    }
+  ],
+  "keyTakeaways": [
+    "Intimacy is built through a cycle of self-disclosure met with understanding and care.",
+    "Responsiveness — how the listener receives what's shared — matters more than the volume of disclosure.",
+    "Structured, reciprocal sharing can deliberately accelerate closeness, not just reveal it.",
+    "Everyday responsiveness to small 'bids' for connection tends to matter as much as deep heart-to-hearts.",
+    "It's a skill and a process, not a fixed trait; in a responsive relationship, guarded people often open up more.",
+    "Men value being known too — capacity for intimacy varies more within each gender than between them."
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Readiness to disclose in words", "men": "Socialization can make some slower to open up verbally, on average", "women": "Often somewhat quicker to share feelings verbally, on average" },
+      { "aspect": "Desire to be known and understood", "men": "Values it too — research finds large overlap", "women": "Values it — the classic association, but not exclusive to women" },
+      { "aspect": "How closeness is expressed", "men": "Sometimes more through shared activity, side by side", "women": "Sometimes more through face-to-face conversation" },
+      { "aspect": "Best predictor of intimacy capacity", "men": "Attachment style and history, not gender", "women": "Attachment style and history, not gender" }
+    ]
+  },
   "lastReviewed": "2026-06"
 }

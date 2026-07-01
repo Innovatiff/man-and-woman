@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A partner checks in constantly, wants to know where the other is, and feels uneasy when plans change. From the inside it can feel like care or closeness; from the outside it can feel like surveillance, and it tends to leave the controlled partner feeling less trusted rather than more loved.",
     "Someone reacts to their partner's nights out with friends not as a normal part of life but as a threat, and steers them away from those activities. The behavior is driven by fear of being left, yet it slowly shrinks the partner's world and strains the bond it was meant to secure.",
-    "In subtler forms, control shows up as needing to be right, managing every decision, or using disappointment to shape a partner's choices. These quieter versions can be harder to name but follow the same logic — reducing anxiety by reducing the other person's freedom."
+    "In subtler forms, control shows up as needing to be right, managing every decision, or using disappointment to shape a partner's choices. These quieter versions can be harder to name but follow the same logic — reducing anxiety by reducing the other person's freedom.",
+    "A partner repeatedly 'suggests' which friends the other should see, what they should wear, or how they should spend money — framed as helpful advice or high standards. Each nudge seems minor, but together they narrow the other person's choices, and the guidance is quietly doing the work of control while never quite looking like it."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that control is mainly about power or malice. While it can become harmful, research suggests it is often anxiety-driven — a frightened attempt to feel safe rather than a calculated bid to dominate. Understanding the fear underneath does not excuse harmful behavior, but it explains why simply telling someone to 'stop' rarely works.",
@@ -73,5 +74,41 @@
     "the-psychology-of-codependency",
     "how-to-deal-with-jealousy"
   ],
+  "quickTake": "Controlling a partner is usually an attempt to manage anxiety, not a bid for power — a frightened effort to make an uncertain bond feel safe. It's tied to attachment insecurity and shaky self-worth, appears across genders, and tends to erode the very trust it seeks.",
+  "pullQuote": "Control is anxiety management dressed as protection — and the grip it uses to prevent loss is often what strains the bond it was meant to secure.",
+  "keyStats": [
+    {
+      "value": "Anxiety-driven",
+      "label": "Attachment research frames much controlling behavior as hyperactivating strategies — monitoring and demanding closeness — used to quiet an internal alarm about being left, not to dominate.",
+      "source": "Mikulincer & Shaver (2007)"
+    },
+    {
+      "value": "Perceived value",
+      "label": "In the risk-regulation model, people who doubt they are truly valued feel exposed and may grip for control; feeling genuinely valued lowers the risk that drives it.",
+      "source": "Murray, Holmes & Collins (2006)"
+    },
+    {
+      "value": "Both sexes",
+      "label": "Controlling tendencies appear across genders — attachment style, history, and self-worth predict them far better than sex does; most psychological gender differences are small.",
+      "source": "Hyde (2005)"
+    }
+  ],
+  "keyTakeaways": [
+    "Control is often an attempt to manage anxiety and feel safe, not a calculated bid to dominate.",
+    "It's linked to attachment insecurity, fear of rejection, and difficulty tolerating a partner's separateness.",
+    "It commonly backfires — leaving a partner feeling distrusted and confined, eroding the trust it seeks.",
+    "It appears across genders; the expression differs (monitoring and jealousy in some, managing or guilt in others).",
+    "Healthy influence — shaping decisions together with each person's autonomy intact — is different from control.",
+    "When control relies on intimidation, isolation, or coercion, that is a serious harm and professional support is warranted."
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "How control often surfaces", "men": "More often overt monitoring, jealousy, tracking whereabouts, on average", "women": "More often managing decisions, criticism, or guilt, on average" },
+      { "aspect": "Underlying driver", "men": "Fear of loss and threatened self-worth", "women": "Fear of loss and threatened self-worth" },
+      { "aspect": "What tends to reduce it", "men": "Feeling securely valued; tolerating uncertainty", "women": "Feeling securely valued; tolerating uncertainty" },
+      { "aspect": "Best predictor overall", "men": "Attachment style and history, not gender", "women": "Attachment style and history, not gender" }
+    ]
+  },
   "lastReviewed": "2026-06"
 }

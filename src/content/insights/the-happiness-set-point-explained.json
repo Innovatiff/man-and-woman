@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "Someone gets a long-awaited promotion and feels elated for weeks, then notices the glow fading as the new role becomes routine. Their day-to-day mood settles close to where it was before — a familiar experience of adaptation rather than a sign anything went wrong.",
     "After a serious setback — a job loss or a breakup — a person often feels they will never recover, yet many find their baseline mood gradually returns over months. Recovery is rarely instant and varies by individual, but the pull back toward a personal baseline is a recurring pattern in the research.",
-    "Two people in nearly identical circumstances can report quite different levels of happiness, while the same person stays roughly similar in mood across very different chapters of life. This points to a stable internal baseline that travels with the person more than with their situation."
+    "Two people in nearly identical circumstances can report quite different levels of happiness, while the same person stays roughly similar in mood across very different chapters of life. This points to a stable internal baseline that travels with the person more than with their situation.",
+    "Someone finally buys the house or the car they had dreamed of for years and feels a genuine lift — then a few months on catches themselves already eyeing the next upgrade, the thrill quietly absorbed into ordinary life. The purchase delivered a real but temporary bump rather than a permanent rise in baseline mood."
   ],
   "whatPeopleGetWrong": [
     "The biggest misconception is treating the set point as a hard ceiling that makes effort pointless. Research suggests the opposite: while a baseline exists, a meaningful portion of lasting happiness comes from intentional activity, so habits and choices genuinely matter. The set point is a tendency to drift back, not a locked thermostat.",
@@ -73,6 +74,33 @@
     "why-money-doesnt-buy-happiness",
     "how-gratitude-improves-wellbeing",
     "how-relationships-affect-happiness"
+  ],
+  "quickTake": "You do have a happiness baseline, shaped substantially by genes and temperament, that you drift back toward after highs and lows. But it's a tendency, not a ceiling — a real, changeable share of well-being comes from intentional habits and relationships.",
+  "pullQuote": "The set point is a pull back toward baseline, not a locked thermostat — a real portion of well-being stays within reach of effort.",
+  "keyStats": [
+    {
+      "value": "Twin study",
+      "label": "Identical twins, even raised apart, resemble each other in baseline well-being more than fraternal twins — evidence that a substantial share of stable happiness is heritable.",
+      "source": "Lykken & Tellegen (1996)"
+    },
+    {
+      "value": "Lottery vs. injury",
+      "label": "The classic study of lottery winners and accident victims suggested people adapt toward baseline, with major life events affecting happiness less and less durably than expected.",
+      "source": "Brickman, Coates & Janoff-Bulman (1978)"
+    },
+    {
+      "value": "3 sources",
+      "label": "An influential model splits happiness into a genetic set point, life circumstances, and intentional activity — with the activity share being the changeable part.",
+      "source": "Lyubomirsky, Sheldon & Schkade (2005)"
+    }
+  ],
+  "keyTakeaways": [
+    "Each person tends to have a characteristic happiness baseline, shaped substantially by genes and temperament, that they drift back toward.",
+    "Adaptation — the hedonic treadmill — means both windfalls and setbacks affect long-term mood less, and less durably, than we intuitively expect.",
+    "The set point is a tendency to drift back, not a fixed ceiling; a meaningful share of lasting happiness comes from intentional activity.",
+    "Ongoing, varied, effortful habits resist adaptation better than one-time changes in circumstance, so they shift well-being more durably.",
+    "Chronic adversity, poverty, and isolation genuinely weigh on well-being in ways adaptation does not fully erase — the set point is not a reason to dismiss hardship.",
+    "The basic architecture appears to apply across men and women alike, with individual temperament mattering more than gender."
   ],
   "lastReviewed": "2026-06"
 }

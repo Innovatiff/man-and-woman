@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "One partner brings up a recurring frustration; the other falls silent, says 'I don't want to fight,' and changes the subject. The issue feels temporarily defused, but it returns weeks later, now carrying the weight of everything that was never said.",
     "A person who grew up around volatile arguments may agree to almost anything to keep the peace, then quietly seethe. Over time the suppressed resentment can leak out as coldness or sarcasm, confusing a partner who never heard the original complaint.",
-    "During a tense conversation, someone who feels their heart pounding may genuinely need to step away to calm down. Without a shared understanding of why, the other partner can read the exit as abandonment, escalating exactly the conflict the first person was trying to avoid."
+    "During a tense conversation, someone who feels their heart pounding may genuinely need to step away to calm down. Without a shared understanding of why, the other partner can read the exit as abandonment, escalating exactly the conflict the first person was trying to avoid.",
+    "A couple falls into a familiar loop: one keeps raising the same unmet need, growing more insistent, while the other answers in shorter and shorter replies until they go quiet altogether. Each reads the other as the problem — 'you're always nagging,' 'you never engage' — when they are actually two halves of a single demand-withdraw pattern that neither is choosing on purpose."
   ],
   "whatPeopleGetWrong": [
     "A common misreading is that the person who avoids conflict simply does not care. Often the opposite is true — they care enough to be afraid of damaging the relationship, or they are physiologically overwhelmed. Mistaking flooding or fear for indifference tends to deepen the very gridlock both partners want to escape.",
@@ -72,6 +73,41 @@
     "how-to-resolve-conflict-in-relationships",
     "the-psychology-of-stonewalling",
     "how-to-communicate-needs-without-fighting"
+  ],
+  "quickTake": "Avoiding conflict is usually an attempt to protect a relationship, not neglect it — often driven by feeling overwhelmed, fearing escalation, or learning early that confrontation is unsafe. Sidestepping the small stuff can be wise, but chronically burying real issues tends to backfire.",
+  "pullQuote": "Avoidance is not simply 'not caring'; it is frequently a coping strategy that brings short-term relief at a long-term cost.",
+  "keyStats": [
+    {
+      "value": "Demand-withdraw",
+      "label": "A central conflict pattern where one partner presses to discuss an issue and the other withdraws — roles that flip depending on who wants change, showing it is structural, not fixed by gender.",
+      "source": "Christensen & Heavey (1990)"
+    },
+    {
+      "value": "Flooding",
+      "label": "A surge in heart rate and stress hormones during heated conflict makes calm thinking hard; withdrawal can be the body's attempt to escape that overwhelmed state.",
+      "source": "Gottman & Levenson (1992)"
+    },
+    {
+      "value": "Short-term relief",
+      "label": "Suppression reduces outward expression while leaving internal distress — and often the underlying issue — intact.",
+      "source": "Gross & John (2003)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Role in demand-withdraw", "men": "Somewhat more likely to withdraw, on average", "women": "Somewhat more likely to press the issue, on average" },
+      { "aspect": "Whether the roles are fixed", "men": "Flip depending on who wants change", "women": "Flip depending on who wants change" },
+      { "aspect": "What predicts avoidance best", "men": "Attachment style and temperament, not sex", "women": "Attachment style and temperament, not sex" }
+    ]
+  },
+  "keyTakeaways": [
+    "Conflict avoidance is usually an attempt to protect the relationship, not evidence of not caring.",
+    "The demand-withdraw pattern is structural: the roles flip depending on who wants change.",
+    "Flooding — a physiological surge during conflict — is a common reason people shut down or withdraw.",
+    "Choosing your battles can be healthy; chronically burying issues that matter tends to erode intimacy.",
+    "A real timeout — pausing to calm down, then returning — beats forcing a flooded partner to keep talking.",
+    "Attachment style and temperament predict avoidance better than gender does."
   ],
   "lastReviewed": "2026-06"
 }

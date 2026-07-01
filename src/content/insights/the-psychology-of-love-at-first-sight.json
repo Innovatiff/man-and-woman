@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "Someone locks eyes with a stranger and feels an overwhelming certainty they have met 'the one.' Often this reflects strong attraction plus projection — a story the mind writes about who this person might be, which may or may not survive real acquaintance.",
     "A long-married couple recounts falling in love the moment they met. Their bond is genuine, but the vivid origin story may be partly reconstructed, with years of closeness lending the first meeting more weight than it carried at the time.",
-    "A person feels an instant spark that fades within days once the initial excitement settles. This is common and does not mean anything went wrong; early intensity and lasting compatibility are only loosely related."
+    "A person feels an instant spark that fades within days once the initial excitement settles. This is common and does not mean anything went wrong; early intensity and lasting compatibility are only loosely related.",
+    "Someone meets a person who is not conventionally their 'type,' feels no lightning bolt at all, and only realizes months later — after real closeness has formed — that they have fallen deeply in love. This slow-burn path is at least as common as the instant spark, and often more durable."
   ],
   "whatPeopleGetWrong": [
     "The most common misconception is treating an instant, powerful feeling as proof of deep, lasting love. Research suggests the two are different things — a strong first impression predicts attraction far better than it predicts long-term compatibility or commitment, which tend to develop gradually.",
@@ -72,6 +73,41 @@
     "love-vs-infatuation",
     "why-we-idealize-our-partners",
     "the-stages-of-falling-in-love"
+  ],
+  "quickTake": "What we call love at first sight is usually intense attraction plus idealization, not fully-formed love. The pull is real, but deep attachment grows over time — and couples often reshape the memory later to feel more fated than it was.",
+  "pullQuote": "An immediate rush of feeling is real, yet it maps more onto early passionate attraction than onto the durable bond that the word 'love' usually implies.",
+  "keyStats": [
+    {
+      "value": "Attraction, not intimacy",
+      "label": "When people reported love at first sight, it tracked physical attraction but showed little of the intimacy, commitment, or deep passion of established love.",
+      "source": "Zsok et al. (2017)"
+    },
+    {
+      "value": "Seconds",
+      "label": "First impressions and attraction form within seconds, fast enough to feel like recognition before deliberation catches up.",
+      "source": "Research on rapid social judgment"
+    },
+    {
+      "value": "Reshaped in hindsight",
+      "label": "Couples form positive illusions and often narrate their beginning as destined, retroactively upgrading a strong first impression.",
+      "source": "Murray, Holmes & Griffin (1996)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Reporting instant attraction", "men": "Slightly quicker to report it, on average", "women": "Somewhat more cautious in labeling it 'love'" },
+      { "aspect": "What the first moment involves", "men": "Often weighted toward physical draw and idealization", "women": "Often weighted toward physical draw and idealization" },
+      { "aspect": "Overlap between the sexes", "men": "Large — differences are modest", "women": "Large — differences are modest" }
+    ]
+  },
+  "keyTakeaways": [
+    "In careful studies, 'love at first sight' looks like strong attraction and idealization, not fully-formed love.",
+    "Passion can spike instantly, but intimacy and commitment develop over weeks and months.",
+    "The mind reads a fast, intuitive appraisal as recognition, which feels like love.",
+    "Couples often reconstruct their origin story to feel more fated than it was at the time.",
+    "The spark is a reason to explore, not proof of compatibility — durability comes from what you learn over time.",
+    "Any gender difference is small; attachment style and openness matter more than sex."
   ],
   "lastReviewed": "2026-06"
 }

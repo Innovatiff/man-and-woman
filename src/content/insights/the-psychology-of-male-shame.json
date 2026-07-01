@@ -73,5 +73,41 @@
     "how-men-handle-criticism",
     "why-men-fear-vulnerability"
   ],
+  "quickTake": "Shame says 'I am bad'; guilt says 'I did something bad.' Men aren't uniquely prone to shame, but masculine norms often narrow how it comes out — into hiding, defensiveness, or anger rather than open acknowledgment. These are learned patterns, not fixed traits.",
+  "pullQuote": "Much of what looks like a specifically male reaction to failure or criticism is, at root, shame doing what shame does.",
+  "keyStats": [
+    {
+      "value": "'I am bad' vs 'I did bad'",
+      "label": "Shame indicts the whole self and triggers hiding or lashing out; guilt targets a behavior and tends to motivate repair.",
+      "source": "Tangney, Stuewig & Mashek (2007)"
+    },
+    {
+      "value": "Learned, not fixed",
+      "label": "Masculine socialization can push shame underground, re-emerging as irritability or withdrawal rather than open acknowledgment.",
+      "source": "Levant et al. (2009), on normative male alexithymia"
+    },
+    {
+      "value": "Narrow anchoring widens triggers",
+      "label": "When self-worth rests heavily on one domain like work or provision, a setback there can feel like a verdict on the whole self.",
+      "source": "Crocker & Wolfe (2001)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Capacity to feel shame", "men": "Similar; women feel it too", "women": "Similar; not clearly less shame-prone" },
+      { "aspect": "How it tends to be expressed", "men": "More often rerouted into anger, silence, or withdrawal", "women": "More often voiced or shown openly, on average" },
+      { "aspect": "Pull of masculine norms", "men": "Stronger pressure to mask vulnerability", "women": "Somewhat freer to name vulnerable feelings" },
+      { "aspect": "Common trigger", "men": "Setbacks in competence, status, or provision", "women": "Broader range, varies by individual history" }
+    ]
+  },
+  "keyTakeaways": [
+    "Shame is the sense that the whole self is bad; guilt targets a specific action and is generally more workable.",
+    "Men are not clearly more shame-prone than women — but masculine norms can narrow how shame is expressed.",
+    "It often surfaces as anger, silence, or withdrawal rather than open acknowledgment, so it is easy to miss.",
+    "Basing self-worth on one narrow domain widens the range of setbacks that can trigger shame.",
+    "Felt safety — criticism aimed at behavior, not the whole person, and free of contempt — is the antidote inside a relationship.",
+    "Much of this is learned rather than fixed, so it can shift with awareness, safe relationships, and sometimes therapy."
+  ],
   "lastReviewed": "2026-06"
 }

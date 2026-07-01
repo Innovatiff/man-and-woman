@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A couple breaks up over the same recurring conflict — say, differing expectations about effort or the future — then reunites a few weeks later because they miss each other. Because the underlying disagreement was never resolved, the same fight tends to return and drive the next breakup.",
     "After a split, one partner remembers mostly the good times and reaches out, and the warmth of reconnection temporarily overshadows the reasons they parted. This idealized memory can fade once daily reality returns, restarting the cycle.",
-    "Someone stays in an on-off pattern partly because the thought of dating again, or of the relationship being truly over, feels worse than the familiar ups and downs — an example of how investment and fear of the unknown can outweigh actual satisfaction."
+    "Someone stays in an on-off pattern partly because the thought of dating again, or of the relationship being truly over, feels worse than the familiar ups and downs — an example of how investment and fear of the unknown can outweigh actual satisfaction.",
+    "A couple sets a 'this time it's really over' rule, then finds a birthday, a hard week, or a lonely holiday quietly reopens the door — the reunion arrives on a wave of feeling rather than any change in the problem that split them, and within weeks the old dynamic is back in place."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that repeatedly reuniting proves a couple is meant to be. The research suggests the opposite is often true: cyclical relationships tend to carry more uncertainty and lower satisfaction, and the pull to reunite frequently reflects attachment, habit, and investment rather than the relationship actually working.",
@@ -72,6 +73,40 @@
     "the-psychology-of-rebound-relationships",
     "why-we-repeat-relationship-patterns",
     "understanding-attachment-styles"
+  ],
+  "quickTake": "Breaking up and reuniting is common, but it usually reflects attachment, habit, and investment more than compatibility. On average these cycles carry more uncertainty and lower satisfaction, and they tend to keep spinning until the underlying problem is actually fixed.",
+  "pullQuote": "Each renewal restarts the relationship without resetting what went wrong.",
+  "keyStats": [
+    {
+      "value": "Common",
+      "label": "A large share of dating people report at least one breakup-and-reunion with the same partner; cyclical relationships are widespread rather than rare.",
+      "source": "Dailey et al. (2009)"
+    },
+    {
+      "value": "Lower satisfaction",
+      "label": "On average, partners in on-off relationships report more uncertainty about the future and lower satisfaction than those in non-cyclical ones.",
+      "source": "Dailey et al. (2009)"
+    },
+    {
+      "value": "Investment model",
+      "label": "Commitment rests on satisfaction, accumulated investment, and the perceived quality of alternatives — which is why history and sunk cost can pull people back even when a relationship is not working.",
+      "source": "Rusbult (1980)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "What tends to pull them back", "men": "Familiarity, shared history, uncertainty about alternatives", "women": "Lingering feelings, shared history, hope things will change" },
+      { "aspect": "How the cycle is experienced", "men": "Broadly similar — attachment, investment, ambivalence", "women": "Broadly similar — attachment, investment, ambivalence" },
+      { "aspect": "Who stays caught", "men": "Better predicted by attachment style than by gender", "women": "Better predicted by attachment style than by gender" }
+    ]
+  },
+  "keyTakeaways": [
+    "On-again, off-again relationships are common, not unusual, but they tend to carry more uncertainty, conflict, and lower satisfaction than stable ones.",
+    "Reunions are usually driven by emotion, hope, and investment rather than by the original problem being solved.",
+    "Repeatedly reuniting is not reliable proof of compatibility — strong feelings can coexist with genuine incompatibility.",
+    "The cycle rarely breaks on its own; it tends to repeat until the underlying issues are addressed or someone decides to stop.",
+    "Men and women experience the cycle in broadly similar ways; attachment style predicts who stays caught better than gender does."
   ],
   "lastReviewed": "2026-06"
 }

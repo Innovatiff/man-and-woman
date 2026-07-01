@@ -74,5 +74,32 @@
     "the-mental-load-women-carry",
     "how-resentment-builds-in-relationships"
   ],
+  "quickTake": "What people call 'nagging' is usually the visible half of a two-person loop: one partner presses for change while the other avoids or shuts down, and each response fuels the other. Repeated requests typically signal an unmet need and not feeling heard — not one person simply being difficult.",
+  "pullQuote": "Underneath 'take out the trash' is often 'I want to feel like we are a team' — when the underlying need stays invisible, the surface request keeps recurring.",
+  "keyStats": [
+    {
+      "value": "Roles reverse",
+      "label": "The demanding role often shifts with whose issue is on the table, undercutting the idea that nagging is one person's stable trait.",
+      "source": "Christensen & Heavey (1990), demand-withdraw research"
+    },
+    {
+      "value": "Specific vs global",
+      "label": "'I felt alone when the dishes were left' lands better than 'you never help' — a harsh start-up and escalating criticism predict worse outcomes.",
+      "source": "Gottman & Silver (1999)"
+    },
+    {
+      "value": "A bid for responsiveness",
+      "label": "Much repeated 'nagging' is an unmet request for responsiveness; when the real need never arrives, the surface request keeps recurring.",
+      "source": "Reis & Shaver (1988), intimacy model"
+    }
+  ],
+  "keyTakeaways": [
+    "'Nagging' is better understood as a relational demand-withdraw pattern than as one person's annoying trait.",
+    "The withdrawing partner keeps the loop alive just as much as the demanding one — repetition and avoidance feed each other.",
+    "Repeated requests usually signal a genuine unmet need, not a wish to control.",
+    "How a complaint is raised matters: specific, needs-focused requests land far better than global criticism.",
+    "The stereotype that women nag and men withdraw oversimplifies — roles shift with whose issue is raised, and either partner can take either side.",
+    "Curiosity about the loop, rather than blaming one person, is usually the more useful starting point."
+  ],
   "lastReviewed": "2026-06"
 }

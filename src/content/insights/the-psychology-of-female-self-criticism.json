@@ -74,5 +74,41 @@
     "overcoming-people-pleasing",
     "self-improvement-for-women"
   ],
+  "quickTake": "Harsh self-criticism in many women is fueled by self-silencing, self-worth staked on outside approval, and rumination — patterns learned through socialization, not fixed female traits. Self-compassion is among the best-supported antidotes, and it eases distress without lowering standards.",
+  "pullQuote": "Being kinder to yourself does not mean expecting less of yourself.",
+  "keyStats": [
+    {
+      "value": "Self-compassion",
+      "label": "Treating yourself with a friend's kindness is linked to greater resilience and motivation — not the complacency people fear.",
+      "source": "Neff (2003)"
+    },
+    {
+      "value": "Rumination",
+      "label": "Repetitively dwelling on flaws — a coping style women report more on average — tends to amplify and prolong self-criticism rather than resolve it.",
+      "source": "Nolen-Hoeksema (2000)"
+    },
+    {
+      "value": "Contingent worth",
+      "label": "When self-esteem rides on external standards like approval, appearance, or achievement, every shortfall becomes a threat to one's whole sense of value.",
+      "source": "Crocker & Wolfe (2001)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Common trigger domains", "men": "Often status, competence, provision", "women": "Often approval, appearance, relationships" },
+      { "aspect": "Typical coping style", "men": "More likely to distract or act", "women": "More likely to ruminate and self-silence" },
+      { "aspect": "How distress is voiced", "men": "May externalize or go quiet", "women": "May suppress needs to keep the peace, then turn it inward" },
+      { "aspect": "Best-supported antidote", "men": "Self-compassion", "women": "Self-compassion" }
+    ]
+  },
+  "keyTakeaways": [
+    "Self-criticism is often driven by a loop of contingent self-worth, self-silencing, and rumination.",
+    "These are largely learned responses to social pressure, not personal defects — which means they can be unlearned.",
+    "Self-compassion is linked to more resilience and motivation, not less; harsh self-criticism tends to erode both.",
+    "Self-silencing carries relational costs — hidden resentment and feeling unseen — so voicing needs protects the relationship too.",
+    "Men experience contingent worth and harsh inner critics too, often around different domains.",
+    "A harsh inner critic is a changeable pattern, not a verdict on who someone is; severe, persistent cases benefit from professional support."
+  ],
   "lastReviewed": "2026-06"
 }

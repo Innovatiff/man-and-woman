@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A partner who genuinely helps says 'just tell me what to do.' The offer is sincere, but it keeps the mental load exactly where it was: she still has to notice the need, plan the task, and delegate it. The tiring part was never the doing — it was the managing, and that has not moved.",
     "On a family trip, one parent packs the bags. But someone built the mental checklist weeks earlier — snacks, medications, chargers, the thing the toddler cannot sleep without — and has been quietly tracking it the whole time. The packing is visible; the tracking that made packing possible is not.",
-    "The load often surfaces as a feeling of never being 'off,' even on a calm evening. While relaxing, part of her attention is still scanning: did the form get submitted, is there enough milk for morning. That low background hum, hard to point to, is the mental load running."
+    "The load often surfaces as a feeling of never being 'off,' even on a calm evening. While relaxing, part of her attention is still scanning: did the form get submitted, is there enough milk for morning. That low background hum, hard to point to, is the mental load running.",
+    "It shows up in the flood of small logistics that keep a household and its relationships running — remembering the in-laws' anniversary, booking the dentist before the calendar fills, noticing a child has outgrown their shoes. Any one item is trivial; being the person who holds the whole running list is what quietly wears down."
   ],
   "whatPeopleGetWrong": [
     "The common misreading is that a household where chores are split 50/50 is therefore equal. Daminger's research suggests the physical split can be even while the cognitive and planning split is not, which is exactly why one partner can feel overloaded while the other honestly believes things are fair. Both can be telling the truth about different layers of the work.",
@@ -72,6 +73,42 @@
     "how-women-experience-stress",
     "how-women-can-set-boundaries",
     "what-drives-female-behavior"
+  ],
+  "quickTake": "The mental load is the invisible work of anticipating, planning, and remembering what a household needs — separate from the chores themselves. Research suggests it still tilts toward women even when tasks are split evenly, and it tires precisely because it is constant and unseen.",
+  "pullQuote": "The tiring part was never the doing — it was the managing, the system that never switches off.",
+  "keyStats": [
+    {
+      "value": "4 stages",
+      "label": "Cognitive household labor breaks into anticipating, identifying options, deciding, and monitoring — and the anticipating and monitoring tilt most toward women.",
+      "source": "Daminger (2019)"
+    },
+    {
+      "value": "Even chores, uneven load",
+      "label": "Couples who split the hands-on tasks fairly evenly often still have the woman doing most of the invisible planning and tracking.",
+      "source": "Daminger (2019)"
+    },
+    {
+      "value": "Autonomy cost",
+      "label": "Carrying the whole system drains attention and the sense of autonomy that well-being depends on — the load is not only time but attention that is never fully free.",
+      "source": "Deci & Ryan (2000)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Visible, hands-on chores", "men": "Often shared fairly evenly", "women": "Often shared fairly evenly" },
+      { "aspect": "Anticipating and monitoring", "men": "On average carry less of it", "women": "On average carry more of it" },
+      { "aspect": "Default 'noticer' role", "men": "Less often the family's default tracker", "women": "More often socialized into it" },
+      { "aspect": "How much varies by couple", "men": "Many households reverse or share it", "women": "Many households reverse or share it" }
+    ]
+  },
+  "keyTakeaways": [
+    "The mental load is the invisible cognitive work — anticipating, planning, deciding, monitoring — distinct from the physical chores.",
+    "Research suggests it tilts disproportionately toward women even in couples who split the visible chores evenly.",
+    "It is exhausting because it never switches off and leaves no visible trace, so it is easy to under-count.",
+    "Splitting chores 50/50 doesn't fix it, because the physical split and the cognitive split are different layers.",
+    "The real lever is transferring ownership of whole domains — including the remembering — not just delegating individual tasks.",
+    "It is an average structural pattern, not a rule; many households reverse or share it, and individual habits predict more than gender."
   ],
   "lastReviewed": "2026-06"
 }

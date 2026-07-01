@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A man who reacts sharply to a small correction in front of others may not be over-reacting to the correction itself but to the perceived loss of face. The intensity tends to track how much his pride is staked on looking competent in that setting.",
     "Reluctance to ask for help — directions, instructions, advice — often reflects pride tied to self-reliance. The reluctance is usually less about the task and more about what asking seems to say about one's competence.",
-    "Genuine, specific appreciation for something a man has worked hard at frequently lands more deeply than general compliments, because it speaks directly to the domain his pride is invested in."
+    "Genuine, specific appreciation for something a man has worked hard at frequently lands more deeply than general compliments, because it speaks directly to the domain his pride is invested in.",
+    "A man who loses a job or takes a demotion may withdraw, become irritable, or hide the news even from those closest to him — not because the practical problem is unsolvable, but because so much of his self-worth was staked on that role that the blow lands at the level of identity rather than circumstance."
   ],
   "whatPeopleGetWrong": [
     "Pride is often read as simple arrogance or ego. Research suggests it is frequently the opposite — a defense around a self-worth that feels fragile or narrowly based. Treating it as vanity tends to escalate the defensiveness it is meant to address.",
@@ -72,6 +73,42 @@
     "why-men-value-respect",
     "the-psychology-of-shame-vs-guilt",
     "why-men-avoid-asking-for-help"
+  ],
+  "quickTake": "For many men, pride rests on competence, status, and being respected — so a threat to those domains can feel like a threat to the whole self. That makes pride a real source of dignity and motivation, but also of defensiveness. It is often a shell around vulnerability, not simple arrogance.",
+  "pullQuote": "Pride functions as a protective shell around a sense of identity that has fewer other supports to fall back on.",
+  "keyStats": [
+    {
+      "value": "Contingent self-worth",
+      "label": "People stake esteem on specific domains like competence and status; when men are socialized to weight those heavily, pride in them feels central to identity.",
+      "source": "Crocker & Wolfe (2001)"
+    },
+    {
+      "value": "Shame vs guilt",
+      "label": "Guilt targets a specific behavior while shame indicts the whole self; threatened pride is often felt at the self level, which triggers defensiveness over repair.",
+      "source": "Tangney, Stuewig & Mashek (2007)"
+    },
+    {
+      "value": "Large overlap",
+      "label": "Contingent self-worth and social comparison affect everyone; the sexes are far more alike than different, so this is a tendency, not a male-only trait.",
+      "source": "Festinger (1954); Hyde (2005)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Where self-worth is often staked", "men": "More often on competence, status, and provision", "women": "Often on a broader mix including relationships and appearance" },
+      { "aspect": "How a threat to pride is felt", "men": "Often as a self-level threat, prompting defensiveness", "women": "Also possible, but the staked domains often differ" },
+      { "aspect": "Sensitivity to social comparison", "men": "Often keen on ranking and 'where they stand'", "women": "Present too, often in different domains" },
+      { "aspect": "What matters most", "men": "Personality, upbringing, culture", "women": "Personality, upbringing, culture" }
+    ]
+  },
+  "keyTakeaways": [
+    "For many men, pride is tied to competence, status, and being respected, so it feels central to identity.",
+    "A threat to pride is often felt at the level of the whole self, which drives defensiveness or withdrawal.",
+    "Defensive pride is usually a shell around fragile or narrowly based self-worth, not simple arrogance.",
+    "Criticizing a specific action rather than character lowers defensiveness — 'that hurt me' beats 'you always.'",
+    "Widening the base of self-worth beyond one domain tends to make pride less brittle over time.",
+    "Contingent self-worth is not male-only; individual differences outweigh gender."
   ],
   "lastReviewed": "2026-06"
 }

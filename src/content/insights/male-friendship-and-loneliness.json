@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A man in his thirties or forties may realize that the friends he'd call in a crisis have dwindled to one or two, or none, even though he was surrounded by friends a decade earlier. Often no falling-out occurred — the friendships simply weren't maintained through busy years.",
     "When a partner becomes a man's sole confidant, ordinary strains can feel heavier: a single relationship is asked to carry all emotional support, and a breakup can leave him not just heartbroken but socially isolated, without a wider network to lean on.",
-    "Two old friends might meet up and have a genuinely good time without ever discussing what's actually weighing on them. The warmth is real, but the lack of deeper disclosure can leave both feeling, underneath, less known than they'd like."
+    "Two old friends might meet up and have a genuinely good time without ever discussing what's actually weighing on them. The warmth is real, but the lack of deeper disclosure can leave both feeling, underneath, less known than they'd like.",
+    "A man who moves to a new city for a job may keep his old friendships alive by text for a while, then watch them fade as the shared context disappears — and find that without the built-in social structure of school or a former workplace, making new close friends in his forties feels unexpectedly hard."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that men simply need less friendship or care less about it. The belonging research points the other way: the need for close connection is a basic human motivation, and many men feel its absence even when they don't have language for it. Fewer close friends usually reflects circumstance and norms, not a smaller need.",
@@ -72,6 +73,42 @@
     "what-drives-male-behavior",
     "why-men-struggle-to-open-up",
     "self-improvement-for-men"
+  ],
+  "quickTake": "Many men's close friendships quietly thin out in adulthood, sometimes leaving a partner as their only confidant. It isn't that men need connection less — the need to belong is universal — and rebuilding friendship, though it takes small social risks, is very much learnable.",
+  "pullQuote": "A man can be socially busy yet lack anyone he'd truly confide in — and naming that gap is a starting point, not a weakness.",
+  "keyStats": [
+    {
+      "value": "~2x mortality effect",
+      "label": "Stronger social relationships are linked to substantially lower odds of dying over follow-up — an effect comparable in size to well-known health factors.",
+      "source": "Holt-Lunstad, Smith & Layton (2010), meta-analysis of 148 studies"
+    },
+    {
+      "value": "Rising isolation",
+      "label": "Americans' core networks of confidants shrank over two decades, with a notable rise in those reporting no one to discuss important matters with.",
+      "source": "McPherson, Smith-Lovin & Brashears (2006)"
+    },
+    {
+      "value": "Universal need",
+      "label": "The desire for stable, caring relationships is a fundamental human motivation, not a personality quirk — so its absence registers as a real deficit.",
+      "source": "Baumeister & Leary (1995)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "How friendships form", "men": "Often side by side around shared activities", "women": "Often face to face around disclosure and talk" },
+      { "aspect": "Emotional confiding", "men": "On average fewer close confidants", "women": "On average more disclosure-based close ties" },
+      { "aspect": "When shared context ends", "men": "Bonds can quietly lapse without maintenance", "women": "More likely to sustain contact through talk" },
+      { "aspect": "Where intimacy is routed", "men": "Sometimes concentrated on a romantic partner", "women": "More often spread across several friends" }
+    ]
+  },
+  "keyTakeaways": [
+    "Many men's close friendships tend to thin across adulthood as careers, moving, and family absorb time — often with no falling-out, just a lapse in maintenance.",
+    "Strong social ties are linked to substantially lower mortality risk, so fading friendships take a real protective resource with them.",
+    "Men don't need connection less; the need to belong is universal, and fewer close friends usually reflects circumstance and norms, not a smaller need.",
+    "Relying on a partner as the sole confidant concentrates a lot of weight on one relationship and leaves a man exposed if it ends.",
+    "Rebuilding is learnable: initiate contact, maintain old bonds through busy years, and allow a little more honesty than activities alone require.",
+    "These are averages with heavy overlap — plenty of men keep rich, close friendships, and adult isolation affects women too."
   ],
   "lastReviewed": "2026-06"
 }

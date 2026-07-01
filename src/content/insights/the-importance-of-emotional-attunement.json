@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A partner glances up from a book and says 'huh, look at this bird.' The bid is tiny. Turning toward it means looking and responding with mild interest; turning away means ignoring it; turning against means snapping 'I'm busy.' Gottman's research suggests it is the running tally of these micro-responses, far more than big romantic moments, that builds or erodes connection.",
     "When one partner comes home stressed, attunement looks like pausing to ask what happened and listening, rather than immediately offering solutions or changing the subject. Often the person doesn't want the problem fixed — they want to feel that someone understands. Being met in that moment deepens trust more than advice does.",
-    "Knowing a partner's inner world — their worries, their hopes, who matters to them, what a hard day looks like for them — is attunement in slow motion. A partner who notices that a particular meeting was stressful and checks in afterward is demonstrating that they have been paying attention to who the other person actually is."
+    "Knowing a partner's inner world — their worries, their hopes, who matters to them, what a hard day looks like for them — is attunement in slow motion. A partner who notices that a particular meeting was stressful and checks in afterward is demonstrating that they have been paying attention to who the other person actually is.",
+    "Sharing good news is a bid too. When one partner comes home excited about a small win, an attuned response is to light up with them and ask about it — 'active-constructive' interest — rather than a flat 'that's nice' while scrolling. How a partner celebrates the good moments turns out to matter for closeness as much as how they handle the hard ones."
   ],
   "whatPeopleGetWrong": [
     "The biggest misconception is that intimacy is built through big events — vacations, anniversaries, grand declarations. Research suggests the opposite: closeness is mostly assembled from countless small, ordinary moments of turning toward each other. Grand gestures can be lovely, but they cannot substitute for everyday responsiveness, and a relationship rich in the former but poor in the latter tends to feel hollow.",
@@ -72,6 +73,42 @@
     "why-couples-stop-talking",
     "what-makes-relationships-last",
     "how-to-resolve-conflict-in-relationships"
+  ],
+  "quickTake": "Intimacy is built less by grand gestures than by reliably noticing and responding to a partner's small everyday 'bids' for connection — and by meeting their emotions with presence rather than fixes. It's a learnable skill both partners need equally.",
+  "pullQuote": "Closeness is assembled from countless small moments of turning toward each other, not from the occasional grand gesture.",
+  "keyStats": [
+    {
+      "value": "Turn toward",
+      "label": "Couples who consistently 'turn toward' each other's small bids for connection, rather than away or against, build far more stable and satisfying relationships.",
+      "source": "Gottman (2011)"
+    },
+    {
+      "value": "Responsiveness",
+      "label": "Intimacy grows as a loop: disclosure met with understanding invites more openness; the felt sense that a partner truly gets you is the key ingredient.",
+      "source": "Reis & Shaver (1988)"
+    },
+    {
+      "value": "Small acts",
+      "label": "Lasting closeness tracks accumulated everyday attentiveness — love maps, fondness, turning toward — more than romance or shared interests alone.",
+      "source": "Gottman & Silver (1999)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Expressing emotion in words", "men": "On average a bit less, though the difference is small", "women": "On average a bit more, with heavy overlap" },
+      { "aspect": "Instinct when a partner is upset", "men": "Somewhat more likely to jump to fixing", "women": "Somewhat more likely to seek shared understanding" },
+      { "aspect": "Capacity for attunement", "men": "Fully capable; learnable with practice", "women": "Fully capable; learnable with practice" },
+      { "aspect": "Need to be met with responsiveness", "men": "Just as strong", "women": "Just as strong" }
+    ]
+  },
+  "keyTakeaways": [
+    "Attunement is noticing, understanding, and responding to a partner's inner world — the real engine of intimacy.",
+    "The everyday currency is the 'bid' for connection; turning toward these small reaches, more often than not, is what builds security.",
+    "Intimacy runs as a loop of disclosure and responsiveness — feeling that a partner truly gets you keeps the loop open.",
+    "It matters most in emotional moments; meeting distress with presence rather than fixes does the heaviest lifting.",
+    "Consistency beats intensity — reliably modest attentiveness builds more trust than occasional spectacular gestures.",
+    "It is a learnable skill, not a fixed trait, and both partners need it and can develop it regardless of gender."
   ],
   "lastReviewed": "2026-06"
 }

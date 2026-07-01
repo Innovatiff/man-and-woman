@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "Two people feel a powerful physical pull but find that once the initial excitement fades, little emotional connection remains. The desire was real, but the attachment system was never deeply engaged, so there was less to sustain the relationship.",
     "A long-term couple loves each other deeply while passionate intensity has softened into steady affection and security. The change reflects the natural shift from passionate toward companionate love, not a loss of love itself.",
-    "Someone feels strong desire early on that gradually deepens as trust and shared experience accumulate, with lust and love growing together. This common trajectory shows how the systems, though distinct, often reinforce each other over time."
+    "Someone feels strong desire early on that gradually deepens as trust and shared experience accumulate, with lust and love growing together. This common trajectory shows how the systems, though distinct, often reinforce each other over time.",
+    "A person feels deep, tender love for someone — a close partner during a stressful stretch, say — while sexual desire has temporarily dimmed, and worries something is wrong. Often nothing is: the attachment system is fully engaged while the desire system is quieter, a normal sign that the two run partly independently."
   ],
   "whatPeopleGetWrong": [
     "The most common misconception is treating intense desire as proof of love. Research suggests desire and attachment are partly independent, so a strong physical pull says little on its own about whether deep, lasting love will follow. Passion can be present, absent, or fade while love remains, and vice versa.",
@@ -72,6 +73,41 @@
     "the-science-of-chemistry-and-spark",
     "how-attraction-works",
     "the-stages-of-falling-in-love"
+  ],
+  "quickTake": "Lust and love run on distinct but connected systems — one geared to sexual desire, the other to deep attachment. They often travel together, but either can exist without the other, which is why hot desire does not guarantee lasting love and calm love does not mean the spark is dead.",
+  "pullQuote": "Intense desire does not guarantee lasting love, and enduring love does not require constant passion.",
+  "keyStats": [
+    {
+      "value": "Distinct systems",
+      "label": "Romantic love and sexual desire are functionally separable and can operate independently, even toward different people.",
+      "source": "Diamond (2004)"
+    },
+    {
+      "value": "Three brain systems",
+      "label": "Mating is proposed to involve partly separable systems for lust, romantic attraction, and attachment, with different neurochemical patterns.",
+      "source": "Fisher, Aron & Brown (2006)"
+    },
+    {
+      "value": "Large overlap",
+      "label": "Both systems operate in everyone; reported gender differences in desire are modest and should not be read as stereotypes.",
+      "source": "Hyde (2005)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "How desire is described", "men": "Some studies report it framed slightly more directly", "women": "Some studies report it framed as more context-linked" },
+      { "aspect": "The underlying systems", "men": "Lust, attraction, and attachment all operate", "women": "Lust, attraction, and attachment all operate" },
+      { "aspect": "Overlap between the sexes", "men": "Large — differences are matters of degree", "women": "Large — differences are matters of degree" }
+    ]
+  },
+  "keyTakeaways": [
+    "Lust and love draw on distinct but interacting systems — desire and attachment can activate separately.",
+    "Either can exist without the other, so intense desire is not proof of love, and calm love is not a dead relationship.",
+    "Early passion is arousal-heavy and urgent; deep attachment feels calmer, safer, and more stable.",
+    "Passion often shifts toward companionate love over time — a normal arc, not a failure.",
+    "Both desire and closeness can be nurtured through shared novelty and turning toward each other.",
+    "Both systems operate in everyone; gender differences in desire are modest and easily overstated."
   ],
   "lastReviewed": "2026-06"
 }

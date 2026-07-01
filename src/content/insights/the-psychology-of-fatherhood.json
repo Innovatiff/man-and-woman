@@ -73,5 +73,41 @@
     "the-role-of-purpose-in-a-meaningful-life",
     "how-men-can-be-more-emotionally-present"
   ],
+  "quickTake": "Involved fathering can reshape a man's brain, hormones, and identity, much as motherhood does for women. Bonding tends to grow through hands-on caregiving rather than pure instinct, and many fathers describe a deepened sense of meaning. The gap from mothers is smaller than stereotypes imply.",
+  "pullQuote": "Fathering is something the brain learns and is reshaped by, not a fixed lesser version of mothering.",
+  "keyStats": [
+    {
+      "value": "Oxytocin rises",
+      "label": "Fathers show measurable neural and hormonal changes — including rising oxytocin — when they provide affectionate, hands-on care, much as mothers do.",
+      "source": "Feldman (2017), neurobiology of human attachments"
+    },
+    {
+      "value": "3 core needs",
+      "label": "Self-determination theory identifies competence, relatedness, and autonomy; caregiving can strongly feed relatedness and competence when a father is not sidelined.",
+      "source": "Deci & Ryan (2000)"
+    },
+    {
+      "value": "Built by doing",
+      "label": "Bonding tends to grow through active caregiving and play rather than instinct alone, which is why hands-off arrangements can leave a father less connected.",
+      "source": "Feldman (2017)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "How bonding tends to grow", "men": "More through active, stimulating play and hands-on care", "women": "Often through gestation plus nurturing care" },
+      { "aspect": "Typical caregiving style", "men": "Often stimulating, exploratory, playful", "women": "Often soothing and nurturing" },
+      { "aspect": "Neural and hormonal change", "men": "Present, driven largely by involvement", "women": "Present, driven by gestation and care" },
+      { "aspect": "What builds competence", "men": "Hands-on practice; not being treated as a helper", "women": "Hands-on practice and support" }
+    ]
+  },
+  "keyTakeaways": [
+    "Fathers' brains and hormones respond to caregiving; involved fathering can reshape a man much as motherhood reshapes a woman.",
+    "Bonding grows largely through hands-on involvement and play, not a fixed 'paternal instinct' switching on.",
+    "The 'helper to the mother' framing understates what fathering does — engaged fathers form deep attachments.",
+    "Fatherhood often reorganizes a man's priorities and deepens his sense of meaning and purpose.",
+    "Early awkwardness usually reflects inexperience, not indifference, and fades with practice.",
+    "Treating a father as a capable co-parent, and not gatekeeping caregiving, tends to deepen his bond and confidence."
+  ],
   "lastReviewed": "2026-06"
 }

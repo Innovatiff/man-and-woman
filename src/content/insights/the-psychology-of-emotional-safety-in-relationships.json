@@ -74,5 +74,41 @@
     "how-trust-is-built-and-broken",
     "understanding-attachment-styles"
   ],
+  "quickTake": "Emotional safety is the felt sense that you can be open — flawed, uncertain, upset — without being mocked, punished, or abandoned. It tends to be the foundation intimacy rests on, and it's built in small, repeated moments rather than grand gestures.",
+  "pullQuote": "Safety is not what makes conflict disappear — it is what makes honest conflict survivable.",
+  "keyStats": [
+    {
+      "value": "5:1",
+      "label": "Gottman's positive-to-negative interaction ratio that tends to mark stable relationships — a rough measure of the attunement underlying felt safety.",
+      "source": "Gottman, The Science of Trust (2011)"
+    },
+    {
+      "value": "Both sexes",
+      "label": "The need for responsive, non-punishing connection to open up appears broadly shared; individual attachment history predicts it better than gender.",
+      "source": "Reis & Shaver (1988); Hyde (2005)"
+    },
+    {
+      "value": "Repair over perfection",
+      "label": "How a rupture is repaired tends to preserve security more than never fighting at all.",
+      "source": "Gottman (2011); Reis & Shaver (1988)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Underlying need for safety", "men": "Present, though sometimes less openly voiced", "women": "Present, often more openly named" },
+      { "aspect": "How safety is sought", "men": "Sometimes through shared activity and reliability", "women": "Sometimes through talk and emotional disclosure" },
+      { "aspect": "What erodes it", "men": "Contempt, criticism, feeling not respected", "women": "Contempt, dismissiveness, feeling not heard" },
+      { "aspect": "Path back after a rupture", "men": "Responds to steady, non-punishing repair", "women": "Responds to steady, non-punishing repair" }
+    ]
+  },
+  "keyTakeaways": [
+    "Emotional safety is the expectation, built from experience, that vulnerability will be met with responsiveness rather than rejection.",
+    "It is built in small, ordinary moments — how a partner reacts to a confession, a mistake, or a bad mood — more than in dramatic reassurances.",
+    "Contempt, ridicule, dismissiveness, and stonewalling are especially corrosive because they signal that opening up is unwelcome.",
+    "Safety is what makes honest conflict survivable, not what makes conflict disappear; secure couples can argue without the bond feeling at stake.",
+    "Repair after a rupture tends to rebuild trust faster than pretending nothing happened.",
+    "The need is broadly shared across genders; attachment history predicts how much safety a person needs better than gender does."
+  ],
   "lastReviewed": "2026-06"
 }

@@ -73,5 +73,32 @@
     "how-gratitude-improves-wellbeing",
     "the-happiness-set-point-explained"
   ],
+  "quickTake": "Flow is deep, effortless absorption — attention narrows, self-consciousness fades, and time distorts. It tends to arise when a task's challenge closely matches your skill, with clear goals and quick feedback. It is about engaged, meaningful experience more than passive pleasure.",
+  "pullQuote": "Flow feels both demanding and oddly restful — the usual background noise of the mind quiets down.",
+  "keyStats": [
+    {
+      "value": "Challenge-skill match",
+      "label": "Flow emerges in the narrow band where a task is demanding enough to require focus but not so hard it causes anxiety or so easy it breeds boredom.",
+      "source": "Csikszentmihalyi (1990)"
+    },
+    {
+      "value": "Competence + autonomy",
+      "label": "Flow activities tend to satisfy two core needs that self-determination theory links to thriving.",
+      "source": "Deci & Ryan (2000)"
+    },
+    {
+      "value": "Both sexes",
+      "label": "Flow appears to be a broad human capacity available across men and women, with the specific activities that produce it varying by individual.",
+      "source": "Csikszentmihalyi (1990); Hyde (2005)"
+    }
+  ],
+  "keyTakeaways": [
+    "Flow is deep absorption where action and awareness merge, self-consciousness fades, and time seems to distort.",
+    "It tends to arise when challenge and skill are balanced and slightly stretching — with clear goals and quick feedback.",
+    "It is active, demanding engagement, not relaxation — passive leisure like watching television rarely produces it.",
+    "It depends on the fit between challenge and current skill more than on natural talent or any special activity.",
+    "Flow is one ingredient of a good life alongside meaning, relationships, and rest — not the whole recipe.",
+    "It appears accessible to both men and women, even if culture shapes which pursuits each is steered toward."
+  ],
   "lastReviewed": "2026-06"
 }
