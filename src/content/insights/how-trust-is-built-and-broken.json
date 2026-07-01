@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "Trust often grows in unremarkable moments: a partner who follows through on what they said they'd do, answers honestly even when it's awkward, or shows up during a hard week. None of these is dramatic, but together they accumulate into a deep confidence that the person is dependable.",
     "Betrayal is not only affairs. It can be a partner who consistently chooses their own convenience over the relationship, who is dishonest about small things, or who repeatedly fails to show up when it matters. Gottman's research suggests these smaller, recurring breaches can erode trust as thoroughly as a single major one, even when no one event seems decisive.",
-    "After trust is damaged, the path back runs through consistency. Repeated honesty, transparency, and reliably showing up — sustained over time, not promised in a single conversation — is what gradually rebuilds the predictive evidence that was lost. The injured partner usually needs to see, not just hear, that things are different."
+    "After trust is damaged, the path back runs through consistency. Repeated honesty, transparency, and reliably showing up — sustained over time, not promised in a single conversation — is what gradually rebuilds the predictive evidence that was lost. The injured partner usually needs to see, not just hear, that things are different.",
+    "One partner keeps making small commitments and quietly not following through — 'I'll call the plumber,' 'I'll be home by seven' — with no single lie big enough to confront. Months later the other realizes they no longer count on anything that partner says. No dramatic betrayal occurred; trust simply drained out through a hundred small leaks."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that trust is binary — either present or destroyed. In reality it is more like a balance that rises and falls with the accumulating evidence of how partners treat each other. It is rarely won or lost in a single moment, and even after serious breaches it can often be rebuilt, though doing so takes sustained, consistent effort rather than a one-time apology.",
@@ -72,6 +73,42 @@
     "what-makes-relationships-last",
     "understanding-attachment-styles",
     "how-to-resolve-conflict-in-relationships"
+  ],
+  "quickTake": "Trust is not one decision but an accumulation — built by repeatedly showing, through action, that you'll act in each other's interest. It breaks through betrayal, big or small, including a slow drip of little letdowns. Rebuilding is possible but demands consistent, sustained repair, not a single apology.",
+  "pullQuote": "Trust cannot be rushed or declared into existence — it requires a track record, accumulated especially through moments when showing up was costly or inconvenient.",
+  "keyStats": [
+    {
+      "value": "Cumulative",
+      "label": "Trust is earned moment to moment through accumulated attunement — countless small instances of being responsive when it counts.",
+      "source": "Gottman (2011), The Science of Trust"
+    },
+    {
+      "value": "Responsiveness",
+      "label": "Trust deepens through repeated cycles of disclosure met with understanding — perceived partner responsiveness is the raw material it's made from.",
+      "source": "Reis & Shaver (1988)"
+    },
+    {
+      "value": "Risk regulation",
+      "label": "People continually weigh the rewards of closeness against the risk of being hurt; uncertainty prompts self-protection that can corrode a bond even without overt betrayal.",
+      "source": "Murray, Holmes & Collins (2006)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: building vs. breaking trust",
+    "rows": [
+      { "aspect": "How it moves", "men": "Builds slowly, breaks fast", "women": "Builds slowly, breaks fast" },
+      { "aspect": "What builds it", "men": "Kept promises, honesty, responsiveness over time", "women": "Kept promises, honesty, responsiveness over time" },
+      { "aspect": "What breaks it", "men": "One major betrayal — or many small letdowns", "women": "One major betrayal — or many small letdowns" },
+      { "aspect": "Bigger predictor than gender", "men": "Attachment style and personal history", "women": "Attachment style and personal history" }
+    ]
+  },
+  "keyTakeaways": [
+    "Trust is an accumulation, not a single decision — it grows from a track record of reliability.",
+    "It builds fastest in costly moments: showing up when it would be easier not to.",
+    "Small repeated letdowns can hollow out trust as thoroughly as one dramatic betrayal.",
+    "Broken trust is self-perpetuating if unaddressed, as both partners self-protect and withdraw.",
+    "Rebuilding requires full responsibility, transparency, and consistently changed behavior over time — not one apology.",
+    "How readily people trust tracks attachment style and history far more than gender."
   ],
   "lastReviewed": "2026-06"
 }

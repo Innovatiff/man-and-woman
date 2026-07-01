@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "Someone replaying an argument for hours may find that ten minutes of honest writing — what happened, what they felt, what it means to them — leaves them noticeably calmer, because the loop in their head finally has somewhere to land.",
     "A person facing a stressful work review might move from dread to steadiness by reappraising it: instead of 'this proves I'm failing,' framing it as 'this is information I can use.' The facts are unchanged, but the emotional charge often shifts.",
-    "A partner who habitually says 'I'm fine' while clearly upset is using suppression. It can keep the peace briefly, but the unprocessed feeling tends to leak out later as irritability or distance, which is why naming it directly often works better over time."
+    "A partner who habitually says 'I'm fine' while clearly upset is using suppression. It can keep the peace briefly, but the unprocessed feeling tends to leak out later as irritability or distance, which is why naming it directly often works better over time.",
+    "Someone who tends to bottle things up might start with something small and low-stakes — pausing to silently label a flash of frustration as 'this is frustration, and it will pass' before reacting. That brief act of naming often takes just enough edge off the feeling to respond thoughtfully rather than on impulse."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that processing emotions means venting them as intensely as possible. Research suggests that unstructured venting and repeatedly rehearsing distress can actually deepen it. What tends to help is reflective expression — naming and making sense of a feeling — rather than simply amplifying it.",
@@ -73,6 +74,42 @@
     "understanding-emotional-triggers",
     "why-we-cry-and-what-it-means",
     "how-men-can-manage-anger-and-stress"
+  ],
+  "quickTake": "Difficult emotions tend to ease when you acknowledge and work through them rather than bottle them up. Naming a feeling, writing about it, and reframing how you read a situation generally help more than suppressing it — and these skills are learnable for anyone.",
+  "pullQuote": "Difficult emotions handled with awareness and reframing tend to settle more readily than those that are pushed down.",
+  "keyStats": [
+    {
+      "value": "Health gains",
+      "label": "People who wrote about emotionally difficult experiences for short sessions over several days showed improvements in well-being and even some physical health markers versus those writing on neutral topics.",
+      "source": "Pennebaker (1997)"
+    },
+    {
+      "value": "Reappraisal wins",
+      "label": "Cognitive reappraisal is generally associated with better mood, closer relationships, and well-being, while habitual suppression is linked with more negative emotion and lower social connection.",
+      "source": "Gross & John (2003)"
+    },
+    {
+      "value": "Large overlap",
+      "label": "On most psychological measures, including emotional processing, men and women are far more alike than different, with average differences modest.",
+      "source": "Hyde (2005)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Socialized default", "men": "Often encouraged to minimize or mask vulnerable feelings", "women": "Often given more room to talk emotions through" },
+      { "aspect": "Common pitfall", "men": "Suppression that leaks out later as irritability or distance", "women": "Rumination — replaying a feeling without resolving it" },
+      { "aspect": "Expression vs experience", "men": "May show less outwardly", "women": "May express more outwardly; felt intensity is broadly similar" },
+      { "aspect": "What helps", "men": "Naming, reflecting, reappraising — same core skills", "women": "Naming, reflecting, reappraising — same core skills" }
+    ]
+  },
+  "keyTakeaways": [
+    "Naming a feeling, writing about it, and reappraising the situation tend to help difficult emotions settle.",
+    "Habitual suppression is linked with more negative emotion and less closeness — it costs more than it gives as a default.",
+    "Reappraisal works earlier, changing the interpretation that generates the emotion, which makes it more sustainable.",
+    "Processing is not the same as venting — unstructured venting and rehearsing distress can deepen it.",
+    "The core skills help both sexes; differences are mostly about socialized expression, not depth of feeling.",
+    "Context matters more than any single technique — briefly suppressing anger in a tense meeting can be wise; suppressing grief for months is not."
   ],
   "lastReviewed": "2026-06"
 }

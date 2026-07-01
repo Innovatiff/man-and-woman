@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A woman may describe love less in terms of a single overwhelming moment and more as a growing certainty: the accumulating sense that a partner shows up, listens, and can be trusted with vulnerable things. What deepens the feeling is often consistency over time rather than one grand gesture.",
     "Because responsiveness is so central, the experiences that register as love are frequently small: being remembered, being listened to without being fixed, a partner who follows through when it matters. These responsive details (Reis and Shaver, 1988) often do more to confirm love than expensive romance.",
-    "When emotional safety is shaken — through inconsistency or broken trust — many women report that even strong feelings can stall or recede. Because the mental model leans on dependability, instability in the bond tends to undercut love more sharply than it might for someone whose model leans more on passion alone."
+    "When emotional safety is shaken — through inconsistency or broken trust — many women report that even strong feelings can stall or recede. Because the mental model leans on dependability, instability in the bond tends to undercut love more sharply than it might for someone whose model leans more on passion alone.",
+    "A woman early in a relationship might feel real attraction yet notice her feelings deepen most on the ordinary evening her partner remembers a small worry she mentioned days earlier and quietly checks in on it. That moment of being tracked and responded to (Reis and Shaver) often registers as love more than any grand gesture does."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that women are the more romantically impulsive sex — quick to fall and slow to leave. The research often complicates this: for many women love is built deliberately around safety, and caution early reflects feeling held in reserve until trust is earned, not a lack of depth. A measured entry can coexist with deep eventual attachment.",
@@ -72,6 +73,42 @@
     "why-women-want-emotional-safety",
     "how-men-think-about-love",
     "why-women-value-emotional-connection"
+  ],
+  "quickTake": "On average many women think about love less as a single dramatic event and more as something built and confirmed over time — anchored in emotional safety, responsiveness, and accumulating trust. Passion is fully present, but it often grows alongside security rather than ahead of it.",
+  "pullQuote": "For many women, love is not a feeling that simply strikes but one built through repeated experiences of being met.",
+  "keyStats": [
+    {
+      "value": "Responsiveness",
+      "label": "Intimacy deepens when self-disclosure is met with understanding, validation, and care — the core mechanism by which love grows.",
+      "source": "Reis & Shaver (1988), intimacy model"
+    },
+    {
+      "value": "Secure base",
+      "label": "Adult love is built on the same attachment system that bonds children to caregivers, so reliability and presence register strongly as love.",
+      "source": "Hazan & Shaver (1987)"
+    },
+    {
+      "value": "Equally intense",
+      "label": "Passionate longing and arousal are just as real for women as for men — the difference is emphasis, not depth of passion.",
+      "source": "Hatfield & Sprecher (1986), Passionate Love Scale"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Dominant mental model", "men": "More varied; some lead with passion", "women": "Often safety-led and gradually building" },
+      { "aspect": "What registers as love", "men": "Respect, admiration, feeling needed", "women": "Responsiveness, reliability, being understood" },
+      { "aspect": "Role of passion", "men": "Fully present, timing varies", "women": "Fully present, often grows with security" },
+      { "aspect": "Effect of broken trust", "men": "Can stall the bond", "women": "Can stall the bond, often more sharply" }
+    ]
+  },
+  "keyTakeaways": [
+    "On average many women frame love as built and confirmed over time, anchored in safety, responsiveness, and trust.",
+    "Being met — disclosure answered with understanding and care — is the mechanism by which love deepens, not a side benefit.",
+    "Consistency and follow-through often register as love more powerfully than dramatic declarations.",
+    "Passion is just as real for women as for men; it tends to grow alongside security rather than ahead of it.",
+    "Because the model leans on dependability, broken trust or inconsistency can stall a developing bond sharply.",
+    "These are averages with heavy overlap; attachment style predicts how a person thinks about love better than gender."
   ],
   "lastReviewed": "2026-06"
 }

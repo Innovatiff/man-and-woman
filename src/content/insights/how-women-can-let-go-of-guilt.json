@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "Saying no to a request — even a reasonable no, even when overextended — can trigger hours of guilt and second-guessing. The guilt is not tracking a real wrong; it is tracking a learned belief that one's own limits are a kind of failure toward others.",
     "Working parents of any gender feel this, but the cultural script weighs especially on mothers: guilt for working, and guilt for not working; guilt for time spent on oneself, and resentment-tinged exhaustion when none is. The standard is built so that some version of guilt is always available.",
-    "After a conflict, a person may apologize repeatedly and keep replaying their part long after the other person has moved on. When apology and repair have already happened, continued guilt is usually shame doing its work — punishing the self rather than fixing anything."
+    "After a conflict, a person may apologize repeatedly and keep replaying their part long after the other person has moved on. When apology and repair have already happened, continued guilt is usually shame doing its work — punishing the self rather than fixing anything.",
+    "Taking a sick day and lying in bed, someone finds herself mentally cataloguing the colleagues she has inconvenienced and the tasks piling up. The guilt is not tracking a wrong she committed; it is tracking a belief that being unavailable is itself a failure — the kind of chronic, off-switch-less guilt worth learning to release."
   ],
   "whatPeopleGetWrong": [
     "A common mistake is treating all guilt as bad and something to eliminate. Research suggests healthy guilt is valuable: it points toward repair and keeps relationships honest. The goal is not a guilt-free life but the ability to tell adaptive guilt — tied to a specific, repairable action — apart from chronic, disproportionate guilt and shame.",
@@ -72,6 +73,41 @@
     "why-women-feel-responsible-for-others-emotions",
     "overcoming-people-pleasing",
     "the-psychology-of-self-acceptance"
+  ],
+  "quickTake": "Guilt that flags a real wrong and prompts repair is healthy and worth keeping. What is worth releasing is chronic, disproportionate guilt that has shaded into shame about being a bad person — and self-compassion, not more self-punishment, tends to help most.",
+  "pullQuote": "Self-compassion does not erase accountability; it makes honest accountability bearable.",
+  "keyStats": [
+    {
+      "value": "Behavior vs. self",
+      "label": "Guilt says 'I did something bad' and drives repair; shame says 'I am bad' and drives hiding — the slide from one to the other is what corrodes well-being.",
+      "source": "Tangney, Stuewig & Mashek (2007)"
+    },
+    {
+      "value": "Higher on average",
+      "label": "Women report more chronic guilt on average, linked to self-silencing and caregiving expectations rather than anything inherent — a tendency, not a rule.",
+      "source": "Jack (1991)"
+    },
+    {
+      "value": "Small differences",
+      "label": "On most psychological measures the sexes overlap far more than they differ, so plenty of men carry disproportionate guilt and many women do not.",
+      "source": "Hyde (2005)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Chronic, disproportionate guilt", "men": "Reported less often on average", "women": "Reported more often, tied to caregiving scripts" },
+      { "aspect": "Guilt for having needs or saying no", "men": "Less often framed as a moral failing", "women": "More often experienced as letting others down" },
+      { "aspect": "Self-silencing to keep the peace", "men": "Also occurs, expressed differently", "women": "More strongly linked to guilt and later depression" }
+    ]
+  },
+  "keyTakeaways": [
+    "Not all guilt is bad — guilt tied to a specific, repairable wrong points toward apology and keeps relationships honest.",
+    "Guilt focuses on behavior ('I did something bad'); shame focuses on the self ('I am bad') and is what tends to get stuck.",
+    "Self-silencing and caregiving expectations generate guilt with 'no realistic off switch,' more often for women on average.",
+    "Letting go of excess guilt does not make you less accountable — self-compassion is linked to more honest ownership, not less.",
+    "The skill is discernment: repair the guilt that fits a real wrong, and meet chronic, self-directed guilt with kindness.",
+    "Once a matter is genuinely repaired, continued guilt is usually shame punishing the self rather than fixing anything."
   ],
   "lastReviewed": "2026-06"
 }

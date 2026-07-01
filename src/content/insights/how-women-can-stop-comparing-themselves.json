@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "Scrolling through a feed of others' vacations, bodies, or careers can leave someone feeling behind within minutes, even though feeds show curated highlights rather than anyone's full, ordinary reality — a mismatch that fuels unfair comparisons.",
     "One practical shift is redirecting comparison inward: measuring progress against your own past self rather than against other people, which tends to feel both fairer and more motivating.",
-    "Noticing the trigger matters too. Someone who realizes she feels worse every time she opens a particular app might mute certain accounts or set limits — not to deny reality, but to reduce a steady stream of distorted upward comparisons."
+    "Noticing the trigger matters too. Someone who realizes she feels worse every time she opens a particular app might mute certain accounts or set limits — not to deny reality, but to reduce a steady stream of distorted upward comparisons.",
+    "At a reunion or in a group chat, hearing about others' promotions, houses, or relationships can quietly turn catching up into a scoreboard. Silently reminding herself that she is hearing curated highlights, not the full story, tends to take the sting out and lets her stay genuinely glad for people rather than diminished by them."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that you can or should eliminate comparison entirely. Festinger's work suggests it is a natural, near-universal process; the realistic goal is to notice it and reduce its harmful, chronic forms, not to erase a basic feature of how minds work.",
@@ -73,6 +74,47 @@
     "how-women-can-quiet-the-inner-critic",
     "building-self-worth-as-a-woman",
     "the-psychology-of-female-self-criticism"
+  ],
+  "quickTake": "Comparing yourself to others is built-in and normal, but constant upward comparison — especially against curated feeds — tends to wear down mood and self-worth. The habit softens when you notice it, limit comparison-heavy inputs, and anchor your worth in something steadier than measuring up.",
+  "pullQuote": "You are comparing your whole messy inside to someone else's polished outside — so the contest is rigged from the start.",
+  "keyStats": [
+    {
+      "value": "Built-in drive",
+      "label": "People have a basic drive to evaluate themselves by comparing with others, especially where no objective standard exists — a normal process, not a flaw.",
+      "source": "Festinger (1954)"
+    },
+    {
+      "value": "Lower self-esteem",
+      "label": "Social media use, saturated with idealized upward comparisons, was associated with lower self-esteem for many users.",
+      "source": "Vogel et al. (2014)"
+    },
+    {
+      "value": "Steadier worth",
+      "label": "Self-compassion rests on treating yourself kindly regardless of how you compare, offering a more stable sense of worth than self-esteem that depends on winning.",
+      "source": "Neff (2003)"
+    },
+    {
+      "value": "Mostly similar",
+      "label": "The sexes overlap far more than they differ; men compare themselves too, often around status, wealth, or achievement.",
+      "source": "Hyde (2005)"
+    }
+  ],
+  "comparison": {
+    "title": "The comparison habit: average tendencies",
+    "rows": [
+      { "aspect": "Common comparison topics", "men": "Often status, wealth, achievement", "women": "Often appearance, relationships, lifestyle" },
+      { "aspect": "Main comparison engine", "men": "Peers, rankings, and feeds", "women": "Curated social media feeds and peers" },
+      { "aspect": "Effect of upward comparison", "men": "Can erode mood and self-worth", "women": "Can erode mood and self-worth" },
+      { "aspect": "What tends to steady worth", "men": "Self-compassion, own-progress focus", "women": "Self-compassion, own-progress focus" }
+    ]
+  },
+  "keyTakeaways": [
+    "Comparison is a near-universal, built-in process, not a personal weakness or a female failing.",
+    "Chronic upward comparison — measuring yourself against those who seem better off — is what tends to leave people feeling worse.",
+    "Social media is an especially distorting comparison engine, pitting your unedited reality against others' highlight reels.",
+    "The realistic goal is to notice and reduce harmful comparison, not to erase it entirely.",
+    "Comparing to your own past progress, and building self-compassion, anchor worth more steadily than winning comparisons.",
+    "Men compare themselves too, often around status or achievement; the mechanism is broadly shared."
   ],
   "lastReviewed": "2026-06"
 }

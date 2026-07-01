@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A woman who takes her time before defining a relationship may be evaluating long-term compatibility — values, reliability, how conflict is handled — rather than playing hard to get. That deliberation often reflects how seriously she is taking the prospect, not a lack of interest.",
     "Consistent, dependable behavior over months — showing up, following through, handling stress well — frequently moves a woman toward commitment more than expensive gestures. Security and reliability tend to read as the real signals.",
-    "Some couples drift into living together or marriage by inertia. A woman who pushes to actually decide together — to name the relationship and choose it explicitly — is often seeking the 'deciding' pattern Stanley and colleagues link to better outcomes, not manufacturing pressure."
+    "Some couples drift into living together or marriage by inertia. A woman who pushes to actually decide together — to name the relationship and choose it explicitly — is often seeking the 'deciding' pattern Stanley and colleagues link to better outcomes, not manufacturing pressure.",
+    "A woman weighing whether to move in with a partner might hold off not because she doubts her feelings but because she wants to see how he handles a rough stretch first — a job loss, a family crisis, an ordinary bad week. Watching reliability under pressure is the kind of evaluation the investment model predicts, gathering evidence of fit before deepening the stake."
   ],
   "whatPeopleGetWrong": [
     "The most common myth is that women just want to 'lock men down.' The research points to careful evaluation of fit, security, and investment, not a drive to trap anyone. Deliberation about a major life decision is prudent, and reading it as manipulation gets both the motive and the psychology wrong.",
@@ -73,6 +74,42 @@
     "how-women-fall-in-love",
     "what-women-need-in-relationship",
     "why-women-test-men"
+  ],
+  "quickTake": "On average women approach commitment deliberately, weighing long-term fit before going all in. Commitment grows from satisfaction, few better alternatives, and accumulated investment — and reliability reads as commitment more than grand gestures. It is careful evaluation, not a plan to 'lock him down'.",
+  "pullQuote": "Deliberation about a major life decision is prudent, not manipulation — the drive is to evaluate fit, security, and investment, not to trap anyone.",
+  "keyStats": [
+    {
+      "value": "3 factors",
+      "label": "Commitment rises with satisfaction, poor quality of alternatives, and investment size — one of the most validated models of why people stay.",
+      "source": "Rusbult (1980), investment model"
+    },
+    {
+      "value": "Gradual",
+      "label": "Commitment tends to deepen as trust and shared investment accumulate, rather than switching on at a single moment.",
+      "source": "Rusbult (1980)"
+    },
+    {
+      "value": "Sliding vs. deciding",
+      "label": "Relationships entered through a clear mutual choice tend to fare better than those drifted into by inertia.",
+      "source": "Stanley, Rhoades & Markman (2006)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Early evaluation of fit", "men": "Often less cautious early, wide range", "women": "Often more deliberate screening, wide range" },
+      { "aspect": "What signals commitment", "men": "Reliability and follow-through", "women": "Reliability, security, and emotional presence" },
+      { "aspect": "How commitment forms", "men": "Grows with satisfaction and investment", "women": "Grows with satisfaction and investment" },
+      { "aspect": "Preferred path in", "men": "Benefit from deliberate 'deciding'", "women": "Often value explicit, mutual 'deciding'" }
+    ]
+  },
+  "keyTakeaways": [
+    "On average women evaluate long-term fit deliberately before committing — caution reflects seriousness, not disinterest.",
+    "The investment model frames commitment as satisfaction plus poor alternatives plus accumulated investment.",
+    "Reliability, consistency, and emotional presence read as commitment more than dramatic gestures.",
+    "The 'lock him down' cliche misreads careful evaluation as manipulation.",
+    "Deliberately 'deciding' together beats 'sliding' into commitment by inertia for both partners.",
+    "These are averages with heavy overlap; attachment style and history predict commitment better than gender."
   ],
   "lastReviewed": "2026-06"
 }

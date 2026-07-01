@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "After a hard day, a woman may want to talk through what happened in detail — not necessarily to be given solutions, but to feel heard and to organize her own thoughts out loud. The talking itself is part of how the emotion gets processed.",
     "The same instinct can become rumination when a worry gets replayed late at night, each pass adding distress without resolution. Recognizing the shift from useful reflection to unproductive looping is often the key to interrupting it.",
-    "When upset, many women reach out to a friend or partner to share, where men are somewhat more likely to withdraw and process alone. Neither approach is better in itself, but they can clash when partners expect each other to cope the way they do."
+    "When upset, many women reach out to a friend or partner to share, where men are somewhat more likely to withdraw and process alone. Neither approach is better in itself, but they can clash when partners expect each other to cope the way they do.",
+    "Texting a close friend to talk something over — sometimes before she has even decided how she feels about it — can be how a woman figures out her own emotion, the reply and the back-and-forth doing part of the processing work out loud."
   ],
   "whatPeopleGetWrong": [
     "A widespread misconception is that women feel emotions more intensely than men. The research suggests the difference is mainly in expression and processing style, not in the depth of feeling — Kring and Gordon found similar internal intensity with greater outward expressiveness. Reading expressiveness as 'more emotional' confuses how feelings are shown with how strongly they are felt.",
@@ -72,6 +73,42 @@
     "why-women-connect-feelings-and-talking",
     "why-women-overthink-relationships",
     "how-women-process-breakups"
+  ],
+  "quickTake": "On average, women tend to process emotions more outwardly — talking things through with others to gain clarity and connection. It's an effective style, though the same verbal reflection can tip into rumination. The differences are modest, with heavy overlap between the sexes.",
+  "pullQuote": "The same reflective, verbal orientation that aids processing can become a loop when it circles a problem without moving toward resolution.",
+  "keyStats": [
+    {
+      "value": "Similar intensity",
+      "label": "Shown emotional films, men and women reported feeling emotions at similar intensities, but women were more outwardly expressive — the difference was in expression, not depth of feeling.",
+      "source": "Kring & Gordon (1998)"
+    },
+    {
+      "value": "Rapport-talk",
+      "label": "Tannen describes how many women use talk to build connection and process experience, where discussing a problem is partly about feeling understood, not only solving it.",
+      "source": "Tannen (1990)"
+    },
+    {
+      "value": "Small effect",
+      "label": "On most psychological measures the sexes are far more alike than different, with substantial overlap in emotional processing.",
+      "source": "Hyde (2005)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Where processing happens", "men": "More often internal and alone", "women": "More often outward and relational" },
+      { "aspect": "Role of talking", "men": "Often to reach a solution", "women": "Often to feel understood and organize thoughts out loud" },
+      { "aspect": "Felt intensity", "men": "Broadly similar", "women": "Broadly similar" },
+      { "aspect": "Main risk", "men": "Withdrawal or avoidance", "women": "Reflection tipping into rumination" }
+    ]
+  },
+  "keyTakeaways": [
+    "Women, on average, process emotions more through outward expression and talking with others; men somewhat more internally.",
+    "Putting a feeling into words and sharing it with a responsive listener tends to reduce its intensity and provide perspective.",
+    "Felt emotional intensity is broadly similar across the sexes — the difference is mainly in expression and processing style.",
+    "Rumination, a stuck pattern of passive dwelling, is somewhat more common in women and can prolong low mood.",
+    "Most verbal processing is healthy and clarifying; it is a mistake to label all emotional talk as 'overthinking.'",
+    "These are tendencies with heavy overlap; personality, attachment, and culture shape processing at least as much as gender."
   ],
   "lastReviewed": "2026-06"
 }

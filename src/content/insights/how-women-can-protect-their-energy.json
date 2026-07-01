@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "Someone realizes she is the only one who remembers the dentist appointments, the gift for the party, the dwindling pantry staples, and the form due Friday. None of these tasks is huge, but holding all of them at once is exhausting. Naming this as mental load — and redistributing the noticing, not just the doing — tends to relieve more than splitting chores alone.",
     "After a full week, she feels guilty taking an evening for herself and ends up doing chores instead, then resents the lost rest. The guilt is the obstacle; a self-compassionate stance — recognizing that recovery is legitimate, not a luxury — makes it easier to actually take the break.",
-    "Saying no to an additional commitment feels uncomfortable at first, but the relief afterward is telling. Boundaries here are not about shutting people out; they are about matching commitments to genuine capacity so the things she does say yes to get her real attention."
+    "Saying no to an additional commitment feels uncomfortable at first, but the relief afterward is telling. Boundaries here are not about shutting people out; they are about matching commitments to genuine capacity so the things she does say yes to get her real attention.",
+    "She notices that answering work messages late into the evening leaves her wired and unrested, so she sets a cutoff and lets colleagues know. The boundary is not about caring less; it is about protecting the recovery that lets her show up with attention the next day rather than running on fumes."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that protecting your energy means becoming cold, selfish, or withdrawn. In practice it tends to look like clearer boundaries and better-shared load, which usually make a person more present and generous in the relationships that matter, not less. Depletion, by contrast, often breeds the irritability and distance people are trying to avoid.",
@@ -72,6 +73,41 @@
     "the-mental-load-women-carry",
     "how-women-can-quiet-the-inner-critic",
     "overcoming-people-pleasing"
+  ],
+  "quickTake": "Protecting your energy is less about self-isolation and more about boundaries, autonomy, and real recovery. Research suggests thwarted self-direction drains well-being, the invisible mental load falls unevenly, and self-compassion helps you honor limits without guilt.",
+  "pullQuote": "Honoring autonomy and rest is not a withdrawal from a partner so much as a way of staying able to show up well over the long term.",
+  "keyStats": [
+    {
+      "value": "Autonomy",
+      "label": "Self-direction is a basic psychological need; when it is chronically thwarted, well-being and energy tend to suffer, while supportive environments sustain vitality.",
+      "source": "Deci & Ryan (2000)"
+    },
+    {
+      "value": "Cognitive labor",
+      "label": "The mental work of anticipating, monitoring, and planning falls disproportionately on women and, because it is invisible, tends to go unacknowledged even as it consumes energy.",
+      "source": "Daminger (2019)"
+    },
+    {
+      "value": "Small differences",
+      "label": "On most psychological measures the sexes overlap far more than they differ; where women report the mental load more, the cause is largely situational.",
+      "source": "Hyde (2005)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Cognitive/mental load", "men": "Often underestimate how much a partner carries", "women": "More often hold the anticipating and planning" },
+      { "aspect": "Guilt about setting limits", "men": "Also present, expressed differently", "women": "More often feel selfish saying no, on average" },
+      { "aspect": "How energy gets protected", "men": "May default to withdrawal or solo downtime", "women": "Benefit from shared load plus boundaries, not isolation" }
+    ]
+  },
+  "keyTakeaways": [
+    "Protecting energy means boundaries, autonomy, and genuine recovery — not becoming cold, selfish, or withdrawn.",
+    "Chronically thwarted self-direction drains well-being; reclaiming agency over your time and attention helps restore it.",
+    "The invisible mental load of anticipating and planning is real cognitive labor that falls unevenly on women, on average.",
+    "Self-compassion makes it easier to rest and say no without a backlash of guilt, supporting sustainable functioning.",
+    "The durable fix is sharing the noticing and planning, not just splitting visible chores or 'managing better' alone.",
+    "What recharges people differs — solitude, connection, movement, or creative absorption — so the right balance is individual."
   ],
   "lastReviewed": "2026-06"
 }

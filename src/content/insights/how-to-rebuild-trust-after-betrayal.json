@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "After an affair or a serious breach, the betrayed partner often needs to revisit the same questions repeatedly. Research suggests this is not an attempt to punish but a way the mind processes a threat. A partner who answers patiently, without irritation, tends to rebuild safety faster than one who insists on 'moving on.'",
     "Transparency often looks mundane: openly sharing whereabouts, being reachable, and following through on small commitments. These ordinary, verifiable acts accumulate into evidence that the relationship is safe again, which reassurance alone cannot manufacture.",
-    "Sometimes the betrayed partner makes genuine progress, then has a sharp setback triggered by a reminder. Understanding this as a normal part of an uneven recovery, rather than a failure, tends to help both partners stay the course."
+    "Sometimes the betrayed partner makes genuine progress, then has a sharp setback triggered by a reminder. Understanding this as a normal part of an uneven recovery, rather than a failure, tends to help both partners stay the course.",
+    "A partner who broke trust might start proactively sharing information before being asked — mentioning who they had lunch with, leaving their phone in view without being told to — turning transparency into a habit rather than a concession extracted under pressure. Over months, that unforced openness tends to register as safer than any promise."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that an apology, however heartfelt, should be enough to restore trust. Research suggests trust is rebuilt through accumulated trustworthy behavior over time, not a single moment of contrition. Expecting the betrayed partner to 'just forgive and forget' typically backfires.",
@@ -73,5 +74,41 @@
     "how-to-resolve-conflict-in-relationships",
     "what-makes-relationships-last"
   ],
+  "quickTake": "Yes, trust can sometimes be rebuilt after betrayal — but almost never with a single apology. It takes genuine atonement, renewed emotional attunement, and transparent behavior sustained over time, and it only works when both partners are honestly willing.",
+  "pullQuote": "The nervous system updates on evidence accumulated over time, not on promises — which is why reassurance alone rarely rebuilds trust quickly.",
+  "keyStats": [
+    {
+      "value": "3 phases",
+      "label": "Gottman frames repair as atonement, then attunement, then a long stretch of consistent transparent behavior — not a single moment of contrition.",
+      "source": "Gottman, The Science of Trust (2011)"
+    },
+    {
+      "value": "Accumulated",
+      "label": "Trust rebuilds on trustworthy behavior gathered over time; the betrayed partner's risk-regulation system lowers its guard only as evidence adds up.",
+      "source": "Murray, Holmes & Collins (2006)"
+    },
+    {
+      "value": "Both sexes",
+      "label": "How people respond to betrayal is shaped far more by attachment style, history, and circumstance than by gender, with heavy overlap between men and women.",
+      "source": "Hyde (2005)"
+    }
+  ],
+  "keyTakeaways": [
+    "A heartfelt apology is a start, not the fix — trust rebuilds on trustworthy behavior accumulated over time.",
+    "Repair tends to move through atonement, attunement, and sustained transparency, in that order.",
+    "The betrayed partner's caution is a protective system doing its job, not bitterness or control.",
+    "Ordinary, verifiable acts — being reachable, following through, revisiting hard questions patiently — rebuild safety that reassurance cannot manufacture.",
+    "Recovery is uneven; setbacks triggered by reminders are normal, not proof of failure.",
+    "Repair requires both partners' genuine willingness, and sometimes parting with care is the healthier, honest outcome."
+  ],
+  "comparison": {
+    "title": "At a glance: roles in rebuilding trust",
+    "rows": [
+      { "aspect": "The betraying partner's core task", "men": "Full responsibility, no minimizing, patience with repeated questions", "women": "Full responsibility, no minimizing, patience with repeated questions" },
+      { "aspect": "The betrayed partner's core task", "men": "Name needs clearly; notice genuine change over time", "women": "Name needs clearly; notice genuine change over time" },
+      { "aspect": "What rebuilds safety", "men": "Sustained transparency and consistent follow-through", "women": "Sustained transparency and consistent follow-through" },
+      { "aspect": "What tends to slow it", "men": "Defensiveness, pressure to 'move on'", "women": "Defensiveness, pressure to 'move on'" }
+    ]
+  },
   "lastReviewed": "2026-06"
 }

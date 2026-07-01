@@ -74,5 +74,41 @@
     "why-women-want-emotional-safety",
     "how-men-think-about-marriage"
   ],
+  "quickTake": "On average, many women approach marriage as a deliberate, long-term investment — weighing compatibility, responsiveness, and whether a partner is truly dependable. Feeling safe enough to rely on someone tends to unlock full commitment, though individual women vary widely.",
+  "pullQuote": "Feeling safe enough to depend on a partner is what tends to free a woman to invest fully — it is a precondition for commitment, not a sign of neediness.",
+  "keyStats": [
+    {
+      "value": "Investment, not impulse",
+      "label": "Commitment holds through invested time, effort, and shared history plus a lack of better alternatives — not satisfaction alone.",
+      "source": "Rusbult (1980), investment model"
+    },
+    {
+      "value": "Safe to depend?",
+      "label": "People gauge whether it is safe to rely on a partner before letting themselves do so; for many women, confidence in a partner's commitment unlocks full investment.",
+      "source": "Murray, Holmes & Collins (2006), risk-regulation model"
+    },
+    {
+      "value": "78%",
+      "label": "Of measured psychological gender differences are small or close to zero — men and women overlap far more than they differ in how they weigh marriage.",
+      "source": "Hyde (2005), review of 46 meta-analyses"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Approach to the decision", "men": "Often weigh readiness and lifestyle fit", "women": "Often weigh compatibility and long-term security" },
+      { "aspect": "Role of felt security", "men": "Matters, sometimes assumed once committed", "women": "Tends to be a precondition for full investment" },
+      { "aspect": "View of the commitment", "men": "A milestone and shared life", "women": "An ongoing investment to keep mutual" },
+      { "aspect": "Deliberation before marrying", "men": "Varies widely; many deliberate too", "women": "Often careful compatibility evaluation" }
+    ]
+  },
+  "keyTakeaways": [
+    "Many women treat marriage as an ongoing investment in a partnership, not a single decision or a wedding.",
+    "Feeling that a partner is dependable and 'all in' tends to unlock full commitment; lingering doubt keeps part of her self-protective.",
+    "Wanting to talk through finances, values, and plans usually reflects taking the commitment seriously, not stalling.",
+    "Responsiveness — feeling understood and cared for, with effort flowing both ways — is what makes a marriage feel worth deep investment.",
+    "Demonstrating dependability consistently over time builds commitment more than reassurance in a single conversation.",
+    "These are group averages with wide overlap; attachment style, culture, and circumstance predict more than gender does."
+  ],
   "lastReviewed": "2026-06"
 }

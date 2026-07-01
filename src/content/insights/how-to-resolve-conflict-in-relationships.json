@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A harsh start-up sounds like 'you never help around here, what is wrong with you?' A soft one sounds like 'I'm feeling overwhelmed and I could really use a hand tonight.' Same underlying need, very different odds of a productive conversation. The soft version invites cooperation rather than defense.",
     "A repair attempt can be small and even clumsy: 'okay, that came out wrong, let me start over,' or a bit of shared humor that breaks the tension. What matters is whether the other partner accepts it. Couples who let repair attempts land tend to recover from conflict quickly; couples who reject them stay stuck.",
-    "Accepting influence might look like one partner conceding a point they hadn't considered, or adjusting a plan because the other's concern was valid. It is not about always giving in — it is about treating the relationship as a partnership where both people's input genuinely shapes the outcome."
+    "Accepting influence might look like one partner conceding a point they hadn't considered, or adjusting a plan because the other's concern was valid. It is not about always giving in — it is about treating the relationship as a partnership where both people's input genuinely shapes the outcome.",
+    "Mid-argument, one partner notices their heart pounding and says 'I want to sort this out, but I'm too worked up to think — can we pick it back up in twenty minutes?' then actually returns. That is a repair attempt plus a genuine break, and couples who use both tend to resolve the underlying issue far more often than those who push through while flooded."
   ],
   "whatPeopleGetWrong": [
     "A persistent myth is that healthy couples resolve all their disagreements. Gottman's research suggests the opposite: a large share of relationship conflicts are 'perpetual,' rooted in stable differences in personality, values, or needs, and are managed rather than solved. The goal is to keep dialogue going around these issues without contempt or gridlock, not to eliminate them.",
@@ -74,5 +75,41 @@
     "the-pursue-withdraw-pattern-explained",
     "what-makes-relationships-last"
   ],
+  "quickTake": "Healthy couples don't win arguments — they handle them well. The reliable skills are starting complaints gently, making and accepting small repairs, keeping warmth well ahead of negativity, and staying open to influence. Most ongoing problems get managed, not permanently solved.",
+  "pullQuote": "The opening, more than the topic, sets the trajectory of the whole exchange — the first three minutes predict much of how a conflict will go.",
+  "keyStats": [
+    {
+      "value": "5:1",
+      "label": "In stable, satisfied couples, positive interactions during conflict outnumber negative ones by roughly five to one — an average pattern, not a strict target.",
+      "source": "Gottman & Silver (1999)"
+    },
+    {
+      "value": "First 3 minutes",
+      "label": "The way a conflict conversation starts predicts much of how it will go; soft start-ups tend toward resolution, harsh ones toward escalation.",
+      "source": "Gottman & Silver (1999)"
+    },
+    {
+      "value": "Most are perpetual",
+      "label": "A large share of relationship problems are rooted in stable differences and are managed rather than permanently solved.",
+      "source": "Gottman & Silver (1999)"
+    }
+  ],
+  "keyTakeaways": [
+    "How you enter and exit a conflict matters more than winning the point — lead with your feeling and need, not blame.",
+    "A soft start-up predicts resolution; a harsh, contemptuous opening usually triggers flooding and escalation.",
+    "Repair attempts (humor, a softened tone, 'let me try that again') work only if the other partner lets them land.",
+    "Keep positive interactions well ahead of negative ones — roughly 5:1 in stable couples.",
+    "Accepting influence means being genuinely open to being moved, not capitulating.",
+    "Most ongoing problems are perpetual; the goal is dialogue without contempt or gridlock, not eliminating disagreement."
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies in conflict",
+    "rows": [
+      { "aspect": "Raising the issue", "men": "Somewhat more likely to withdraw or avoid", "women": "Somewhat more likely to raise concerns first" },
+      { "aspect": "Under pressure", "men": "More prone to shutting down or stonewalling", "women": "More prone to pursuing and pressing the point" },
+      { "aspect": "Do roles reverse?", "men": "Yes — readily, depending on who wants change", "women": "Yes — readily, depending on who wants change" },
+      { "aspect": "Which skills help", "men": "Soft start-up, repair, accepting influence, real breaks", "women": "Soft start-up, repair, accepting influence, real breaks" }
+    ]
+  },
   "lastReviewed": "2026-06"
 }

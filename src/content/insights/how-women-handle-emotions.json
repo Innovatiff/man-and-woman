@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A woman describing a stressful situation at length may be looking for empathy and a sense of being understood first, with solutions welcome only later. A partner who jumps straight to advice can unintentionally signal that the feelings themselves were not the point.",
     "Under pressure, some women reach for the phone or a friend rather than going quiet — debriefing, comparing notes, and co-regulating through conversation. This is a coping strategy, not an inability to handle things alone.",
-    "Replaying a difficult conversation in one's head for days is a recognizable form of rumination. It reflects a particular thinking style that can deepen low mood, and naming it as such often helps more than treating it as a character flaw."
+    "Replaying a difficult conversation in one's head for days is a recognizable form of rumination. It reflects a particular thinking style that can deepen low mood, and naming it as such often helps more than treating it as a character flaw.",
+    "Asked 'how was your day,' a woman may narrate the emotional texture of it — who said what, how it felt — while a partner expected a headline. That difference in granularity is often about expression and connection, not about being more upset than he is."
   ],
   "whatPeopleGetWrong": [
     "The most damaging myth is that women are 'ruled by their emotions' or their hormones, and therefore less rational. The evidence does not support this. Felt emotional intensity is broadly similar across the sexes; what differs is how openly emotion is expressed and discussed. Greater expression is not the same as being controlled by feeling.",
@@ -74,6 +75,42 @@
     "what-women-need-in-relationship",
     "why-women-test-men",
     "what-makes-women-happy"
+  ],
+  "quickTake": "On average, women tend to express and label emotions more openly and to process them through talking and connection. What differs most is expression, not how intensely emotion is felt — and talking a problem through is often a bid for understanding, not a request to fix it.",
+  "pullQuote": "What differs most is how much emotion is shown on the surface, not necessarily how much is felt underneath.",
+  "keyStats": [
+    {
+      "value": "Similar intensity",
+      "label": "Women were more facially and behaviorally expressive, yet reported similar felt emotion and comparable physiological responses to men.",
+      "source": "Kring & Gordon (1998)"
+    },
+    {
+      "value": "Tend-and-befriend",
+      "label": "Under stress, women more often show an affiliative pattern of seeking and offering social support alongside fight-or-flight.",
+      "source": "Taylor et al. (2000)"
+    },
+    {
+      "value": "Small effect",
+      "label": "On most emotion-related psychological measures the sexes overlap far more than they differ.",
+      "source": "Hyde (2005)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Outward expression", "men": "Often more restrained, more use of suppression", "women": "Often more expressive, more emotion labeling" },
+      { "aspect": "Felt intensity", "men": "Broadly similar", "women": "Broadly similar" },
+      { "aspect": "Coping under stress", "men": "More likely to withdraw and self-contain", "women": "More likely to seek connection and talk it through" },
+      { "aspect": "Talking about a problem", "men": "Often oriented toward solving it", "women": "Often oriented toward being heard first, solutions later" }
+    ]
+  },
+  "keyTakeaways": [
+    "The reliable difference is in expression, not in how intensely emotion is actually felt.",
+    "Women, on average, label emotions more granularly and process distress through connection and conversation.",
+    "Talking through a problem is frequently a bid for empathy, not a request for a fix — asking which one is wanted prevents friction.",
+    "Rumination is somewhat more common in women, but it is a learnable coping habit, not a sign of irrationality.",
+    "The 'ruled by hormones / less rational' stereotype is not supported; felt intensity is broadly similar across the sexes.",
+    "These are group averages with enormous overlap; personality, culture, and attachment shape emotional style more than gender."
   ],
   "lastReviewed": "2026-06"
 }

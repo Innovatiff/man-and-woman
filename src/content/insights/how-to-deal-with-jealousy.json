@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "Someone notices their partner laughing warmly with a colleague and feels a sudden surge of unease. The colleague may be no threat at all; the feeling is the alarm firing, not evidence. Pausing to recognize it as a threat response — rather than acting on it immediately — tends to create room for a calmer, more accurate read of the situation.",
     "A partner who feels insecure might start checking a phone, asking pointed questions, or seeking repeated reassurance. These behaviors usually spring from fear rather than genuine suspicion, and research suggests that controlling responses tend to erode the very trust they are trying to protect, often pushing a partner away.",
-    "Naming the feeling directly — saying 'I felt a flash of jealousy and I'm not sure why' — tends to work better than acting it out. It turns a private alarm into a shared conversation, which usually rebuilds security faster than surveillance or accusation ever could."
+    "Naming the feeling directly — saying 'I felt a flash of jealousy and I'm not sure why' — tends to work better than acting it out. It turns a private alarm into a shared conversation, which usually rebuilds security faster than surveillance or accusation ever could.",
+    "Someone sees an old flirtatious comment on their partner's photo from before they met and feels the alarm fire hours later, replaying it. The event is finished and harmless, but the mind treats the uncertainty as live; recognizing that the threat is a story being filled in, not new information, tends to defuse it faster than demanding an explanation."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that jealousy is proof of love, so more of it means caring more. Research points elsewhere: intense, chronic jealousy tracks more closely with insecurity and low felt security than with the depth of love. Some concern when a bond is genuinely threatened is normal, but persistent jealousy is usually a signal about one's own fear, not a measure of devotion.",
@@ -72,6 +73,42 @@
     "understanding-attachment-styles",
     "how-trust-is-built-and-broken",
     "why-women-want-emotional-safety"
+  ],
+  "quickTake": "Jealousy is best read as a threat response — the mind reacting to a perceived risk to a valued bond. Research suggests it's driven more by attachment insecurity and uncertainty than by what a partner actually does. Handling it well means naming the fear and rebuilding security, not controlling or monitoring.",
+  "pullQuote": "Jealousy is often a signal that perceived security has dipped — information about your own fear as much as about any external risk.",
+  "keyStats": [
+    {
+      "value": "Modest, debated",
+      "label": "On average, men were somewhat more distressed by imagined sexual infidelity and women by emotional infidelity — but effect sizes are modest, the finding is debated, and both sexes find both painful.",
+      "source": "Buss et al. (1992)"
+    },
+    {
+      "value": "Anxiety drives it",
+      "label": "People higher in attachment anxiety tend to be more vigilant to signs of rejection and more prone to intense jealousy, shaping it as much as anything a partner does.",
+      "source": "Mikulincer & Shaver (2007)"
+    },
+    {
+      "value": "A security signal",
+      "label": "People constantly gauge how safe it feels to depend on a partner; when felt security dips, the mind turns more alert to threats and toward self-protection.",
+      "source": "Murray, Holmes & Collins (2006)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Sharpest trigger (on average)", "men": "Somewhat more by sexual infidelity", "women": "Somewhat more by emotional infidelity" },
+      { "aspect": "How often it's felt", "men": "Frequently and intensely", "women": "Frequently and intensely" },
+      { "aspect": "What sets the sensitivity", "men": "Attachment security more than gender", "women": "Attachment security more than gender" },
+      { "aspect": "What actually helps", "men": "Naming the fear, rebuilding security", "women": "Naming the fear, rebuilding security" }
+    ]
+  },
+  "keyTakeaways": [
+    "Jealousy is a fast, largely automatic threat alarm — it can fire before you consciously judge whether a threat is real.",
+    "Chronic, intense jealousy tracks more with insecurity and low felt security than with the depth of love.",
+    "Internal security, not a partner's behavior, largely explains why two people react so differently to the same situation.",
+    "Controlling responses — checking, accusing, monitoring — tend to erode the very trust they're trying to protect.",
+    "Naming the feeling openly turns a private alarm into a shared conversation that rebuilds security.",
+    "Both sexes feel it frequently; the cited sex differences are modest, debated averages, and attachment style predicts it better than gender."
   ],
   "lastReviewed": "2026-06"
 }

@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A woman might sense a friend is upset despite the friend insisting she is 'fine,' picking up on a slight change in tone, a forced smile, or shorter-than-usual replies. Often this read is accurate; sometimes it is not, and the only way to confirm is to ask rather than assume.",
     "In a relationship, one partner may notice the other seems tense from the way they set down their keys or the clip in their voice, and gently check in. This attentiveness can be a real gift — it lets care arrive before a problem is even spoken. The same skill, though, can misfire when neutral behavior gets read as a hidden signal.",
-    "The flip side is over-interpretation. Reading deep meaning into a brief text reply or an offhand comment can generate worry that the actual situation does not warrant. The very sensitivity that helps detect genuine cues can, especially under stress or attachment anxiety, manufacture signals that were not actually sent."
+    "The flip side is over-interpretation. Reading deep meaning into a brief text reply or an offhand comment can generate worry that the actual situation does not warrant. The very sensitivity that helps detect genuine cues can, especially under stress or attachment anxiety, manufacture signals that were not actually sent.",
+    "A woman greeting her partner after work might register, in a second or two, that his 'hey' lands a beat flat and his shoulders sit higher than usual, and decide to give him space before asking about his day. The read is quick and often right — but it is still a guess drawn from tone and posture, worth checking rather than treating as settled fact."
   ],
   "whatPeopleGetWrong": [
     "The biggest misconception is treating this as mind-reading or a magical 'female intuition.' What the research describes is a modest, learnable skill at decoding observable cues — fallible, context-dependent, and improvable for anyone. It is pattern recognition, not access to another person's private thoughts, and it gets things wrong with some regularity.",
@@ -72,6 +73,42 @@
     "how-men-and-women-communicate",
     "why-women-overthink-relationships",
     "how-women-handle-emotions"
+  ],
+  "quickTake": "On average women score a little higher at decoding tone, faces, and body language — a real but small edge with huge overlap. It is learned skill and attention, not mind-reading, so it is fallible and anyone can improve it.",
+  "pullQuote": "Reading between the lines is inference, not telepathy: it is noticing real signals plus a best guess about what is unsaid — and like any guess, it can be wrong.",
+  "keyStats": [
+    {
+      "value": "Small–moderate",
+      "label": "Size of the average female advantage in decoding nonverbal cues — reliable across studies but with heavy overlap between the sexes.",
+      "source": "Hall (1978), review of many decoding studies"
+    },
+    {
+      "value": "Learnable",
+      "label": "The gap reflects attention and practice more than fixed capacity, so it tends to narrow with deliberate effort.",
+      "source": "Hall (1978); Kring & Gordon (1998)"
+    },
+    {
+      "value": "78%",
+      "label": "Of measured psychological gender differences are small or close to zero — the sexes are far more alike than different.",
+      "source": "Hyde (2005), review of 46 meta-analyses"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Decoding tone, face, body language", "men": "Slightly lower on average, wide range", "women": "Slightly higher on average, wide range" },
+      { "aspect": "Facial expressiveness of emotion", "men": "Often more restrained outwardly", "women": "Often more openly expressive" },
+      { "aspect": "Nature of the skill", "men": "Learnable with attention and practice", "women": "Learnable with attention and practice" },
+      { "aspect": "Main risk", "men": "Missing a genuine cue", "women": "Over-reading a neutral one when anxious" }
+    ]
+  },
+  "keyTakeaways": [
+    "Women hold a modest average edge at decoding tone, expression, and body language — reliable but small, with large overlap.",
+    "It is inference from observable cues, not intuition or mind-reading, so it can be accurate or mistaken.",
+    "Attention and practice, more than fixed biology, appear to drive the difference — which means anyone can build the skill.",
+    "The same sensitivity that detects real signals can invent them under stress or attachment anxiety.",
+    "Pair reading with checking: even a confident read is a hypothesis best confirmed by a gentle question.",
+    "Individual variation dwarfs the gender gap — plenty of men read cues better than plenty of women."
   ],
   "lastReviewed": "2026-06"
 }

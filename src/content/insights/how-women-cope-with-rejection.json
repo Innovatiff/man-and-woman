@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "After being turned down or broken up with, replaying the relationship for clues — what was said, what it meant, what could have been done differently — is a classic ruminative loop. It can feel productive but often keeps the wound open rather than closing it.",
     "Turning to close friends to talk it through is the tend-and-befriend response in action. Being heard, comforted, and reminded that one is valued by others helps repair the sense of belonging the rejection bruised, which is part of why supportive friendships are so protective during heartbreak.",
-    "Recovery often arrives not from a single insight but from a gradual shift: the story stops being replayed as much, connection with others is restored, and the experience is reframed as information rather than a verdict on one's worth. That reframing is frequently what finally lifts the weight."
+    "Recovery often arrives not from a single insight but from a gradual shift: the story stops being replayed as much, connection with others is restored, and the experience is reframed as information rather than a verdict on one's worth. That reframing is frequently what finally lifts the weight.",
+    "A woman who reads a two-word text reply, or an unanswered message, as evidence that something is deeply wrong with her is feeling the belonging alarm in miniature — a small social ambiguity landing as a large threat, which is exactly the point at which naming it and reaching out helps more than analyzing it alone."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that taking rejection hard, or needing to talk about it, signals weakness or oversensitivity. Given how deeply the mind is wired to value belonging, feeling real pain at rejection is normal and human, not a flaw — and seeking support is one of the healthier ways to process it.",
@@ -72,6 +73,42 @@
     "why-women-overthink-relationships",
     "how-women-experience-stress",
     "the-psychology-of-female-self-criticism"
+  ],
+  "quickTake": "On average, women tend to cope with rejection by both ruminating — turning it over in their minds — and reaching for others. The dwelling can prolong the pain; the connection tends to heal it. Feeling rejection deeply is human wiring, not weakness.",
+  "pullQuote": "The typical pattern pairs an inward tendency that can prolong pain with an outward tendency that can heal it.",
+  "keyStats": [
+    {
+      "value": "Fundamental need",
+      "label": "Belonging is treated by the mind as so basic that threats to it register as real, significant pain for almost everyone.",
+      "source": "Baumeister & Leary (1995), the need to belong"
+    },
+    {
+      "value": "Women more, on average",
+      "label": "Women report engaging in rumination — repetitively dwelling on distress — somewhat more than men, which can prolong low mood.",
+      "source": "Nolen-Hoeksema (2000)"
+    },
+    {
+      "value": "Tend-and-befriend",
+      "label": "A stress response of reaching for comfort and connection that may be more pronounced in women and tends to aid recovery.",
+      "source": "Taylor et al. (2000)"
+    }
+  ],
+  "comparison": {
+    "title": "Coping with rejection: average tendencies",
+    "rows": [
+      { "aspect": "Rumination", "men": "Tend to dwell somewhat less, on average", "women": "More prone to replaying the experience" },
+      { "aspect": "Seeking support", "men": "Often less openly; may distract or stay busy", "women": "More likely to reach out and talk it through" },
+      { "aspect": "Common coping route", "men": "Activity, distraction, solitary processing", "women": "Connection, comfort, meaning-making with others" },
+      { "aspect": "What aids recovery", "men": "Reengagement and restored routine", "women": "Feeling heard and reminded of secure bonds" }
+    ]
+  },
+  "keyTakeaways": [
+    "Rejection hurts almost everyone because belonging is a fundamental human need — feeling real pain is normal, not a flaw.",
+    "Women, on average, lean toward both rumination and support-seeking; the two pull in opposite directions.",
+    "Rumination masquerades as problem-solving but usually deepens and prolongs distress rather than resolving it.",
+    "Dwelling alone differs from processing with a supportive person: the first tends to prolong pain, the second tends to ease it.",
+    "Recovery is usually gradual — the story replays less, connection is restored, and the rejection is reframed as information about fit, not a verdict on worth.",
+    "Rumination that stays stuck for weeks and disrupts daily life can be worth addressing with professional help."
   ],
   "lastReviewed": "2026-06"
 }

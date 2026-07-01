@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "After sending a text or having a slightly awkward conversation, someone may replay it for hours, scanning each word for hidden meaning. The replay rarely produces new information; it mostly recycles the same worry, which is the signature of rumination rather than useful reflection.",
     "Lying awake at night rehearsing a difficult conversation that has not happened yet is a common form. The mind treats the imagined scenario as a problem to solve, but without the other person present there is nothing to actually resolve, so the loop continues until exhaustion or distraction breaks it.",
-    "A decision that should take an evening can stretch across weeks when every option is weighed, re-weighed, and second-guessed. The overthinking can feel like diligence, but past a point it tends to erode confidence rather than build it, which is a sign the analysis has tipped into rumination."
+    "A decision that should take an evening can stretch across weeks when every option is weighed, re-weighed, and second-guessed. The overthinking can feel like diligence, but past a point it tends to erode confidence rather than build it, which is a sign the analysis has tipped into rumination.",
+    "Waiting on a reply that has not come, someone builds an entire story from the silence — that she said something wrong, that the friendship is cooling — and refreshes the thread for hours. Setting the phone aside and turning to an absorbing task usually does more to break the spiral than one more re-reading of the last message."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that overthinking will eventually produce clarity if you just push hard enough. Research suggests the opposite past a certain point: prolonged passive dwelling tends to narrow perspective and deepen distress rather than resolve it. Genuine insight more often arrives after stepping away than after grinding longer.",
@@ -72,6 +73,47 @@
     "how-women-can-quiet-the-inner-critic",
     "how-to-regulate-your-emotions",
     "why-women-replay-conversations"
+  ],
+  "quickTake": "Overthinking is usually rumination — passively replaying problems without moving toward a solution. On average women report it somewhat more, largely from socialization and stress patterns, not a fixed trait. The reliable way out is to shift from passive replay into action, distraction, or concrete problem-solving, paired with self-compassion.",
+  "pullQuote": "The difference between helpful reflection and harmful overthinking is whether it moves toward a decision or action — or just recycles the same distress.",
+  "keyStats": [
+    {
+      "value": "Prolongs low mood",
+      "label": "Passively turning a problem over, rather than working through it, predicts longer and more intense low moods.",
+      "source": "Nolen-Hoeksema (2000)"
+    },
+    {
+      "value": "Somewhat more",
+      "label": "Women on average reported ruminating more than men, a gap linked partly to socialization and stressors rather than anything inherent.",
+      "source": "Nolen-Hoeksema (2000)"
+    },
+    {
+      "value": "Lowers distress",
+      "label": "Re-engaging attention through reappraisal, distraction, or self-kindness is associated with lower distress and faster recovery than continued self-criticism.",
+      "source": "Gross & John (2003); Neff (2003)"
+    },
+    {
+      "value": "Modest gap",
+      "label": "On most psychological measures the sexes are far more alike than different, and plenty of men overthink as much as or more than many women.",
+      "source": "Hyde (2005)"
+    }
+  ],
+  "comparison": {
+    "title": "Overthinking: average tendencies",
+    "rows": [
+      { "aspect": "Ruminative response style", "men": "Reported somewhat less on average", "women": "Reported somewhat more on average" },
+      { "aspect": "Common triggers", "men": "Often work, status, performance", "women": "Often relationships, others' feelings, mental load" },
+      { "aspect": "What the loop feels like", "men": "Feels like vigilance or diligence", "women": "Feels like vigilance or diligence" },
+      { "aspect": "What tends to interrupt it", "men": "Action, distraction, problem-solving", "women": "Action, distraction, problem-solving, self-compassion" }
+    ]
+  },
+  "keyTakeaways": [
+    "Overthinking is usually rumination: passive, repetitive dwelling that deepens distress instead of resolving anything.",
+    "The test is whether thinking is producing new information or next steps — if it just recycles worry, it has tipped into rumination.",
+    "Rumination feels productive while it happens, which is part of what keeps it running.",
+    "Re-engaging attention — brief distraction, scheduled problem-solving, reappraisal, writing it down — tends to break the loop.",
+    "Harsh self-criticism fuels the cycle, so self-compassion is often what makes overthinking less sticky.",
+    "Women report it somewhat more on average, but the gap is modest and the overlap large; it is a human tendency, not a female one."
   ],
   "lastReviewed": "2026-06"
 }

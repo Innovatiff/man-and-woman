@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A woman might say on paper that ambition is essential, yet find herself drawn to someone warm and easy to talk to whose career is unremarkable. The research on stated versus actual preference (Eastwick and Finkel) suggests this is common rather than contradictory — the checklist and the in-person pull often diverge.",
     "Attraction frequently builds through interaction quality: someone who listens well, is kind, and feels genuinely present can become more compelling over a few conversations than an objectively impressive stranger. Warmth and responsiveness tend to do heavy lifting that a list of traits cannot capture.",
-    "Shared outlook often quietly raises attraction. Discovering that someone holds similar values or sees the world in a recognizable way can shift interest upward (Montoya and Horton), because feeling understood is itself a draw. Many women describe attraction deepening as compatibility becomes clear."
+    "Shared outlook often quietly raises attraction. Discovering that someone holds similar values or sees the world in a recognizable way can shift interest upward (Montoya and Horton), because feeling understood is itself a draw. Many women describe attraction deepening as compatibility becomes clear.",
+    "A woman scrolling a dating app might swipe past a warm, funny profile because it does not tick her stated boxes, then find herself genuinely drawn to that same person once they meet and the conversation flows easily. The stated-versus-felt gap (Eastwick and Finkel) shows up most sharply precisely at this move from profile to person."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that women are mainly drawn to status, money, or height, because surveys show modest average preferences in that direction. But studies of live interaction (Eastwick and Finkel) find those stated preferences predict real attraction weakly. Treating self-reported criteria as the true drivers of attraction overstates how much they govern what actually happens in person.",
@@ -72,6 +73,42 @@
     "what-women-find-attractive",
     "how-attraction-works",
     "what-women-find-attractive-in-personality"
+  ],
+  "quickTake": "What women say they want and what actually draws them in person often diverge. Surveys show a modest tilt toward status and resources, but in live interaction warmth, competence, and similarity do the real pulling — for most people, not just women.",
+  "pullQuote": "In the moment, what someone is like in person tends to override the checklist — the stated preferences predict real attraction surprisingly weakly.",
+  "keyStats": [
+    {
+      "value": "37 cultures",
+      "label": "Scope of the classic survey finding women rate resources and status somewhat higher on average, men physical looks — though both sexes rank kindness and intelligence near the top.",
+      "source": "Buss (1989)"
+    },
+    {
+      "value": "Weak predictor",
+      "label": "In speed-dating, women's stated preferences (including for status) predicted their actual in-person attraction poorly.",
+      "source": "Eastwick & Finkel (2008)"
+    },
+    {
+      "value": "Reliable pull",
+      "label": "Perceived similarity in attitudes and values consistently predicts attraction across studies.",
+      "source": "Montoya & Horton (2013), meta-analysis"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Stated top priority", "men": "Weight physical attractiveness somewhat more", "women": "Weight status and resources somewhat more" },
+      { "aspect": "Stated vs. felt preference", "men": "Gap between checklist and in-person pull", "women": "Gap between checklist and in-person pull" },
+      { "aspect": "What draws in live interaction", "men": "Warmth, competence, similarity", "women": "Warmth, competence, responsiveness, similarity" },
+      { "aspect": "Top-ranked traits overall", "men": "Kindness, intelligence, dependability", "women": "Kindness, intelligence, dependability" }
+    ]
+  },
+  "keyTakeaways": [
+    "There is a real gap between what women report wanting and what actually draws them in person.",
+    "Stated preferences for status and resources predict live attraction weakly — the checklist is a poor guide.",
+    "Warmth, competence, responsiveness, and perceived similarity tend to do the heavy lifting.",
+    "The stated-versus-felt gap and the pull of similarity appear in both sexes, not just women.",
+    "Average gender differences (Buss) are real but modest, with large overlap — individuals vary widely.",
+    "Attraction can grow through rapport and repeated positive interaction, not only at first sight."
   ],
   "lastReviewed": "2026-06"
 }

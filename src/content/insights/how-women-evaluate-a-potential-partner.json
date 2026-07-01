@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A woman who seems to be moving slowly early on may be quietly gathering information — watching how a date treats the server, whether he follows through on small commitments, how he speaks about exes — rather than playing games. Consistency over several weeks often carries more weight than an impressive first impression.",
     "Strong initial chemistry doesn't always close the question. Someone can feel drawn to a person and still hold back, because the evaluation is also asking 'do I feel safe and respected here?' alongside 'am I attracted?'",
-    "Red and green flags often register through small, accumulated moments — reliability when plans change, how disagreements are handled, whether her boundaries are respected — more than through grand gestures, which can feel pleasant but tell her less about the day-to-day reality."
+    "Red and green flags often register through small, accumulated moments — reliability when plans change, how disagreements are handled, whether her boundaries are respected — more than through grand gestures, which can feel pleasant but tell her less about the day-to-day reality.",
+    "How someone behaves when a plan falls through or when he's mildly inconvenienced — the flat tire, the delayed flight, the waiter who gets the order wrong — often tells a woman more about long-term fit than his best behavior on a carefully planned date, because character under small stress is harder to perform."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that women's careful evaluation means they are mainly after status or resources. The research is more nuanced: while average emphasis on stability and dependability is somewhat higher, kindness, attraction, and intelligence rank at the top for both sexes, and what people say they want often doesn't predict who they actually fall for.",
@@ -73,6 +74,42 @@
     "why-women-value-consistency-over-grand-gestures",
     "what-women-find-attractive",
     "how-women-think-about-commitment"
+  ],
+  "quickTake": "On average, women tend to evaluate a potential partner a bit more deliberately — weighing character, reliability, and emotional safety alongside attraction, often over a longer window. It's less about being pickier than about gathering more information before committing.",
+  "pullQuote": "This isn't about being pickier so much as gathering more information before committing.",
+  "keyStats": [
+    {
+      "value": "37 cultures",
+      "label": "Across Buss's large cross-cultural study, women placed somewhat more average emphasis on resources and dependability — while kindness, intelligence, and attraction ranked near the top for both sexes.",
+      "source": "Buss (1989)"
+    },
+    {
+      "value": "Words ≠ attraction",
+      "label": "What people say they want often fails to predict who they are actually drawn to once they meet — stated preferences didn't reliably forecast attraction for either sex.",
+      "source": "Eastwick & Finkel (2008)"
+    },
+    {
+      "value": "231 couples, 2 years",
+      "label": "In the Boston Couples Study, women tended to be more cautious early and more likely to end relationships that weren't working.",
+      "source": "Rubin, Peplau & Hill (1981)"
+    }
+  ],
+  "comparison": {
+    "title": "Evaluating a partner: average tendencies",
+    "rows": [
+      { "aspect": "Pace of commitment", "men": "Tend to attach faster, assess later", "women": "Tend to evaluate compatibility before committing" },
+      { "aspect": "Emphasis in priorities", "men": "Attraction weighted highly, on average", "women": "Dependability and security weighted somewhat more" },
+      { "aspect": "Shared top traits", "men": "Kindness, intelligence, mutual attraction", "women": "Kindness, intelligence, mutual attraction" },
+      { "aspect": "What carries most weight over time", "men": "Chemistry and shared enjoyment", "women": "Consistency between words and actions" }
+    ]
+  },
+  "keyTakeaways": [
+    "Women, on average, tend to evaluate a partner more deliberately and commit more cautiously — a difference of degree, with large individual variation.",
+    "Kindness, intelligence, and mutual attraction top the list for both sexes; women weight dependability and emotional security somewhat more.",
+    "What people say they want often doesn't predict who they actually fall for, so real evaluation happens in interaction, not on paper.",
+    "Consistency over weeks tends to tell more than an impressive first impression; character under small stress is hard to perform.",
+    "Slow commitment often reflects genuine assessment of fit and safety, not disinterest or game-playing.",
+    "Attachment style, life stage, and personality usually shape how someone evaluates a partner more than gender does."
   ],
   "lastReviewed": "2026-06"
 }

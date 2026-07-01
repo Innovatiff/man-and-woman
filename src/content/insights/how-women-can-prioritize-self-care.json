@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "Someone may schedule everyone else's appointments, meals, and commitments with precision while their own doctor's visit or hour of rest gets postponed indefinitely. The pattern is rarely a conscious choice; it reflects a mental load that keeps others' needs perpetually more visible than one's own.",
     "A short period of rest can come wrapped in guilt — checking the phone, mentally running the to-do list, feeling that relaxing is something to be earned back later. The recovery is technically happening but not landing, because the self-criticism never switches off.",
-    "Burnout often arrives quietly, as a slow erosion of patience, energy, and enjoyment rather than a dramatic collapse. By the time it is obvious, the person has usually been running on depleted reserves for a long while, having treated their own maintenance as the most skippable item."
+    "Burnout often arrives quietly, as a slow erosion of patience, energy, and enjoyment rather than a dramatic collapse. By the time it is obvious, the person has usually been running on depleted reserves for a long while, having treated their own maintenance as the most skippable item.",
+    "Someone finally books a regular exercise class or a standing evening with friends, and the hardest part is not the time but defending it — treating it as a fixed commitment rather than the first thing to cancel when anyone else needs something. Protecting that slot as non-negotiable is often what turns intended self-care into actual recovery."
   ],
   "whatPeopleGetWrong": [
     "The biggest misunderstanding is treating self-care as indulgence or as a reward for productivity. Research on basic needs frames it as maintenance — the ordinary upkeep that keeps a person functioning. Skipping it does not signal virtue; over time it tends to reduce the capacity to care for others, not increase it.",
@@ -72,6 +73,41 @@
     "how-women-can-recover-from-burnout",
     "the-mental-load-women-carry",
     "the-psychology-of-self-acceptance"
+  ],
+  "quickTake": "Self-care is not indulgence but the ordinary work of meeting real needs for recovery, autonomy, and connection. On average women carry more of the invisible mental load, which can push their own needs to the bottom — yet protecting recovery sustains the capacity to care, not competes with it.",
+  "pullQuote": "Skipping self-care does not signal virtue; over time it tends to reduce the capacity to care for others, not increase it.",
+  "keyStats": [
+    {
+      "value": "Three basic needs",
+      "label": "Autonomy, competence, and relatedness are core psychological needs whose satisfaction supports well-being and whose neglect undermines it — making self-care maintenance, not luxury.",
+      "source": "Deci & Ryan (2000)"
+    },
+    {
+      "value": "Tend-and-befriend",
+      "label": "Women's stress response skews on average toward nurturing others and seeking support — a strength that can deplete when it only ever runs outward.",
+      "source": "Taylor et al. (2000)"
+    },
+    {
+      "value": "Small differences",
+      "label": "On most psychological measures the sexes overlap far more than they differ, so the struggle to prioritize recovery is common, not universal or uniquely female.",
+      "source": "Hyde (2005)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Carrying the mental load", "men": "Often carry less of the invisible planning, on average", "women": "More often hold the anticipating and remembering" },
+      { "aspect": "Framing rest for oneself", "men": "Less often experienced as selfish", "women": "More often needs justifying by prior productivity" },
+      { "aspect": "Stress-response tendency", "men": "More classic fight-or-flight framing", "women": "More tend-and-befriend, oriented toward others" }
+    ]
+  },
+  "keyTakeaways": [
+    "Self-care is maintenance — meeting genuine needs for recovery, autonomy, and connection — not a reward for productivity.",
+    "The invisible mental load falls more heavily on women on average, which quietly crowds out their own needs.",
+    "Self-compassion is a stronger engine for self-care than self-criticism, which drains energy while promising motivation.",
+    "It rarely requires time or money you lack — sleep, some control over your time, and a kinder inner voice do much of the work.",
+    "Lasting change usually means sharing the invisible work, not squeezing recovery around the edges of an overloaded schedule.",
+    "What restores one person drains another — the useful question is which needs are currently going unmet."
   ],
   "lastReviewed": "2026-06"
 }

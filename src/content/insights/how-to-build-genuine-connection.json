@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "Two people on a first date who move past logistics into what they actually care about — a hope, a fear, a formative story — often leave feeling a real spark, not because of attraction alone but because they took turns being a little vulnerable and felt met.",
     "A friendship that deepens after one person shares something hard and the other responds with genuine care shows the same mechanism: the responsiveness, more than the disclosure itself, is what creates the bond.",
-    "By contrast, a conversation that stays on safe, surface topics — work, weather, weekend plans — can be pleasant yet leave both people feeling oddly distant, because nothing personal was risked or reciprocated."
+    "By contrast, a conversation that stays on safe, surface topics — work, weather, weekend plans — can be pleasant yet leave both people feeling oddly distant, because nothing personal was risked or reciprocated.",
+    "Two colleagues who carpool for months finally talk about something that actually matters — a worry about a parent, a quiet ambition — and notice the relationship shift from friendly to genuinely close, less because of the time logged together than the single turn toward vulnerability that was met with care."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that connection comes mainly from charisma, attractiveness, or saying the perfect thing. Research suggests it depends far more on the unglamorous process of mutual disclosure and warm, attentive responses. Being genuinely interested in another person tends to build closeness more than trying to be impressive.",
@@ -73,6 +74,42 @@
     "why-listening-matters-more-than-advice",
     "the-importance-of-emotional-attunement",
     "how-to-tell-if-someone-likes-you"
+  ],
+  "quickTake": "Genuine connection grows through gradual, mutual self-disclosure met with warmth — not clever lines or instant chemistry. When two people take small turns opening up and each feels heard, closeness builds fast, and it works much the same way for men and women.",
+  "pullQuote": "It is not disclosure alone that builds intimacy, but disclosure that is met with the sense that the other person truly gets you.",
+  "keyStats": [
+    {
+      "value": "Strangers to close",
+      "label": "Pairs of strangers who worked through escalating personal questions reported feeling significantly closer than pairs who made small talk — sometimes closer than to people they'd long known.",
+      "source": "Aron et al. (1997)"
+    },
+    {
+      "value": "Responsiveness",
+      "label": "Intimacy deepens when disclosure is met with understanding, validation, and care — the sense of being 'gotten' is the active ingredient, not disclosure alone.",
+      "source": "Reis & Shaver (1988)"
+    },
+    {
+      "value": "Similarity helps",
+      "label": "We tend to feel closer to people we perceive as sharing our values and outlook, partly because common ground lowers the risk of opening up.",
+      "source": "Montoya & Horton (2013), meta-analysis"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Pace of opening up", "men": "May disclose more slowly or selectively at first", "women": "On average may open up somewhat more readily" },
+      { "aspect": "Style of bonding", "men": "Often bond side-by-side, through shared activity", "women": "Often bond face-to-face, through shared talk" },
+      { "aspect": "What builds closeness", "men": "Reciprocal disclosure met with warmth", "women": "Reciprocal disclosure met with warmth" },
+      { "aspect": "Best predictor of connection", "men": "Openness and responsiveness over gender", "women": "Openness and responsiveness over gender" }
+    ]
+  },
+  "keyTakeaways": [
+    "Connection grows through escalating, reciprocal self-disclosure — small turns opening up, each met with warmth.",
+    "Perceived responsiveness (feeling truly understood) is the active ingredient, not charm, looks, or the perfect line.",
+    "Aron's 36 questions can accelerate closeness under mutual conditions, but don't guarantee lasting compatibility.",
+    "Oversharing too fast can backfire; calibrate to the other person's openness rather than dumping all at once.",
+    "How you receive someone matters as much as what you reveal — attention and validation signal the safety closeness needs.",
+    "The process is broadly the same for both sexes; individual openness and attachment style predict it better than gender."
   ],
   "lastReviewed": "2026-06"
 }

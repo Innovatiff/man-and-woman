@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A woman who keeps raising an unresolved issue may be seeking repair rather than rehashing the fight for its own sake. From the inside it often feels like trying to reconnect; when a partner withdraws, the pursuit can intensify — the classic demand-withdraw escalation (Christensen and Heavey) where one presses harder as the other pulls further away.",
     "Because conflict is often experienced as a bid for connection, a partner's willingness to stay engaged and attempt repair can matter more than who is right. Many women report that being heard and feeling the relationship is being tended to de-escalates a conflict faster than a quick concession that skips the emotional point.",
-    "After a fight, a woman may continue thinking it over and want to revisit it, partly because the event stays mentally active (Nolen-Hoeksema). What can look like dwelling is often an attempt to reach a sense of resolution so the issue can finally be set down rather than left hanging."
+    "After a fight, a woman may continue thinking it over and want to revisit it, partly because the event stays mentally active (Nolen-Hoeksema). What can look like dwelling is often an attempt to reach a sense of resolution so the issue can finally be set down rather than left hanging.",
+    "One partner brings up a recurring frustration about chores; the other, feeling criticized, goes quiet and reaches for their phone, which prompts the first to press harder and raise their voice. Within minutes the specific chore is forgotten and the fight is about the withdrawal itself — a textbook demand-withdraw loop (Christensen and Heavey) that eases only when the quiet partner re-engages and the other softens the opening."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that a woman who raises conflict or pushes to talk is simply argumentative or trying to start a fight. The research suggests the opposite is often true: pressing for engagement usually reflects investment and a wish to repair (Gottman). And the demanding role tracks who wants change more than gender itself (Christensen and Heavey), so it is situational, not a fixed trait.",
@@ -72,6 +73,42 @@
     "how-to-resolve-conflict-in-relationships",
     "why-women-need-to-feel-heard",
     "how-men-and-women-communicate"
+  ],
+  "quickTake": "On average women are somewhat more likely to raise issues and push for engagement while a partner withdraws — the demand-withdraw pattern. For many, a fight is less about winning than about being heard and restoring connection, so bringing problems forward often signals investment.",
+  "pullQuote": "For many women, raising an issue is itself a bid for repair — an attempt to restore closeness, not an attack.",
+  "keyStats": [
+    {
+      "value": "Who wants change",
+      "label": "The demanding role in conflict tracks whoever is seeking change more than gender itself, so it shifts by situation.",
+      "source": "Christensen & Heavey (1990)"
+    },
+    {
+      "value": "Repair predicts",
+      "label": "How couples handle disagreement — especially repair attempts to de-escalate — predicts whether relationships last more than whether they disagree.",
+      "source": "Gottman & Silver (1999)"
+    },
+    {
+      "value": "Modest",
+      "label": "Average female tendency toward rumination, replaying distressing events — small, with heavy overlap between the sexes.",
+      "source": "Nolen-Hoeksema (2000)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Typical role in conflict", "men": "More often withdraw or stonewall", "women": "More often demand or engage" },
+      { "aspect": "What drives the role", "men": "Situational — depends on who wants change", "women": "Situational — depends on who wants change" },
+      { "aspect": "What a fight is often for", "men": "Sometimes to settle or avoid escalation", "women": "Often to be heard and restore connection" },
+      { "aspect": "After the conflict", "men": "May set it aside sooner", "women": "May ruminate and want to revisit" }
+    ]
+  },
+  "keyTakeaways": [
+    "On average women more often take the engaging role and partners the withdrawing role — the demand-withdraw pattern.",
+    "The demanding role tracks who wants change more than gender, so it is situational, not fixed.",
+    "For many women a fight is a bid for repair and reconnection, not a wish to argue.",
+    "Repair attempts that de-escalate predict lasting relationships more than the frequency of disagreement.",
+    "Demand-withdraw is co-created; it eases when the withdrawer engages and the demander softens the start-up.",
+    "These are averages with large overlap — plenty of men pursue and plenty of women avoid conflict."
   ],
   "lastReviewed": "2026-06"
 }

@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "Someone who loses a job might spiral into seeing it as proof of personal failure, or reframe it as a painful but temporary setback that opens space to reconsider their path. The facts are the same; the second interpretation tends to preserve more energy for action and recovery without pretending the loss did not hurt.",
     "A person going through a breakup who confides in trusted friends and lets themselves be supported often recovers more steadily than one who withdraws entirely. Reaching out is not weakness — research suggests connection is one of the most reliable buffers against the impact of stress for both men and women.",
-    "After a serious illness or loss, people who find a way to connect the experience to meaning — deeper relationships, changed priorities, helping others through something similar — tend to describe more resilience than those for whom the hardship stayed senseless, even though both genuinely suffered."
+    "After a serious illness or loss, people who find a way to connect the experience to meaning — deeper relationships, changed priorities, helping others through something similar — tend to describe more resilience than those for whom the hardship stayed senseless, even though both genuinely suffered.",
+    "Someone facing a high-stakes work presentation reframes the churn in their stomach from 'I'm terrified, something is wrong' to 'this is my body getting ready to perform.' The physical sensations barely change, but treating the arousal as fuel rather than a warning tends to leave them steadier than fighting the nerves outright."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that resilient people simply feel less pain or 'stay positive.' Research points the other way: resilience is not about suppressing emotion, which tends to backfire, but about feeling difficulty while reframing it and staying connected. The goal is recovery, not the absence of distress.",
@@ -73,6 +74,47 @@
     "how-to-process-difficult-emotions",
     "the-science-of-lasting-happiness",
     "how-relationships-affect-happiness"
+  ],
+  "quickTake": "Resilience is less a trait you're born with than a set of skills you can build. The best-supported ingredients are reframing how you read stressful events, leaning on close relationships, and connecting hardship to meaning — and they help both men and women.",
+  "pullQuote": "Resilience is not about suppressing emotion — it's about feeling the difficulty while reframing it and staying connected.",
+  "keyStats": [
+    {
+      "value": "Learnable",
+      "label": "Cognitive reappraisal — reframing a stressful event to change its emotional impact — is a habit people can develop, and habitual reappraisers report more positive emotion and well-being.",
+      "source": "Gross & John (2003)"
+    },
+    {
+      "value": "One of the strongest buffers",
+      "label": "Social support is among the most consistent protective factors in the resilience literature, softening the impact of adversity for both sexes.",
+      "source": "Taylor et al. (2000)"
+    },
+    {
+      "value": "Intentional activity",
+      "label": "A meaningful share of lasting well-being comes from deliberate practices — gratitude, goal pursuit, reframing — rather than circumstances alone.",
+      "source": "Lyubomirsky, Sheldon & Schkade (2005)"
+    },
+    {
+      "value": "Mostly small",
+      "label": "Most measured psychological differences between the sexes are small or near zero, so both genders can build resilience through the same core skills.",
+      "source": "Hyde (2005), review of 46 meta-analyses"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Default coping style under stress", "men": "Somewhat more likely to lean on action or problem-solving", "women": "Somewhat more likely to turn toward others ('tend-and-befriend')" },
+      { "aspect": "Seeking support", "men": "May reach out more selectively or later", "women": "On average more likely to seek support readily" },
+      { "aspect": "Core resilience ingredients", "men": "Reappraisal, connection, meaning", "women": "Reappraisal, connection, meaning" },
+      { "aspect": "What predicts recovery best", "men": "Individual skills and habits over gender", "women": "Individual skills and habits over gender" }
+    ]
+  },
+  "keyTakeaways": [
+    "Resilience is largely built, not inborn — reappraisal, support-seeking, and meaning-making are learnable skills.",
+    "It is not the absence of pain; it is feeling the difficulty and still recovering. Suppressing emotion tends to backfire.",
+    "Reframing how you interpret a setback changes its emotional impact, without denying that it hurts.",
+    "Social support is one of the most reliable buffers against stress; isolation tends to erode resilience.",
+    "Connecting hardship to values or purpose makes it more bearable than pain that feels random.",
+    "Core ingredients are the same for both sexes, even if average coping styles differ; individual differences outweigh gender."
   ],
   "lastReviewed": "2026-06"
 }

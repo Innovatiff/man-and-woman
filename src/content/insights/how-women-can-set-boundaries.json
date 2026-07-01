@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A woman who keeps taking on extra work because she cannot bring herself to decline may feel briefly relieved each time she agrees, then increasingly exhausted and resentful. Practicing a simple, kind 'I can't take that on right now' protects her autonomy and, over time, tends to earn more respect than chronic over-availability.",
     "In relationships, self-silencing can look like agreeing to plans she dreads or swallowing a recurring frustration to avoid a hard conversation. Jack's research suggests this quiet accumulation erodes both well-being and the relationship. Naming the need calmly — early, before resentment builds — usually serves the connection better than the silence it replaces.",
-    "Guilt often follows even a reasonable no, especially at first. A woman practicing self-compassion might remind herself that having limits is not unkind, and that she would readily grant the same permission to a friend. The discomfort tends to lessen with repetition as the new pattern becomes more familiar."
+    "Guilt often follows even a reasonable no, especially at first. A woman practicing self-compassion might remind herself that having limits is not unkind, and that she would readily grant the same permission to a friend. The discomfort tends to lessen with repetition as the new pattern becomes more familiar.",
+    "Fielding a late-evening work message on a night off, someone might feel the familiar pull to reply right away to seem reliable. A simple, kind boundary — noting she'll respond in the morning — protects her recovery without damaging the working relationship, and often earns more respect than constant availability does."
   ],
   "whatPeopleGetWrong": [
     "The most common misconception is that boundaries are selfish or cold — that a caring woman should always accommodate. The research points the other way: chronically overriding your own needs is linked to depression and resentment, and tends to undermine the very relationships it aims to protect. Boundaries are better understood as a form of honesty that makes sustainable closeness possible.",
@@ -72,6 +73,47 @@
     "overcoming-people-pleasing",
     "building-self-worth-as-a-woman",
     "what-women-want-but-rarely-say"
+  ],
+  "quickTake": "Boundaries are clear statements of your needs and limits, and they tend to protect relationships rather than threaten them. Many women learn to silence their own needs to keep the peace — a pattern linked to lower well-being — so setting limits kindly is honesty, not selfishness.",
+  "pullQuote": "A partner cannot meet needs they never hear about; stating them, kindly and early, gives the relationship a real chance to adjust rather than slowly curdle under unspoken frustration.",
+  "keyStats": [
+    {
+      "value": "Basic need",
+      "label": "Autonomy — acting in line with your own values and choices — is a basic psychological need, and well-being tends to suffer when it is chronically overridden to accommodate others.",
+      "source": "Deci & Ryan (2000)"
+    },
+    {
+      "value": "Linked to depression",
+      "label": "Self-silencing — suppressing your own thoughts and feelings to preserve relationships — is associated with depression and a loss of self, and is learned rather than innate.",
+      "source": "Jack (1991)"
+    },
+    {
+      "value": "Legitimizes needs",
+      "label": "Self-compassion supports the legitimacy of having needs and tends to ease the guilt that often follows saying no.",
+      "source": "Neff (2003)"
+    },
+    {
+      "value": "Modest difference",
+      "label": "Average differences in assertiveness between the sexes are modest and shaped heavily by social expectations rather than fixed nature.",
+      "source": "Hyde (2005)"
+    }
+  ],
+  "comparison": {
+    "title": "Boundaries and self-silencing: average tendencies",
+    "rows": [
+      { "aspect": "Reflex when needs conflict", "men": "Somewhat more likely to state a limit", "women": "Socialized more toward accommodating" },
+      { "aspect": "Guilt after saying no", "men": "Present, less tied to caretaking norms", "women": "Often stronger, linked to being 'unkind'" },
+      { "aspect": "Self-silencing", "men": "Also occurs, less often named", "women": "More often reinforced by expectations of selflessness" },
+      { "aspect": "What boundaries do for closeness", "men": "Protect autonomy within the relationship", "women": "Protect autonomy and replace silent resentment" }
+    ]
+  },
+  "keyTakeaways": [
+    "Boundaries are clear statements of a limit, not arguments — they tend to protect relationships rather than threaten them.",
+    "Chronically overriding your own needs is linked to depression and resentment, and undermines the closeness it aims to preserve.",
+    "The guilt around saying no is a learned, socialized pattern of self-silencing, not evidence you did something wrong.",
+    "Self-compassion supports the legitimacy of having needs and tends to ease that guilt as the new pattern becomes familiar.",
+    "Stated kindly and early, boundaries give a partner information to respond to and tend to build trust rather than distance.",
+    "Self-silencing is not unique to women, and average differences in assertiveness are modest and shaped by socialization."
   ],
   "lastReviewed": "2026-06"
 }

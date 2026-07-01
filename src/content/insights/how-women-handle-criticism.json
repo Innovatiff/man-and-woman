@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A small note on a project — 'this section needs reworking' — can be heard as 'I'm not good at my job' when competence is a core source of self-worth. The leap from a specific comment to a global self-judgment is the internalizing pattern in action.",
     "Someone might accept a piece of criticism intellectually yet replay it for days, the inner critic expanding one remark into evidence of broader inadequacy. The distress often comes less from the feedback itself than from the self-judgment it activates.",
-    "In a relationship, 'you forgot to call' can be received as 'I'm a bad partner' rather than as a request about one behavior. Self-compassion is what lets someone hear the actual, limited message without globalizing it into a verdict on their worth."
+    "In a relationship, 'you forgot to call' can be received as 'I'm a bad partner' rather than as a request about one behavior. Self-compassion is what lets someone hear the actual, limited message without globalizing it into a verdict on their worth.",
+    "A performance review that is mostly positive but includes one area to develop can leave someone fixating entirely on the single critique, barely registering the praise. That negativity bias — where one criticism outweighs several compliments — is amplified when the inner critic is already loud."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that internalizing criticism reflects weakness or fragility. The research suggests it reflects how self-worth is structured and how loud the inner critic is — not a lack of strength. People who take feedback hard are often highly conscientious and self-demanding, which is the opposite of not caring.",
@@ -72,6 +73,42 @@
     "how-women-can-quiet-the-inner-critic",
     "how-women-can-overcome-self-doubt",
     "building-self-worth-as-a-woman"
+  ],
+  "quickTake": "Criticism stings everyone, but women on average are a bit more likely to turn feedback about a behavior into a judgment about themselves. The most reliable buffer isn't thicker skin or higher self-esteem — it's self-compassion, treating yourself as fairly as you'd treat a friend.",
+  "pullQuote": "The distress often comes less from the feedback itself than from the self-judgment it activates.",
+  "keyStats": [
+    {
+      "value": "Self-compassion",
+      "label": "Across studies, treating yourself kindly after failure buffers criticism more reliably than high self-esteem, which wobbles precisely when you fall short.",
+      "source": "Neff (2003)"
+    },
+    {
+      "value": "Small effect",
+      "label": "The average gender gap in how criticism is internalized is modest, with heavy overlap — plenty of men take feedback hard too.",
+      "source": "Hyde (2005)"
+    },
+    {
+      "value": "5:1",
+      "label": "Gottman's ratio of positive to negative interactions in stable relationships — a reminder that how feedback is framed and cushioned matters as much as its content.",
+      "source": "Gottman, on conflict and complaints"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "How criticism is heard", "men": "Somewhat more likely to externalize or dismiss it", "women": "Somewhat more likely to internalize it as self-judgment" },
+      { "aspect": "The inner critic", "men": "Often present, less relationally framed on average", "women": "Often already active around relational and personal standards" },
+      { "aspect": "What it threatens", "men": "More often competence or status", "women": "More often connection, belonging, and worth together" },
+      { "aspect": "Most reliable buffer", "men": "Self-compassion (still learnable, not just 'toughness')", "women": "Self-compassion over brittle self-esteem" }
+    ]
+  },
+  "keyTakeaways": [
+    "On average, women lean slightly toward internalizing criticism — hearing a note about a behavior as a verdict on the self.",
+    "This reflects how self-worth is structured and how loud the inner critic is, not weakness or fragility.",
+    "Self-compassion buffers criticism more reliably than high self-esteem, which is brittle because it depends on doing well.",
+    "How feedback is delivered matters: specific, behavior-focused complaints paired with reassurance land far better than sweeping attacks.",
+    "The gender gap is modest with large overlap; individual self-worth and temperament predict the response better than sex.",
+    "The goal isn't to stop caring but to anchor that care in stable, self-compassionate worth so feedback informs without wounding."
   ],
   "lastReviewed": "2026-06"
 }

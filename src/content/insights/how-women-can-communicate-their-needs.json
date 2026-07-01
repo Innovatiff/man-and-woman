@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "Instead of sighing and doing all the dishes while feeling unappreciated, a clearer approach is a specific request: 'I'd really like it if you took over the dishes on weeknights.' Direct and concrete requests tend to be far easier to act on than hints or hoped-for mind-reading.",
     "Someone who always says 'I don't mind, whatever you want' might practice naming a genuine preference, even a small one, to build the muscle of having and voicing needs without guilt.",
-    "In conflict, framing a need around one's own experience — 'I feel unheard when I'm interrupted, and I need to finish my thought' — tends to land better than blame, because it invites responsiveness rather than defensiveness."
+    "In conflict, framing a need around one's own experience — 'I feel unheard when I'm interrupted, and I need to finish my thought' — tends to land better than blame, because it invites responsiveness rather than defensiveness.",
+    "A woman who has been dropping hints about wanting more help at home for weeks — sighing, leaving lists out, mentioning how tired she is — finally names it plainly: 'I need you to own the morning routine on weekdays.' The specific request gets acted on within days, where months of hinting had changed nothing."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that stating needs directly is aggressive or demanding. Assertiveness is not aggression: it means expressing your needs honestly while still respecting the other person. Research on self-silencing suggests the real risk usually lies in not speaking up, which tends to breed resentment, not in clear, respectful requests.",
@@ -73,6 +74,42 @@
     "how-to-communicate-needs-without-fighting",
     "how-women-can-set-boundaries",
     "why-women-need-to-feel-heard"
+  ],
+  "quickTake": "Communicating needs clearly is a learnable skill, not a fixed trait. Many women are socialized to minimize their needs, which breeds hinting, resentment, and silence. Direct, specific requests — offered with respect — tend to get needs met more reliably and strengthen relationships rather than threaten them.",
+  "pullQuote": "Unspoken needs do not disappear — they tend to leak out as resentment or distance, quietly eroding the very relationship the silence was meant to protect.",
+  "keyStats": [
+    {
+      "value": "Self-silencing",
+      "label": "Suppressing your own needs to keep the peace is associated with lower well-being and can erode the relationships it was meant to protect.",
+      "source": "Jack (1991), Silencing the Self"
+    },
+    {
+      "value": "Autonomy",
+      "label": "Voicing what you need honors a basic psychological need; chronically unexpressed needs tend to sap motivation and satisfaction.",
+      "source": "Deci & Ryan (2000)"
+    },
+    {
+      "value": "Disclosure",
+      "label": "Intimacy grows through a cycle of disclosure and responsive listening — a partner cannot respond to a need they never hear.",
+      "source": "Reis & Shaver (1988)"
+    }
+  ],
+  "comparison": {
+    "title": "Hinting vs. clear requests",
+    "rows": [
+      { "aspect": "Hinting / mind-reading", "men": "Deniable but frequently missed", "women": "Deniable but frequently missed" },
+      { "aspect": "Direct, specific request", "men": "Easy to act on; reduces resentment", "women": "Easy to act on; reduces resentment" },
+      { "aspect": "Common socialized tilt", "men": "Somewhat likelier to state wants plainly", "women": "Somewhat likelier to soften or withhold needs" },
+      { "aspect": "What both benefit from", "men": "Naming needs and listening in return", "women": "Naming needs and listening in return" }
+    ]
+  },
+  "keyTakeaways": [
+    "Communicating needs is a learnable skill, not a personality trait — it strengthens with practice.",
+    "Unspoken needs don't vanish; they resurface as resentment, withdrawal, or a disproportionate outburst.",
+    "Specific, concrete requests are far easier to act on than hints or hoped-for mind-reading.",
+    "Even attentive partners can't read minds — responsiveness depends on disclosure.",
+    "Framing needs around your own experience ('I feel... I need...') invites responsiveness over defensiveness.",
+    "It's a two-way practice: pair voicing your needs with listening for a partner's in return."
   ],
   "lastReviewed": "2026-06"
 }

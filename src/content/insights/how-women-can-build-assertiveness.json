@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A woman who routinely takes on extra tasks at work because saying no feels rude may find that a calm, specific 'I can't take that on this week, but I could next month' is received far better than she feared — and that her dread was mostly anticipatory.",
     "In a relationship, replacing hints and hoping-to-be-noticed with a direct statement — 'I need us to split the planning this weekend' — often reduces resentment more effectively than waiting for a partner to read the signals.",
-    "Someone practicing assertiveness might start small: voicing a genuine preference about where to eat, returning an incorrect order, or naming a mild disagreement out loud. These low-stakes reps tend to build the tolerance for discomfort that bigger conversations require."
+    "Someone practicing assertiveness might start small: voicing a genuine preference about where to eat, returning an incorrect order, or naming a mild disagreement out loud. These low-stakes reps tend to build the tolerance for discomfort that bigger conversations require.",
+    "In a meeting, a woman who usually softens every point with 'maybe this is silly, but...' tries stating her recommendation plainly and stopping — no over-explaining, no apology. The pause feels excruciating at first, but the idea lands with more weight, and the discomfort shrinks each time she does it."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that assertiveness means becoming forceful, blunt, or combative. Research frames it differently: assertiveness sits between passivity and aggression, expressing one's own needs clearly while still respecting the other person. It is closer to honesty than to dominance.",
@@ -72,6 +73,42 @@
     "overcoming-people-pleasing",
     "how-women-can-overcome-self-doubt",
     "self-improvement-for-women"
+  ],
+  "quickTake": "Assertiveness is the learnable skill of stating your needs and limits clearly while respecting others — it sits between passivity and aggression. For many women it's less about adding force and more about granting yourself permission to take up space and tolerating the discomfort of disappointing someone.",
+  "pullQuote": "Assertiveness is closer to honesty than to dominance — the goal is not to win but to be known.",
+  "keyStats": [
+    {
+      "value": "Self-silencing",
+      "label": "A learned tendency, more common among women on average, to suppress one's own needs to preserve relationships — linked to depressive symptoms.",
+      "source": "Jack (1991), Silencing the Self"
+    },
+    {
+      "value": "Autonomy",
+      "label": "Acting in line with one's own values is a basic psychological need; chronically overriding it to keep the peace is linked to lower vitality.",
+      "source": "Deci & Ryan (2000), self-determination theory"
+    },
+    {
+      "value": "Small effect",
+      "label": "Any average gender gap in assertiveness is modest and shaped by socialization; the sexes overlap far more than they differ.",
+      "source": "Hyde (2005)"
+    }
+  ],
+  "comparison": {
+    "title": "Passive vs. assertive vs. aggressive",
+    "rows": [
+      { "aspect": "Passive", "men": "Needs go unspoken; hopes to be noticed", "women": "Needs go unspoken; hopes to be noticed" },
+      { "aspect": "Assertive", "men": "States needs clearly and respects the other", "women": "States needs clearly and respects the other" },
+      { "aspect": "Aggressive", "men": "Pursues goals at the other's expense", "women": "Pursues goals at the other's expense" },
+      { "aspect": "Common tilt", "men": "Somewhat likelier to lean direct or forceful", "women": "Somewhat likelier to lean toward accommodation" }
+    ]
+  },
+  "keyTakeaways": [
+    "Assertiveness sits between passivity and aggression — clear about your needs, respectful of others.",
+    "For many women, the work is undoing over-practiced silence, not manufacturing aggression.",
+    "Chronic self-silencing carries a real cost: unmet needs and lower well-being.",
+    "The guilt and anxiety of speaking up are usually anticipatory and fade with practice.",
+    "Start with low-stakes reps and pair directness with warmth — 'I' statements, soft start-ups.",
+    "Any average gap is modest and shaped by socialization; assertiveness varies hugely by person and context."
   ],
   "lastReviewed": "2026-06"
 }

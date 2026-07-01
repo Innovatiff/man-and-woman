@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "In the first days, a woman may feel the loss acutely and visibly — crying, reaching out to friends, wanting to talk it over again and again. This is not weakness or instability; for many people, voicing and sharing the pain is part of how it gets digested rather than buried.",
     "A woman who ended the relationship may seem to recover quickly afterward and be surprised by guilt over how 'okay' she feels — often because much of her grieving happened in the months of doubt before she left. The decision can be the end of a long internal process, not the start of one.",
-    "Months later, the same person who seemed most devastated early on may describe feeling genuinely resolved — having made sense of the relationship and what she wants next. The intensity up front and the fuller closure later are part of one pattern, not a contradiction."
+    "Months later, the same person who seemed most devastated early on may describe feeling genuinely resolved — having made sense of the relationship and what she wants next. The intensity up front and the fuller closure later are part of one pattern, not a contradiction.",
+    "A woman might book a weekly call with an old friend, journal about what she learned, and slowly rebuild routines she had let slide during the relationship. That active, socially supported meaning-making is often what turns painful early days into a fuller recovery down the line."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that visible distress means a woman is coping worse or will take longer to heal. The research points the other way: open, social processing of grief is generally associated with fuller recovery, even when it looks harder in the moment. Quiet does not mean healed, and tears do not mean stuck.",
@@ -74,6 +75,42 @@
     "how-women-handle-emotions",
     "what-makes-women-happy",
     "self-improvement-for-women"
+  ],
+  "quickTake": "On average, women tend to feel more intense distress right after a breakup — but they also process it more actively through talking and support, and often recover more fully over time. Women initiate breakups somewhat more often, so part of the grieving can happen before it formally ends.",
+  "pullQuote": "The intensity up front and the fuller closure later are part of one pattern, not a contradiction.",
+  "keyStats": [
+    {
+      "value": "More intense, fuller recovery",
+      "label": "Across a large international sample, women reported higher initial emotional and physical distress after a breakup, yet also recovered more completely over time.",
+      "source": "Morris, Reiber & Roman (2015)"
+    },
+    {
+      "value": "Tend-and-befriend",
+      "label": "Under a major social stressor like a breakup, women more often turn toward friends, family, and conversation — a coping route linked to eventual recovery.",
+      "source": "Taylor et al. (2000)"
+    },
+    {
+      "value": "Small effect",
+      "label": "On most psychological measures, including breakup grief, the sexes are far more alike than different, with heavy overlap.",
+      "source": "Hyde (2005)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Early distress", "men": "Often less visibly acute at first", "women": "Often more intense in the immediate aftermath" },
+      { "aspect": "How grief is processed", "men": "More likely to distract or withdraw", "women": "More likely to talk, seek support, and make meaning" },
+      { "aspect": "Longer-term recovery", "men": "Can linger when feelings go unprocessed", "women": "Often fuller resolution over time" },
+      { "aspect": "Who initiates", "men": "Somewhat less often", "women": "Somewhat more often — grieving may start before the split" }
+    ]
+  },
+  "keyTakeaways": [
+    "Women, on average, report harder early distress but often more complete recovery later — two parts of one pattern.",
+    "Active, social processing — talking it through, seeking support, making meaning — is linked to fuller resolution.",
+    "Visible distress does not mean coping worse; quiet does not mean healed, and tears do not mean stuck.",
+    "Women initiate somewhat more often, so an ex who recovers fast may have grieved the relationship while still in it.",
+    "The same emotional engagement that aids recovery can prolong pain when it tips into rumination.",
+    "Attachment style, who initiated, relationship length, and support shape the experience more than gender does."
   ],
   "lastReviewed": "2026-06"
 }

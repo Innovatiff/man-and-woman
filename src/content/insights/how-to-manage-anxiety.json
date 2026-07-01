@@ -73,5 +73,32 @@
     "how-to-regulate-your-emotions",
     "how-mindfulness-improves-wellbeing"
   ],
+  "quickTake": "Anxiety is a normal threat-detection response, not a flaw to eliminate. It usually becomes a problem through avoidance, which soothes in the moment but strengthens fear over time. Reappraising a situation, gradually facing what you avoid, and observing worry without struggle tend to help most.",
+  "pullQuote": "Avoidance brings quick relief, which teaches the brain the threat was real and that escape works — quietly making anxiety worse over time.",
+  "keyStats": [
+    {
+      "value": "Amygdala-driven",
+      "label": "Anxiety is rooted in a fast, largely automatic threat-detection system centered on the amygdala that can fire before conscious thought catches up.",
+      "source": "LeDoux (1996)"
+    },
+    {
+      "value": "Reappraisal wins",
+      "label": "Cognitive reappraisal is generally linked to lower distress and better wellbeing than habitual suppression, which tends to cost more and help less.",
+      "source": "Gross & John (2003)"
+    },
+    {
+      "value": "Lower anxiety",
+      "label": "Present-moment awareness is associated with lower anxiety, partly by helping people observe anxious thoughts without being swept up in them.",
+      "source": "Brown & Ryan (2003)"
+    }
+  ],
+  "keyTakeaways": [
+    "Anxiety is a protective threat-detection response, not a weakness — the aim is to manage it, not switch it off.",
+    "Avoidance is the main driver of the problem: it relieves discomfort short-term but strengthens and spreads fear over time.",
+    "Gradually approaching what you fear, rather than fleeing it, is a well-supported way to loosen anxiety's grip.",
+    "Cognitive reappraisal (reading jitters as readiness, not danger) tends to lower distress better than suppression.",
+    "Mindful awareness helps by letting you notice anxious thoughts as passing mental events rather than facts.",
+    "Self-help suits everyday anxiety, but intense, persistent, or disabling anxiety warrants professional support."
+  ],
   "lastReviewed": "2026-06"
 }

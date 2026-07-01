@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "Someone who consistently initiates contact, asks follow-up questions, and remembers small things you mentioned is showing a pattern of investment that research on reciprocity links to genuine interest, more reliably than a single warm conversation would.",
     "A person might read a lot into prolonged eye contact or a laugh at their joke, only to find the other person is simply friendly. Hall's work suggests nonverbal cues are informative but easy to over-interpret, so a lone signal is better treated as a maybe than a yes.",
-    "Mixed signals are common precisely because people often guard themselves early on. Someone interested but cautious may seem lukewarm, while someone just being polite may seem keen. This is why watching for a consistent pattern of effort over time tends to clarify what individual moments cannot."
+    "Mixed signals are common precisely because people often guard themselves early on. Someone interested but cautious may seem lukewarm, while someone just being polite may seem keen. This is why watching for a consistent pattern of effort over time tends to clarify what individual moments cannot.",
+    "Two people text with equal warmth, but one always sends the first message, suggests the plans, and picks the times — while the other only ever responds. The tone can read as mutual, yet the pattern of who initiates is quietly one-sided, which research on reciprocity treats as more informative than any single friendly reply."
   ],
   "whatPeopleGetWrong": [
     "A common error is over-relying on single cues — one text, one glance, one compliment — to determine interest. The research suggests genuine interest shows up as a pattern of reciprocated attention and effort, so isolating any one signal tends to produce misreads in both directions, seeing interest that is not there or missing it where it is.",
@@ -73,5 +74,41 @@
     "how-attraction-works",
     "why-we-overthink-dating-and-texting"
   ],
+  "quickTake": "Genuine interest shows up as a pattern, not a single signal — reciprocated attention, effort, and warmth over time. Nonverbal cues carry real information but are easy to misread, so the most reliable read comes from reciprocity and consistency, not decoding one glance or text.",
+  "pullQuote": "A single impression of interest is best treated as a hypothesis to check, not a conclusion — reciprocity over time is the more dependable signal.",
+  "keyStats": [
+    {
+      "value": "Reciprocity",
+      "label": "Feeling liked and understood is one of the more powerful and dependable drivers of mutual attraction to watch for.",
+      "source": "Montoya & Horton (2013), meta-analysis"
+    },
+    {
+      "value": "Above chance",
+      "label": "People can decode emotional cues from expression and body language with some accuracy — informative, but not certain.",
+      "source": "Hall (1978)"
+    },
+    {
+      "value": "Modest, overlapping",
+      "label": "A small average tendency for women to read some nonverbal cues slightly better, with heavy overlap between individuals.",
+      "source": "Hall (1978); Hyde (2005)"
+    }
+  ],
+  "keyTakeaways": [
+    "Interest reveals itself as a consistent pattern of reciprocated effort, not one glance, text, or compliment.",
+    "Nonverbal cues are real information but easy to over-interpret — treat a lone signal as a maybe, not a yes.",
+    "Snap 'thin-slice' impressions form fast but are probabilistic; check them against behavior over time.",
+    "If you're doing all the initiating, that one-sided pattern is itself the answer.",
+    "The women-are-better-at-reading-signals idea is overstated — the average gap is modest with heavy overlap.",
+    "When signals stay ambiguous, gentle directness resolves what endless cue-reading cannot."
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies in reading and showing interest",
+    "rows": [
+      { "aspect": "Decoding some nonverbal cues", "men": "Slightly lower on average, wide overlap", "women": "Slightly higher on average, wide overlap" },
+      { "aspect": "Most reliable signal to watch", "men": "Reciprocity and sustained effort", "women": "Reciprocity and sustained effort" },
+      { "aspect": "Reading a single cue", "men": "Easy to misjudge in either direction", "women": "Easy to misjudge in either direction" },
+      { "aspect": "When signals stay unclear", "men": "Gentle directness beats guessing", "women": "Gentle directness beats guessing" }
+    ]
+  },
   "lastReviewed": "2026-06"
 }

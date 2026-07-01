@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A woman who seems warm but measured in the first weeks may be genuinely interested while still gathering evidence — watching for consistency between words and actions before letting herself fall. What can look like reserve is often a careful, ongoing assessment of whether this person is safe to trust.",
     "Because emotional connection is such a strong driver, the moments that deepen attraction are frequently small: being remembered, being listened to without being fixed, a partner who shows up reliably when it matters. These responsive details often do more than expensive dates to move a woman from interest toward love.",
-    "The flip side of deliberate falling is that some women, once they conclude a relationship cannot meet their needs, disengage with surprising clarity. Rubin and colleagues found women were more likely to end relationships that were not working — a measured entry can pair with a decisive exit."
+    "The flip side of deliberate falling is that some women, once they conclude a relationship cannot meet their needs, disengage with surprising clarity. Rubin and colleagues found women were more likely to end relationships that were not working — a measured entry can pair with a decisive exit.",
+    "A woman who lights up over a partner remembering an offhand comment weeks later — a favorite tea, a dreaded meeting, the name of her sister's dog — is often responding to the sense of being genuinely known, which for many women moves attraction forward more than an expensive night out."
   ],
   "whatPeopleGetWrong": [
     "The biggest misconception is that women are uniformly the more romantically impulsive sex — quick to fall and slow to leave. The research often points the other way: men tend to say it first, and women on average evaluate early compatibility more cautiously. Caution early is not lack of feeling; it is frequently feeling held in reserve until trust is earned.",
@@ -74,6 +75,42 @@
     "what-women-need-in-relationship",
     "why-women-test-men",
     "how-women-handle-emotions"
+  ],
+  "quickTake": "Many women tend to fall in love more gradually than the stereotype implies — attraction deepening as emotional safety, trust, and responsiveness accumulate. Contrary to the cliché, men say 'I love you' first somewhat more often, while women more often evaluate early compatibility with care.",
+  "pullQuote": "Attraction tends to grow as trust is repeatedly confirmed, not in a single decisive moment.",
+  "keyStats": [
+    {
+      "value": "231 couples, 2 years",
+      "label": "In the Boston Couples Study, women were more cautious early and more likely to end relationships that weren't working.",
+      "source": "Rubin, Peplau & Hill (1981)"
+    },
+    {
+      "value": "Men say it first",
+      "label": "Men tend to confess love first, suggesting women's emotional commitment — no less deep — often follows a more measured trajectory.",
+      "source": "Ackerman, Griskevicius & Li (2011)"
+    },
+    {
+      "value": "Responsiveness",
+      "label": "Love is described as an interpersonal process: self-disclosure met with partner responsiveness — feeling understood and cared for — deepens attraction.",
+      "source": "Reis & Shaver (1988), intimacy model"
+    }
+  ],
+  "comparison": {
+    "title": "Falling in love: average tendencies",
+    "rows": [
+      { "aspect": "Saying \"I love you\" first", "men": "More likely to say it first, on average", "women": "More likely to wait until trust is confirmed" },
+      { "aspect": "Pace of falling", "men": "Tend to fall somewhat faster", "women": "Tend to build attraction gradually as safety accumulates" },
+      { "aspect": "What deepens attachment", "men": "Respect, admiration, feeling needed", "women": "Responsiveness, feeling understood and safe" },
+      { "aspect": "Leaving a relationship", "men": "Somewhat less likely to initiate breakups", "women": "Somewhat more likely to end what isn't working" }
+    ]
+  },
+  "keyTakeaways": [
+    "Many women fall in love gradually, as emotional safety and trust accumulate, rather than in a single decisive moment.",
+    "Contrary to the cliché, men tend to say 'I love you' first; women's commitment is no less deep, just often more measured.",
+    "Responsiveness — feeling understood, validated, and cared for — is a powerful driver, so attentiveness often moves a woman more than grand gestures.",
+    "Early caution usually reflects an ongoing assessment of whether a partner is safe to trust, not low interest.",
+    "The emphasis on safety cuts both ways: broken trust or inconsistency can stall or reverse a developing attachment quickly.",
+    "These are group averages with heavy overlap; attachment style predicts how a person loves better than their gender does."
   ],
   "lastReviewed": "2026-06"
 }

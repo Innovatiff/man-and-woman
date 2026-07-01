@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "After a small mistake at work, someone hears a running commentary — that she is careless, that others will notice, that she always does this. The content feels factual, but it is the tone of a critic, not a coach. Asking how she would speak to a friend in the same spot is a self-compassion move that tends to change both the tone and the conclusion.",
     "Lying awake replaying a conversation for the tenth time, analyzing every word she said, is rumination wearing the mask of reflection. The loop does not produce new insight; it recycles the same distress. Deliberately shifting to a brief, absorbing activity is one research-supported way to interrupt it.",
-    "Agreeing to yet another favor while privately exhausted, then criticizing herself for feeling resentful, is self-silencing in action. The need to rest was real; the critic recast it as a flaw. Naming the need — and sometimes voicing it — tends to quiet the criticism more than arguing with the thought directly."
+    "Agreeing to yet another favor while privately exhausted, then criticizing herself for feeling resentful, is self-silencing in action. The need to rest was real; the critic recast it as a flaw. Naming the need — and sometimes voicing it — tends to quiet the criticism more than arguing with the thought directly.",
+    "Preparing for a presentation, someone rehearses everything that could go wrong and hears a verdict on her competence long before she speaks. Writing down what she would tell a nervous friend, then reading it back to herself, is a self-compassion move that tends to steady the delivery more than another round of self-scrutiny."
   ],
   "whatPeopleGetWrong": [
     "A widespread misconception is that the inner critic keeps a person sharp and humble, so quieting it would make them lazy or self-indulgent. Research on self-compassion suggests the opposite tends to be true: harsh self-judgment usually increases anxiety and avoidance, while a kinder, steadier inner stance generally supports clearer thinking and more consistent effort.",
@@ -72,6 +73,47 @@
     "how-women-can-overcome-self-doubt",
     "how-women-can-protect-their-energy",
     "overcoming-people-pleasing"
+  ],
+  "quickTake": "The harsh inner voice is common and can be softened, not just endured. Meeting yourself with the kindness you'd offer a friend, interrupting the rumination loop, and noticing when you silence your own needs tend to help more than fighting the thoughts head-on.",
+  "pullQuote": "The content feels factual, but it is the tone of a critic, not a coach — and how you would speak to a friend usually changes both the tone and the conclusion.",
+  "keyStats": [
+    {
+      "value": "Supports resilience",
+      "label": "Self-compassion is associated with lower anxiety and greater emotional resilience, and tends to support honest self-correction better than harsh self-judgment.",
+      "source": "Neff (2003)"
+    },
+    {
+      "value": "Somewhat more",
+      "label": "Women report a ruminative response style somewhat more often than men on average, though the looping tendency is present in everyone.",
+      "source": "Nolen-Hoeksema (2000)"
+    },
+    {
+      "value": "Linked to depression",
+      "label": "Self-silencing — suppressing one's own needs and feelings to preserve relationships — is associated with depressive symptoms.",
+      "source": "Jack (1991)"
+    },
+    {
+      "value": "Mostly similar",
+      "label": "The sexes overlap far more than they differ on most psychological measures, including harsh self-talk; men share the same critic in different terms.",
+      "source": "Hyde (2005)"
+    }
+  ],
+  "comparison": {
+    "title": "The inner critic: average tendencies",
+    "rows": [
+      { "aspect": "How the critic tends to speak", "men": "Often around competence, status, or 'weakness'", "women": "Often around likability, appearance, or being 'too much'" },
+      { "aspect": "Rumination in response", "men": "Reported somewhat less on average", "women": "Reported somewhat more on average" },
+      { "aspect": "Self-silencing", "men": "Present, less often named as such", "women": "More often linked to accommodating expectations" },
+      { "aspect": "What tends to help", "men": "Self-compassion, interrupting the loop", "women": "Self-compassion, interrupting the loop, voicing needs" }
+    ]
+  },
+  "keyTakeaways": [
+    "The inner critic is common and usually reflects internalized standards, not a personal defect — it can be softened rather than obeyed.",
+    "Self-compassion tends to support honest self-correction better than self-attack, because mistakes stop feeling unbearable.",
+    "Rumination is not reflection; it circles without resolving, and shifting attention interrupts it better than arguing with each thought.",
+    "Self-silencing feeds the critic by recasting normal needs as flaws — naming and voicing needs tends to quiet the criticism.",
+    "Men experience the same critic in different terms; the overlap between the sexes is large.",
+    "The voice tends to soften rather than vanish; the aim is to change your relationship to it, not expect permanent silence."
   ],
   "lastReviewed": "2026-06"
 }

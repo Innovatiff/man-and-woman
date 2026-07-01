@@ -73,5 +73,41 @@
     "how-women-make-decisions",
     "how-men-think-under-pressure"
   ],
+  "quickTake": "Under pressure, many women lean toward 'tend-and-befriend' — reaching for connection and support alongside fight-or-flight — and are somewhat more prone to rumination when stress lingers. The idea that women are natural multitaskers, though, is largely a myth.",
+  "pullQuote": "Reaching for support under stress is a coping strategy in its own right, not a failure to cope — it buffers pressure rather than signalling weakness.",
+  "keyStats": [
+    {
+      "value": "Tend-and-befriend",
+      "label": "The classic fight-or-flight model was built mostly on male samples; women more often add protecting others and seeking support when threatened.",
+      "source": "Taylor et al. (2000)"
+    },
+    {
+      "value": "Small effect",
+      "label": "Women are somewhat more likely to ruminate — dwell on distress — but both sexes ruminate and the gap is modest, a difference of style more than capacity.",
+      "source": "Nolen-Hoeksema (2000)"
+    },
+    {
+      "value": "Myth",
+      "label": "No reliable, large multitasking advantage exists for either sex; task-switching costs apply broadly, and apparent female multitasking reflects an unequal load.",
+      "source": "Multitasking research (see whatResearchShows)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Common stress response", "men": "Often fight-or-flight, narrow and act", "women": "Often tend-and-befriend alongside fight-or-flight" },
+      { "aspect": "Seeking social support", "men": "Sometimes less readily", "women": "Somewhat more readily on average" },
+      { "aspect": "Rumination when stress lingers", "men": "Present, somewhat less", "women": "Somewhat more common on average" },
+      { "aspect": "Multitasking ability", "men": "Same task-switching cost", "women": "Same task-switching cost — no real edge" }
+    ]
+  },
+  "keyTakeaways": [
+    "Many women lean toward tend-and-befriend under stress — seeking connection and support on top of fight-or-flight.",
+    "Support-seeking is an effective coping strategy that buffers stress physiologically, not a sign of fragility.",
+    "Women ruminate somewhat more on average; up to a point it aids processing, past it, it amplifies distress.",
+    "The 'natural multitasker' idea is largely a myth — task-switching costs everyone, and apparent multitasking often reflects an unequal load.",
+    "When she shares a stressor, presence and listening first often match what she's reaching for better than jumping to fixes.",
+    "These are averages with heavy overlap; attachment, temperament, and situation predict responses better than gender."
+  ],
   "lastReviewed": "2026-06"
 }

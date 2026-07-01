@@ -73,5 +73,41 @@
     "how-women-think-under-pressure",
     "how-men-think-about-money"
   ],
+  "quickTake": "On average, women lean slightly more toward financial caution and security, men slightly more toward risk — but the gap is modest and shrinks once income, wealth, and knowledge are equalized. Circumstance and socialization, not innate wiring, do most of the work.",
+  "pullQuote": "Caution born of real vulnerability is not the same as incapacity — for many women money is a buffer against uncertainty, not a scoreboard.",
+  "keyStats": [
+    {
+      "value": "Small effect",
+      "label": "Women report somewhat more financial caution and lower risk appetite on average, but the gap largely shrinks once income, wealth, and financial knowledge are controlled.",
+      "source": "Financial risk-taking research (see whatResearchShows)"
+    },
+    {
+      "value": "Security vs status",
+      "label": "Money often functions as a buffer against uncertainty rather than a scoreboard — a rational response to lower average earnings and longer lifespans.",
+      "source": "Deci & Ryan (2000), self-determination theory"
+    },
+    {
+      "value": "78%",
+      "label": "Of measured psychological gender differences are small or close to zero — financial thinking is no exception, and the distributions sit almost on top of each other.",
+      "source": "Hyde (2005), review of 46 meta-analyses"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Relationship to money", "men": "More often as growth or status", "women": "More often as security and protection" },
+      { "aspect": "Appetite for financial risk", "men": "Slightly higher on average", "women": "Slightly more cautious on average" },
+      { "aspect": "Source of the gap", "men": "Shrinks when circumstances equalized", "women": "Shrinks when circumstances equalized" },
+      { "aspect": "Confidence in big decisions", "men": "Often encouraged early", "women": "Sometimes dampened by old messages, grows fast with practice" }
+    ]
+  },
+  "keyTakeaways": [
+    "Women's slightly greater financial caution is modest and largely disappears once income, wealth, and knowledge are equalized.",
+    "For many women money serves as security — a buffer against real vulnerability — rather than a scoreboard for worth.",
+    "Lower financial confidence usually reflects old cultural messages, not lack of ability, and grows quickly with room to practice.",
+    "Security-focused and growth-focused approaches are both legitimate strategies with different trade-offs.",
+    "Money conflict in couples often traces to different underlying goals, not one person being 'good' or 'bad' with money.",
+    "These are population tendencies with heavy overlap; income, upbringing, and personality predict far more than gender."
+  ],
   "lastReviewed": "2026-06"
 }

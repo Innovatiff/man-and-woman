@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "Someone who gets cut off in traffic and silently fumes while keeping a calm face is suppressing — the anger is still there, often lingering. Someone who tells themselves the other driver may be rushing to an emergency is reappraising, and frequently feels the anger ease.",
     "A person bracing for a hard conversation might suppress all visible nervousness and end up more tense and less present. Pausing to name it — 'I'm nervous because this matters to me' — and reframing the talk as a chance to be understood tends to steady them more than a poker face does.",
-    "Over weeks, someone who routinely bottles up frustration at work may notice it leaking out as irritability at home or showing up as tension headaches — a recognizable sign of the hidden costs research links to chronic suppression."
+    "Over weeks, someone who routinely bottles up frustration at work may notice it leaking out as irritability at home or showing up as tension headaches — a recognizable sign of the hidden costs research links to chronic suppression.",
+    "Before an anxious phone call, one person mentally rehearses every way it could go wrong, feeding the dread; another asks 'what is the most likely outcome, honestly?' and reframes the call as a routine exchange rather than a verdict. The second is reappraising, and usually walks in steadier — the situation is identical, only the interpretation changed."
   ],
   "whatPeopleGetWrong": [
     "A widespread misconception is that staying calm means hiding what you feel. Research suggests that habitually suppressing expression does not erase the emotion and can strain both the body and relationships. Genuine regulation is closer to working with the feeling — understanding and reframing it — than to silencing it.",
@@ -73,5 +74,41 @@
     "how-men-can-build-emotional-intelligence",
     "how-women-handle-emotions"
   ],
+  "quickTake": "Emotion regulation is a learnable skill, not a fixed trait. Rethinking a situation (reappraisal) tends to lower distress with few downsides, while habitually bottling feelings up usually leaves the feeling intact and adds hidden strain. Naming what you feel helps too.",
+  "pullQuote": "Suppression does not make the emotion disappear; it goes underground — the face stays neutral while the body does double work.",
+  "keyStats": [
+    {
+      "value": "Reappraisal wins",
+      "label": "Habitual reappraisers reported more positive emotion, better relationships, and higher well-being; habitual suppressors reported the opposite.",
+      "source": "Gross & John (2003)"
+    },
+    {
+      "value": "Feeling persists",
+      "label": "In lab studies, suppression cut visible expression but did little to the inner experience while raising physiological strain.",
+      "source": "Gross & John (2003)"
+    },
+    {
+      "value": "Lower reactivity",
+      "label": "Putting feelings into words (affect labeling) has been associated with reduced emotional reactivity.",
+      "source": "Affect-labeling research (Gross process model, 1998)"
+    }
+  ],
+  "keyTakeaways": [
+    "Regulation is a set of trainable skills, not a personality you're stuck with.",
+    "Reappraisal works early — changing the interpretation before the emotion crests — which is why it's effective and low-cost.",
+    "Chronic suppression leaves the feeling intact while adding physiological and relational strain.",
+    "Naming a feeling ('I'm anxious') creates reflective distance that loosens its grip.",
+    "Venting isn't the healthy opposite of suppression; when it becomes rumination it can intensify the emotion.",
+    "Flexibility matters most — brief suppression can be adaptive in a crisis; the concern is default, habitual bottling up."
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies in emotion regulation",
+    "rows": [
+      { "aspect": "Which feelings tend to get masked", "men": "More often taught to mask vulnerability, sadness, fear", "women": "More often taught to soften anger and assertiveness" },
+      { "aspect": "Underlying regulation machinery", "men": "Largely shared with women, heavy overlap", "women": "Largely shared with men, heavy overlap" },
+      { "aspect": "Which strategies help", "men": "Reappraisal, labeling, situation choice", "women": "Reappraisal, labeling, situation choice" },
+      { "aspect": "Size of the sex difference", "men": "Modest; individual differences are larger", "women": "Modest; individual differences are larger" }
+    ]
+  },
   "lastReviewed": "2026-06"
 }

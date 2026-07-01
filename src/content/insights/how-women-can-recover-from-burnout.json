@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "Someone who takes a long-awaited vacation but spends it coordinating the household and answering messages may return no less exhausted — a sign that the mental load, not just the hours, is what needs reducing.",
     "A woman who delegates a task but still carries the responsibility of remembering and checking it has handed off the doing but not the cognitive load. Genuine relief often comes only when both the task and the ownership of it move.",
-    "Practices like a firm end to the workday, a walk without a phone, or writing down tomorrow's worries so they can be set aside tend to help because they interrupt rumination and create a real boundary between demand and recovery."
+    "Practices like a firm end to the workday, a walk without a phone, or writing down tomorrow's worries so they can be set aside tend to help because they interrupt rumination and create a real boundary between demand and recovery.",
+    "Someone who is 'the one who remembers everything' — birthdays, refills, permission slips, the state of the fridge — may feel wired and depleted at once, unable to relax even with an empty afternoon. Handing off whole domains, so someone else owns the tracking rather than waiting to be told, tends to lighten the load in a way that a single day off cannot."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that burnout is solved by a weekend off or better time management. Research suggests it is usually structural: if the underlying demands and the invisible mental load remain unchanged, rest provides only temporary relief. Lasting recovery tends to require reducing the load itself.",
@@ -72,6 +73,47 @@
     "how-women-can-protect-their-energy",
     "how-women-can-set-boundaries",
     "how-women-experience-stress"
+  ],
+  "quickTake": "Burnout builds when demands outpace recovery, and rest alone rarely fixes it. For many women the invisible mental load is the real drain, so lasting recovery tends to come from reducing the load, restoring genuine choice and rest, and interrupting the rumination that keeps stress switched on.",
+  "pullQuote": "The mental load is continuous and hard to put down, which is why a person can look like they are 'just managing' right up until they are depleted.",
+  "keyStats": [
+    {
+      "value": "Falls on women",
+      "label": "The cognitive labor of anticipating, monitoring, and planning tends to fall disproportionately on women and is continuous and hard to set down, draining recovery even when visible chores are shared.",
+      "source": "Daminger (2019)"
+    },
+    {
+      "value": "Basic need",
+      "label": "Autonomy — acting from one's own choices rather than constant obligation — is a basic psychological need that supports vitality, and burnout often coincides with low autonomy.",
+      "source": "Deci & Ryan (2000)"
+    },
+    {
+      "value": "Prolongs distress",
+      "label": "Ruminating on stressors keeps the stress response engaged and tends to prolong low mood, stalling the down-regulation that recovery requires.",
+      "source": "Nolen-Hoeksema (2000)"
+    },
+    {
+      "value": "Both sexes",
+      "label": "Men and women overlap heavily on stress and coping; men experience burnout too, with the difference lying mainly in how invisible labor is distributed.",
+      "source": "Hyde (2005)"
+    }
+  ],
+  "comparison": {
+    "title": "Burnout and the mental load: average tendencies",
+    "rows": [
+      { "aspect": "Invisible mental load", "men": "Often carries less of the anticipating and planning", "women": "Often carries more of the ongoing monitoring" },
+      { "aspect": "Guilt about resting", "men": "Present, less tied to caretaking norms", "women": "More often feels rest is undeserved or selfish" },
+      { "aspect": "Rumination off the clock", "men": "Reported somewhat less on average", "women": "Reported somewhat more on average" },
+      { "aspect": "What recovery needs", "men": "Reducing demands, real rest", "women": "Reducing demands, offloading the load, real rest" }
+    ]
+  },
+  "keyTakeaways": [
+    "Burnout is a demand-recovery imbalance that accumulates, not a single crisis or a sign of weakness.",
+    "A vacation rarely fixes it: if the underlying load stays, relief is temporary — the load itself has to come down.",
+    "The invisible mental load drains recovery even when visible chores are shared, so it must be redistributed by name.",
+    "Restoring even small areas of genuine choice and rest helps replenish energy that obligation depletes.",
+    "Rumination keeps the stress response on off the clock; firm boundaries and interrupting the loop protect real rest.",
+    "Men experience burnout too; the difference is largely in how invisible labor is distributed, not anything inherent."
   ],
   "lastReviewed": "2026-06"
 }

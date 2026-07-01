@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A partner comes home overwhelmed by work. Instead of immediately listing solutions, the other asks, 'That sounds exhausting — do you want to talk it through or just decompress?' The question itself often relieves pressure by signaling attunement to what they actually need.",
     "Someone shares a small success — a good meeting, a fitness milestone — and their partner looks up, asks about it, and shares their excitement. That active, enthusiastic response, research suggests, does real work for the relationship, not just the moment.",
-    "A struggling partner does not want the problem solved, only to feel less alone in it. Sitting with them, acknowledging how hard it is, and resisting the urge to fix can leave them feeling more supported than any advice would have."
+    "A struggling partner does not want the problem solved, only to feel less alone in it. Sitting with them, acknowledging how hard it is, and resisting the urge to fix can leave them feeling more supported than any advice would have.",
+    "During a stressful stretch — a sick parent, a rough patch at work — one partner quietly takes over small logistics without being asked, but also checks in: 'Is there anything you'd rather handle yourself?' Practical help lands as support when it is offered to the person's actual need rather than imposed."
   ],
   "whatPeopleGetWrong": [
     "The most common misconception is that support means solving the problem. Research suggests that for many struggles, especially emotional ones, feeling understood matters more than receiving solutions — and leading with advice can unintentionally leave a partner feeling unheard.",
@@ -73,6 +74,42 @@
     "the-importance-of-emotional-attunement",
     "why-women-want-to-be-understood-not-fixed",
     "how-to-build-genuine-connection"
+  ],
+  "quickTake": "When your partner is hurting, feeling understood usually helps more than being fixed. Listen first, ask what they actually need — comfort, help, or company — and celebrate their wins too. Support is an everyday practice, not just a crisis response.",
+  "pullQuote": "Jumping to solutions can quietly signal that we want the feeling to stop, not that we understand it — feeling responded to matters more than being fixed.",
+  "keyStats": [
+    {
+      "value": "Responsiveness",
+      "label": "Feeling that a partner understands, values, and cares for you — not the amount of advice given — is what makes support feel supportive.",
+      "source": "Reis & Shaver (1988) intimacy model"
+    },
+    {
+      "value": "Good news too",
+      "label": "How a partner responds to your successes predicts relationship well-being, sometimes as strongly as how they respond to setbacks.",
+      "source": "Gable et al. (2004), capitalization research"
+    },
+    {
+      "value": "Small effect",
+      "label": "Any average gender difference in support-seeking under stress is modest; the sexes overlap far more than they differ.",
+      "source": "Hyde (2005); Taylor et al. (2000)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Under stress", "men": "Somewhat more likely to withdraw or problem-solve, on average", "women": "Somewhat more likely to seek social support, on average" },
+      { "aspect": "Default support style", "men": "Often lead with practical fixes", "women": "Often lead with listening and comfort" },
+      { "aspect": "What tends to help either", "men": "Being asked what they need, not assumed", "women": "Being asked what they need, not assumed" },
+      { "aspect": "Overlap", "men": "Any of these can flip on a given day", "women": "Any of these can flip on a given day" }
+    ]
+  },
+  "keyTakeaways": [
+    "For most struggles, feeling understood matters more than being fixed — lead with presence, not solutions.",
+    "When unsure, ask: do you want comfort, practical help, or just company right now?",
+    "Match support to the actual need; mismatched help can feel like being missed even when well-intended.",
+    "Respond to good news with genuine enthusiasm — celebrating wins builds the safety that makes hard-time support possible.",
+    "Any gender differences in support preferences are modest and vary by person, situation, and attachment style.",
+    "With an avoidant or overwhelmed partner, offer low-pressure, consistent availability rather than pushing."
   ],
   "lastReviewed": "2026-06"
 }

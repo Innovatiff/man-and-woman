@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "After a hard day, one person wants to be left alone to decompress while another immediately calls a friend or wants to talk it through with a partner. Neither is the 'right' way to handle stress — they are different regulation strategies, and the second reflects the tend-and-befriend lean toward connection-as-coping.",
     "Under acute pressure — a family crisis, say — a woman may shift into protecting and organizing the people around her, holding the group together even while stressed herself. That outward-tending response can be so automatic that her own strain gets noticed last, by herself most of all.",
-    "The same stressor can be metabolized well or badly depending on the path it takes. Talking it through with a supportive friend and moving on is tend-and-befriend working as designed; replaying the same worry alone at 2 a.m. without resolution is rumination, and it tends to leave the stress larger than it started."
+    "The same stressor can be metabolized well or badly depending on the path it takes. Talking it through with a supportive friend and moving on is tend-and-befriend working as designed; replaying the same worry alone at 2 a.m. without resolution is rumination, and it tends to leave the stress larger than it started.",
+    "A woman juggling a demanding week may find that a single unhurried conversation with a close friend leaves her noticeably calmer and clearer, even though nothing about the workload changed — a small illustration of affiliation doing real regulatory work rather than merely passing the time."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that wanting to talk through stress, or seeking reassurance, is a sign of weakness or neediness. The research suggests the opposite: for many people, affiliation is an effective, biologically grounded way to regulate the stress response. Reaching out is a strategy, not a failure to cope.",
@@ -71,6 +72,42 @@
     "why-women-overthink-relationships",
     "how-men-deal-with-stress",
     "how-to-regulate-your-emotions"
+  ],
+  "quickTake": "Everyone has fight-or-flight, but research suggests women, on average, also lean toward 'tend-and-befriend' — protecting and seeking connection under pressure. Reaching out is a genuine way to calm the stress system, not weakness. A pull toward rumination can cut both ways.",
+  "pullQuote": "Reaching out is doing real biological and psychological work, not merely venting.",
+  "keyStats": [
+    {
+      "value": "Layered on, not instead of",
+      "label": "Tend-and-befriend is proposed as an additional stress response in women — seeking support and affiliation — sitting on top of fight-or-flight, not replacing it.",
+      "source": "Taylor et al. (2000)"
+    },
+    {
+      "value": "Women more, on average",
+      "label": "Women are, on average, somewhat more prone to rumination, which can intensify and prolong stress rather than resolve it.",
+      "source": "Nolen-Hoeksema, Larson & Grayson (1999)"
+    },
+    {
+      "value": "Small differences",
+      "label": "On most psychological measures the sexes are far more alike than different, so stress responses overlap heavily.",
+      "source": "Hyde (2005), gender similarities hypothesis"
+    }
+  ],
+  "comparison": {
+    "title": "Responding to stress: average tendencies",
+    "rows": [
+      { "aspect": "Common added response", "men": "Fight-or-flight; often solitary, action-based coping", "women": "Fight-or-flight plus a lean toward tend-and-befriend" },
+      { "aspect": "First instinct under pressure", "men": "More likely to withdraw or problem-solve alone", "women": "More likely to seek connection and talk it through" },
+      { "aspect": "Rumination", "men": "Somewhat less prone, on average", "women": "Somewhat more prone, on average" },
+      { "aspect": "What tends to help", "men": "Space, action, reengaging with tasks", "women": "Presence, listening, affiliation as regulation" }
+    ]
+  },
+  "keyTakeaways": [
+    "Everyone has fight-or-flight; women, on average, also lean toward tend-and-befriend — protecting and seeking connection under threat.",
+    "Affiliation appears to down-regulate the stress response, so wanting to talk it through is active regulation, not just venting.",
+    "Seeking support under stress is a biologically grounded strategy, not a sign of weakness or neediness.",
+    "The same orientation toward emotional processing can help through connection or hurt through rumination, depending on whether it moves toward resolution.",
+    "For a stressed partner who leans toward connection, presence and listening often help more than fixing the problem — but respect that some people need to decompress alone.",
+    "These are average tendencies with vast overlap; personality, attachment style, and the specific stressor shape stress responses at least as much as sex."
   ],
   "lastReviewed": "2026-06"
 }
