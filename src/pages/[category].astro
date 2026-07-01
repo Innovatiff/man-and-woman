@@ -8,6 +8,7 @@ import AdSlot from '../components/AdSlot.astro';
 import DisclaimerBox from '../components/DisclaimerBox.astro';
 import GenderBadge from '../components/GenderBadge.astro';
 import { CATEGORIES, CATEGORY_BY_SLUG, categoryName } from '../data/categories';
+import { CATEGORY_OVERVIEWS } from '../data/category-overviews';
 import { SITE } from '../config';
 import { insightsByCategory, excerpt } from '../lib/insights';
 
@@ -24,6 +25,10 @@ if (!data) {
 const insights = await insightsByCategory(data.slug);
 const related = data.related.map((slug) => CATEGORY_BY_SLUG[slug]).filter(Boolean);
 
+const extra = CATEGORY_OVERVIEWS[data.slug];
+const overview = extra?.overview ?? [];
+const allFaqs = [...data.faqs, ...(extra?.faqs ?? [])];
+
 const metaTitle = `${data.name} — Psychology, Research & Insights`;
 const metaDescription = data.description.slice(0, 158);
 
@@ -38,7 +43,7 @@ const jsonLd = [
   {
     '@context': 'https://schema.org',
     '@type': 'FAQPage',
-    mainEntity: data.faqs.map((f) => ({
+    mainEntity: allFaqs.map((f) => ({
       '@type': 'Question',
       name: f.question,
       acceptedAnswer: { '@type': 'Answer', text: f.answer },
@@ -73,6 +78,17 @@ const jsonLd = [
   </header>
 
   <div class="container cat-body">
+    <!-- Overview -->
+    {
+      overview.length > 0 && (
+        <section class="cat-overview" aria-label={`About ${data.name}`}>
+          {overview.map((p) => (
+            <p>{p}</p>
+          ))}
+        </section>
+      )
+    }
+
     <!-- Key finding -->
     <aside class="key-finding">
       <p class="key-finding-label">The most important finding in this area</p>
@@ -111,7 +127,7 @@ const jsonLd = [
     <AdSlot variant="in-content" />
 
     <!-- FAQ -->
-    <Faq items={data.faqs} heading={`${data.name}: common questions`} />
+    <Faq items={allFaqs} heading={`${data.name}: common questions`} />
 
     <!-- Related categories -->
     {
@@ -148,6 +164,20 @@ const jsonLd = [
   }
   .cat-body {
     max-width: var(--wide-width);
+  }
+  .cat-overview {
+    max-width: 65ch;
+    margin: var(--space-5) 0 var(--space-4);
+  }
+  .cat-overview p {
+    color: #3f3f46;
+    font-size: 1.02rem;
+    line-height: 1.7;
+    margin-bottom: var(--space-3);
+  }
+  .cat-overview p:first-of-type {
+    font-size: var(--step-1);
+    color: #292524;
   }
   .key-finding {
     background: var(--slate);
