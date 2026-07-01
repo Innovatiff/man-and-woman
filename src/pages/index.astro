@@ -30,18 +30,40 @@ const strip = [
   'Written for curious, intelligent people',
 ];
 
-const jsonLd = {
-  '@context': 'https://schema.org',
-  '@type': 'WebSite',
-  name: SITE.name,
-  url: SITE.url,
-  description: SITE.description,
-  potentialAction: {
-    '@type': 'SearchAction',
-    target: `${SITE.url}/explore`,
-    'query-input': 'required name=search_term_string',
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    name: SITE.name,
+    url: SITE.url,
+    description: SITE.description,
+    publisher: { '@type': 'Organization', name: SITE.name, url: SITE.url },
+    potentialAction: {
+      '@type': 'SearchAction',
+      target: `${SITE.url}/explore`,
+      'query-input': 'required name=search_term_string',
+    },
   },
-};
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    name: SITE.name,
+    url: SITE.url,
+    description: SITE.description,
+    foundingDate: SITE.founded,
+    logo: { '@type': 'ImageObject', url: `${SITE.url}/favicon.svg` },
+    email: SITE.email,
+    knowsAbout: [
+      'psychology of men and women',
+      'relationships and communication',
+      'attachment and love',
+      'happiness and well-being',
+    ],
+    publishingPrinciples: `${SITE.url}/editorial-policy`,
+    correctionsPolicy: `${SITE.url}/editorial-policy`,
+    diversityPolicy: `${SITE.url}/editorial-policy`,
+  },
+];
 ---
 
 <BaseLayout

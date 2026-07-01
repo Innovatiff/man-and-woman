@@ -7,6 +7,7 @@ import InsightSection from '../../components/InsightSection.astro';
 import Faq from '../../components/Faq.astro';
 import ResearchSources from '../../components/ResearchSources.astro';
 import LastReviewed from '../../components/LastReviewed.astro';
+import Byline from '../../components/Byline.astro';
 import GenderBadge from '../../components/GenderBadge.astro';
 import DisclaimerBox from '../../components/DisclaimerBox.astro';
 import InsightCard from '../../components/InsightCard.astro';
@@ -65,12 +66,20 @@ const jsonLd = [
     inLanguage: 'en',
     isAccessibleForFree: true,
     timeRequired: `PT${minutes}M`,
-    author: { '@type': 'Organization', name: SITE.author },
+    dateModified: `${d.lastReviewed}-01`,
+    author: {
+      '@type': 'Organization',
+      name: `${SITE.name} Editorial Team`,
+      url: `${SITE.url}/about`,
+    },
+    reviewedBy: { '@type': 'Organization', name: `${SITE.name} Editorial Team` },
     publisher: {
       '@type': 'Organization',
       name: SITE.name,
       logo: { '@type': 'ImageObject', url: `${SITE.url}/favicon.svg` },
     },
+    publishingPrinciples: `${SITE.url}/editorial-policy`,
+    correctionsPolicy: `${SITE.url}/editorial-policy`,
     mainEntityOfPage: `${SITE.url}${canonical}`,
     articleSection: cat?.name ?? d.category,
     about: d.tags,
@@ -123,7 +132,8 @@ const jsonLd = [
           <span class="insight-head-time">{minutes} min read</span>
         </div>
         <h1>{d.title}</h1>
-        {d.quickTake ? <QuickTake text={d.quickTake} /> : <LastReviewed date={d.lastReviewed} />}
+        <Byline date={d.lastReviewed} />
+        {d.quickTake && <QuickTake text={d.quickTake} />}
       </header>
 
       {/* data layout leads with the numbers */}
@@ -174,9 +184,14 @@ const jsonLd = [
 
       <ResearchSources sources={d.researchSources} />
 
-      {d.quickTake && (
-        <div class="insight-reviewed"><LastReviewed date={d.lastReviewed} /></div>
-      )}
+      <div class="insight-reviewed">
+        <LastReviewed date={d.lastReviewed} />
+        <p class="insight-reviewed-note">
+          Written and reviewed by the <a href="/about">{SITE.name} Editorial Team</a> against our
+          <a href="/editorial-policy"> editorial standards</a>. This article is educational and is
+          not a substitute for professional advice.
+        </p>
+      </div>
 
       <DisclaimerBox />
     </div>
@@ -246,7 +261,21 @@ const jsonLd = [
     margin-top: var(--space-6);
   }
   .insight-reviewed {
-    margin-top: var(--space-4);
+    margin-top: var(--space-5);
+  }
+  .insight-reviewed-note {
+    font-size: 0.84rem;
+    color: var(--color-text-muted);
+    line-height: 1.6;
+    margin: var(--space-2) 0 0;
+    max-width: 62ch;
+  }
+  .insight-reviewed-note a {
+    color: var(--color-primary-strong);
+    text-decoration: none;
+  }
+  .insight-reviewed-note a:hover {
+    text-decoration: underline;
   }
 
   .insight-side {
