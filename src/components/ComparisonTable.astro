@@ -1,5 +1,13 @@
 ---
-/** Men-vs-women comparison at a glance. Framed as average tendencies. */
+/**
+ * Comparison table at a glance. Two modes:
+ *  - Gendered (default): columns are "Men (avg.)" / "Women (avg.)", framed as
+ *    average tendencies with heavy overlap.
+ *  - Neutral: pass `leftLabel` and `rightLabel` for topics where the honest
+ *    contrast is conceptual (myth vs. reality, experiences vs. possessions,
+ *    etc.) rather than gendered. The `men`/`women` keys are just the left/right
+ *    column slots.
+ */
 export interface Row {
   aspect: string;
   men: string;
@@ -8,23 +16,38 @@ export interface Row {
 export interface Props {
   rows: Row[];
   title?: string;
+  leftLabel?: string;
+  rightLabel?: string;
 }
-const { rows, title = 'At a glance: average tendencies' } = Astro.props;
+const { rows, title, leftLabel, rightLabel } = Astro.props;
+const neutral = Boolean(leftLabel && rightLabel);
+const heading = title ?? (neutral ? 'At a glance' : 'At a glance: average tendencies');
+const note = neutral
+  ? 'A side-by-side contrast to make the distinction concrete — patterns and tendencies, not rigid rules.'
+  : "Broad averages with heavy overlap — many people differ from their group's tendency. This is a map, not a measurement of any one person.";
 ---
 
-<section class="cmp" aria-label={title}>
-  <h2 class="cmp-title">{title}</h2>
-  <p class="cmp-note muted">
-    Broad averages with heavy overlap — many people differ from their group's tendency. This is a
-    map, not a measurement of any one person.
-  </p>
+<section class="cmp" aria-label={heading}>
+  <h2 class="cmp-title">{heading}</h2>
+  <p class="cmp-note muted">{note}</p>
   <div class="cmp-wrap">
     <table class="cmp-table">
       <thead>
         <tr>
           <th scope="col">Aspect</th>
-          <th scope="col"><span class="badge badge--men">● Men (avg.)</span></th>
-          <th scope="col"><span class="badge badge--women">● Women (avg.)</span></th>
+          {
+            neutral ? (
+              <Fragment>
+                <th scope="col">{leftLabel}</th>
+                <th scope="col">{rightLabel}</th>
+              </Fragment>
+            ) : (
+              <Fragment>
+                <th scope="col"><span class="badge badge--men">● Men (avg.)</span></th>
+                <th scope="col"><span class="badge badge--women">● Women (avg.)</span></th>
+              </Fragment>
+            )
+          }
         </tr>
       </thead>
       <tbody>

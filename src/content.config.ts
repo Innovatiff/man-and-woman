@@ -64,10 +64,19 @@ const insights = defineCollection({
     /** Bullet summary shown before the FAQ. */
     keyTakeaways: z.array(z.string()).optional(),
 
-    /** Optional men-vs-women comparison table (mostly for "both" pages). */
+    /**
+     * Optional comparison table. Defaults to a men-vs-women framing (columns
+     * labelled "Men (avg.)" / "Women (avg.)"). For topics where the most honest
+     * contrast is conceptual rather than gendered (e.g. myth vs. reality,
+     * experiences vs. possessions), supply `leftLabel` and `rightLabel` and the
+     * table renders neutral column headers instead of gender labels. The `men`
+     * and `women` row keys are the left/right column slots in both modes.
+     */
     comparison: z
       .object({
         title: z.string().optional(),
+        leftLabel: z.string().optional(),
+        rightLabel: z.string().optional(),
         rows: z.array(
           z.object({ aspect: z.string(), men: z.string(), women: z.string() }),
         ),

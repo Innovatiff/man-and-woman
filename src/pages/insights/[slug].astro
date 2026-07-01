@@ -151,7 +151,12 @@ const jsonLd = [
             {statsPos === s.id && hasStats && <KeyStats stats={d.keyStats!} />}
             {s.id === 'why' && <AdSlot variant="in-content" />}
             {s.id === 'relationships' && d.comparison && (
-              <ComparisonTable rows={d.comparison.rows} title={d.comparison.title} />
+              <ComparisonTable
+                rows={d.comparison.rows}
+                title={d.comparison.title}
+                leftLabel={d.comparison.leftLabel}
+                rightLabel={d.comparison.rightLabel}
+              />
             )}
           </Fragment>
         ))
