@@ -73,5 +73,41 @@
     "why-men-fear-vulnerability",
     "how-men-can-build-emotional-intelligence"
   ],
+  "quickTake": "Men, on average, tend to have fewer close confidants than women, and male friendships often form around shared activity rather than opening up. That side-by-side bond is real, and it deepens when men add some honest openness. Given how strongly connection ties to health, the effort is worth it.",
+  "pullQuote": "The shared activity built the trust; a small moment of honesty turned it into something deeper.",
+  "keyStats": [
+    {
+      "value": "Meta-analysis of 148 studies",
+      "label": "Stronger social relationships were linked to substantially lower mortality risk — an effect comparable to well-known health factors.",
+      "source": "Holt-Lunstad, Smith & Layton (2010)"
+    },
+    {
+      "value": "A basic need",
+      "label": "The drive to form close bonds — the 'need to belong' — appears to be a fundamental human need, not a gendered one.",
+      "source": "Baumeister & Leary (1995)"
+    },
+    {
+      "value": "Fewer confidants",
+      "label": "Survey work documented a decline in Americans' close confidants, with men on average reporting fewer intimate friendships than women.",
+      "source": "McPherson, Smith-Lovin & Brashears (2006)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Number of close confidants", "men": "Tend to report fewer, on average", "women": "Tend to report more, on average" },
+      { "aspect": "How friendships form", "men": "Often 'shoulder-to-shoulder' — shared activity", "women": "Often 'face-to-face' — more disclosure" },
+      { "aspect": "Comfort with vulnerability", "men": "More likely to keep struggles private", "women": "More likely to voice them with friends" },
+      { "aspect": "Underlying need for closeness", "men": "Just as strong; the drive to belong is universal", "women": "Just as strong; the drive to belong is universal" }
+    ]
+  },
+  "keyTakeaways": [
+    "Many men have fewer close confidants than women on average, largely due to socialization, not a smaller need for closeness.",
+    "Social connection is tied to substantially lower mortality risk — it's a health factor, not a luxury.",
+    "Activity-based, shoulder-to-shoulder friendship is genuinely close, not a lesser form of bonding.",
+    "Depth grows when shared doing is paired with some honest openness about your inner life.",
+    "Repeated, reliable contact plus small acts of openness turn acquaintances into real friends.",
+    "Initiating is the step many men skip, yet it usually matters most for building connection."
+  ],
   "lastReviewed": "2026-06"
 }

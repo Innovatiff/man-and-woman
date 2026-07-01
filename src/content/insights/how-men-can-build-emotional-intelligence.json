@@ -74,5 +74,41 @@
     "how-to-regulate-your-emotions",
     "why-men-struggle-to-open-up"
   ],
+  "quickTake": "Emotional intelligence is a set of learnable skills, not a personality you're born with. Any average gender gap looks more like practice than wiring — most men can noticeably improve by naming feelings, widening their vocabulary, and reframing before reacting.",
+  "pullQuote": "The feelings are present; the practiced vocabulary and permission to use them often are not — and both can be built.",
+  "keyStats": [
+    {
+      "value": "4 abilities",
+      "label": "Mayer and Salovey model emotional intelligence as a trainable hierarchy: perceiving, using, understanding, and managing emotions.",
+      "source": "Mayer & Salovey (1997)"
+    },
+    {
+      "value": "Learned, not wired",
+      "label": "Normative male alexithymia — difficulty putting feelings into words — tracks with strict masculine socialization rather than capacity.",
+      "source": "Levant et al. (2009)"
+    },
+    {
+      "value": "Reappraisers do better",
+      "label": "People who habitually reframe situations report more positive emotion and better relationships than those who suppress feelings.",
+      "source": "Gross & John (2003)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Naming feelings", "men": "More likely to lean on broad labels like 'fine' or 'stressed'", "women": "On average more practiced at finer emotional vocabulary" },
+      { "aspect": "Default regulation style", "men": "Somewhat more likely to suppress or bottle up", "women": "Somewhat more likely to reframe or talk it through" },
+      { "aspect": "Emotional coaching received", "men": "Often narrower range discussed in childhood", "women": "Often a wider range of feelings named and explored" },
+      { "aspect": "Underlying capacity", "men": "Same skills, responsive to practice", "women": "Same skills, responsive to practice" }
+    ]
+  },
+  "keyTakeaways": [
+    "Emotional intelligence is a skill set — perceiving, understanding, using, and regulating emotions — that improves with practice, not a fixed trait.",
+    "Average gender gaps look more like socialization than wiring; the feelings are there even when the vocabulary isn't.",
+    "Naming the emotion in the moment is the highest-leverage starting habit — you can't manage what you can't identify.",
+    "Cognitive reappraisal (reframing before reacting) reliably beats suppression for mood and relationships.",
+    "It means becoming more composed, not more fragile — steadiness under pressure is high emotional intelligence, not its absence.",
+    "Progress is gradual: small daily habits compound over weeks and months rather than days."
+  ],
   "lastReviewed": "2026-06"
 }

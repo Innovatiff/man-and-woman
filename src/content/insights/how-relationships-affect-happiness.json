@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "Someone may pour years into building a career, assuming that achievement will deliver lasting contentment, only to find in later life that the relationships they nurtured — or neglected — weigh far more heavily on how satisfied they feel. The Harvard findings repeatedly point in this direction.",
     "A person going through a hard stretch — job loss, illness, grief — often gets through it less because of any single solution and more because a few people show up reliably. That felt sense of support is part of how close relationships translate into resilience and well-being.",
-    "Conversely, someone who is technically surrounded by people but lacks anyone they feel truly known by can still feel deeply lonely. This illustrates why researchers stress the quality of connection, not just its quantity, as the part most tied to happiness."
+    "Conversely, someone who is technically surrounded by people but lacks anyone they feel truly known by can still feel deeply lonely. This illustrates why researchers stress the quality of connection, not just its quantity, as the part most tied to happiness.",
+    "Two people can retire with similar savings and health, yet report very different levels of contentment. Often the one who invested steadily in a few warm friendships and a close marriage describes their later years as richer — a pattern the Harvard data traces again and again."
   ],
   "whatPeopleGetWrong": [
     "A widespread misconception is that happiness is primarily an individual achievement — a matter of mindset, success, or self-optimization. The long-term evidence suggests well-being is far more relational than that picture allows; the strongest and most consistent predictor across decades has been the quality of a person's close ties.",
@@ -74,6 +75,42 @@
     "why-money-doesnt-buy-happiness",
     "the-role-of-purpose-in-a-meaningful-life",
     "male-friendship-and-loneliness"
+  ],
+  "quickTake": "Across some of the longest studies in psychology, the quality of close relationships is one of the strongest predictors of lifelong happiness and health — more than money, fame, or status. Warm, dependable connection protects us; chronic loneliness carries real costs.",
+  "pullQuote": "The people who stayed happiest and healthiest into old age were those with the warmest relationships in midlife — not those who accumulated the most money or success.",
+  "keyStats": [
+    {
+      "value": "80+ years",
+      "label": "The Harvard Study of Adult Development has followed participants for over eight decades, finding warm relationships the strongest predictor of a flourishing life.",
+      "source": "Waldinger & Schulz (2023); Vaillant (2012)"
+    },
+    {
+      "value": "148 studies",
+      "label": "A meta-analysis found people with stronger social ties had substantially better survival odds — an effect comparable in size to quitting smoking.",
+      "source": "Holt-Lunstad, Smith & Layton (2010)"
+    },
+    {
+      "value": "Quality > quantity",
+      "label": "Very happy people were distinguished above all by rich, satisfying social ties, not by the sheer number of contacts.",
+      "source": "Diener & Seligman (2002)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "How connection is often sought", "men": "May center it on shared activity and doing things together", "women": "May center it more on face-to-face disclosure and talk" },
+      { "aspect": "Number of close confidants", "men": "Often report fewer, on average", "women": "Often report more, on average" },
+      { "aspect": "Link between warm ties and well-being", "men": "Strong and consistent", "women": "Strong and consistent" },
+      { "aspect": "Cost of chronic loneliness", "men": "Measurable for mind and body", "women": "Measurable for mind and body" }
+    ]
+  },
+  "keyTakeaways": [
+    "The quality of close relationships is among the strongest long-term predictors of happiness and health.",
+    "Warm, dependable connection appears to matter more for lifelong well-being than wealth, fame, or status.",
+    "It is depth and responsiveness that count — a few close ties beat a large but shallow network.",
+    "Strong social ties track with better health and longer life, partly by buffering stress over the years.",
+    "The link between warm relationships and well-being holds broadly across men and women.",
+    "Relationships can be rebuilt at many points in life; small, consistent turning-toward compounds over time."
   ],
   "lastReviewed": "2026-06"
 }

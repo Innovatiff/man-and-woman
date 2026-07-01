@@ -74,5 +74,41 @@
     "self-improvement-for-men",
     "the-psychology-of-flow"
   ],
+  "quickTake": "Meaning comes less from achievement than from purpose, contribution beyond yourself, and close relationships. For men taught to equate worth with performance, that's a real shift: milestones get reabsorbed, but autonomy, competence, relatedness, and generativity tend to last.",
+  "pullQuote": "A string of accomplishments can leave a quiet emptiness — the familiar feeling of having climbed the ladder only to wonder what it was leaning against.",
+  "keyStats": [
+    {
+      "value": "3 basic needs",
+      "label": "Self-determination theory identifies autonomy, competence, and relatedness as the needs whose satisfaction best sustains well-being and meaning.",
+      "source": "Deci & Ryan (2000)"
+    },
+    {
+      "value": "Presence vs. search",
+      "label": "A felt presence of meaning is consistently tied to greater well-being, while restless searching without finding is less comfortable.",
+      "source": "Steger et al. (2006), Meaning in Life Questionnaire"
+    },
+    {
+      "value": "Decades of lives",
+      "label": "The Harvard Grant Study followed men across most of their adult lives and found close relationships central to a life experienced as good.",
+      "source": "Vaillant (2012), Harvard Grant Study"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Where worth is often located", "men": "Socialization leans harder on performance and status", "women": "On average, somewhat more on relationships and roles" },
+      { "aspect": "Response to hitting a goal", "men": "Milestone reabsorbed; attention drifts to the next", "women": "Milestone reabsorbed; attention drifts to the next" },
+      { "aspect": "Underlying sources of meaning", "men": "Autonomy, competence, relatedness, generativity", "women": "Autonomy, competence, relatedness, generativity" },
+      { "aspect": "Relational investment", "men": "Sometimes treated as secondary to work", "women": "On average more often treated as central" }
+    ]
+  },
+  "keyTakeaways": [
+    "Meaning comes more from purpose, contribution, and close relationships than from achievement pursued for its own sake.",
+    "Achievement is subject to adaptation — each milestone gets absorbed — which is why outward success and inner emptiness can coexist.",
+    "Autonomy, competence, and relatedness are the basic needs that most durably sustain a life that feels worthwhile.",
+    "Generativity — mentoring and contributing beyond yourself — becomes an increasingly powerful source of meaning across adulthood.",
+    "Purpose is usually built incrementally through value-aligned action, not discovered as a single grand calling.",
+    "None of this requires abandoning ambition — it's about connecting ambition to purpose so achievement serves meaning."
+  ],
   "lastReviewed": "2026-06"
 }

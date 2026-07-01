@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A partner who repeatedly mentions feeling overwhelmed and is met with distraction or a quick fix may stop bringing it up. The complaints go quiet, but the disappointment does not — months later it can surface as cold distance or sharp criticism that seems disproportionate to whatever triggered it.",
     "One person may keep a private tally of everything they handle that the other does not notice. Even when no fight occurs, that running ledger can color how they greet their partner each day, so a neutral comment gets heard as one more sign of being taken for granted.",
-    "Couples in negative sentiment override often describe how even kind gestures stop landing. An apology sounds insincere, a compliment feels like manipulation, and help is read as interference — because the underlying lens has shifted, the same act that once would have warmed them now reinforces the grievance."
+    "Couples in negative sentiment override often describe how even kind gestures stop landing. An apology sounds insincere, a compliment feels like manipulation, and help is read as interference — because the underlying lens has shifted, the same act that once would have warmed them now reinforces the grievance.",
+    "One partner handles the invisible logistics — remembering appointments, restocking the fridge, tracking who needs what — and rarely hears it acknowledged. No single instance feels worth a fight, so nothing is said, yet the quiet accumulation of unnoticed effort can slowly curdle into a simmering resentment that surfaces over something trivial."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that resentment comes mainly from big betrayals. Research suggests it more often accumulates from the steady drip of small unmet needs and missed connections, which is why couples can feel deeply resentful without being able to point to any single dramatic event.",
@@ -73,6 +74,42 @@
     "how-to-resolve-conflict-in-relationships",
     "why-couples-fight-about-small-things",
     "the-mental-load-women-carry"
+  ],
+  "quickTake": "Resentment rarely erupts from one betrayal. It accumulates as small unmet needs, ignored bids for connection, and unspoken hurts pile up, until a partner starts reading even neutral acts as slights. The pattern is mutual — and, caught early, it can usually be interrupted.",
+  "pullQuote": "Once a relationship slips into a generally negative lens, even neutral actions can feel like slights.",
+  "keyStats": [
+    {
+      "value": "Slow accumulation",
+      "label": "Resentment tends to build from a steady drip of small unmet needs and missed connections rather than one dramatic event.",
+      "source": "Gottman & Levenson (1992)"
+    },
+    {
+      "value": "Negative lens",
+      "label": "In negative sentiment override, a partner becomes so primed to expect the worst that neutral or positive acts read as hostile.",
+      "source": "Gottman (2011), The Science of Trust"
+    },
+    {
+      "value": "Both partners",
+      "label": "Men and women are equally capable of feeling resentful and accumulating unspoken hurts — the sexes overlap heavily here.",
+      "source": "Hyde (2005), gender similarities hypothesis"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Capacity to feel resentment", "men": "Equal; overlaps heavily with women", "women": "Equal; overlaps heavily with men" },
+      { "aspect": "How grievances may surface", "men": "May withdraw or go quiet", "women": "May raise concerns or criticize" },
+      { "aspect": "Common flashpoint", "men": "Feeling unappreciated or nagged", "women": "Feeling unseen or carrying more of the load" },
+      { "aspect": "What tends to repair it", "men": "Being noticed, responding to bids", "women": "Being noticed, responding to bids" }
+    ]
+  },
+  "keyTakeaways": [
+    "Resentment usually accumulates from small unmet needs and missed bids, not one big betrayal.",
+    "Negative sentiment override makes it self-reinforcing — the negative lens generates fresh grievances.",
+    "Avoiding conflict to 'keep the peace' often lets small hurts compound into lasting resentment.",
+    "Score-keeping thrives because people notice their own contributions more vividly than a partner's.",
+    "Raising concerns early and gently, with a soft start-up, tends to prevent the slow buildup.",
+    "Because resentment is mutual, shared repair works better than waiting for the other to start."
   ],
   "lastReviewed": "2026-06"
 }

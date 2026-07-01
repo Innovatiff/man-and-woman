@@ -73,5 +73,41 @@
     "why-rejection-hurts-so-much",
     "building-confidence-as-a-man"
   ],
+  "quickTake": "Rejection genuinely hurts because the need to belong runs deep — but how a man reads it matters as much as the event. Blaming your whole character deepens the wound; self-compassion and specific, situational interpretations help you recover and stay open.",
+  "pullQuote": "The event can be identical; the recovery differs sharply based on how worth is attributed.",
+  "keyStats": [
+    {
+      "value": "A fundamental drive",
+      "label": "The need to belong is treated as a basic human motivation, which is why rejection registers as real pain rather than mild disappointment.",
+      "source": "Baumeister & Leary (1995)"
+    },
+    {
+      "value": "Where worth is staked",
+      "label": "When self-esteem is contingent on a domain — being desirable, being a provider — a setback there hits far harder.",
+      "source": "Crocker & Wolfe (2001), contingencies of self-worth"
+    },
+    {
+      "value": "Kindness aids recovery",
+      "label": "Self-compassion predicts better resilience without the downsides of inflated self-esteem, and keeps people motivated rather than defensive.",
+      "source": "Neff (2003)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Common interpretation of a 'no'", "men": "Socialization can pull toward a global 'not good enough' reading", "women": "On average somewhat more likely to read fit or timing" },
+      { "aspect": "Default coping style", "men": "More likely to suppress, tough it out, or mask with anger", "women": "More likely to talk it through or seek support" },
+      { "aspect": "Where self-worth is often staked", "men": "Often on success, status, or being chosen", "women": "Varies, but similar contingency risks apply" },
+      { "aspect": "What actually helps", "men": "Self-compassion and situational attribution", "women": "Self-compassion and situational attribution" }
+    ]
+  },
+  "keyTakeaways": [
+    "Rejection hurts because belonging is a fundamental human need — the pain reflects wiring, not personal weakness.",
+    "Interpretation drives the damage: a global 'I'm not good enough' wounds far more than a specific 'we weren't a fit.'",
+    "Staking self-worth on one domain (being chosen, being a provider) makes a setback there feel like a verdict on the whole self.",
+    "Handling rejection well doesn't mean not feeling it — acknowledging pain with self-compassion helps it pass; suppression prolongs it.",
+    "Masking hurt with bravado or cynicism often hardens into the avoidance that blocks the connection a man actually wants.",
+    "Self-compassion and balanced attribution are learnable skills that can change how rejection lands over time."
+  ],
   "lastReviewed": "2026-06"
 }

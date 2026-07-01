@@ -74,5 +74,41 @@
     "how-women-handle-emotions",
     "why-men-pull-away"
   ],
+  "quickTake": "The 'Mars and Venus' story is mostly overstated. When researchers actually measure it, men and women communicate more alike than different — including talking about the same number of words a day. Context, personality, and role matter more than gender.",
+  "pullQuote": "When researchers measured rather than assumed, the gaps shrank — and the bell curves sit almost on top of each other.",
+  "keyStats": [
+    {
+      "value": "~16,000 words",
+      "label": "Average number of words spoken per day — nearly identical for men and women, contradicting the popular '20,000 vs 7,000' claim.",
+      "source": "Mehl, Vazire, Ramírez-Esparza, Slatcher & Pennebaker (2007), Science"
+    },
+    {
+      "value": "Small effect",
+      "label": "Meta-analytic review of adults' language use found average gender differences generally small and heavily moderated by context.",
+      "source": "Leaper & Ayres (2007)"
+    },
+    {
+      "value": "Reverses by topic",
+      "label": "In the demand-withdraw conflict pattern, the roles swap depending on whose issue is on the table — reflecting structure as much as gender.",
+      "source": "Christensen & Heavey (1990)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Daily word count", "men": "About 16,000 words a day, on average", "women": "About 16,000 words a day, on average" },
+      { "aspect": "Conversational lean", "men": "Slightly more toward 'report-talk' (information, status)", "women": "Slightly more toward 'rapport-talk' (connection)" },
+      { "aspect": "In conflict", "men": "Somewhat more often take the withdrawing role", "women": "Somewhat more often take the demanding role" },
+      { "aspect": "What predicts style best", "men": "Personality, context, and role over gender", "women": "Personality, context, and role over gender" }
+    ]
+  },
+  "keyTakeaways": [
+    "Measured differences in how men and women communicate are small, with large overlap between individuals.",
+    "The 'women talk more' myth is false: careful counts put both sexes at roughly 16,000 words a day.",
+    "Rapport-talk vs report-talk is a useful lens for spotting patterns, not a fixed rule about any person.",
+    "The demand-withdraw loop reflects who wants change on a topic, and the roles reverse when the subject changes.",
+    "Learn how your specific partner communicates; gender scripts mislead more often than they help.",
+    "Personality, context, and role usually explain communication style better than sex does."
+  ],
   "lastReviewed": "2026-06"
 }

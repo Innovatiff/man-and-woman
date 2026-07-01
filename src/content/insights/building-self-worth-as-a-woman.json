@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A woman who receives one piece of critical feedback at work may replay it for days, slowly concluding she is inadequate — a rumination loop where the worth was contingent on being seen as competent and the loop did the damage, not the feedback itself.",
     "Someone whose sense of value rises sharply with compliments about her appearance and drops on a bad-skin day is experiencing appearance-contingent self-worth in action: the external standard is doing the rating, so the ground keeps moving.",
-    "By contrast, a woman practicing self-compassion who fails an exam might acknowledge the disappointment, remind herself that many capable people struggle, and treat herself gently — which research suggests helps her recover and try again more readily than harsh self-criticism would."
+    "By contrast, a woman practicing self-compassion who fails an exam might acknowledge the disappointment, remind herself that many capable people struggle, and treat herself gently — which research suggests helps her recover and try again more readily than harsh self-criticism would.",
+    "A woman who notices she is spiraling after a social event — replaying every awkward remark late into the night — can interrupt the loop by shifting into a genuinely absorbing activity or naming one concrete next step, rather than trying to think her way out. The relief usually comes from stopping the replay, not from finally solving it."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that the goal is simply to raise self-esteem — to think of yourself as great, special, or better than others. Research suggests this can backfire, because esteem built on being above average is fragile and competitive. Self-compassion is often the more stable foundation, and it is not the same as letting yourself off the hook.",
@@ -73,6 +74,42 @@
     "how-women-can-set-boundaries",
     "how-to-regulate-your-emotions",
     "self-improvement-for-women"
+  ],
+  "quickTake": "Steady self-worth rests less on chasing high self-esteem and more on self-compassion plus loosening what your worth is tied to. When value rides on looks, approval, or achievement, it stays fragile; treating yourself as you would a friend, and interrupting rumination, holds up better.",
+  "pullQuote": "Self-worth often erodes not from a single setback but from the loop of replaying it — which is why interrupting rumination helps more than analyzing yourself harder.",
+  "keyStats": [
+    {
+      "value": "Not contingent",
+      "label": "Self-compassion does not require feeling above average or succeeding, so it offers steadier ground than self-esteem that swings with each outcome.",
+      "source": "Neff (2003)"
+    },
+    {
+      "value": "Domain-linked",
+      "label": "When worth is staked on external domains like approval or appearance, it rises and falls with events in those domains — driving sharper emotional swings.",
+      "source": "Crocker & Wolfe (2001)"
+    },
+    {
+      "value": "78%",
+      "label": "Of measured psychological gender differences are small or close to zero — the mechanisms of self-worth are not exclusively female.",
+      "source": "Hyde (2005), review of 46 meta-analyses"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: fragile versus stable self-worth",
+    "rows": [
+      { "aspect": "What it rests on", "men": "External markers: status, winning, approval", "women": "Appearance and approval contingencies, on average, plus achievement" },
+      { "aspect": "Steadier alternative", "men": "Non-contingent worth and self-compassion", "women": "Non-contingent worth, self-compassion, less rumination" },
+      { "aspect": "Response to a bad day", "men": "Volatile when worth rides on the outcome", "women": "Prone to rumination loops that prolong low mood" },
+      { "aspect": "What actually helps", "men": "Loosening contingencies; self-kindness", "women": "Interrupting the replay; broadening what worth rests on" }
+    ]
+  },
+  "keyTakeaways": [
+    "Self-compassion tends to be a steadier foundation than high self-esteem, because it does not depend on outperforming others.",
+    "When worth is staked on looks, approval, or achievement, it swings with events in those domains — that contingency is what makes it fragile.",
+    "Rumination usually deepens low mood; interrupting the replay helps more than analyzing your flaws harder.",
+    "Positive affirmations tend to fall flat if the underlying contingencies stay unexamined.",
+    "None of this is exclusively female — men stake worth on external domains too, and the sexes overlap heavily.",
+    "Where worth is anchored is largely learned, and self-compassion is a trainable skill, so change is possible in adulthood."
   ],
   "lastReviewed": "2026-06"
 }

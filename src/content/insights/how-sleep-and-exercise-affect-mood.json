@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "Someone going through a stressful stretch may notice that a daily walk or workout takes the edge off — not erasing the problem, but making it feel more manageable. The relief is often modest day to day yet adds up over weeks.",
     "After a few nights of poor sleep, a person may find themselves snapping at minor things or catastrophizing a setback that would not normally rattle them. Once rest is restored, the same circumstances frequently feel less overwhelming.",
-    "People sometimes report that the hardest part is starting: motivation tends to follow action rather than precede it, so the first ten minutes of movement can be the real hurdle, after which mood and momentum often improve."
+    "People sometimes report that the hardest part is starting: motivation tends to follow action rather than precede it, so the first ten minutes of movement can be the real hurdle, after which mood and momentum often improve.",
+    "A couple who have both slept badly may find a minor disagreement over dinner plans escalating out of proportion, each reading the other as unusually short-tempered. On a well-rested night the same exchange might pass as a shrug — a reminder of how quietly fatigue can amplify friction between two people."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is treating exercise or sleep as a complete substitute for therapy or medication in serious depression. The research suggests they are genuinely helpful supports and, for milder symptoms, can be quite effective — but for many people they work best alongside other care, not instead of it.",
@@ -72,6 +73,42 @@
     "the-science-of-lasting-happiness",
     "how-to-regulate-your-emotions",
     "the-happiness-set-point-explained"
+  ],
+  "quickTake": "Regular exercise and adequate sleep are among the more reliable, controllable supports for mood. Exercise has a real antidepressant effect on average, and poor sleep makes feelings harder to manage. They're powerful supports, not cures, and their size varies a lot between people.",
+  "pullQuote": "These are powerful supports rather than cures, and their size varies a lot between individuals.",
+  "keyStats": [
+    {
+      "value": "Moderate effect",
+      "label": "A meta-analysis adjusting for publication bias found exercise has a moderate antidepressant effect — large enough to matter clinically.",
+      "source": "Schuch et al. (2016)"
+    },
+    {
+      "value": "Any format",
+      "label": "The benefit appeared across both aerobic and resistance training, suggesting movement itself, more than any single format, is what helps.",
+      "source": "Schuch et al. (2016)"
+    },
+    {
+      "value": "Intentional activity",
+      "label": "A sizable share of well-being lies in intentional activity rather than fixed circumstance — the controllable zone where sleep and movement sit.",
+      "source": "Lyubomirsky, Sheldon & Schkade (2005)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Mood benefit from exercise", "men": "Present on average; varies by person", "women": "Present on average; varies by person" },
+      { "aspect": "Effect of poor sleep on regulation", "men": "More reactive, reappraisal harder", "women": "More reactive, reappraisal harder" },
+      { "aspect": "Size of individual variation", "men": "Large; outweighs any between-sex gap", "women": "Large; outweighs any between-sex gap" },
+      { "aspect": "How habits interact with mood", "men": "Two-way; low mood saps motivation", "women": "Two-way; low mood saps motivation" }
+    ]
+  },
+  "keyTakeaways": [
+    "Regular exercise has a moderate antidepressant effect on average, robust even after correcting for publication bias.",
+    "Adequate sleep underpins emotion regulation; poor sleep makes people more reactive and reappraisal harder.",
+    "These are genuine supports, not cures — for serious depression they work best alongside professional care.",
+    "Effects are cumulative and probabilistic, not an instant lift, and vary considerably between people.",
+    "Sleep and movement sit in the 'intentional activity' space, so they're partly within our control.",
+    "The links between physical health and mood look broadly similar for men and women; individual differences dominate."
   ],
   "lastReviewed": "2026-06"
 }

@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A man told 'you never help around here' may react far more defensively than to 'could you take the bins out tonight?' — because the first sounds like a verdict on his character while the second is a request about a behavior.",
     "Feedback at work can sting most precisely where a man has invested his sense of competence; a small correction in a prized skill can feel heavier than a large one in an area he cares less about.",
-    "In an argument, a man may go quiet, change the subject, or counterattack — responses that often signal flooding or shame rather than genuine disagreement with the substance of what was said."
+    "In an argument, a man may go quiet, change the subject, or counterattack — responses that often signal flooding or shame rather than genuine disagreement with the substance of what was said.",
+    "A man who dismisses a manager's note in the moment may quietly act on it days later, once the initial sting has faded — a sign the feedback did land, even though the first reaction looked like rejection."
   ],
   "whatPeopleGetWrong": [
     "A frequent misreading is that defensiveness means a man rejects the feedback's content. Often he has not processed it yet, because shame or flooding has hijacked his ability to listen. The substance may land later, once the threat response settles — the initial reaction is not the final one.",
@@ -72,6 +73,42 @@
     "how-men-cope-with-failure",
     "the-four-horsemen-of-relationship-failure",
     "why-men-value-respect"
+  ],
+  "quickTake": "How a man takes criticism hinges on whether it lands as shame about who he is or feedback about what he did. Staked in a valued domain, it can register as an ego threat and provoke defensiveness — but the same message delivered as specific, respectful feedback is far easier to hear.",
+  "pullQuote": "Criticism that induces shame backfires; criticism framed around behavior invites growth.",
+  "keyStats": [
+    {
+      "value": "Shame vs guilt",
+      "label": "Shame ('I am bad') tends to trigger defensiveness, denial, or withdrawal, while guilt ('I did something bad') tends to motivate repair — so behavior-focused feedback lands better.",
+      "source": "Tangney et al. (2007)"
+    },
+    {
+      "value": "Contingent domains",
+      "label": "When worth is staked in a domain — competence, work, being a good partner — criticism there threatens identity, not just performance, which fuels defensiveness.",
+      "source": "Crocker & Wolfe (2001)"
+    },
+    {
+      "value": "Flooding",
+      "label": "Men are somewhat more prone to physiological flooding during conflict, and a flooded person cannot listen well — what looks like stubbornness is sometimes an overwhelmed nervous system.",
+      "source": "Gottman & Levenson (1992)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Physiological flooding in conflict", "men": "Somewhat more prone, and slower to recover, on average", "women": "Somewhat less prone, on average" },
+      { "aspect": "When criticism hits a valued domain", "men": "May read it as an indictment of the self", "women": "Can react the same way — the mechanism is shared" },
+      { "aspect": "Response when overwhelmed", "men": "More likely to go quiet, deflect, or counterattack", "women": "More likely to keep engaging verbally, on average" },
+      { "aspect": "What makes feedback land", "men": "Soft start-up, specific behavior, some acknowledgment", "women": "The same delivery helps — it isn't gendered" }
+    ]
+  },
+  "keyTakeaways": [
+    "Response to criticism turns on shame ('I am bad') versus guilt ('I did something fixable') — the former backfires, the latter invites repair.",
+    "Criticism stings most where a man has staked his worth, because it threatens identity, not just performance.",
+    "Men are somewhat more prone to flooding in conflict, and a flooded person genuinely can't listen well.",
+    "Defensiveness often means the feedback hasn't been processed yet, not that it's been rejected — the substance may land later.",
+    "Delivery matters as much as the receiver: a soft start-up and specific, behavior-focused feedback land far better than character attacks.",
+    "These are averages with heavy overlap; sensitivity to criticism is human, not male."
   ],
   "lastReviewed": "2026-06"
 }

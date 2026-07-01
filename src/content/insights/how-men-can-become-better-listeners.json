@@ -75,5 +75,41 @@
     "why-women-want-to-be-understood-not-fixed",
     "how-men-can-build-emotional-intelligence"
   ],
+  "quickTake": "The most connecting listening isn't about solving — it's about a person feeling understood, valued, and cared for. Many men default to fixing, which is useful but can leave a speaker unheard. The good news: responsive listening is a learnable skill.",
+  "pullQuote": "Listening is an active ingredient of connection rather than a passive pause before talking.",
+  "keyStats": [
+    {
+      "value": "Learnable skill",
+      "label": "Perceiving and understanding others' emotions are framed as developable abilities, not fixed traits — most people improve with practice.",
+      "source": "Mayer & Salovey (1997)"
+    },
+    {
+      "value": "Turning toward bids",
+      "label": "In stable couples, partners tend to respond to small everyday bids for connection; acknowledging them accumulates into trust over time.",
+      "source": "Gottman (2011)"
+    },
+    {
+      "value": "Small effect",
+      "label": "Women score slightly higher on average at decoding nonverbal cues, but the gap is modest and the ability is broadly learnable.",
+      "source": "Hall (1978)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Default listening mode", "men": "Somewhat more solution-focused, on average", "women": "Somewhat more rapport-focused, on average" },
+      { "aspect": "Decoding nonverbal cues", "men": "Slightly lower on average, with heavy overlap", "women": "Slightly higher on average, with heavy overlap" },
+      { "aspect": "Response to venting", "men": "More likely to offer a fix", "women": "More likely to reflect the feeling first" },
+      { "aspect": "Room to grow", "men": "Add validation before advice", "women": "Varies by person; overlap is large" }
+    ]
+  },
+  "keyTakeaways": [
+    "Connecting listening centers on the speaker feeling understood and valued, not on the listener's verbal cleverness.",
+    "Reflecting the feeling first, then asking if advice is wanted, closes the common 'you don't listen' gap.",
+    "Turning toward small everyday bids for attention quietly builds trust over time.",
+    "Responsive listening is a learnable skill; average sex differences in decoding cues are small.",
+    "The solution-focused style isn't a flaw — the skill is reading which mode the moment calls for.",
+    "Validating a feeling means acknowledging it makes sense, not agreeing with every conclusion."
+  ],
   "lastReviewed": "2026-06"
 }

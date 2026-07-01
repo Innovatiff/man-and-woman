@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A man who responds to bad news with 'I'm fine' and then becomes quiet for a day is often not suppressing on purpose so much as processing internally, working the feeling through before he can or will describe it.",
     "Someone who handles grief or stress by throwing himself into a project or a workout may be regulating his emotions through action — a real coping strategy, even though an observer sees activity rather than open feeling.",
-    "A partner who asks for space after an argument and comes back the next morning ready to talk is frequently showing the gradual internal route: the feelings needed time and solitude to become clear enough to put into words."
+    "A partner who asks for space after an argument and comes back the next morning ready to talk is frequently showing the gradual internal route: the feelings needed time and solitude to become clear enough to put into words.",
+    "A man watching a moving film may sit stone-faced while feeling as much internally as a visibly teary partner beside him — the outward calm masks a physiological response that can run just as high."
   ],
   "whatPeopleGetWrong": [
     "The biggest misconception is that internal or quiet processing means shallow feeling. Kring and Gordon's findings point the other way — men's internal and physiological responses can be just as strong as women's even when their faces and words show less. Quiet is not the same as empty.",
@@ -72,6 +73,43 @@
     "why-men-struggle-to-open-up",
     "why-men-need-alone-time",
     "how-women-process-emotions"
+  ],
+  "quickTake": "Many men work through feelings inwardly and gradually, often through action before words. This reflects learned habits and, for some, less practiced emotional language — not shallower feeling. Internally, the emotion often runs just as strong.",
+  "pullQuote": "Quiet is not the same as empty: men's internal and physiological responses can be just as strong as women's, even when their faces and words show less.",
+  "keyStats": [
+    {
+      "value": "Similar internally",
+      "label": "Watching emotional films, men and women reported similar internal feelings; women were more outwardly expressive while men's physiological responses were sometimes as strong or stronger.",
+      "source": "Kring & Gordon (1998)"
+    },
+    {
+      "value": "More common in men",
+      "label": "Alexithymia — difficulty identifying and describing one's own emotions — is on average somewhat more common in men, framed as learned 'normative male alexithymia' rather than innate.",
+      "source": "Levant et al. (2009)"
+    },
+    {
+      "value": "78%",
+      "label": "Of measured psychological gender differences are small or close to zero — the internal experience of emotion looks broadly similar across the sexes.",
+      "source": "Hyde (2005), review of 46 meta-analyses"
+    }
+  ],
+  "comparison": {
+    "title": "Emotional processing: average tendencies",
+    "rows": [
+      { "aspect": "Internal experience", "men": "Feels emotion much the same, often as intensely", "women": "Feels emotion much the same, often as intensely" },
+      { "aspect": "Outward expression", "men": "Often more contained, less facially expressive", "women": "Often more openly and facially expressive" },
+      { "aspect": "Naming feelings", "men": "Somewhat more likely to find words harder", "women": "Somewhat more practiced emotional vocabulary" },
+      { "aspect": "Typical route", "men": "More gradual, private, sometimes through action", "women": "More likely to process by talking it through" },
+      { "aspect": "After conflict", "men": "May need space, then return calmer", "women": "May want to resolve by discussing sooner" }
+    ]
+  },
+  "keyTakeaways": [
+    "Internally, men's emotional and physiological responses can be as strong as women's — the reliable difference is in expression, not depth of feeling.",
+    "Difficulty naming emotions is largely learned through socialization, not innate, and can be developed with practice.",
+    "Processing through action — exercise, work, fixing a problem — is a real coping style that can genuinely help regulate feelings.",
+    "The internal route is gradual, so a man may need solitude to sort out what he feels before he can put it into words.",
+    "Suppressing outward expression does little to resolve the underlying feeling; balancing internal work with some spoken sharing tends to be healthier.",
+    "These are averages with heavy overlap; personality and upbringing shape emotional style at least as much as gender does."
   ],
   "lastReviewed": "2026-06"
 }

@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A partner comes home frustrated about work. Instead of immediately proposing fixes, a man practicing empathy might ask what the day was like and simply reflect back what he hears — 'that sounds exhausting.' The shift from solving to understanding often changes how heard the other person feels.",
     "In a disagreement, deliberately restating the other person's point before responding — 'so from where you sit, it looked like I dismissed you' — is perspective-taking in action. It slows the exchange and tends to lower defensiveness on both sides.",
-    "A father notices his child is quiet rather than misbehaving and gets curious about what might be underneath it. Choosing curiosity over correction is a small, repeatable way empathy grows through everyday practice."
+    "A father notices his child is quiet rather than misbehaving and gets curious about what might be underneath it. Choosing curiosity over correction is a small, repeatable way empathy grows through everyday practice.",
+    "A man whose friend keeps declining plans could read it as a slight, or could ask instead — 'you've seemed swamped lately, everything okay?' Trading the assumption for a genuine question is perspective-taking that often surfaces what a friend was quietly carrying."
   ],
   "whatPeopleGetWrong": [
     "A persistent myth is that men are simply less empathic by nature. The research is more nuanced: measured differences are modest and depend heavily on how empathy is assessed — self-report shows larger gaps than performance-based measures, suggesting that expectations and self-image play a real role. Framing empathy as something men cannot do can become self-fulfilling.",
@@ -72,6 +73,42 @@
     "how-men-can-build-emotional-intelligence",
     "why-listening-matters-more-than-advice",
     "the-psychology-of-empathy"
+  ],
+  "quickTake": "Empathy is several skills, not one fixed trait — and the most developable parts, perspective-taking and attunement, respond to practice at any age. For many men the biggest shift is pausing the urge to fix and staying present long enough for someone to feel heard.",
+  "pullQuote": "Partners often report that being genuinely heard matters more than being helped — which reframes what support is supposed to look like.",
+  "keyStats": [
+    {
+      "value": "Several skills",
+      "label": "The Interpersonal Reactivity Index distinguishes perspective-taking, empathic concern, and personal distress — the cognitive parts respond to intention and practice.",
+      "source": "Davis (1983)"
+    },
+    {
+      "value": "Self-report vs. performance",
+      "label": "Measured gender gaps in empathy are larger on self-report than on performance-based tests, pointing to self-image and motivation over fixed capacity.",
+      "source": "Hyde (2005) similarities hypothesis; empathy measurement research"
+    },
+    {
+      "value": "A trainable ability",
+      "label": "Emotional intelligence models treat reading and responding to feelings as a competence that develops rather than a talent one simply has or lacks.",
+      "source": "Mayer & Salovey (1997)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Default response to a struggle", "men": "More likely to reach first for a solution", "women": "More likely to reach first for understanding" },
+      { "aspect": "Self-reported empathy", "men": "Tends to score somewhat lower", "women": "Tends to score somewhat higher" },
+      { "aspect": "Performance-based empathy", "men": "Gap narrows sharply once motivated", "women": "Gap narrows sharply once motivated" },
+      { "aspect": "Room to grow", "men": "Same machinery, often less rehearsed", "women": "Same machinery, often more rehearsed" }
+    ]
+  },
+  "keyTakeaways": [
+    "Empathy is a set of skills — especially perspective-taking and attunement — that can be strengthened at any age.",
+    "The single biggest shift for many men is pausing the urge to fix and attuning first, since people usually need to feel heard before they want advice.",
+    "Measured gender gaps are modest and shrink on performance-based tests, suggesting self-image and motivation matter more than fixed capacity.",
+    "Healthy empathy means understanding someone while staying grounded in yourself — it's compatible with disagreement and boundaries.",
+    "Because feeling understood is central to intimacy, growing empathy is one of the higher-leverage things a man can do for his relationships.",
+    "Noticing and regulating your own feelings supports empathy — it's hard to attune to others while flooded or shut down."
   ],
   "lastReviewed": "2026-06"
 }

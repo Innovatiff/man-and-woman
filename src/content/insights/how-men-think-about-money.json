@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A man who loses a job may withdraw or become irritable well beyond the practical problem, because the setback feels like evidence that he is failing at something central to who he is meant to be.",
     "Some men take on financial risk — a venture, an investment, a big purchase — partly to feel capable and to earn standing, and can struggle to walk away even when the numbers argue against it.",
-    "Reluctance to discuss money troubles with a partner is common. For a man who equates providing with worth, admitting financial strain can feel like admitting personal inadequacy, so silence can seem safer than honesty."
+    "Reluctance to discuss money troubles with a partner is common. For a man who equates providing with worth, admitting financial strain can feel like admitting personal inadequacy, so silence can seem safer than honesty.",
+    "A man whose partner out-earns him may feel a low, hard-to-name discomfort even when he intellectually welcomes the household's stronger finances — not because he resents her success, but because a script he absorbed young quietly equates 'provider' with 'worthy,' and the mismatch pokes at it."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that men are naturally more money-driven or better with finances. The evidence points more toward socialization: many men are taught to link identity to earning, which shapes behavior far more than any innate financial instinct does.",
@@ -72,6 +73,42 @@
     "the-male-ego-explained",
     "what-drives-male-behavior",
     "how-men-think-under-pressure"
+  ],
+  "quickTake": "For many men, money is tangled up with identity — proof of being a capable provider. That can make a layoff feel like a verdict on their worth and a raise feel like validation. Most of this is learned, not innate, and attitudes vary enormously.",
+  "pullQuote": "For men who tie identity to earning, a raise or a layoff can feel like a verdict on their value as a person.",
+  "keyStats": [
+    {
+      "value": "37 cultures",
+      "label": "In a large cross-cultural study, women weighted resources and earning capacity somewhat more heavily, while men weighted physical attractiveness more — framed as average tendencies, not rules.",
+      "source": "Buss (1989)"
+    },
+    {
+      "value": "Stake domain",
+      "label": "When self-worth is staked on a domain like being a provider, outcomes there swing esteem sharply — which is why money can feel so loaded.",
+      "source": "Crocker & Wolfe (2001)"
+    },
+    {
+      "value": "Small effect",
+      "label": "Most measured psychological gender differences are small or near zero; ambition and money attitudes vary at least as much within each sex as between them.",
+      "source": "Hyde (2005), review of 46 meta-analyses"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Link between money and identity", "men": "Often socialized to tie worth to providing", "women": "Varies widely; many also stake self-worth on earning" },
+      { "aspect": "Reaction to a setback", "men": "Can feel like a personal verdict, not just a problem", "women": "Also stressful; sometimes framed less around 'provider' identity" },
+      { "aspect": "Talking about money trouble", "men": "May stay silent to avoid feeling inadequate", "women": "Also hard, but sometimes more open to discussing strain" },
+      { "aspect": "Status and comparison", "men": "May feel pressure to signal standing to peers", "women": "Also subject to comparison, often around different markers" }
+    ]
+  },
+  "keyTakeaways": [
+    "For many men, money is bound up with identity as a capable provider, so finances carry emotional weight beyond the practical.",
+    "When self-worth is staked on earning, a setback can feel like a verdict on personal value rather than a solvable problem.",
+    "Financial anxiety is often closer to insecurity about a role than to greed or love of wealth for its own sake.",
+    "There is little evidence men are naturally better with money; the pattern reflects socialization and opportunity more than innate skill.",
+    "Framing money talk around shared goals rather than personal adequacy lowers defensiveness and makes honesty easier.",
+    "These are averages with heavy overlap — upbringing, culture, and personal history predict money attitudes better than gender."
   ],
   "lastReviewed": "2026-06"
 }

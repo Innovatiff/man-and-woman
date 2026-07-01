@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "When a partner describes a hard day, a man's instinct may be to propose solutions. Pausing to reflect back what he heard — 'that sounds really draining' — before problem-solving often lands as far more present, because it signals he is tracking the feeling, not just the facts.",
     "Putting the phone down and giving full attention during a conversation is a small act, but it directly raises perceived responsiveness. Many partners report that undivided attention matters more to them than eloquence or the perfect words.",
-    "A man who learns to say 'I'm feeling overwhelmed and need a few minutes' rather than going silent gives his partner something to work with. Naming the internal state, even briefly, keeps him present in the relationship instead of disappearing into it."
+    "A man who learns to say 'I'm feeling overwhelmed and need a few minutes' rather than going silent gives his partner something to work with. Naming the internal state, even briefly, keeps him present in the relationship instead of disappearing into it.",
+    "During a partner's difficult story, a small check-in like 'do you want me to just listen, or would help be useful?' signals attunement and prevents the common mismatch of offering solutions when what was wanted was to be heard. The question itself is an act of presence."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that emotional presence requires becoming highly expressive or talking about feelings constantly. The research points more toward responsive attention — listening well and reflecting understanding — than toward volume of emotional talk. Quiet attentiveness often conveys more presence than fluent words.",
@@ -72,6 +73,42 @@
     "how-men-can-build-emotional-intelligence",
     "why-listening-matters-more-than-advice",
     "the-importance-of-emotional-attunement"
+  ],
+  "quickTake": "Emotional presence is less about big expression than steady attention: listening so a partner feels heard, noticing and naming feelings, and staying engaged instead of shutting down. Research frames these as learnable skills, so small shifts toward attunement go a long way.",
+  "pullQuote": "Presence is something you do in the moment, not a personality you either have or lack.",
+  "keyStats": [
+    {
+      "value": "Learnable skills",
+      "label": "Emotional intelligence is defined as a set of teachable abilities — perceiving, using, understanding, and managing emotions — not fixed traits.",
+      "source": "Mayer & Salovey (1997)"
+    },
+    {
+      "value": "Perceived responsiveness",
+      "label": "Intimacy grows through a disclosure-and-response loop; the core variable is whether the other person feels genuinely heard.",
+      "source": "Reis & Shaver (1988)"
+    },
+    {
+      "value": "Suppression backfires",
+      "label": "Habitually suppressing emotion dampens outward expression and can leave the suppressor feeling less connected — reading as absence to a partner.",
+      "source": "Gross & John (2003)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Default in emotional moments", "men": "Somewhat more likely to move to problem-solving first", "women": "Somewhat more likely to seek understanding first" },
+      { "aspect": "Emotional vocabulary", "men": "May have a narrower working vocabulary, on average", "women": "Often practiced at naming feelings in real time" },
+      { "aspect": "Under stress", "men": "More likely to suppress and go quiet", "women": "More likely to talk through the feeling" },
+      { "aspect": "Path to more presence", "men": "Add a step: acknowledge the feeling before fixing", "women": "Varies by person; overlap is large" }
+    ]
+  },
+  "keyTakeaways": [
+    "Emotional presence is mainly responsive attention — listening so a partner feels understood — not constant emotional talk.",
+    "Emotional intelligence is a learnable set of skills, so presence can grow with practice from any starting point.",
+    "Intimacy hinges on perceived responsiveness: whether the other person feels genuinely heard in the moment.",
+    "A man who jumps to solutions usually cares; the fix is adding a step, not caring less.",
+    "Habitual suppression can read as absence even when care is present, so briefly naming your state helps.",
+    "The aim is genuine attunement in your own style, not performing someone else's level of expressiveness."
   ],
   "lastReviewed": "2026-06"
 }

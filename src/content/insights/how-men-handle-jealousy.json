@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A man who goes quiet and cold when his partner mentions a coworker may be feeling threatened but unable to name it. The withdrawal can read as sulking, when underneath is often an unspoken fear about where he stands.",
     "Checking a partner's phone, asking pointed questions, or trying to limit who they see are attempts to manage anxiety through control. They tend to backfire — eroding trust and signaling insecurity — even when the underlying wish is simply to feel secure in the bond.",
-    "A more secure response looks different: naming the feeling directly — 'I felt a bit jealous and I'm not sure why' — which opens a conversation rather than a confrontation. The same emotion, voiced instead of enacted, can actually bring a couple closer."
+    "A more secure response looks different: naming the feeling directly — 'I felt a bit jealous and I'm not sure why' — which opens a conversation rather than a confrontation. The same emotion, voiced instead of enacted, can actually bring a couple closer.",
+    "A partner who starts double-checking texts, timing how long an errand takes, or asking 'who was that?' after every notification is usually managing anxiety, not gathering evidence. The monitoring rarely reassures for long, because the doubt it springs from is about his own place, not the facts it collects."
   ],
   "whatPeopleGetWrong": [
     "A common error is treating jealousy itself as proof of love or, conversely, as automatic evidence of a problem. The emotion is ordinary; what distinguishes healthy from harmful is the response. Voiced and used to reconnect, it can be workable; enacted as monitoring and control, it corrodes trust.",
@@ -72,6 +73,42 @@
     "how-to-deal-with-jealousy",
     "the-psychology-of-control-in-relationships",
     "understanding-insecurity"
+  ],
+  "quickTake": "Jealousy is a normal alarm about a valued bond feeling at risk, not a flaw. Men and women feel it at broadly similar rates. What matters is the response: voiced to reconnect it can help, but turned into monitoring and control it corrodes the very trust it tries to protect.",
+  "pullQuote": "The same emotion, voiced instead of enacted, can bring a couple closer — jealousy is a signal to communicate, not a mandate to monitor.",
+  "keyStats": [
+    {
+      "value": "Debated & modest",
+      "label": "The classic finding that men skew toward distress over sexual infidelity and women over emotional infidelity is a small average difference that is genuinely contested in the literature.",
+      "source": "Buss, Larsen, Westen & Semmelroth (1992)"
+    },
+    {
+      "value": "Both sexes",
+      "label": "Men and women report feeling jealousy at broadly similar rates; attachment insecurity, not gender, best predicts how intensely and destructively it is felt.",
+      "source": "Mikulincer & Shaver (2007)"
+    },
+    {
+      "value": "Small effect",
+      "label": "Most measured psychological gender differences are small or near zero, so the sexes overlap far more than they differ on how they handle jealousy.",
+      "source": "Hyde (2005)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Where distress often lands", "men": "On average, a slight lean toward sexual infidelity (debated)", "women": "On average, a slight lean toward emotional infidelity (debated)" },
+      { "aspect": "How it tends to show", "men": "More often converted into action, withdrawal, or anger", "women": "More often voiced or expressed as reassurance-seeking" },
+      { "aspect": "What amplifies it", "men": "Doubt about being valued and secure in one's place", "women": "Doubt about being valued and secure in one's place" },
+      { "aspect": "What defuses it", "men": "Naming the feeling and honest reassurance", "women": "Naming the feeling and honest reassurance" }
+    ]
+  },
+  "keyTakeaways": [
+    "Jealousy is an ordinary threat response tied to attachment, not proof of a flaw or, by itself, proof of love.",
+    "Men and women feel it at broadly similar rates; the much-cited sex difference in emphasis is modest and contested.",
+    "Controlling, possessive jealousy tracks insecurity about being valued far more than the depth of the bond.",
+    "The healthy move is to treat jealousy as a signal to communicate rather than a mandate to monitor.",
+    "Steady reassurance and transparency defuse jealousy better than either partner policing the other.",
+    "Attachment style and self-worth predict how jealousy is felt and expressed better than gender does."
   ],
   "lastReviewed": "2026-06"
 }

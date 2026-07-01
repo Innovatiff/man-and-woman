@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A man who initiates physical closeness after a stressful day may be reaching for reassurance and connection as much as for sex itself — a way of asking, without words, whether things between him and his partner are still okay. Read only at face value, this can be misunderstood as poor timing rather than an attempt to reconnect.",
     "Many men report that feeling genuinely wanted by their partner does more for the relationship than the act alone. Enthusiasm and warmth tend to land as acceptance of the whole person, while routine or obligatory closeness can quietly register as distance, even when nothing is said.",
-    "Some men struggle to voice emotional needs directly and instead express longing for closeness through physical initiation. When a partner learns to hear the bid for connection underneath, it often defuses a recurring source of friction."
+    "Some men struggle to voice emotional needs directly and instead express longing for closeness through physical initiation. When a partner learns to hear the bid for connection underneath, it often defuses a recurring source of friction.",
+    "A man whose desire drops during a stretch of poor sleep, heavy work, or low mood may quietly assume something is wrong with him, because the stereotype tells him men are supposed to always want it. Naming that desire fluctuates with health and stress often brings visible relief, replacing shame with a problem he can actually talk about."
   ],
   "whatPeopleGetWrong": [
     "The biggest misconception is that men experience sex as purely physical and emotionally detached. Research on the reasons people have sex finds men frequently cite love, closeness, and connection, and clinical experience suggests sex is often where guarded men feel safest being vulnerable. Treating male desire as shallow misses how much emotional meaning it can carry.",
@@ -72,6 +73,42 @@
     "why-men-struggle-to-open-up",
     "how-women-think-about-sex-and-intimacy",
     "how-men-fall-in-love"
+  ],
+  "quickTake": "On average men report somewhat more frequent desire, but it's a difference of degree with heavy overlap, not of kind. For many men sex is closely tied to emotional closeness, feeling wanted, and validation — intimacy and desire reinforce each other.",
+  "pullQuote": "It is not always 'just physical' even when it is described that way — for many guarded men, sex is where they feel safest being vulnerable.",
+  "keyStats": [
+    {
+      "value": "Higher on average",
+      "label": "Reviewing many indicators of sexual motivation, men reported higher average frequency and intensity of desire than women — framed as a population tendency with wide within-sex variation.",
+      "source": "Baumeister, Catanese & Vohs (2001)"
+    },
+    {
+      "value": "Hundreds of reasons",
+      "label": "A study cataloguing why people have sex found men and women overlapped heavily, both frequently citing love and emotional closeness, not just physical release.",
+      "source": "Meston & Buss (2007)"
+    },
+    {
+      "value": "Small effect",
+      "label": "Most measured psychological gender differences are small or near zero; individual variation dwarfs the average gap in desire.",
+      "source": "Hyde (2005), review of 46 meta-analyses"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Reported desire frequency", "men": "Somewhat higher on average", "women": "Somewhat lower on average, with wide overlap" },
+      { "aspect": "Link between sex and closeness", "men": "Often a key channel for vulnerability and reassurance", "women": "Also emotionally driven; sometimes more verbally expressed" },
+      { "aspect": "What feeling desired signals", "men": "Validation, respect, acceptance of the whole person", "women": "Also validating; closeness and safety often emphasized" },
+      { "aspect": "Range across individuals", "men": "Large — many report lower desire than partners", "women": "Large — many report higher desire than partners" }
+    ]
+  },
+  "keyTakeaways": [
+    "Men report somewhat higher average desire, but it's a difference of degree with heavy overlap, not a difference of kind.",
+    "For many men sex and emotional closeness are intertwined; physical intimacy can be a primary route to vulnerability and reassurance.",
+    "Feeling genuinely wanted often matters as much as the act — it can register as acceptance of the whole person.",
+    "The stereotype of relentless, purely physical appetite is a caricature that erases men with lower desire and can make them ashamed to talk.",
+    "Desire fluctuates with stress, health, age, and relationship quality, so mismatches are best treated as a shared puzzle, not anyone's failing.",
+    "These are population averages with large overlap — attachment style and relationship quality predict experience better than gender."
   ],
   "lastReviewed": "2026-06"
 }

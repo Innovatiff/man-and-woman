@@ -74,5 +74,41 @@
     "the-psychology-of-self-worth",
     "why-comparison-undermines-happiness"
   ],
+  "quickTake": "Insecurity in men often comes not from lacking ability but from tying self-worth to shifting external markers like status and comparison. Three shifts tend to help: building confidence through mastery, treating yourself with self-compassion, and loosening the grip of comparison.",
+  "pullQuote": "Durable confidence tends to grow from doing hard things and seeing yourself cope — not from pep talks or reassurance.",
+  "keyStats": [
+    {
+      "value": "Mastery builds it",
+      "label": "Belief in your ability to handle a challenge is built most reliably through mastery experiences — succeeding at manageable difficulties — rather than reassurance.",
+      "source": "Bandura (1977)"
+    },
+    {
+      "value": "Contingent self-worth",
+      "label": "When self-esteem is staked on external outcomes like winning or approval, it becomes fragile and reactive, rising and falling with each result.",
+      "source": "Crocker & Wolfe (2001)"
+    },
+    {
+      "value": "Self-criticism backfires",
+      "label": "Harsh self-criticism tends to increase anxiety and avoidance, while self-kindness supports resilience and follow-through.",
+      "source": "Neff (2003)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Where worth gets staked", "men": "More often on status, achievement, self-reliance", "women": "More often on appearance and relationships, on average" },
+      { "aspect": "How insecurity surfaces", "men": "Often jealousy, defensiveness, or withdrawal", "women": "Often reassurance-seeking or self-doubt, on average" },
+      { "aspect": "Response to setbacks", "men": "More often harsh self-criticism framed as motivation", "women": "Varies; self-criticism also common" },
+      { "aspect": "Underlying self-doubt", "men": "Comparable levels", "women": "Comparable levels" }
+    ]
+  },
+  "keyTakeaways": [
+    "Insecurity often stems from tying self-worth to shifting external markers — status, achievement, comparison — not from a lack of ability.",
+    "Confidence is built through mastery experiences and practice, not a fixed trait some men have and others lack.",
+    "Harsh self-criticism tends to increase anxiety and avoidance; self-compassion supports resilience without lowering standards.",
+    "Chronic upward comparison — especially against curated highlight reels — is a common engine of insecurity worth interrupting.",
+    "Steadier self-worth eases jealousy and defensiveness, and frees a partner from being the sole source of confidence.",
+    "Insecurity is broadly human; history and temperament shape it more than gender, and severe cases warrant professional support."
+  ],
   "lastReviewed": "2026-06"
 }

@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A man deeply in love may still feel 'not ready' to marry, weighing whether he has built enough stability or grown into the role — a sign that for him, readiness and love are related but not identical.",
     "Some men become notably more committed after milestones that deepen investment — moving in, buying something together, weathering a hard season — as the shared life itself makes the bond feel more settled and permanent.",
-    "A man who values his independence may approach marriage cautiously not because he loves less, but because the identity shift toward shared decision-making feels significant and he wants to be sure before making it."
+    "A man who values his independence may approach marriage cautiously not because he loves less, but because the identity shift toward shared decision-making feels significant and he wants to be sure before making it.",
+    "A man who once described marriage as 'a long way off' may start talking about it in concrete terms only after a shared crisis — a health scare, a job loss, a move — reveals how much he already relies on the partnership, as if the event quietly settled a question he had been circling for a while."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that a man's hesitation about marriage means he does not love his partner. Often it reflects how heavily he weighs the identity shift and readiness, not the depth of his feelings. Love and a sense of being ready are related but separate.",
@@ -72,6 +73,42 @@
     "what-men-want-in-a-marriage",
     "why-we-fear-commitment",
     "how-men-think-about-love"
+  ],
+  "quickTake": "For many men, marriage is less a single feeling than an identity shift they grow into. Commitment tends to deepen as shared investment builds, so readiness often matters as much as love — and it varies hugely by person.",
+  "pullQuote": "For many men, deciding to marry is less a single feeling than a sense that they are 'all in' after building enough together to make leaving costly.",
+  "keyStats": [
+    {
+      "value": "Investment model",
+      "label": "Commitment grows with satisfaction, poorer alternatives, and accumulated investment — shared history, plans, and resources.",
+      "source": "Rusbult (1980)"
+    },
+    {
+      "value": "Friendship first",
+      "label": "What makes marriage work for husbands and wives is deep friendship and manageable conflict, not the intensity of early romance.",
+      "source": "Gottman & Silver (1999)"
+    },
+    {
+      "value": "Small effect",
+      "label": "Most measured psychological gender differences are small or near zero — men and women overlap far more than they differ.",
+      "source": "Hyde (2005), review of 46 meta-analyses"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "What marriage tends to represent", "men": "Often felt as an identity shift toward shared life", "women": "Also a major step, sometimes framed more around the relationship itself" },
+      { "aspect": "How readiness builds", "men": "Frequently gradual, tracking accumulated investment", "women": "Also builds over time, sometimes with clearer internal timelines" },
+      { "aspect": "Main hesitation", "men": "Loss of autonomy and 'am I ready?'", "women": "Whether the partnership feels durable and secure" },
+      { "aspect": "What signals readiness", "men": "Feeling settled in life plus a durable partnership", "women": "Deep friendship, security, and shared direction" }
+    ]
+  },
+  "keyTakeaways": [
+    "For many men, marriage reads as an identity shift from independence toward a shared life, which can make the decision feel weighty even in a strong relationship.",
+    "Commitment tends to track investment — shared history, plans, and resources make staying feel more natural over time.",
+    "Readiness and love are related but not identical; 'not ready now' is not always 'not ever.'",
+    "Attachment style shapes the pace: security supports steady movement, avoidance emphasizes lost autonomy, anxiety makes securing the bond feel urgent.",
+    "These are averages with large overlap — individual history and culture predict a man's view of marriage better than gender does.",
+    "Conversations about shared goals move readiness along better than pressure, which can make the change feel threatening rather than chosen."
   ],
   "lastReviewed": "2026-06"
 }

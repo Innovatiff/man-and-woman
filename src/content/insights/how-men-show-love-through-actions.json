@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A man who rarely says 'I love you' may show it by keeping a partner's car maintained, handling stressful tasks so they do not have to, or quietly taking on burdens. These acts are easy to overlook by someone waiting for the feeling to be spoken, but they often carry the weight of a declaration.",
     "Long-term planning is frequently a love signal: saving money, making space in his life, or organizing things around the relationship's future. The romance is in the logistics, which can be missed by a partner who reads care mainly through words and affection.",
-    "Showing up consistently — being there when it matters, following through on commitments, being reachable in a crisis — is a common way men communicate devotion. Reliability itself becomes the message: I am steady, you can count on me."
+    "Showing up consistently — being there when it matters, following through on commitments, being reachable in a crisis — is a common way men communicate devotion. Reliability itself becomes the message: I am steady, you can count on me.",
+    "A partner mentions offhand that her commute has been stressful, and the next week he has quietly researched a better route, filled her gas tank, or checked her tires — turning toward a small bid for care with a concrete fix rather than a spoken reassurance."
   ],
   "whatPeopleGetWrong": [
     "The biggest misconception is that a man who does not say loving words does not feel deeply. Research on expression suggests the feeling is often fully present; what differs, on average, is the channel. Mistaking quiet, action-based love for emotional shallowness misreads many men entirely.",
@@ -73,6 +74,42 @@
     "why-men-crave-appreciation",
     "how-men-handle-emotions",
     "why-women-value-consistency-over-grand-gestures"
+  ],
+  "quickTake": "Many men express love through what they do — showing up, fixing problems, providing, planning — more than through spoken words. This is shaped largely by socialization, not by feeling less. The healthiest pattern blends action with spoken warmth.",
+  "pullQuote": "For many men the truest way to say 'you matter to me' is to quietly handle something for you — the romance is often in the logistics.",
+  "keyStats": [
+    {
+      "value": "Turning toward",
+      "label": "Small, frequent acts of responding to a partner's bids for attention predict relationship stability more than grand romantic gestures.",
+      "source": "Gottman & Silver (1999)"
+    },
+    {
+      "value": "Weak support",
+      "label": "The popular 'five love languages' framework has only weak empirical support, though the broader idea that people express care in different styles is better established.",
+      "source": "reviews of Chapman's model"
+    },
+    {
+      "value": "78%",
+      "label": "Of measured psychological gender differences are small or close to zero — action-based love is an average tendency with heavy overlap, not a male trait.",
+      "source": "Hyde (2005), review of 46 meta-analyses"
+    }
+  ],
+  "comparison": {
+    "title": "Expressing love: average tendencies",
+    "rows": [
+      { "aspect": "Primary channel", "men": "Often actions — doing, fixing, providing", "women": "Often words and shared emotional expression" },
+      { "aspect": "Emotional risk", "men": "Action feels safer than voicing tender words", "women": "More practiced with verbal vulnerability" },
+      { "aspect": "Signal of devotion", "men": "Reliability, follow-through, future planning", "women": "Affection, verbal warmth, quality time" },
+      { "aspect": "What deepens investment", "men": "Feeling appreciated and useful", "women": "Feeling appreciated and understood" }
+    ]
+  },
+  "keyTakeaways": [
+    "Many men channel love into behavior — reliability, provision, problem-solving — more than into spoken declarations.",
+    "This is largely learned through socialization, not a sign of feeling less; the depth is usually fully there.",
+    "Small, consistent acts of 'turning toward' a partner predict lasting relationships more than grand gestures do.",
+    "The 'five love languages' model is only weakly supported, though people clearly do express and receive care in different styles.",
+    "Action and words are not opposites — many partners genuinely need verbal affection, and the healthiest pattern includes both.",
+    "These are averages with large overlap; plenty of women lead with acts and plenty of men are highly verbal."
   ],
   "lastReviewed": "2026-06"
 }

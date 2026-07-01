@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A couple stuck in routine takes up a new activity together — a class, travel, a shared project — and finds some of the old spark returning. The novelty gives them fresh experiences to associate with each other, echoing the self-expansion effect.",
     "One partner starts regularly voicing specific appreciation instead of only noticing what goes wrong, and the emotional climate warms as gratitude prompts more mutual investment over time.",
-    "Two people who had drifted begin paying attention to each other's small bids again — looking up when the other speaks, asking follow-up questions, responding to a touch — and closeness gradually rebuilds through these everyday moments rather than one grand gesture."
+    "Two people who had drifted begin paying attention to each other's small bids again — looking up when the other speaks, asking follow-up questions, responding to a touch — and closeness gradually rebuilds through these everyday moments rather than one grand gesture.",
+    "A couple worn down by the logistics of young kids sets aside a short standing time each week — a walk, coffee after bedtime — to talk about anything other than the household. The protected ritual slowly reopens a channel that busyness had quietly closed."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that fading intensity means love is gone and the relationship is over. Research suggests routine and inattention dull closeness in ways that are often reversible, and that many couples who feel they have fallen out of love have really fallen into neglect that can be addressed.",
@@ -72,6 +73,42 @@
     "how-couples-grow-apart",
     "what-makes-someone-fall-out-of-love",
     "how-shared-experiences-deepen-love"
+  ],
+  "quickTake": "Couples often can rekindle closeness — because fading feelings usually come from routine and inattention, not a real loss of love. Shared novelty, expressed gratitude, and turning toward each other's small bids tend to rebuild warmth, though deeper wounds may need more.",
+  "pullQuote": "Many couples who feel they have fallen out of love have really fallen into neglect — and neglect can be addressed.",
+  "keyStats": [
+    {
+      "value": "Higher quality",
+      "label": "Couples who engaged in novel, exciting shared activities reported greater relationship quality than those doing pleasant but routine ones.",
+      "source": "Aron et al. (2000)"
+    },
+    {
+      "value": "Self-reinforcing",
+      "label": "Feeling and expressing gratitude predicted greater relationship maintenance and responsiveness over time, in a cycle that builds on itself.",
+      "source": "Gordon et al. (2012)"
+    },
+    {
+      "value": "Everyday bids",
+      "label": "Consistently 'turning toward' a partner's small bids for connection, rather than grand gestures, predicts stability and closeness.",
+      "source": "Gottman (2011)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Response to shared novelty", "men": "Reconnects through new experiences", "women": "Reconnects through new experiences" },
+      { "aspect": "Response to expressed gratitude", "men": "Feels valued, invests more in return", "women": "Feels valued, invests more in return" },
+      { "aspect": "Turning toward small bids", "men": "Builds closeness over time", "women": "Builds closeness over time" },
+      { "aspect": "What one person can start", "men": "Can begin a positive cycle", "women": "Can begin a positive cycle" }
+    ]
+  },
+  "keyTakeaways": [
+    "Fading intensity often reflects routine and neglect, not lost love — and neglect is frequently reversible.",
+    "Shared novelty, expressed gratitude, and turning toward each other's small bids are the best-supported ways to rebuild closeness.",
+    "Reconnection tends to come from consistent small actions over time, not a single dramatic gesture.",
+    "These practices are broadly human — they help men and women in similar ways.",
+    "Even one partner shifting toward gratitude and responsiveness can start a positive cycle.",
+    "Rekindling works best when the foundation is sound; betrayal or contempt usually needs deeper repair."
   ],
   "lastReviewed": "2026-06"
 }

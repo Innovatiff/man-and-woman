@@ -74,5 +74,41 @@
     "why-men-fear-vulnerability",
     "how-to-stop-suppressing-your-emotions"
   ],
+  "quickTake": "Many men find opening up hard not because they feel less, but because socialization discouraged naming and sharing feelings. It tends to get easier through concrete steps — building emotional vocabulary, starting with safe relationships, and even writing things down.",
+  "pullQuote": "Quiet is not the same as empty: the more common pattern is difficulty accessing and naming feelings, not their absence.",
+  "keyStats": [
+    {
+      "value": "Learned, not fixed",
+      "label": "Normative male alexithymia — difficulty identifying and describing emotions — is framed as shaped by socialization and able to be unlearned, not a fixed incapacity to feel.",
+      "source": "Levant et al. (2009)"
+    },
+    {
+      "value": "Writing helps",
+      "label": "Writing about emotional experiences across a few sessions was associated with measurable benefits to well-being and even physical health markers — a lower-stakes entry point than talking.",
+      "source": "Pennebaker (1997)"
+    },
+    {
+      "value": "Suppression costs",
+      "label": "Habitually pushing feelings down is linked with less positive emotion and, in some findings, weaker social connection, because hiding feelings keeps others at a distance.",
+      "source": "Gross & John (2003)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Access to feelings", "men": "More often underdeveloped language for naming them", "women": "More often practiced at identifying and labeling" },
+      { "aspect": "Perceived risk of disclosure", "men": "Often higher — vulnerability framed as risking respect", "women": "Often lower, though far from universal" },
+      { "aspect": "Comfortable entry point", "men": "May prefer writing or low-stakes moments first", "women": "May more readily start with conversation" },
+      { "aspect": "Depth of emotion felt", "men": "Comparable", "women": "Comparable" }
+    ]
+  },
+  "keyTakeaways": [
+    "Men who don't express emotions usually still have them — the common gap is in accessing and naming feelings, not feeling them.",
+    "Normative male alexithymia is framed as learned and able to be unlearned, not a fixed incapacity.",
+    "Translating experience into language — spoken or written — helps process emotion; expressive writing is a low-stakes start.",
+    "Opening up grows where it's met with understanding and shuts down where it's met with judgment, so relational safety matters.",
+    "Start small — naming a feeling to one trusted person in a low-stakes moment — rather than waiting for a crisis.",
+    "Reserve isn't a defect; the goal is expanded access to and language for emotion, and freedom to share it where it's safe."
+  ],
   "lastReviewed": "2026-06"
 }

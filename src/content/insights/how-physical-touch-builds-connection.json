@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A couple who hold hands on a walk or sit close on the sofa are often doing quiet maintenance work on their bond — small, repeated moments of contact that accumulate into a felt sense of closeness, even when little is said.",
     "After an argument, a partner who reaches out for a hug before the issue is fully resolved is frequently signaling that the connection is still intact. For many people, that physical reassurance lands faster than a verbal apology, helping to de-escalate before talking it through.",
-    "People differ widely in how much touch they want. One partner may feel most loved through physical affection while the other feels overwhelmed by it, which can create friction that has nothing to do with how much they care — and a lot to do with differing comfort and history around touch."
+    "People differ widely in how much touch they want. One partner may feel most loved through physical affection while the other feels overwhelmed by it, which can create friction that has nothing to do with how much they care — and a lot to do with differing comfort and history around touch.",
+    "A partner who greets the other with a brief hug or a hand on the shoulder each morning and evening is quietly building a rhythm of contact. These bookend moments, repeated daily, tend to register as steady reassurance even during weeks when the couple is too busy to talk much."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that physical affection can substitute for emotional connection. Touch tends to deepen a bond that already has trust and emotional safety, but on its own it rarely fixes distance, resentment, or unresolved conflict. When the emotional foundation is shaky, more physical contact alone usually does not repair it.",
@@ -72,6 +73,42 @@
     "the-five-love-languages-what-research-says",
     "how-to-keep-the-spark-alive",
     "the-psychology-of-emotional-intimacy"
+  ],
+  "quickTake": "Warm, wanted touch is one of the more reliable ways couples stay close — it calms the body, engages bonding chemistry like oxytocin, and communicates care words often can't. It deepens an existing bond rather than creating one, and how much people want it varies a lot.",
+  "pullQuote": "Touch does not create a connection on its own, but for many couples it deepens one that already exists.",
+  "keyStats": [
+    {
+      "value": "Lower stress",
+      "label": "Reviews link affectionate touch to reduced stress hormones, less perceived pain, and a calmer nervous system.",
+      "source": "Field (2010), review of touch research"
+    },
+    {
+      "value": "Oxytocin",
+      "label": "Warm physical contact is woven into the body's bonding systems, helping partners synchronize physiologically and emotionally.",
+      "source": "Feldman (2017)"
+    },
+    {
+      "value": "Both sexes",
+      "label": "How much someone values touch varies far more between individuals than between men and women — the sexes overlap heavily.",
+      "source": "Hyde (2005), gender similarities hypothesis"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Appetite for affectionate touch", "men": "Wide range; overlaps heavily with women", "women": "Wide range; overlaps heavily with men" },
+      { "aspect": "What shapes the need for touch", "men": "Individual history, attachment style, comfort", "women": "Individual history, attachment style, comfort" },
+      { "aspect": "How touch is often used", "men": "May lean on it as a channel for closeness", "women": "May pair it more readily with verbal expression" },
+      { "aspect": "Response to unwanted touch", "men": "Feels intrusive without safety and consent", "women": "Feels intrusive without safety and consent" }
+    ]
+  },
+  "keyTakeaways": [
+    "Welcome, affectionate touch is linked to lower stress, a calmer nervous system, and bonding-related chemistry like oxytocin.",
+    "Touch deepens a bond that already has trust and safety; on its own it rarely fixes distance or resentment.",
+    "Small, regular moments of contact tend to do more for closeness than occasional grand gestures.",
+    "Consent, context, and attunement matter more than sheer frequency — unwanted touch does the opposite of bonding.",
+    "How much someone wants touch varies far more between individuals than between the sexes, despite the stereotypes.",
+    "Differing needs for touch usually reflect comfort and history, not differing levels of love."
   ],
   "lastReviewed": "2026-06"
 }

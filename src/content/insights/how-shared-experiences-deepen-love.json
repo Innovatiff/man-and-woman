@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A couple who takes a cooking class, travels somewhere unfamiliar, or learns a sport together often reports feeling reconnected afterward — not because the activity itself was romantic, but because doing something new side by side refreshed the sense of growth and discovery between them.",
     "Long-term partners who feel a bit stale sometimes find that swapping one more night of television for a genuinely novel outing reliably lifts the mood between them. The research suggests it's the novelty and engagement, more than the expense or grandeur, that does the work.",
-    "Even structured conversation can count as a shared experience that deepens connection. Couples who set aside time for honest, progressively personal questions — rather than only logistics — often report feeling notably closer, echoing the closeness-generating studies."
+    "Even structured conversation can count as a shared experience that deepens connection. Couples who set aside time for honest, progressively personal questions — rather than only logistics — often report feeling notably closer, echoing the closeness-generating studies.",
+    "A couple who tackle a genuinely unfamiliar challenge together — assembling flat-pack furniture in a new home, navigating a foreign city without a plan, learning to dance — often laugh about the fumbling afterward and feel oddly bonded by it. The mild difficulty and novelty, shared side by side, tend to get remembered as excitement about each other."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that simply spending more time together is enough to keep love strong. The research points more specifically to shared novelty and engagement — couples can spend a great deal of time together in comfortable routines and still feel the spark fade.",
@@ -72,6 +73,42 @@
     "what-makes-relationships-last",
     "how-to-build-genuine-connection",
     "the-role-of-mystery-in-attraction"
+  ],
+  "quickTake": "Doing new, engaging, slightly exciting things together tends to deepen love — not just spending time. Shared novelty expands each partner's sense of self and gets the relationship associated with growth and excitement. It's the freshness, not the expense, that does the work.",
+  "pullQuote": "Doing new things together — not just spending time — appears to be a reliable way couples keep a bond feeling alive.",
+  "keyStats": [
+    {
+      "value": "Novel > pleasant",
+      "label": "Couples who did novel, arousing activities together reported higher relationship quality afterward than those doing pleasant-but-familiar ones.",
+      "source": "Aron et al. (2000)"
+    },
+    {
+      "value": "Under an hour",
+      "label": "Structured, progressively personal self-disclosure generated striking feelings of closeness between strangers in the famous 'closeness' procedure.",
+      "source": "Aron et al. (1997)"
+    },
+    {
+      "value": "Both sexes",
+      "label": "The pull toward self-expansion and the lift from shared novelty are human patterns; the sexes overlap far more than they differ.",
+      "source": "Hyde (2005), gender similarities hypothesis"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Response to shared novelty", "men": "Bond lifts with new, engaging activity", "women": "Bond lifts with new, engaging activity" },
+      { "aspect": "What counts as 'novel' or exciting", "men": "Varies by person, not reliably by sex", "women": "Varies by person, not reliably by sex" },
+      { "aspect": "Value of deeper conversation", "men": "Builds closeness as a shared experience", "women": "Builds closeness as a shared experience" },
+      { "aspect": "Effect of comfortable routine alone", "men": "Spark can fade without novelty", "women": "Spark can fade without novelty" }
+    ]
+  },
+  "keyTakeaways": [
+    "Shared novelty — not just shared time — is what tends to refresh a bond and deepen love.",
+    "Self-expansion explains it: we bond strongly with partners who broaden who we are.",
+    "The activity needn't be expensive or dramatic; new, absorbing, and shared is what matters.",
+    "Mild challenge and excitement side by side often get felt as excitement about the relationship.",
+    "Structured, progressively personal conversation counts as a shared experience that builds intimacy.",
+    "The effects appear broadly across the sexes; what varies is what each person finds novel."
   ],
   "lastReviewed": "2026-06"
 }

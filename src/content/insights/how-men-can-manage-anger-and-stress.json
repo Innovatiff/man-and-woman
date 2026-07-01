@@ -74,5 +74,41 @@
     "how-to-regulate-your-emotions",
     "how-to-process-difficult-emotions"
   ],
+  "quickTake": "Anger and stress are manageable through learnable strategies rather than willpower alone. Catching a provocation early and reframing it, moving your body, relaxing, and reaching out tend to work better than either exploding or bottling up.",
+  "pullQuote": "Anger and stress are not single uncontrollable surges but processes with multiple handles — and intervening early, before arousal becomes flooding, is far more effective than suppressing a feeling already at full intensity.",
+  "keyStats": [
+    {
+      "value": "Reappraise vs. suppress",
+      "label": "Reframing a provocation before it peaks tends to be linked with better well-being and relationships, while habitual suppression is linked with less positive outcomes.",
+      "source": "Gross & John (2003)"
+    },
+    {
+      "value": "Multiple handles",
+      "label": "The process model maps several points to intervene before an emotion peaks — choosing situations, redirecting attention, reframing meaning, and changing the response.",
+      "source": "Gross (1998)"
+    },
+    {
+      "value": "Connection helps",
+      "label": "Seeking social support — described in some work as tend-and-befriend — is a legitimate, effective stress-regulation strategy, not a weakness.",
+      "source": "Taylor et al. (2000)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Permitted emotions", "men": "Anger more often socially permitted; softer feelings suppressed", "women": "Wider range of feelings more often permitted" },
+      { "aspect": "Stress response leaned on", "men": "More often go it alone", "women": "More often seek connection and support" },
+      { "aspect": "What anger can mask", "men": "Frequently hurt, fear, or shame surfacing as irritation", "women": "Varies; less often the only permitted outlet" },
+      { "aspect": "Ability to regulate", "men": "Comparable with practice", "women": "Comparable with practice" }
+    ]
+  },
+  "keyTakeaways": [
+    "Anger and stress respond to learnable regulation strategies, not willpower alone.",
+    "Neither venting nor bottling up works well — aggressive venting rehearses anger, while suppression prolongs the arousal internally.",
+    "Intervening early, before arousal becomes flooding, is far more effective than trying to suppress a feeling already at full intensity.",
+    "Anger is often a secondary emotion sitting on hurt, fear, or shame; naming what's underneath is often the first step.",
+    "Reaching out for support is a powerful, underused tool — connection is a legitimate stress regulator, not a weakness.",
+    "Build a personal toolkit — reappraisal, breaks, physical activity, relaxation, connection — and match the strategy to the moment."
+  ],
   "lastReviewed": "2026-06"
 }

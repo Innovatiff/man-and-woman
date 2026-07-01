@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A man who is turned down after asking someone out may laugh it off to friends while privately replaying the moment for days. The casual exterior is often a learned cover, not evidence that the rejection didn't matter.",
     "After a breakup or being passed over for a role, some men throw themselves into the gym, work, or a new pursuit. Action can be a genuinely healthy outlet — but when it functions mainly to outrun the feeling, the hurt tends to resurface later.",
-    "Anger sometimes arrives before sadness. A man who feels rejected may notice irritation or blame toward the other person first, which can mask the more vulnerable disappointment underneath it."
+    "Anger sometimes arrives before sadness. A man who feels rejected may notice irritation or blame toward the other person first, which can mask the more vulnerable disappointment underneath it.",
+    "A man passed over for a promotion may fixate on the specifics — the timing, the politics, one line in the feedback — replaying them for weeks. Reframing the setback as being about fit or circumstances, rather than a verdict on his worth, is usually what finally lets him set it down."
   ],
   "whatPeopleGetWrong": [
     "A common misread is that a man who shrugs off rejection wasn't really invested. Often the shrug is a protective reflex, and the absence of visible distress says more about display rules than about depth of feeling.",
@@ -73,6 +74,42 @@
     "why-rejection-hurts-so-much",
     "how-men-cope-with-failure",
     "how-women-cope-with-rejection"
+  ],
+  "quickTake": "Rejection registers as genuine social pain for almost everyone, and many men experience it as a threat to status and self-worth they were taught to defend. They often minimize the hurt, blame themselves, or turn to anger — but how the rejection is interpreted, more than the event, shapes how long it stings.",
+  "pullQuote": "How rejection is interpreted — as a verdict on your whole self, or as information about fit — matters more than the rejection itself.",
+  "keyStats": [
+    {
+      "value": "Same brain regions",
+      "label": "Social exclusion activates some of the same neural regions involved in physical pain, which is why being turned down can feel like a physical blow.",
+      "source": "Eisenberger, Lieberman & Williams (2003)"
+    },
+    {
+      "value": "Fundamental need",
+      "label": "The need to belong is framed as a deep human motivation, so sensitivity to rejection is a wired-in feature, not a personal weakness.",
+      "source": "Baumeister & Leary (1995)"
+    },
+    {
+      "value": "Small effect",
+      "label": "On most psychological measures the sexes are far more alike than different; the felt pain of rejection appears to be a shared human experience.",
+      "source": "Hyde (2005)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Intensity of the sting", "men": "Broadly similar to women", "women": "Broadly similar to men" },
+      { "aspect": "How it's shown", "men": "More often externalized as anger, distraction, or withdrawal", "women": "More often talked through and expressed openly" },
+      { "aspect": "Common protective move", "men": "'I didn't care anyway' — a quick pivot that guards the ego", "women": "Processing aloud with friends or reflection" },
+      { "aspect": "What speeds recovery", "men": "Reading it as about fit, plus self-compassion", "women": "Reading it as about fit, plus self-compassion" }
+    ]
+  },
+  "keyTakeaways": [
+    "Rejection is real social pain, drawing on some of the same neural systems as physical pain — not a sign of weakness.",
+    "Men and women feel the sting at broadly similar intensity; the reliable difference is in expression, not depth.",
+    "Interpreting a rejection as global and permanent deepens the hurt; reading it as specific and situational speeds recovery.",
+    "A man who shrugs it off often isn't uninvested — the casual exterior is frequently a learned protective cover.",
+    "Self-compassion supports faster, healthier recovery than suppression or harsh self-attack.",
+    "Supporting someone rejected usually means steady, low-pressure presence rather than pushing him to talk on demand."
   ],
   "lastReviewed": "2026-06"
 }

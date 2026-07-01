@@ -74,5 +74,41 @@
     "how-men-handle-emotions",
     "why-listening-matters-more-than-advice"
   ],
+  "quickTake": "Emotional communication is a learnable skill, not a trait some men simply lack. Many were socialized away from naming feelings, so the ability is underpracticed rather than absent — and with low-stakes, consistent practice it tends to improve.",
+  "pullQuote": "Men feel emotions at comparable depth; the gap is more often in identifying and expressing them, and that gap can narrow with practice.",
+  "keyStats": [
+    {
+      "value": "Learnable skill",
+      "label": "Emotional intelligence is framed as a set of developable capacities — perceiving, understanding, and expressing emotion — rather than a fixed trait.",
+      "source": "Mayer & Salovey (1997)"
+    },
+    {
+      "value": "Reappraise vs. suppress",
+      "label": "Reframing situations tends to be linked with better well-being and relationships, while habitual suppression is linked with less positive social outcomes.",
+      "source": "Gross & John (2003)"
+    },
+    {
+      "value": "Small effect",
+      "label": "Most measured psychological gender differences are small or near zero, so the male-female gap in emotional fluency is modest and heavily overlapping.",
+      "source": "Hyde (2005)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Naming feelings", "men": "More often taught to keep composure and conceal, on average", "women": "More often encouraged to identify and voice feelings" },
+      { "aspect": "Default in conflict", "men": "Lean toward fixing or going quiet", "women": "Lean toward talking it through" },
+      { "aspect": "Emotional vocabulary", "men": "More often underpracticed, not absent", "women": "More often practiced from an early age" },
+      { "aspect": "Depth of feeling", "men": "Comparable", "women": "Comparable" }
+    ]
+  },
+  "keyTakeaways": [
+    "Emotional communication is a set of learnable skills, not a fixed trait some men simply lack.",
+    "For many men the skill is underpracticed due to socialization, not missing — the feelings are there, the practice isn't.",
+    "Granular labeling — distinguishing tired from anxious from disappointed — is a concrete, trainable first step.",
+    "Expressing and reframing feelings is linked to better well-being than habitually bottling them up.",
+    "Partners help most by creating safety and meeting early, imperfect attempts with warmth rather than pressure.",
+    "These are group averages with heavy overlap; personal history and temperament predict fluency better than gender."
+  ],
   "lastReviewed": "2026-06"
 }

@@ -74,5 +74,41 @@
     "the-psychology-of-loneliness",
     "why-men-avoid-asking-for-help"
   ],
+  "quickTake": "Loneliness is the gap between the connection you want and the connection you have — a signal like hunger, not a character flaw. It eases through deliberate steps: rebuilding ties, allowing some vulnerability, and treating action, not motivation, as the first move.",
+  "pullQuote": "Loneliness, like hunger, is a signal meant to prompt action — and an unacknowledged signal rarely gets answered.",
+  "keyStats": [
+    {
+      "value": "148 studies",
+      "label": "A large meta-analysis found stronger social relationships were associated with significantly lower mortality risk — connection is protective, not just pleasant.",
+      "source": "Holt-Lunstad, Smith & Layton (2010)"
+    },
+    {
+      "value": "A fundamental need",
+      "label": "The desire for stable, caring relationships is treated as a basic human need, not an optional preference — which is why unmet, it hurts so much.",
+      "source": "Baumeister & Leary (1995)"
+    },
+    {
+      "value": "Quality, not headcount",
+      "label": "Loneliness tracks perceived closeness of connection, not how many people are around — someone can feel lonely in a crowd.",
+      "source": "Hawkley & Cacioppo (2010)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Number of close confidants", "men": "Tend, on average, toward fewer close confidants", "women": "Tend, on average, toward more close confidants" },
+      { "aspect": "How friendships form", "men": "Often built around shared activities that can fade with context", "women": "Often built around disclosure that travels across contexts" },
+      { "aspect": "Naming loneliness", "men": "Self-reliance norms can make it feel like admitting failure", "women": "On average somewhat more permission to name and share it" },
+      { "aspect": "Where emotional reliance sits", "men": "Can concentrate on one relationship, often a partner", "women": "More often spread across a broader network" }
+    ]
+  },
+  "keyTakeaways": [
+    "Loneliness reflects a gap between wanted and actual connection — a normal signal, no more shameful than hunger.",
+    "It tracks the perceived quality of connection, not headcount, which is why you can feel lonely in a full room.",
+    "Connection is genuinely protective for health and mood, so investing in it is maintenance rather than indulgence.",
+    "Men tend on average toward fewer close confidants, so a broader base of friendship steadies both the person and their relationships.",
+    "In the withdrawal loop, action usually has to come before motivation — one message or one recurring activity beats waiting.",
+    "Chosen solitude isn't loneliness; the goal is closing the connection gap, not maximizing social contact."
+  ],
   "lastReviewed": "2026-06"
 }

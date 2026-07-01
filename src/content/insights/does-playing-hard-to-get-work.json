@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "Someone who is clearly choosy and not easily impressed, yet lights up specifically around one person, often comes across as more appealing than someone who seems interested in everyone — the selectivity makes the warmth feel meaningful.",
     "Early uncertainty about whether a new match likes you back can heighten interest and keep them in your thoughts. But if that uncertainty drags on, it commonly curdles into anxiety and second-guessing rather than attraction.",
-    "Deliberately ignoring messages or feigning indifference as a 'tactic' frequently backfires: it can read as genuine disinterest or game-playing, and tends to push away thoughtful people who value directness and warmth."
+    "Deliberately ignoring messages or feigning indifference as a 'tactic' frequently backfires: it can read as genuine disinterest or game-playing, and tends to push away thoughtful people who value directness and warmth.",
+    "Someone who waits hours to reply on purpose, hoping to seem in demand, often just reads as lukewarm or flaky. The person who answers warmly and promptly — while clearly having a full life and their own standards — tends to come across as both interested and worth pursuing, which is the combination that actually appeals."
   ],
   "whatPeopleGetWrong": [
     "The biggest misconception is that being aloof and unavailable is itself attractive. The research suggests that uniform unavailability does not reliably increase desire; what helps is selective interest, not coldness. Mistaking the two leads people to suppress warmth that would actually draw someone closer.",
@@ -73,6 +74,42 @@
     "how-attraction-works",
     "why-we-overthink-dating-and-texting",
     "how-to-tell-if-someone-likes-you"
+  ],
+  "quickTake": "Sort of, but not the way the cliche means. Being uniformly hard to get does not reliably raise attraction. What works is selective availability — discerning in general, but warmly interested in one particular person. A little uncertainty can help; calculated coldness tends to backfire.",
+  "pullQuote": "Calculated unavailability is a weak strategy; what appeals is selectivity paired with genuine warmth toward one person, not coldness toward everyone.",
+  "keyStats": [
+    {
+      "value": "Selective wins",
+      "label": "Across several experiments, a uniformly hard-to-get person was not rated more desirable — only the selectively hard-to-get partner, warm toward the participant, was most appealing.",
+      "source": "Walster et al. (1973)"
+    },
+    {
+      "value": "Uncertainty",
+      "label": "People felt more drawn to someone when uncertain how much that person liked them — but prolonged ambiguity tends to shade into anxiety, not attraction.",
+      "source": "Whitchurch, Wilson & Gilbert (2011)"
+    },
+    {
+      "value": "78%",
+      "label": "Of measured psychological gender differences are small or close to zero — the core patterns here apply broadly to both sexes.",
+      "source": "Hyde (2005), review of 46 meta-analyses"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: what appeals versus what backfires",
+    "rows": [
+      { "aspect": "Selective availability", "men": "Discerning in general, warm toward her — appealing", "women": "Discerning in general, warm toward him — appealing" },
+      { "aspect": "Uniform unavailability", "men": "Reads as disinterest; does not reliably raise desire", "women": "Reads as disinterest; does not reliably raise desire" },
+      { "aspect": "A little uncertainty", "men": "Can hold attention early, but fragile", "women": "Can hold attention early, but fragile" },
+      { "aspect": "Manufactured coldness", "men": "Undermines the warmth attraction needs", "women": "Undermines the warmth attraction needs" }
+    ]
+  },
+  "keyTakeaways": [
+    "Being uniformly hard to get does not reliably increase attraction — the Walster studies found that surprising result directly.",
+    "Selective availability works: discerning in general, but genuinely warm toward one specific person.",
+    "A little uncertainty can heighten early interest, but it is fragile and easily curdles into anxiety.",
+    "Real attraction tracks with warmth and responsiveness, so strategies built on coldness fight the very thing that draws people in.",
+    "Feigned indifference tends to read as disinterest or game-playing and pushes away people who value directness.",
+    "The patterns apply broadly to both sexes; individual attachment style matters more than gender."
   ],
   "lastReviewed": "2026-06"
 }

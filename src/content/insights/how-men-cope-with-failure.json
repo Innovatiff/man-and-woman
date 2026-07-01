@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A man who loses a job may pull back from friends and family, not because he wants to be alone but because the setback feels shameful and he would rather not be seen in it. The isolation often compounds the difficulty.",
     "After a public mistake or a failed venture, some men throw themselves into relentless work or distraction rather than sitting with the feeling. The activity can be a way to outrun shame, which sometimes delays the honest reckoning that would actually help.",
-    "A setback that gets framed as 'I'm a failure' rather than 'this attempt failed' can stall someone for months, while a person who treats the same event as a specific, fixable problem often regroups and tries a new approach far sooner."
+    "A setback that gets framed as 'I'm a failure' rather than 'this attempt failed' can stall someone for months, while a person who treats the same event as a specific, fixable problem often regroups and tries a new approach far sooner.",
+    "A student who fails an exam in a subject tied to his sense of identity may quietly stop showing up rather than ask for help — the drop-off often reads as not caring, when it can be the opposite: caring so much that being seen struggling feels unbearable."
   ],
   "whatPeopleGetWrong": [
     "The biggest misconception is that pushing through with harsh self-criticism is what builds resilience. Research on self-compassion suggests the opposite: berating oneself tends to increase shame and avoidance, while a kinder, steadier stance supports both accountability and bouncing back. Toughness on yourself is not the same as resilience.",
@@ -73,6 +74,42 @@
     "how-men-deal-with-stress",
     "the-male-ego-explained",
     "self-improvement-for-men"
+  ],
+  "quickTake": "Failure tends to hit hardest when a man's worth is pinned to achievement, turning a setback into shame about who he is rather than a problem to solve. Self-compassion and a sense of capability, not harsh self-criticism, are what aid recovery.",
+  "pullQuote": "Toughness on yourself is not the same as resilience — berating yourself tends to increase shame and avoidance, while a kinder, steadier stance supports both accountability and bouncing back.",
+  "keyStats": [
+    {
+      "value": "Specific vs global",
+      "label": "Explaining failure as permanent and global ('I'm not good enough') tends to deepen distress, while framing it as specific and changeable supports recovery.",
+      "source": "Attribution research; Bandura (1977)"
+    },
+    {
+      "value": "Kindness beats criticism",
+      "label": "Self-compassion — treating yourself as you would a struggling friend — predicts better resilience and lower anxiety after failure, without undermining accountability.",
+      "source": "Neff (2003)"
+    },
+    {
+      "value": "Small effects",
+      "label": "Most measured psychological gender differences are small or close to zero, so how someone copes is shaped far more by their psychology than their sex.",
+      "source": "Hyde (2005)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Where worth is staked", "men": "More often anchored in success and provision, on average", "women": "Also common, but often spread across more domains" },
+      { "aspect": "Response to a setback", "men": "May withdraw or bury it to avoid being seen", "women": "Somewhat more likely to talk it through with others" },
+      { "aspect": "Voicing the struggle", "men": "Often quiet, channeling distress into work or distraction", "women": "More likely to seek support and name the difficulty" },
+      { "aspect": "What aids recovery", "men": "Self-compassion, broader sources of worth, small mastery wins", "women": "Same tools — the mechanisms are shared, not gendered" }
+    ]
+  },
+  "keyTakeaways": [
+    "Failure lands hardest when self-worth is staked on the domain that failed, turning a setback into a verdict on the self.",
+    "How a person explains failure matters: specific and temporary aids recovery; permanent and global deepens distress.",
+    "Self-compassion beats harsh self-criticism for resilience — and it supports accountability rather than making excuses.",
+    "Withdrawal after failure often reflects shame and caring intensely, not indifference.",
+    "Broadening where worth comes from, beyond achievement alone, helps setbacks land more softly.",
+    "These are averages with heavy overlap; individual psychology predicts coping far better than sex."
   ],
   "lastReviewed": "2026-06"
 }

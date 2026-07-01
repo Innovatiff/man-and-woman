@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A man may seem strikingly fine in the first days after a breakup, throwing himself into work or socializing, while a partner who is openly devastated assumes he simply did not care as much. Weeks later the picture can invert, as his delayed grief surfaces once the initial momentum fades and there is no longer a confidant to lean on.",
     "Because a partner was often the main person a man talked to, a breakup can leave him not just heartbroken but practically without an outlet, having lost his closest listener at the moment he most needs one. This support gap, more than a difference in feeling, is part of why the recovery can run long and quiet.",
-    "Moving quickly into a new relationship is common among men after a breakup, which can look like indifference or easy recovery. Research suggests it sometimes reflects coping by replacement rather than resolved grief, with the unprocessed loss carried into the next relationship rather than worked through."
+    "Moving quickly into a new relationship is common among men after a breakup, which can look like indifference or easy recovery. Research suggests it sometimes reflects coping by replacement rather than resolved grief, with the unprocessed loss carried into the next relationship rather than worked through.",
+    "Friends who only check in during the first week or two may conclude a man 'handled it well' and move on. The harder stretch often arrives a month or two later, quietly, once the busyness fades — and by then few people are still asking how he is doing."
   ],
   "whatPeopleGetWrong": [
     "The biggest misconception is that men care less because they show less. The research points the other way: men's lower immediate visible distress often coexists with a longer, heavier course of grief, partly because they have fewer outlets and tend to delay processing. A calm surface in the early days is not reliable evidence of an easy recovery underneath.",
@@ -73,6 +74,42 @@
     "how-men-handle-emotions",
     "why-men-pull-away",
     "what-makes-men-happy"
+  ],
+  "quickTake": "Women often report more intense distress right after a breakup but process it openly and recover; men may show less at first yet carry a longer, sometimes delayed grief. A big reason is that a partner is frequently a man's main confidant, so the breakup takes his closest listener too.",
+  "pullQuote": "A calm surface in the early days is not reliable evidence of an easy recovery underneath.",
+  "keyStats": [
+    {
+      "value": "Thousands surveyed",
+      "label": "A large cross-country survey found women reported more intense initial distress but tended to recover more fully, while men more often carried the loss longer.",
+      "source": "Morris, Reiber & Roman (2015)"
+    },
+    {
+      "value": "148 studies",
+      "label": "A meta-analysis on social relationships and mortality underscores how much strong social ties matter — part of why fewer confidants raises the cost of a breakup for many men.",
+      "source": "Holt-Lunstad, Smith & Layton (2010)"
+    },
+    {
+      "value": "Weeks, not days",
+      "label": "The course of breakup grief — love, sadness, and anger — unfolds over weeks with wide individual variation, and delaying engagement can extend rather than shorten it.",
+      "source": "Sbarra & Emery (2005)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Immediate distress", "men": "Often less acute at first", "women": "Often more intense right away" },
+      { "aspect": "Longer arc", "men": "Grief can be longer and sometimes delayed", "women": "Tend to recover more fully over time" },
+      { "aspect": "Who initiates", "men": "More often blindsided, slower to disengage", "women": "More likely to initiate and see it coming" },
+      { "aspect": "Support outlets", "men": "Often fewer confidants; partner was the main one", "women": "More often maintain wider support networks" }
+    ]
+  },
+  "keyTakeaways": [
+    "Women often report sharper distress immediately but recover more fully; men may show less at first yet grieve longer.",
+    "Neither sex simply 'takes it harder' — the difference is more about timing, visibility, and support than depth of feeling.",
+    "Suppression can blunt the initial pain but tends to delay processing, so grief often surfaces weeks or months later.",
+    "Losing a partner who was a man's main confidant leaves the grief with fewer places to go, prolonging quiet recovery.",
+    "Moving on quickly can reflect coping by replacement rather than resolved grief, not necessarily an easy recovery.",
+    "Attachment style, who initiated, relationship quality, and support network predict recovery better than gender does."
   ],
   "lastReviewed": "2026-06"
 }

@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A couple who once talked for hours now mostly trades information — schedules, bills, who is picking up the kids. Nothing is overtly wrong, but both quietly sense the conversation has gone flat, and neither knows quite when it happened.",
     "One partner brings up a small frustration and the other, tired, brushes it off. Repeated over months, these missed moments can teach both people to stop bringing things up at all — a withdrawal that often looks like peace but functions as distance.",
-    "Two people who used to try new things together settle into separate routines, screens, and friend groups. The relationship still works on paper, yet the sense of being teammates on a shared adventure has quietly faded into living side by side."
+    "Two people who used to try new things together settle into separate routines, screens, and friend groups. The relationship still works on paper, yet the sense of being teammates on a shared adventure has quietly faded into living side by side.",
+    "A forgotten anniversary or an unmade dinner that once would have been shrugged off now gets read as proof that a partner has stopped caring. The event is small; the shift is in how it is interpreted, as goodwill quietly gives way to a running tally of grievances."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that growing apart requires a clear villain or a major betrayal. Research suggests the opposite is more typical: most drift is accumulated neglect and unrepaired small wounds, not a single dramatic cause. This can make it harder to see, because nothing obviously broke.",
@@ -73,6 +74,42 @@
     "what-makes-someone-fall-out-of-love",
     "the-four-horsemen-of-relationship-failure",
     "what-makes-relationships-last"
+  ],
+  "quickTake": "Couples rarely grow apart in one dramatic rupture. The drift is usually gradual: missed bids for connection, shared time thinning into parallel lives, and criticism hardening into contempt. Reassuringly, the same small habits that erode a bond can usually rebuild it.",
+  "pullQuote": "The patterns that erode a bond and the ones that rebuild it are often the same habits, simply pointed in a different direction.",
+  "keyStats": [
+    {
+      "value": "Contempt",
+      "label": "How partners treated each other — escalating criticism, defensiveness, contempt, and stonewalling — forecast separation years in advance, more than conflict itself.",
+      "source": "Gottman & Levenson (1992)"
+    },
+    {
+      "value": "3 pillars",
+      "label": "Commitment rests on satisfaction, quality of alternatives, and investment; as partners invest less, commitment weakens and neglect compounds.",
+      "source": "Rusbult's investment model (1980)"
+    },
+    {
+      "value": "Responsiveness",
+      "label": "Intimacy is continually rebuilt when one partner discloses and the other responds in a way that feels understanding; when those moments thin out, partners feel unknown.",
+      "source": "Reis & Shaver (1988)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Experience of slow drift", "men": "Commonly describe feeling less seen", "women": "Commonly describe feeling less seen" },
+      { "aspect": "Missed bids for connection", "men": "Erode closeness over time", "women": "Erode closeness over time" },
+      { "aspect": "Effect of contempt", "men": "Especially corrosive", "women": "Especially corrosive" },
+      { "aspect": "Path back", "men": "Turning toward, repair, shared time", "women": "Turning toward, repair, shared time" }
+    ]
+  },
+  "keyTakeaways": [
+    "Growing apart is usually accumulated neglect and unrepaired small wounds, not a single dramatic cause.",
+    "How partners treat each other around conflict — not the presence of conflict — predicts drift; contempt is the most corrosive signal.",
+    "As partners invest less attention and effort, commitment weakens, making further neglect easier — a quiet downward spiral.",
+    "Parallel lives form gradually as shared, novel experience disappears and conversation narrows to logistics.",
+    "Small, consistent corrections — turning toward bids, protecting shared time, repairing early — can reverse the slide.",
+    "These dynamics are broadly human; both partners tend to describe the slow loss of feeling seen in similar terms."
   ],
   "lastReviewed": "2026-06"
 }

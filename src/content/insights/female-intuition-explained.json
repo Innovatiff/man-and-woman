@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "Walking into a room and sensing 'something is off' before a word is said is a classic example. Usually this is rapid, unconscious decoding of micro-expressions, posture, and tone — real signals being read at speed — rather than a paranormal hit. The conclusion arrives faster than the reasoning, which is why it feels like intuition.",
     "Picking up that a friend is upset despite their 'I'm fine' is the same skill in miniature: the words say one thing, the face and voice another, and a practiced reader weights the nonverbal channel correctly. It looks like mind-reading and is closer to careful, automatic observation.",
-    "It is worth remembering intuition is not infallible. The same fast pattern-matching that catches a real cue can also misfire — reading hostility into a tired face, or certainty into a coincidence. Treating a strong hunch as a hypothesis to check, rather than a verdict, is what separates useful intuition from confident error."
+    "It is worth remembering intuition is not infallible. The same fast pattern-matching that catches a real cue can also misfire — reading hostility into a tired face, or certainty into a coincidence. Treating a strong hunch as a hypothesis to check, rather than a verdict, is what separates useful intuition from confident error.",
+    "A nurse or teacher who has spent years reading faces often develops the same 'intuition' regardless of gender — sensing which patient is deteriorating or which student is struggling before anyone says so. It looks like a gift, but it is really thousands of hours of attention turning into fast, automatic pattern recognition."
   ],
   "whatPeopleGetWrong": [
     "The biggest misconception is that female intuition is a mystical sixth sense or proof that women are fundamentally more perceptive by nature. The research points to a modest, learnable advantage in nonverbal decoding that is highly context-dependent — real, but ordinary, and shared by anyone of any sex who attends to social cues closely.",
@@ -71,6 +72,42 @@
     "how-women-handle-emotions",
     "how-men-and-women-communicate",
     "what-drives-female-behavior"
+  ],
+  "quickTake": "It is real but ordinary. 'Female intuition' is mostly a modest average edge in reading nonverbal cues — faces, tone, posture — built largely by attention and practice. The gap is small, shrinks when men are motivated to read others, and is a learnable skill, not a sixth sense.",
+  "pullQuote": "It looks like mind-reading and is closer to careful, automatic observation — sensitivity to real signals, not a sixth sense.",
+  "keyStats": [
+    {
+      "value": "Small–moderate",
+      "label": "A meta-analysis found women, on average, somewhat better at decoding nonverbal cues — consistent enough to take seriously but describing an average difference, not a category gap.",
+      "source": "Hall (1978)"
+    },
+    {
+      "value": "Gap narrows",
+      "label": "The advantage shrinks when people are explicitly motivated to read others accurately, at which point men often close much of the distance — a clue it is trained attention, not fixed wiring.",
+      "source": "Nonverbal decoding research"
+    },
+    {
+      "value": "78%",
+      "label": "Of measured psychological gender differences are small or close to zero — nonverbal sensitivity fits this pattern of heavy overlap.",
+      "source": "Hyde (2005), review of 46 meta-analyses"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies in reading cues",
+    "rows": [
+      { "aspect": "Decoding nonverbal cues", "men": "Slightly lower on average when merely observing", "women": "A small average edge at reading faces, tone, posture" },
+      { "aspect": "When motivated to read accurately", "men": "Often close much of the gap", "women": "Advantage shrinks as men catch up" },
+      { "aspect": "Emotional expressiveness", "men": "Tend to express less facially", "women": "Tend to be more facially expressive, giving readable data" },
+      { "aspect": "Nature of the skill", "men": "Learnable with attention and practice", "women": "Learnable — built by attention and socialization" }
+    ]
+  },
+  "keyTakeaways": [
+    "'Female intuition' is best understood as a modest average edge in decoding nonverbal cues, not a mystical sixth sense.",
+    "Hall's meta-analysis found the advantage real but moderate — an average difference, not a category gap.",
+    "The gap shrinks when people are motivated to read others accurately, showing it is trained attention rather than fixed wiring.",
+    "Intuition is fallible: the same fast pattern-matching that catches real cues can also misfire, so treat a hunch as a hypothesis to check.",
+    "Because it is a learnable skill, anyone of any gender can get better at reading — and expressing — cues.",
+    "Sex is a weak predictor for any individual; practice, personality, and context matter more."
   ],
   "lastReviewed": "2026-06"
 }

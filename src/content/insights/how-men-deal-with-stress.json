@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "Under pressure at work, a man might throw himself harder into tasks, go quiet at home, or retreat to a solo activity rather than talk about what's wrong. This problem-focused, withdrawing style can be effective for solvable problems but tends to fall short when the stressor mainly needs to be felt and processed rather than fixed.",
     "A man may insist he's 'fine' while clearly carrying a lot — short-tempered, sleeping poorly, distracted. Because expression and experience can diverge, the calm or stoic surface often understates the strain underneath rather than reflecting its absence.",
-    "When a partner offers to talk, some men deflect toward solutions or change the subject — not because connection wouldn't help, but because seeking emotional support under stress is less practiced. Over time, learning to lean on others is associated with better coping than going it alone."
+    "When a partner offers to talk, some men deflect toward solutions or change the subject — not because connection wouldn't help, but because seeking emotional support under stress is less practiced. Over time, learning to lean on others is associated with better coping than going it alone.",
+    "Facing a health scare, a man might immerse himself in research, logistics, and appointments while brushing off questions about how he's actually feeling — managing the practical problem competently while the emotional weight of it goes largely unspoken."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that withdrawing or staying stoic means a man isn't stressed, or is handling it well. The research suggests the opposite can be true: suppression doesn't reduce the inner experience and tends to carry costs, so a quiet exterior may mask significant strain that isn't being processed.",
@@ -72,6 +73,42 @@
     "why-men-need-alone-time",
     "how-to-regulate-your-emotions",
     "why-men-compartmentalize"
+  ],
+  "quickTake": "On average, men lean a little more toward withdrawing and problem-solving under stress, while seeking support skews more common among women — but these are overlapping tendencies, not rules. The finding that cuts across gender: habitually bottling up emotion tends to backfire.",
+  "pullQuote": "A calm exterior from suppression often hides strain rather than resolving it — bottling up emotion doesn't dissolve it, it tends to accumulate costs.",
+  "keyStats": [
+    {
+      "value": "Tend-and-befriend",
+      "label": "Women are, on average, somewhat more likely to turn toward social connection under stress, versus a lean toward withdrawal or direct action — as overlapping tendencies, not fixed categories.",
+      "source": "Taylor et al. (2000)"
+    },
+    {
+      "value": "Suppression backfires",
+      "label": "Expressive suppression does little to reduce the inner experience of emotion and is linked to worse wellbeing and connection, while reappraisal tends to work better.",
+      "source": "Gross & John (2003)"
+    },
+    {
+      "value": "Similar intensity",
+      "label": "Men and women experience emotions at broadly similar intensities but differ more in outward expression — so a stoic surface shouldn't be read as an absence of strain.",
+      "source": "Kring & Gordon (1998)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "First move under stress", "men": "Somewhat more withdrawal and direct action, on average", "women": "Somewhat more turning toward connection ('tend-and-befriend')" },
+      { "aspect": "Seeking social support", "men": "Comparatively less practiced, on average", "women": "Comparatively more common, on average" },
+      { "aspect": "Regulation style", "men": "Report using suppression somewhat more", "women": "More likely to talk feelings through" },
+      { "aspect": "Inner intensity of stress", "men": "Broadly similar", "women": "Broadly similar" }
+    ]
+  },
+  "keyTakeaways": [
+    "On average, men lean somewhat more toward withdrawal and problem-solving; support-seeking skews more common among women.",
+    "These are overlapping tendencies with heavy overlap, not categories — plenty of men talk it out and plenty of women push through alone.",
+    "Brief withdrawal to regulate can genuinely help; the trouble is when it hardens into chronic avoidance or suppression replaces processing.",
+    "Suppression doesn't reduce the inner experience of emotion and tends to accumulate costs; reappraisal works better.",
+    "A stoic surface often understates the strain underneath rather than reflecting its absence.",
+    "The most robust finding is a general one: across people, processing emotion and staying connected beat bottling up."
   ],
   "lastReviewed": "2026-06"
 }

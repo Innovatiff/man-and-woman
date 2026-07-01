@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A man may rarely say 'I love you' yet reorganize his life around a partner — taking on responsibilities, planning a shared future, quietly handling problems. In his mental model, these actions are the message. A partner expecting the feeling to be voiced may underestimate how deeply he is invested.",
     "Loyalty often features heavily in how men describe love. Standing by someone, keeping their confidence, and being dependable through hard times can matter more to a man's sense of loving well than romantic flourishes. He may measure his love by his steadiness rather than his eloquence.",
-    "When men do talk about love, they sometimes frame it in terms of partnership and being a team — 'us against the problem' — rather than the language of feelings. This is not a shallower version of love so much as a different idiom for the same underlying bond."
+    "When men do talk about love, they sometimes frame it in terms of partnership and being a team — 'us against the problem' — rather than the language of feelings. This is not a shallower version of love so much as a different idiom for the same underlying bond.",
+    "Asked what love means to him, a man might struggle to describe a feeling and instead point to what he does — 'I'm here, I show up, I've got her back' — treating steadiness and loyalty as the definition rather than a substitute for it."
   ],
   "whatPeopleGetWrong": [
     "The biggest misconception is that because many men talk about love less, they feel it less, or think about it more practically and less deeply. The research points the other way: the emotional experience appears comparable, and the difference is mainly in expression and processing style, not depth.",
@@ -72,6 +73,42 @@
     "how-men-show-love-through-actions",
     "what-makes-a-man-feel-loved",
     "how-women-think-about-love"
+  ],
+  "quickTake": "Many men think about love less as a feeling to narrate and more as something proven through loyalty, reliability, and partnership. The underlying emotional experience is much like anyone's; what differs, on average, is the emphasis on action over words.",
+  "pullQuote": "For many men the mental model is simple — 'I know how I feel; I show it' — which a partner waiting to hear it spoken can easily underestimate.",
+  "keyStats": [
+    {
+      "value": "Same system",
+      "label": "Attachment theory frames adult romantic love as a bonding process built on the same system that connects children to caregivers — organizing men's mental models around closeness and a safe base.",
+      "source": "Hazan & Shaver (1987)"
+    },
+    {
+      "value": "More common in men",
+      "label": "On average, men report somewhat more difficulty identifying and putting words to emotions — a tendency shaped heavily by socialization, not less feeling.",
+      "source": "Levant et al. (2009)"
+    },
+    {
+      "value": "78%",
+      "label": "Of measured psychological gender differences are small or close to zero — how love is conceived is broadly similar across the sexes.",
+      "source": "Hyde (2005), review of 46 meta-analyses"
+    }
+  ],
+  "comparison": {
+    "title": "Thinking about love: average tendencies",
+    "rows": [
+      { "aspect": "Underlying experience", "men": "Broadly the same depth of feeling", "women": "Broadly the same depth of feeling" },
+      { "aspect": "Core idiom", "men": "Loyalty, reliability, being a team", "women": "Often more verbal and emotionally narrated" },
+      { "aspect": "Processing style", "men": "More internal, sometimes through action", "women": "More likely to talk feelings through" },
+      { "aspect": "Emotional support", "men": "Partner often a primary confidant", "women": "Often spread across more friendships" }
+    ]
+  },
+  "keyTakeaways": [
+    "Men's mental model of love often centers on demonstrating it — loyalty, reliability, partnership — rather than narrating a feeling.",
+    "The underlying emotional experience appears comparable across the sexes; the difference is mainly in expression and processing.",
+    "Difficulty putting feelings into words is largely learned through socialization and can grow with practice.",
+    "With fewer close confidants on average, a partner often becomes a man's primary source of emotional intimacy, making love feel especially central.",
+    "Read behavior and words together; consistency, effort, and loyalty are often where a man's love is most legible.",
+    "These are averages with large overlap; attachment style and personality predict how someone loves better than gender does."
   ],
   "lastReviewed": "2026-06"
 }

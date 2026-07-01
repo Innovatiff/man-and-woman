@@ -73,5 +73,32 @@
     "how-men-deal-with-stress",
     "what-makes-men-happy"
   ],
+  "quickTake": "Habits form through repeated behavior in a stable context until it turns automatic — a slower process than the 21-day myth suggests. The reliable move is designing your cues and environment rather than leaning on willpower, and forgiving the occasional missed day.",
+  "pullQuote": "The environment quietly does much of the work that men often assume is about discipline.",
+  "keyStats": [
+    {
+      "value": "~66 days",
+      "label": "Average time for a new behavior to feel automatic — about two months, with wide variation, not 21 days.",
+      "source": "Lally et al. (2010)"
+    },
+    {
+      "value": "Cue-driven",
+      "label": "Established habits are triggered by context — time, place, preceding actions — rather than by conscious goals or motivation.",
+      "source": "Wood & Neal (2007)"
+    },
+    {
+      "value": "A miss won't derail it",
+      "label": "Missing an occasional day did not meaningfully disrupt habit formation; overall consistency is what matters.",
+      "source": "Lally et al. (2010)"
+    }
+  ],
+  "keyTakeaways": [
+    "The 21-day rule is a myth; automaticity takes about two months on average, with large individual variation.",
+    "Habits run on context cues, not willpower — so redesigning your environment tends to beat white-knuckling it.",
+    "Anchor a new habit to a reliable existing cue so it eventually runs without needing motivation.",
+    "To break a bad habit, remove or avoid the trigger rather than just resisting the behavior.",
+    "An occasional missed day doesn't erase progress; resuming matters far more than perfection.",
+    "A growth mindset helps you persist through the effortful early weeks and treat slips as information, not verdicts."
+  ],
   "lastReviewed": "2026-06"
 }

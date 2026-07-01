@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A man might describe his 'type' in physical terms, then end up genuinely drawn to someone who does not match that description at all — because the connection, ease, and shared sense of humor created a pull the stated type never accounted for.",
     "Kindness and warmth frequently shift how attractive someone seems over time. A person a man found pleasant but not striking at first can become markedly more appealing as their character shows, illustrating how attraction is rarely fixed at first sight.",
-    "Competence and passion can be powerfully attractive in ways unrelated to looks. Many men report being drawn to someone who is good at what they do or alive with interest in something, finding that energy and capability magnetic in a way a photograph could never capture."
+    "Competence and passion can be powerfully attractive in ways unrelated to looks. Many men report being drawn to someone who is good at what they do or alive with interest in something, finding that energy and capability magnetic in a way a photograph could never capture.",
+    "At a speed-dating event, a man might arrive convinced he wants a particular look, yet leave most interested in the person he laughed with easily — a mismatch between his checklist and his chemistry that plays out again and again in the research."
   ],
   "whatPeopleGetWrong": [
     "The biggest misconception is that men think about attraction in purely physical terms and little else. Research suggests stated emphasis on looks does not reliably predict real-life attraction, and qualities like warmth, similarity, and competence carry substantial weight once people actually interact.",
@@ -72,6 +73,42 @@
     "what-men-find-attractive-in-personality",
     "how-attraction-works",
     "how-women-think-about-attraction"
+  ],
+  "quickTake": "Men are assumed to think about attraction almost entirely in terms of looks, but stated preferences and real-life attraction often diverge. Kindness, warmth, competence, and especially similarity carry real weight once people actually interact.",
+  "pullQuote": "What a man says he wants and who he is actually drawn to in person are often two different things — the first glance is a doorway, not the destination.",
+  "keyStats": [
+    {
+      "value": "37 cultures",
+      "label": "In a large cross-cultural study, men on average stated somewhat more emphasis on physical attractiveness — but these are group tendencies with wide overlap, describing what people say they want.",
+      "source": "Buss (1989)"
+    },
+    {
+      "value": "Doesn't predict",
+      "label": "In speed-dating studies, men's stated preference for looks did not reliably predict who they were actually drawn to once they met face to face.",
+      "source": "Eastwick & Finkel (2008)"
+    },
+    {
+      "value": "Reliable effect",
+      "label": "A meta-analysis found that perceiving someone as similar in values and outlook reliably increases liking — often more than appearance once people interact.",
+      "source": "Montoya & Horton (2013)"
+    }
+  ],
+  "comparison": {
+    "title": "Attraction: average tendencies",
+    "rows": [
+      { "aspect": "Stated priority", "men": "Somewhat more emphasis on looks when asked", "women": "Somewhat more emphasis on resources when asked" },
+      { "aspect": "Live attraction", "men": "Stated preferences poorly predict real pull", "women": "Stated preferences poorly predict real pull too" },
+      { "aspect": "What sustains it", "men": "Warmth, similarity, competence, connection", "women": "Warmth, similarity, competence, connection" },
+      { "aspect": "How it develops", "men": "Often grows as compatibility emerges", "women": "Often grows as compatibility emerges" }
+    ]
+  },
+  "keyTakeaways": [
+    "Men state somewhat more emphasis on looks on average, but this describes what they say — not reliably who draws them in person.",
+    "In speed-dating research, stated preferences failed to predict real-life attraction for men and women alike.",
+    "Similarity in values and outlook reliably increases liking, often more than appearance once people interact.",
+    "Initial visual appeal is frequently a doorway; warmth, character, and compatibility sustain and can deepen the pull.",
+    "A stated 'type' is a rough self-description, not a reliable guide to who will actually create a connection.",
+    "These are averages with heavy overlap; in live attraction the gap between the sexes largely shrinks."
   ],
   "lastReviewed": "2026-06"
 }

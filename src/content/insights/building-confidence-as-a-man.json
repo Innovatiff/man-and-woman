@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A man who wants to feel more confident socially usually gains more from having a few real conversations that go imperfectly than from rehearsing lines or reading tips. Each genuine attempt — including the awkward ones — supplies the mastery evidence that affirmations cannot, and the discomfort tends to shrink with repetition.",
     "Consider two men who both miss a goal at work. One berates himself and concludes he is not cut out for it, which makes him avoid the next stretch assignment. The other, practicing self-compassion, treats the miss as information, stays in the game, and accumulates the experience that eventually becomes competence. Over time their trajectories diverge sharply.",
-    "Confidence built on external validation tends to wobble. A man whose self-worth rests on income or others' admiration can feel shaken by a single setback or comparison. One who measures himself more by effort and growth tends to recover faster, because his sense of worth is not riding on every outcome."
+    "Confidence built on external validation tends to wobble. A man whose self-worth rests on income or others' admiration can feel shaken by a single setback or comparison. One who measures himself more by effort and growth tends to recover faster, because his sense of worth is not riding on every outcome.",
+    "A man learning a new skill — say, public speaking — who forces himself to give ten small talks will usually end up steadier than one who spends the same weeks watching tutorials and waiting to feel ready. The first ten talks are rarely good, but they are the mastery evidence, and confidence tends to arrive on the far side of the awkwardness, not before it."
   ],
   "whatPeopleGetWrong": [
     "The biggest misconception is that confidence is about projecting certainty or never feeling doubt. The research points the other way: real confidence often coexists with nerves and is built precisely by acting despite them. Bravado is frequently a cover for fragile self-worth, not a sign of the genuine article.",
@@ -73,6 +74,42 @@
     "the-male-ego-explained",
     "what-makes-men-happy",
     "how-men-can-build-emotional-intelligence"
+  ],
+  "quickTake": "Real confidence is earned, not talked into existence. Bandura's research points to mastery — actually doing hard things — as the strongest source, and Neff's self-compassion as a steadier base than fragile, win-dependent self-esteem. Bravado is often a cover, not the real thing.",
+  "pullQuote": "Confidence is best understood not as a personality trait but as the felt residue of evidence — the record of hard things you have attempted and handled.",
+  "keyStats": [
+    {
+      "value": "Mastery first",
+      "label": "Bandura identified four sources of self-efficacy, but concluded mastery experience — actually accomplishing hard tasks — is the most powerful.",
+      "source": "Bandura (1977)"
+    },
+    {
+      "value": "Not contingent",
+      "label": "Unlike self-esteem, self-compassion does not depend on outperforming others, which is associated with steadier emotional stability across setbacks.",
+      "source": "Neff (2003)"
+    },
+    {
+      "value": "78%",
+      "label": "Of measured psychological gender differences are small or close to zero — these confidence mechanisms are not male-specific.",
+      "source": "Hyde (2005), review of 46 meta-analyses"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: two foundations for confidence",
+    "rows": [
+      { "aspect": "Where it comes from", "men": "Performance-based esteem: proving yourself, winning, status", "women": "Self-compassion: earned mastery plus self-kindness" },
+      { "aspect": "Response to a setback", "men": "Can wobble sharply when worth rides on the outcome", "women": "Recovers faster; the miss is information, not a verdict" },
+      { "aspect": "Underlying feeling", "men": "Anxious — rests on never being found out", "women": "Steadier — not riding on every result" },
+      { "aspect": "Effect on failure", "men": "Fear of failure drives avoidance of challenges", "women": "Lower fear makes it easier to attempt, fail, and retry" }
+    ]
+  },
+  "keyTakeaways": [
+    "Bandura's research points to mastery experience — actually doing hard things — as the strongest source of durable confidence.",
+    "Affirmations and 'fake it till you make it' tend to fade fast because they are not backed by real experience.",
+    "Self-compassion is a steadier base than self-esteem, because it does not depend on outperforming others.",
+    "Harsh self-criticism increases fear of failure and avoidance, stalling the very growth it is meant to drive.",
+    "Confidence staked on external markers — income, status, approval — is volatile; anchored in effort and growth, it is more stable.",
+    "These mechanisms are not male-specific; the sexes overlap heavily, and personality sets the starting point more than gender does."
   ],
   "lastReviewed": "2026-06"
 }

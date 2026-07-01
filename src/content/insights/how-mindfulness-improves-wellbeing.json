@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "Someone who feels anger rising in an argument and notices the physical sensation — the tight chest, the racing thoughts — before speaking often finds they can choose a calmer response, rather than saying something they later regret. The noticing creates a small but useful pause.",
     "A person prone to lying awake replaying the day may find that gently bringing attention back to their breath, again and again, interrupts the rumination enough to settle. The thoughts do not vanish, but they lose some of their grip when not constantly chased.",
-    "Practiced over weeks, briefly checking in with present experience during ordinary moments — a walk, a meal, waiting in line — can leave people reporting feeling less reactive and more grounded overall, even though their circumstances and stressors have not changed."
+    "Practiced over weeks, briefly checking in with present experience during ordinary moments — a walk, a meal, waiting in line — can leave people reporting feeling less reactive and more grounded overall, even though their circumstances and stressors have not changed.",
+    "Someone who notices the familiar pull to check their phone the instant they feel bored or anxious — and simply observes the urge without immediately acting on it — often finds the impulse softens on its own, a small everyday demonstration of the gap mindfulness opens between feeling something and reacting to it."
   ],
   "whatPeopleGetWrong": [
     "A frequent misconception is that mindfulness means emptying the mind or never having difficult thoughts. Research describes it instead as noticing and accepting whatever is present, including unpleasant thoughts. The skill is in the relationship to experience, not in forcing the mind blank.",
@@ -72,6 +73,33 @@
     "the-psychology-of-flow",
     "the-science-of-lasting-happiness",
     "how-to-build-emotional-resilience"
+  ],
+  "quickTake": "Mindfulness — attending to the present moment with acceptance — is linked in research to greater wellbeing, largely by improving emotion regulation and lowering reactivity. It's not a cure-all and effects vary, but noticing experience without immediately reacting tends to steady mood.",
+  "pullQuote": "Much distress comes not just from difficult experiences but from resisting them — mindfulness lowers the secondary struggle, the distress about being distressed.",
+  "keyStats": [
+    {
+      "value": "Higher wellbeing",
+      "label": "People higher in dispositional mindfulness reported greater wellbeing, more positive mood, and lower anxiety and distress across several studies.",
+      "source": "Brown & Ryan (2003)"
+    },
+    {
+      "value": "Reappraise > suppress",
+      "label": "Reframing how we interpret a situation tends to be healthier than suppressing feelings; mindful awareness is thought to support the more effective, reappraisal-like handling.",
+      "source": "Gross & John (2003)"
+    },
+    {
+      "value": "Intentional activity",
+      "label": "A meaningful share of lasting happiness comes from intentional activity rather than fixed circumstances — and mindfulness is a practiced, cultivable habit.",
+      "source": "Lyubomirsky, Sheldon & Schkade (2005)"
+    }
+  ],
+  "keyTakeaways": [
+    "Mindfulness is paying attention to present experience with acceptance — not emptying the mind or forcing it blank.",
+    "It appears to support wellbeing by creating a pause between trigger and response, allowing more deliberate, reappraisal-like handling.",
+    "It tends to reduce rumination, the repetitive dwelling on distress that is closely tied to low mood.",
+    "An acceptance component lowers the secondary struggle — the distress about being distressed — that often amplifies difficulty.",
+    "It's a supportive tool, not a guaranteed fix or a substitute for professional care; effects vary between individuals.",
+    "The mechanisms — attention, acceptance, regulation — appear broadly shared rather than tied to gender."
   ],
   "lastReviewed": "2026-06"
 }

@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "During a tense conversation a man falls silent or says he can't talk right now. This often reads as not caring, but it frequently signals the opposite — he may be flooded, feeling too much at once to engage well, and going quiet to avoid making it worse. A short, agreed pause usually leads to a more productive talk than pressing on.",
     "Asked how he feels, a man genuinely answers 'I don't know,' and means it. This is not evasion so much as a thin emotional vocabulary built over years of being discouraged from naming vulnerable feelings. Given time, gentler questions, and no judgment, many men can find the words — the feeling was there all along, waiting for language.",
-    "Stress that is suppressed rather than expressed tends to surface sideways — as a short temper, withdrawal, or a sudden shutdown that seems out of proportion. Often the trigger is not the immediate moment but accumulated, unspoken strain finally exceeding what suppression could contain."
+    "Stress that is suppressed rather than expressed tends to surface sideways — as a short temper, withdrawal, or a sudden shutdown that seems out of proportion. Often the trigger is not the immediate moment but accumulated, unspoken strain finally exceeding what suppression could contain.",
+    "A man who says almost nothing when he's hurt or worried may open up far more easily side-by-side — on a drive, on a walk, or working on something together — where the absence of direct eye contact and pressure makes putting feelings into words feel less exposing."
   ],
   "whatPeopleGetWrong": [
     "The central misconception is that men who don't express emotion don't have much emotion. Research points the other way: men feel as intensely as women, and sometimes show greater physiological reactivity, but express less because of how they were socialized. Quiet is not emptiness. Treating a man's reserve as proof he is unfeeling misreads both the science and the person.",
@@ -77,6 +78,43 @@
     "what-men-want-but-rarely-say",
     "how-women-handle-emotions",
     "what-makes-men-happy"
+  ],
+  "quickTake": "Men feel emotions about as intensely as women but, on average, express them less — a gap that's largely learned, not innate. When a man shuts down, it's usually overload, not an absence of feeling. The difficulty naming emotions is socialized, and these skills can be built at any age.",
+  "pullQuote": "Quiet is not emptiness — men feel as intensely as women, sometimes with greater physiological reactivity, but express less because of how they were socialized.",
+  "keyStats": [
+    {
+      "value": "Similar experience",
+      "label": "Watching emotional films, men and women reported similar emotional experiences and comparable — sometimes greater — physiological reactivity, yet women were more facially expressive.",
+      "source": "Kring & Gordon (1998)"
+    },
+    {
+      "value": "Learned, not innate",
+      "label": "'Normative male alexithymia' — a learned difficulty naming feelings, more common in men — is rooted in how boys are socialized rather than in biology.",
+      "source": "Levant et al. (2009)"
+    },
+    {
+      "value": "Suppression costs",
+      "label": "Expressive suppression is linked to worse mood, less closeness, and higher physiological cost, while it doesn't remove the underlying feeling; reappraisal generally works better.",
+      "source": "Gross & John (2003)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Intensity of feeling", "men": "Comparable, sometimes greater physiological reactivity", "women": "Comparable" },
+      { "aspect": "Outward expression", "men": "Less facially expressive, on average", "women": "More facially expressive, on average" },
+      { "aspect": "Naming emotions", "men": "Somewhat harder on average (higher alexithymia)", "women": "Somewhat easier on average" },
+      { "aspect": "Flooding in conflict", "men": "Flood more easily, take longer to recover; may stonewall", "women": "Somewhat less prone, on average" },
+      { "aspect": "Regulation style", "men": "Report using suppression more", "women": "More likely to reappraise or talk it through" }
+    ]
+  },
+  "keyTakeaways": [
+    "Men feel emotions about as intensely as women; the reliable difference is in outward expression, not the inner experience.",
+    "A shutdown during conflict is usually flooding — overload — rather than coldness or indifference.",
+    "'Normative male alexithymia' is a learned difficulty naming feelings, not evidence of a missing emotional life.",
+    "Suppression doesn't remove feelings; unexpressed emotion tends to leak out as irritability, distance, or a later shutdown.",
+    "Emotional skills like naming feelings and reappraisal are learnable at any age, and tend to improve mood and relationships.",
+    "These are averages with heavy overlap — plenty of men are highly expressive and plenty of women suppress."
   ],
   "lastReviewed": "2026-06"
 }

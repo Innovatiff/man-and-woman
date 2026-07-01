@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "Two people facing the same financial choice may decide very differently — but whether the more risk-tolerant one is a man or a woman depends far more on their individual history with money than on their sex. The averages tell you almost nothing about a given pair.",
     "A man who decides quickly in a crisis is not necessarily more rational; he may simply be more practiced or more comfortable projecting confidence. A man who deliberates at length is not indecisive; he may be weighing consequences others skip. Style is easy to misread as substance.",
-    "In group settings, perceived 'decisiveness' is often rewarded socially, which can pressure men to commit to a choice fast. That social incentive shapes visible behavior without necessarily improving the actual decision."
+    "In group settings, perceived 'decisiveness' is often rewarded socially, which can pressure men to commit to a choice fast. That social incentive shapes visible behavior without necessarily improving the actual decision.",
+    "Two colleagues shown identical investment options may split — one buys, one waits — and afterward it is tempting to credit the buyer's 'boldness' or the waiter's 'caution' to their being a man or a woman. In reality their past experiences with money predict the choice far better than their sex does."
   ],
   "whatPeopleGetWrong": [
     "The biggest misconception is that men are inherently the more logical, decisive sex and women the more cautious or emotional one. The evidence shows a modest, context-dependent average difference in risk-taking — not a difference in rationality. Both sexes blend reason and emotion in every real decision.",
@@ -72,6 +73,42 @@
     "why-men-compartmentalize",
     "how-women-make-decisions",
     "how-men-deal-with-stress"
+  ],
+  "quickTake": "Men take somewhat more risks than women on average, but the gap is modest, highly context-dependent, and shrinking. There is little evidence men are inherently more decisive, logical, or impulsive as a group — how any individual decides is shaped far more by personality, experience, and situation than by sex.",
+  "pullQuote": "'Taking more risks' is not the same as 'deciding better' or 'deciding faster' — visible style is easy to mistake for the underlying quality of a decision.",
+  "keyStats": [
+    {
+      "value": "150+ studies",
+      "label": "The most cited meta-analysis found men took somewhat more risks than women on average — but the gap varied enormously by context and was narrowing over the years studied.",
+      "source": "Byrnes, Miller & Schafer (1999)"
+    },
+    {
+      "value": "Small effect",
+      "label": "Across most cognitive and behavioral measures, the sexes are far more alike than different, and within-sex variation dwarfs the average gap.",
+      "source": "Hyde (2005)"
+    },
+    {
+      "value": "Autonomy & competence",
+      "label": "People decide best when they feel genuine autonomy and competence in the choice; pressure and coercion degrade decision quality regardless of sex.",
+      "source": "Deci & Ryan (2000)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Risk-taking", "men": "Somewhat higher on average, context-dependent", "women": "Somewhat lower on average, context-dependent" },
+      { "aspect": "Rationality vs. emotion", "men": "Blend of reason and emotion — no evidence of being 'more logical'", "women": "Blend of reason and emotion — no evidence of being 'more emotional'" },
+      { "aspect": "Apparent decisiveness", "men": "Sometimes higher expressed confidence, socially rewarded", "women": "Confidence built through experience, not sex" },
+      { "aspect": "What predicts the style", "men": "Personality, expertise, domain, situation", "women": "Personality, expertise, domain, situation" }
+    ]
+  },
+  "keyTakeaways": [
+    "Men take somewhat more risks on average, but the gap is modest, highly context-dependent, and shrinking over time.",
+    "There is no evidence men decide more logically or less emotionally — both sexes blend reason and emotion in real choices.",
+    "Apparent decisiveness is often higher expressed confidence, not better judgment; quick deciding isn't deciding well.",
+    "The 'men decide with their heads, women with their hearts' binary is a caricature the research doesn't support.",
+    "Decisions go better when both partners feel real autonomy and competence rather than pressure.",
+    "Personality, expertise, culture, and the specific domain predict decision style far better than sex does."
   ],
   "lastReviewed": "2026-06"
 }

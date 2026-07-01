@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A man who throws himself into practical tasks after a death — arrangements, paperwork, fixing things, supporting others — may be grieving instrumentally rather than avoiding feelings, though the same behavior can tip into avoidance if it never makes room for the loss itself.",
     "Grief sometimes surfaces sideways as irritability, withdrawal, or trouble sleeping rather than as obvious sadness, which fits the finding that some men find the emotion hard to name even when it is strongly present.",
-    "A man who seems composed in the early weeks may experience the heaviest waves later, once the practical demands ease — a delayed reckoning rather than an absence of grief."
+    "A man who seems composed in the early weeks may experience the heaviest waves later, once the practical demands ease — a delayed reckoning rather than an absence of grief.",
+    "After a divorce, a man might reorganize his routine, dive into work, or fixate on logistics like housing and custody while rarely speaking of the loss itself — the grief present and heavy, just routed through doing rather than talking."
   ],
   "whatPeopleGetWrong": [
     "The biggest misconception is that a man who does not cry or talk much is not grieving deeply. Research suggests instrumental grievers feel loss as intensely as anyone; they process it differently. Reading composure or activity as indifference misjudges what is often going on underneath.",
@@ -72,6 +73,42 @@
     "why-men-go-silent-when-upset",
     "how-men-process-emotions-internally",
     "why-we-cry-and-what-it-means"
+  ],
+  "quickTake": "Grief isn't less intense in men — it's often expressed differently. Many lean toward 'instrumental' grieving through activity and private processing rather than open tears, which is a valid path. The risk is when socialized restraint tips into delay, masking, or isolation.",
+  "pullQuote": "Reading composure or activity as indifference misjudges what is often going on underneath: instrumental grievers feel loss as intensely as anyone, they just process it differently.",
+  "keyStats": [
+    {
+      "value": "Two grieving styles",
+      "label": "Grief runs on a continuum from 'intuitive' (felt and expressed through emotion) to 'instrumental' (processed through thinking and doing); men lean instrumental on average, and both are legitimate.",
+      "source": "Martin & Doka (2000)"
+    },
+    {
+      "value": "Higher on average",
+      "label": "Men score somewhat higher on alexithymia — difficulty identifying and naming emotions — a tendency linked to 'normative male alexithymia' from socialization, not to feeling less.",
+      "source": "Levant et al. (2009)"
+    },
+    {
+      "value": "Waves over time",
+      "label": "Grief unfolds in waves with gradual recovery for most people, which is why early composure can postpone rather than remove the pain.",
+      "source": "Sbarra & Emery (2005)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Dominant grieving style", "men": "Lean instrumental — activity, problem-solving, private processing", "women": "Lean intuitive — feeling and expressing emotion openly, on average" },
+      { "aspect": "Visible expression", "men": "Often quieter; grief may surface as irritability or restlessness", "women": "More often open tears and talking it through" },
+      { "aspect": "Putting grief into words", "men": "Somewhat harder on average (higher alexithymia)", "women": "Somewhat easier on average" },
+      { "aspect": "Confidants available", "men": "Tend to have fewer close confidants, raising isolation risk", "women": "Tend to have more, buffering the grief" }
+    ]
+  },
+  "keyTakeaways": [
+    "Grief is not less intense in men; the reliable difference is expression, not depth.",
+    "Instrumental grieving — through activity and private processing — is a valid path, not a failure to grieve.",
+    "It tips into a problem only when activity is used to escape the loss entirely, or leads to isolation.",
+    "Higher average alexithymia can make grief hard to name, so it may surface as irritability or physical symptoms.",
+    "Some men delay the emotional reckoning; early composure can postpone rather than remove the pain.",
+    "These are averages with heavy overlap — many women grieve instrumentally and many men grieve intuitively."
   ],
   "lastReviewed": "2026-06"
 }

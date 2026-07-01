@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "Someone keeps a simple weekly list of a few things they are grateful for. Over time they report noticing more good moments during the week itself — a small attentional shift that researchers find often accompanies the practice.",
     "A partner makes a habit of naming specific things they appreciate — 'thank you for handling that, it took weight off me' — rather than letting the gesture pass unremarked. The other person tends to feel valued and, in turn, more inclined to keep showing up, illustrating gratitude's relational ripple.",
-    "After a hard stretch, a person who deliberately recalls what is still going well often finds their mood steadier than expected. The practice doesn't erase difficulty, but it tends to keep the difficulty from crowding out everything else."
+    "After a hard stretch, a person who deliberately recalls what is still going well often finds their mood steadier than expected. The practice doesn't erase difficulty, but it tends to keep the difficulty from crowding out everything else.",
+    "Someone tries a daily gratitude journal, finds it starts to feel like a rote chore after a couple of weeks, and switches to jotting a few genuine notes once a week instead. The less frequent but more heartfelt version fits them better — a reminder that sincerity and fit matter more than rigid frequency."
   ],
   "whatPeopleGetWrong": [
     "A common misunderstanding is treating gratitude as forced positivity or denial — pretending problems don't exist. The research-supported version is different: it is noticing genuine goods alongside real difficulties, not papering over them. Hollow or performative gratitude tends not to produce the benefits, and can feel false.",
@@ -72,6 +73,33 @@
     "the-happiness-set-point-explained",
     "how-relationships-affect-happiness",
     "the-power-of-small-gestures"
+  ],
+  "quickTake": "Deliberately noticing what you're thankful for tends to lift mood, optimism, and closeness — modestly but genuinely. The effects are real rather than dramatic, vary from person to person, and depend on sincere, sustained practice rather than forced positivity.",
+  "pullQuote": "Healthy gratitude is not papering over problems — it is noticing genuine goods alongside real difficulties, not instead of them.",
+  "keyStats": [
+    {
+      "value": "Randomized",
+      "label": "People randomly assigned to a weekly 'count your blessings' task reported higher well-being and optimism than those listing hassles or neutral events.",
+      "source": "Emmons & McCullough (2003)"
+    },
+    {
+      "value": "Durable",
+      "label": "Intentional practices like gratitude are highlighted as a route to lasting change because they resist the adaptation that erodes the impact of mere circumstances.",
+      "source": "Lyubomirsky et al. (2005)"
+    },
+    {
+      "value": "Stronger bonds",
+      "label": "Feeling and expressing gratitude toward a partner was linked to greater responsiveness and relationship maintenance over time.",
+      "source": "Gordon et al. (2012)"
+    }
+  ],
+  "keyTakeaways": [
+    "Randomized experiments suggest gratitude can contribute to well-being, not merely accompany it.",
+    "The effects are real but generally moderate, and they vary between individuals.",
+    "Gratitude works partly by redirecting attention to what's present and going well, counterbalancing our pull toward problems.",
+    "It also slows adaptation, re-foregrounding good things we would otherwise stop noticing.",
+    "Expressed, specific appreciation strengthens relationships through a self-reinforcing cycle of responsiveness.",
+    "Healthy gratitude coexists with honesty about what's hard — forced or performative gratitude tends not to help."
   ],
   "lastReviewed": "2026-06"
 }

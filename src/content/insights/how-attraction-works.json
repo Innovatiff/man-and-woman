@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "People often 'fall for' a coworker, classmate, or neighbor and assume it was fate, when proximity and repeated exposure did much of the quiet work. The person you see often and find easy to talk to has a real statistical head start, which is why so many couples meet through ordinary shared contexts rather than dramatic chance.",
     "Someone insists they have a strict 'type' and then becomes attracted to a person who fits none of it. This mirrors Eastwick and Finkel's finding that stated preferences poorly predict real-time attraction. The checklist describes an idea of a partner; the actual pull tends to emerge from interaction, similarity, and reciprocal warmth.",
-    "A long-term couple feeling flat tries something genuinely new together — a trip, a class, a shared challenge — and notices a spark return. Aron's self-expansion research helps explain this: novel, slightly arousing experiences can be experienced as renewed attraction to the partner, not just enjoyment of the activity."
+    "A long-term couple feeling flat tries something genuinely new together — a trip, a class, a shared challenge — and notices a spark return. Aron's self-expansion research helps explain this: novel, slightly arousing experiences can be experienced as renewed attraction to the partner, not just enjoyment of the activity.",
+    "A dating app user with an exacting list of must-haves keeps swiping past matches who fit it — and then feels a strong, unexpected pull toward someone they meet in a class or through friends. The repeated in-person contact and easy rapport do quiet work that no profile filter captures."
   ],
   "whatPeopleGetWrong": [
     "The biggest misconception is that attraction can be engineered with techniques, games, or manipulation tactics. The evidence points instead to slow, mutual processes — proximity, similarity, reciprocal liking, and shared experience — that are about genuine connection, not tricks. Attempts to 'hack' attraction tend to be unreliable at best and corrosive to trust at worst.",
@@ -74,6 +75,42 @@
     "what-women-find-attractive",
     "what-makes-relationships-last",
     "how-men-fall-in-love"
+  ],
+  "quickTake": "Attraction is more ordinary than 'chemistry' implies. A few reliable forces do most of the work: being around someone, being similar to them, sensing they like you back, and early on, looks. What people say they want often differs from who they actually choose.",
+  "pullQuote": "There are no reliable 'techniques' that override the basics — attraction grows through proximity, similarity, mutual warmth, and shared experience, not tricks.",
+  "keyStats": [
+    {
+      "value": "Strongest early predictor",
+      "label": "In the classic 'computer dance' study, physical attractiveness was the single best predictor of liking at first meeting — for men and women alike.",
+      "source": "Walster, Aronson, Abrahams & Rottmann (1966)"
+    },
+    {
+      "value": "Stated ≠ actual",
+      "label": "Men's and women's reported ideal-partner preferences did not predict who they were actually drawn to in live, face-to-face interaction.",
+      "source": "Eastwick & Finkel (2008)"
+    },
+    {
+      "value": "Higher quality",
+      "label": "Couples who shared novel, arousing activities reported greater relationship quality than those doing pleasant but routine ones.",
+      "source": "Aron et al. (2000)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Stated ideals on paper", "men": "Tend to emphasize physical attractiveness", "women": "Tend to emphasize earning prospects" },
+      { "aspect": "Predicting real-time attraction", "men": "Stated ideals predict poorly", "women": "Stated ideals predict poorly" },
+      { "aspect": "Weight of looks at first meeting", "men": "Strong early, then recedes", "women": "Strong early, then recedes" },
+      { "aspect": "What deepens attraction over time", "men": "Similarity, warmth, shared experience", "women": "Similarity, warmth, shared experience" }
+    ]
+  },
+  "keyTakeaways": [
+    "A handful of reliable forces drive attraction: proximity and familiarity, similarity, reciprocal liking, and early on, physical appeal.",
+    "Looks matter most at first contact, when little else is known; other qualities take over as people get acquainted.",
+    "Stated 'types' and gender checklists predict real attraction poorly — actual pull emerges from interaction.",
+    "There are no reliable techniques to engineer attraction; genuine, mutual processes work better than games.",
+    "Attraction can be nurtured — shared novelty and continued warmth help keep it alive past the early spark.",
+    "Reported gender differences are small, inconsistent, and often vanish in real interaction."
   ],
   "lastReviewed": "2026-06"
 }
