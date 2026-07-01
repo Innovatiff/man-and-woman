@@ -74,5 +74,41 @@
     "understanding-attachment-styles",
     "why-women-overthink-relationships"
   ],
+  "quickTake": "Overthinking texts isn't a personal flaw — it's the mind trying to resolve genuine ambiguity when the stakes feel high. Text strips away tone, attachment anxiety reads silence as threat, and a short reply carries almost no real data to go on.",
+  "pullQuote": "A brief or delayed reply carries almost no real data — but the mind treats it as a verdict.",
+  "keyStats": [
+    {
+      "value": "Attachment anxiety",
+      "label": "Predicts overthinking better than gender does — people higher in anxiety monitor a partner's signals closely and read ambiguity as threat.",
+      "source": "Hazan & Shaver (1987); Mikulincer & Shaver (2007)"
+    },
+    {
+      "value": "Threat-tilted",
+      "label": "Under uncertainty, the risk-regulation system tilts toward self-protection and threat-detection, so blanks get filled anxiously.",
+      "source": "Murray, Holmes & Collins (2006)"
+    },
+    {
+      "value": "Both sexes",
+      "label": "Most psychological gender differences are small or close to zero — the drivers of overthinking show up across men and women alike.",
+      "source": "Hyde (2005), review of 46 meta-analyses"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "How overthinking is expressed", "men": "Often internalized or under-reported", "women": "Often talked through with friends" },
+      { "aspect": "Underlying drivers", "men": "Uncertainty, fear of rejection, attachment anxiety", "women": "Uncertainty, fear of rejection, attachment anxiety" },
+      { "aspect": "What predicts it best", "men": "Attachment style and self-worth, not gender", "women": "Attachment style and self-worth, not gender" },
+      { "aspect": "Response to clearer signals", "men": "Ambiguity eases, monitoring quiets", "women": "Ambiguity eases, monitoring quiets" }
+    ]
+  },
+  "keyTakeaways": [
+    "Overthinking is a natural response to genuine ambiguity and the real risk of rejection — not a personal weakness.",
+    "Text strips away tone, expression, and timing, so the same words can be read warmly or coldly depending on your mood and fears.",
+    "Attachment anxiety turns neutral silence into perceived threat, triggering the re-reading and reassurance-seeking loop.",
+    "More analysis rarely means more accuracy — a short or delayed reply usually contains too little information to support any confident conclusion.",
+    "The drivers appear in both men and women; attachment style and self-worth predict overthinking better than gender does.",
+    "Noticing the spiral, tolerating not-knowing, and grounding self-worth outside the outcome tend to help more than seeking constant reassurance."
+  ],
   "lastReviewed": "2026-06"
 }

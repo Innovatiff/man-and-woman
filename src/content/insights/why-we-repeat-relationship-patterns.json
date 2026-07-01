@@ -73,5 +73,41 @@
     "why-people-self-sabotage-relationships",
     "understanding-fear-of-abandonment"
   ],
+  "quickTake": "We repeat relationship patterns because we carry internal 'working models' — expectations about closeness, trust, and our own worth — that quietly steer who we choose and how we act. They feel like fate, but they're learned, and they can be updated.",
+  "pullQuote": "The pattern can feel like bad luck, when it may really be a working model steering both whom you choose and how you respond.",
+  "keyStats": [
+    {
+      "value": "Self-perpetuating",
+      "label": "Working models bias attention, memory, and interpretation, so an expectation of being let down can shape behavior that inadvertently confirms it.",
+      "source": "Bartholomew & Horowitz (1991); Mikulincer & Shaver (2007)"
+    },
+    {
+      "value": "Open to change",
+      "label": "Attachment patterns can update through insight, life events, therapy, and a consistently responsive partner — they are tendencies, not destiny.",
+      "source": "Mikulincer & Shaver (2007)"
+    },
+    {
+      "value": "Both sexes",
+      "label": "Repeating patterns appear across genders; most psychological gender differences are small or close to zero, so individual differences outweigh sex.",
+      "source": "Hyde (2005), review of 46 meta-analyses"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Where patterns come from", "men": "Early working models of relating", "women": "Early working models of relating" },
+      { "aspect": "How the anxious template shows up", "men": "May seek reassurance or withdraw protectively", "women": "May seek reassurance or withdraw protectively" },
+      { "aspect": "How the avoidant template shows up", "men": "May distance when closeness deepens", "women": "May distance when closeness deepens" },
+      { "aspect": "What loosens the pattern", "men": "Insight plus corrective, secure experiences", "women": "Insight plus corrective, secure experiences" }
+    ]
+  },
+  "keyTakeaways": [
+    "We carry internal working models — expectations about closeness and self-worth — that shape who we choose and how we behave, often outside awareness.",
+    "Patterns can become self-fulfilling: an expectation of being let down can drive behavior that quietly confirms it.",
+    "Repeating a pattern is a learned template biasing perception, not a hidden wish to suffer or a doom to keep failing.",
+    "Changing the partner alone often isn't enough — the same template can reassert itself; inner work usually matters too.",
+    "Naming your working model is the first real lever: awareness lets you test the old expectation against reality.",
+    "A consistently responsive partner or therapy can provide the corrective experiences that update old models toward security."
+  ],
   "lastReviewed": "2026-06"
 }

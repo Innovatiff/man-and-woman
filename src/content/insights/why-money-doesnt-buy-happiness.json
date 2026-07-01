@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "Someone who receives a long-awaited raise may feel genuinely happier for a few weeks, then find their spending and expectations have quietly risen to match, leaving their day-to-day mood much where it was. This is the hedonic treadmill in ordinary life — the same income that felt like plenty now feels merely normal.",
     "A person who moves into a more affluent neighborhood may find that, surrounded by even wealthier neighbors, they feel less well-off than before despite having more. Social comparison can erase the felt benefit of a real gain, which is part of why absolute wealth tracks happiness so loosely.",
-    "By contrast, someone lifted out of genuine financial precarity often experiences a substantial and lasting relief. Removing the chronic stress of not affording essentials tends to matter a great deal — illustrating that money's strongest effect on well-being is often at the bottom, easing hardship, rather than at the top, adding pleasure."
+    "By contrast, someone lifted out of genuine financial precarity often experiences a substantial and lasting relief. Removing the chronic stress of not affording essentials tends to matter a great deal — illustrating that money's strongest effect on well-being is often at the bottom, easing hardship, rather than at the top, adding pleasure.",
+    "A high earner who keeps promising themselves that the next promotion or bigger house will finally feel like 'enough' often discovers each milestone quietly resets the target. The lifestyle expands to match, the old goal becomes the new baseline, and the finish line moves — a treadmill that can absorb decades of striving without a matching gain in everyday contentment."
   ],
   "whatPeopleGetWrong": [
     "The phrase 'money doesn't buy happiness' is often taken too absolutely. Research suggests money does matter, especially for escaping hardship and for how people evaluate their lives overall. The more accurate point is that its effect on everyday emotional well-being is weaker than expected and tends to flatten, not that income is irrelevant.",
@@ -71,6 +72,33 @@
     "the-science-of-lasting-happiness",
     "how-relationships-affect-happiness",
     "the-role-of-purpose-in-a-meaningful-life"
+  ],
+  "quickTake": "Money matters most for escaping hardship and for how we judge our lives overall — but its effect on everyday mood is weaker than expected and flattens as income rises. Adaptation and comparison erode much of the lift we anticipate.",
+  "pullQuote": "More money often delivers less lasting happiness than people anticipate — beyond a comfortable level, the raise becomes the new normal.",
+  "keyStats": [
+    {
+      "value": "~$75,000",
+      "label": "In 2010 US data, the income level above which higher earnings showed little further link to day-to-day emotional well-being (life evaluation kept rising).",
+      "source": "Kahneman & Deaton (2010)"
+    },
+    {
+      "value": "Lottery winners",
+      "label": "Sudden wealth did not leave winners dramatically happier in everyday life than a comparison group — evidence for adaptation back toward a baseline.",
+      "source": "Brickman, Coates & Janoff-Bulman (1978)"
+    },
+    {
+      "value": "No net rise",
+      "label": "The Easterlin paradox: raising everyone's income over time did not produce the expected rise in average happiness within a society.",
+      "source": "Easterlin (1995)"
+    }
+  ],
+  "keyTakeaways": [
+    "Money reliably improves life evaluation and matters greatly for escaping hardship — the slogan is too absolute.",
+    "Its effect on everyday emotional well-being is weaker and appears to flatten as income rises.",
+    "Hedonic adaptation means each material gain gives a temporary lift, not a permanent one.",
+    "Social comparison and rising reference points — the hedonic treadmill — can erase the felt benefit of a real raise.",
+    "Money's strongest effect on well-being is often at the bottom, easing hardship, not at the top, adding pleasure.",
+    "Close relationships, purpose, and engaging activity tend to pay off more reliably than income beyond comfort."
   ],
   "lastReviewed": "2026-06"
 }

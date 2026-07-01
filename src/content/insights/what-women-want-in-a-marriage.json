@@ -74,5 +74,41 @@
     "how-women-think-about-marriage",
     "what-makes-a-woman-feel-loved"
   ],
+  "quickTake": "In marriage, many women tend to prioritize feeling genuinely known, responded to, and valued, alongside security and real partnership. Over the years, everyday responsiveness tends to matter more than romance or provision — though individual women vary widely.",
+  "pullQuote": "A wife who seems to want 'more communication' is often asking for responsiveness — the experience of being understood when she shares, not a quick fix or a distracted nod.",
+  "keyStats": [
+    {
+      "value": "Turning toward",
+      "label": "Gottman's longitudinal work found couples who respond to each other's small everyday bids for attention tend to fare better over time.",
+      "source": "Gottman & Silver (1999)"
+    },
+    {
+      "value": "Felt safety",
+      "label": "Risk-regulation research finds that when a partner feels a bond is dependable, they invest more fully rather than self-protect.",
+      "source": "Murray, Holmes & Collins (2006)"
+    },
+    {
+      "value": "78%",
+      "label": "Of measured psychological gender differences are small or close to zero — men value responsiveness and connection too, with large overlap.",
+      "source": "Hyde (2005), review of 46 meta-analyses"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Emotional responsiveness", "men": "Benefit from it too; report it as central somewhat less often", "women": "More often report felt-understanding as central to happiness" },
+      { "aspect": "Meaning of 'more communication'", "men": "May hear a request for words or problem-solving", "women": "Often a request for responsiveness and being understood" },
+      { "aspect": "Appreciation for invisible labor", "men": "Value being appreciated; often carry a different share", "women": "Often carry more household/emotional labor; value being seen for it" },
+      { "aspect": "What sustains the bond", "men": "Security, respect, steady partnership", "women": "Security, responsiveness, feeling genuinely valued" }
+    ]
+  },
+  "keyTakeaways": [
+    "Lasting marital satisfaction tracks more with everyday responsiveness than with grand gestures — small consistent acts register more than occasional big ones.",
+    "Feeling secure — that a partner is dependable and committed — frees people to invest fully rather than self-protect.",
+    "A request for connection is usually an attempt to strengthen the bond, not a criticism; meeting it with defensiveness tends to widen the gap.",
+    "Sincere, specific appreciation for often-invisible planning and emotional labor matters more than either partner tends to expect.",
+    "Men value responsiveness and connection too; the average difference is modest and the overlap large.",
+    "Individual women vary widely — some most value security, others autonomy or shared adventure — so genuine curiosity beats any script from averages."
+  ],
   "lastReviewed": "2026-06"
 }

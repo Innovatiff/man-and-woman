@@ -78,5 +78,41 @@
     "what-men-need-in-relationship",
     "why-women-test-men"
   ],
+  "quickTake": "When a man pulls away, it is usually coping, not a verdict. Stress, conflict, or emotional flooding pushes him to retreat and self-regulate — more often than lost interest, though a lasting pattern of unexplained distance can signal real doubt.",
+  "pullQuote": "From the inside, going quiet feels like self-protection, not rejection — flooding shuts a person down long before it means they've stopped caring.",
+  "keyStats": [
+    {
+      "value": "Men flood more easily",
+      "label": "During conflict, men on average become physiologically overwhelmed sooner and take longer to calm down, often responding by going quiet.",
+      "source": "Gottman & Levenson (1992)"
+    },
+    {
+      "value": "Withdrawing role",
+      "label": "Men more often occupy the withdrawing side of the demand-withdraw pattern, though the roles depend on who wants change, not gender alone.",
+      "source": "Christensen & Heavey (1990)"
+    },
+    {
+      "value": "78%",
+      "label": "Of measured psychological gender differences are small or close to zero — the sexes overlap far more than they differ.",
+      "source": "Hyde (2005), review of 46 meta-analyses"
+    }
+  ],
+  "comparison": {
+    "title": "Under conflict: average tendencies",
+    "rows": [
+      { "aspect": "Physiological flooding", "men": "Tend to flood sooner and recover more slowly", "women": "Tend to stay engaged and recover somewhat faster" },
+      { "aspect": "Role in conflict", "men": "More often withdraw or go quiet", "women": "More often press to discuss and resolve" },
+      { "aspect": "Typical coping style", "men": "Often process stress inward and alone", "women": "Often process stress by talking it through" },
+      { "aspect": "What helps them re-engage", "men": "Space first, then return to the topic", "women": "Reassurance that the connection is intact" }
+    ]
+  },
+  "keyTakeaways": [
+    "Pulling away is more often a response to stress, conflict, or flooding than a sign of lost interest.",
+    "Men, on average, flood physiologically sooner and take longer to calm down, which can look like stonewalling.",
+    "The demand-withdraw cycle is a dynamic between two people — chasing a withdrawer usually deepens the retreat.",
+    "Giving space while making clear you want to reconnect works better than pursuing harder.",
+    "Chronic, uncommunicated distance is worth taking seriously; the pattern over time distinguishes coping from real doubt.",
+    "Attachment style predicts withdrawal better than gender does, with heavy overlap between the sexes."
+  ],
   "lastReviewed": "2026-06"
 }

@@ -73,5 +73,41 @@
     "why-we-are-attracted-to-certain-types",
     "why-we-fall-for-the-wrong-people"
   ],
+  "quickTake": "There's a grain of truth here, but the popular version overstates it. We're shaped less by our parents' looks than by the patterns of relating we learned early and a pull toward the familiar — tendencies, not destiny, and the strong 'we marry our parent' claims are mixed at best.",
+  "pullQuote": "The question is less 'does my partner look like my parent' than 'does this relationship feel emotionally familiar' — for better or worse.",
+  "keyStats": [
+    {
+      "value": "Partial continuity",
+      "label": "A major review found attachment patterns show meaningful but imperfect continuity from early caregiving into adult relationships — many people develop patterns unlike their parents'.",
+      "source": "Mikulincer & Shaver (2007)"
+    },
+    {
+      "value": "Familiar attracts",
+      "label": "Classic mere-exposure research showed repeated exposure tends to increase liking, helping explain why atmospheres we grew up around feel appealing even when they aren't ideal.",
+      "source": "Zajonc (1968)"
+    },
+    {
+      "value": "Patterns, not looks",
+      "label": "Attachment theory locates the real similarity in learned dynamics of closeness and trust rather than a parent's appearance or career.",
+      "source": "Hazan & Shaver (1987)"
+    }
+  ],
+  "keyTakeaways": [
+    "The meaningful similarity is usually in patterns of relating we learned early, not a parent's looks.",
+    "Familiarity feels comfortable and can register as 'fit' even when a dynamic was painful.",
+    "Attachment patterns show only partial, probabilistic continuity — many people break from their family template.",
+    "Popular 'imago' claims that we seek a parent's exact image run well ahead of the evidence.",
+    "Awareness can turn an unconscious pull into a conscious choice, and corrective experiences can update the template.",
+    "The tendency is broadly human and not strongly gendered."
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Pull toward familiar dynamics", "men": "Present, on average", "women": "Present, on average" },
+      { "aspect": "What is echoed", "men": "Learned patterns of closeness and trust", "women": "Learned patterns of closeness and trust" },
+      { "aspect": "Strength of the pattern", "men": "Individual history outweighs gender", "women": "Individual history outweighs gender" },
+      { "aspect": "Room to change", "men": "Updatable via new experiences and reflection", "women": "Updatable via new experiences and reflection" }
+    ]
+  },
   "lastReviewed": "2026-06"
 }

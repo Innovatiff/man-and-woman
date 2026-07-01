@@ -73,5 +73,41 @@
     "what-makes-someone-fall-out-of-love",
     "the-stages-of-falling-in-love"
   ],
+  "quickTake": "Seeing a partner a little more positively than they see themselves is common and, within limits, linked to more satisfaction and stability — not just self-deception. It turns harmful only when the rosy view starts explaining away real red flags.",
+  "pullQuote": "The skill is keeping warmth and clear eyes at the same time.",
+  "keyStats": [
+    {
+      "value": "More durable",
+      "label": "People who viewed partners more positively than the partners saw themselves tended to be more satisfied, and their relationships were more likely to last.",
+      "source": "Murray, Holmes & Griffin (1996)"
+    },
+    {
+      "value": "Lowers felt risk",
+      "label": "Believing the best about a partner — and feeling they believe the best about you — reduces the perceived danger of depending on them.",
+      "source": "Murray, Holmes & Collins (2006), risk-regulation model"
+    },
+    {
+      "value": "Fades over time",
+      "label": "The absorbed, flaw-dimming state of early passionate love is partly chemistry-driven and tends to settle as a relationship matures.",
+      "source": "Hatfield & Sprecher (1986)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Healthy idealization", "men": "Affirms a partner's genuine strengths; reads small frustrations kindly", "women": "Affirms a partner's genuine strengths; reads small frustrations kindly" },
+      { "aspect": "When it tips into denial", "men": "Explaining away repeated harm as 'they didn't mean it'", "women": "Explaining away repeated harm as 'they didn't mean it'" },
+      { "aspect": "What shapes the tendency most", "men": "Attachment style and self-esteem more than gender", "women": "Attachment style and self-esteem more than gender" },
+      { "aspect": "As the relationship matures", "men": "Aim for realistic idealization — warmth plus reality", "women": "Aim for realistic idealization — warmth plus reality" }
+    ]
+  },
+  "keyTakeaways": [
+    "Modest 'positive illusions' are common and, within limits, linked to more satisfying, durable relationships — not inevitable disappointment.",
+    "Part of the effect is self-fulfilling: partners tend to grow toward the better self they feel seen as.",
+    "Feeling idealized in return lowers the fear of depending on someone, making intimacy feel safer.",
+    "It turns harmful when it crosses into denial — explaining away repeated dishonesty, contempt, or incompatibility.",
+    "The healthiest version is 'realistic idealization': affirming a partner's best self while still seeing who they actually are.",
+    "Idealization is a broadly human process; attachment style and self-esteem shape it far more than gender does."
+  ],
   "lastReviewed": "2026-06"
 }

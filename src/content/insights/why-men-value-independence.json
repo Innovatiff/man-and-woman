@@ -73,5 +73,41 @@
     "the-pursue-withdraw-pattern-explained",
     "what-drives-male-behavior"
   ],
+  "quickTake": "Many men prize independence — room to act, decide, and pursue their own interests. That reflects a universal need for autonomy, amplified by socialization toward self-reliance. It is rarely a rejection of closeness; healthy bonds support both togetherness and a separate self.",
+  "pullQuote": "Autonomy is not the opposite of connection — people function best when they feel both genuinely bonded and free to be themselves.",
+  "keyStats": [
+    {
+      "value": "One of 3 basic needs",
+      "label": "Autonomy stands alongside competence and relatedness as a basic psychological need, and it coexists with connection rather than competing with it.",
+      "source": "Deci & Ryan (2000), self-determination theory"
+    },
+    {
+      "value": "Withdrawing role",
+      "label": "Men more often occupy the withdrawing side of the demand-withdraw pattern, though roles reverse depending on who wants change.",
+      "source": "Christensen & Heavey (1990)"
+    },
+    {
+      "value": "78%",
+      "label": "Of measured psychological gender differences are small or close to zero — the need for autonomy is universal.",
+      "source": "Hyde (2005), review of 46 meta-analyses"
+    }
+  ],
+  "comparison": {
+    "title": "Independence and closeness: average tendencies",
+    "rows": [
+      { "aspect": "Emphasis in socialization", "men": "Often stronger messages toward self-reliance", "women": "Often stronger messages toward connection" },
+      { "aspect": "Role under conflict", "men": "More often seek distance to cool down", "women": "More often seek engagement to resolve" },
+      { "aspect": "Underlying need for autonomy", "men": "Universal and present", "women": "Universal and present" },
+      { "aspect": "Healthy balance", "men": "Space, then reconnection", "women": "Connection that still allows separateness" }
+    ]
+  },
+  "keyTakeaways": [
+    "Valuing independence reflects a universal need for autonomy, amplified in many men by socialization toward self-reliance.",
+    "Autonomy and connection are complementary needs, not opposites — many men want both a strong bond and room to be themselves.",
+    "Time and space can be a way to manage stress and return with more to give, not a retreat from the partner.",
+    "The key distinction is whether someone reconnects: healthy autonomy returns, avoidant withdrawal dodges intimacy.",
+    "Relationships do better when a partner's need for space is respected rather than read as rejection.",
+    "Attachment style and personality predict the balance better than gender does, with heavy overlap between the sexes."
+  ],
   "lastReviewed": "2026-06"
 }

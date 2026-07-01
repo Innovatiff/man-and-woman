@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "During an argument, a man may stop responding, look away, or leave the room. To a partner this can feel like being shut out, but internally he may be flooded — overwhelmed and trying to keep from escalating. He is frequently not calm at all beneath the stillness.",
     "After a hard day, some men retreat into a quiet, low-communication mode rather than narrating what is wrong. The silence is less a refusal to share than a way of processing or decompressing before words feel available.",
-    "A man who says 'I just need a minute' and then disappears for an hour is often trying to self-regulate. The pause is real and useful for him, even if the lack of a clear timeline leaves a partner anxious about what the silence means."
+    "A man who says 'I just need a minute' and then disappears for an hour is often trying to self-regulate. The pause is real and useful for him, even if the lack of a clear timeline leaves a partner anxious about what the silence means.",
+    "A man who texts back in clipped one-word replies after a disagreement is frequently still flooded rather than cold; when the arousal drops hours later, the fuller, warmer response he could not manage in the moment often arrives on its own."
   ],
   "whatPeopleGetWrong": [
     "The biggest misconception is that silence equals indifference. Research on flooding and withdrawal points the other way: a person who goes quiet during conflict is often more physiologically aroused, not less, and is trying to manage that state. Quiet is not the same as not caring.",
@@ -73,6 +74,42 @@
     "the-pursue-withdraw-pattern-explained",
     "how-men-handle-emotions",
     "why-men-need-alone-time"
+  ],
+  "quickTake": "Going quiet when upset is usually about overwhelm, not indifference. During conflict the body can 'flood' — heart racing, thinking narrowed — and silence is often an instinctive attempt to calm down, sometimes made harder by having fewer practiced words for the feeling.",
+  "pullQuote": "A person who goes quiet during conflict is often more physiologically aroused, not less — quiet is not the same as not caring.",
+  "keyStats": [
+    {
+      "value": "~Somewhat more",
+      "label": "Men are, on average, somewhat more likely to stonewall and to show physiological flooding during conflict — but the overlap with women is large.",
+      "source": "Gottman & Levenson (1992)"
+    },
+    {
+      "value": "Higher alexithymia",
+      "label": "Men score somewhat higher on average for difficulty identifying and describing feelings, which the authors tie to socialization, not biology.",
+      "source": "Levant et al. (2009)"
+    },
+    {
+      "value": "Suppression backfires",
+      "label": "Hiding the outward signs of emotion tends to leave internal arousal intact or higher, so silence often calms the surface, not the storm.",
+      "source": "Gross (1998), emotion regulation"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Response to conflict arousal", "men": "Somewhat more likely to withdraw or stonewall", "women": "Somewhat more likely to pursue or press to talk" },
+      { "aspect": "What the silence often means", "men": "Flooded, buying time to self-regulate", "women": "Wanting connection and resolution now" },
+      { "aspect": "Naming the feeling in the moment", "men": "Often harder to articulate under stress", "women": "Often more practiced vocabulary for it" },
+      { "aspect": "What helps most", "men": "A defined break with a promise to return", "women": "Reassurance the pause isn't abandonment" }
+    ]
+  },
+  "keyTakeaways": [
+    "Silence when upset is usually self-protective overwhelm, not indifference or punishment.",
+    "'Flooding' — racing heart, narrowed thinking — makes calm conversation genuinely hard in the moment.",
+    "Difficulty naming feelings can make silence the path of least resistance when emotions surge.",
+    "A defined break with a clear plan to return beats forcing the talk while someone is flooded.",
+    "Chronic withdrawal still erodes connection, so returning and repairing matters as much as the pause.",
+    "Withdrawal is a human pattern, not a male one — in many couples the woman withdraws and the man pursues."
   ],
   "lastReviewed": "2026-06"
 }

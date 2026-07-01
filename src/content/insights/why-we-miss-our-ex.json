@@ -73,5 +73,41 @@
     "why-rejection-hurts-so-much",
     "understanding-attachment-styles"
   ],
+  "quickTake": "Missing an ex is mostly an attachment bond that does not switch off at the breakup. Your brain reacts to losing a partner a bit like losing a source of comfort, memory romanticizes the past, and the result feels like craving. It usually fades with time.",
+  "pullQuote": "Missing someone is information about attachment, not a reliable verdict on compatibility.",
+  "keyStats": [
+    {
+      "value": "Attachment loss",
+      "label": "Because a partner becomes an attachment figure, a breakup registers as the loss of a source of security — which is why the longing can feel physical and persistent.",
+      "source": "Hazan & Shaver (1987)"
+    },
+    {
+      "value": "Fades gradually",
+      "label": "Distress, love, and sadness often persist and overlap after a breakup, then ease over time rather than vanishing at the split.",
+      "source": "Sbarra & Emery (2005)"
+    },
+    {
+      "value": "Withdrawal-like",
+      "label": "Breakup responses can resemble grief and a withdrawal-like state — preoccupation, craving contact, difficulty letting go — that eases as the attachment system reorganizes.",
+      "source": "Field (2017), review"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Depth of breakup distress", "men": "Real and often significant", "women": "Real and often significant" },
+      { "aspect": "How grief is expressed", "men": "Sometimes less openly, shaped by norms", "women": "Sometimes more openly voiced or shared" },
+      { "aspect": "Idealized memory of the ex", "men": "Common; recalls the good, softens the bad", "women": "Common; recalls the good, softens the bad" },
+      { "aspect": "What supports recovery", "men": "Routines, friends, time, limited contact", "women": "Routines, friends, time, limited contact" }
+    ]
+  },
+  "keyTakeaways": [
+    "Missing an ex is largely a broken attachment bond that keeps seeking a lost source of comfort and security.",
+    "Memory idealizes the past — you often miss a partly edited version of the relationship, which can inflate the longing.",
+    "The 'withdrawal-like' craving reflects lost routines and rewards, and tends to come in waves that gradually subside.",
+    "Longing is not a reliable sign to reconcile; strong feeling can coexist with real incompatibility.",
+    "Both men and women feel breakup distress deeply — the differences are mostly in expression, not depth.",
+    "Recovery is supported by rebuilding routines and connections and limiting contact; time lets the bond loosen its grip."
+  ],
   "lastReviewed": "2026-06"
 }

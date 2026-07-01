@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A man who says 'I'm fine' after a conflict may spend the evening replaying it — wondering what he should have said, whether he overreacted, what his partner really meant. The calm exterior can mask an active internal loop that he does not feel able to voice.",
     "Before a big decision, a job change, or a relationship step, some men go quiet and busy rather than talkative. The quiet is easily mistaken for not caring or not deliberating, when it can be intense private rumination expressed as withdrawal into tasks rather than conversation.",
-    "After a breakup or a setback, a man may insist he is 'over it' and bury himself in activity, only to find the same questions resurfacing weeks later. The distraction managed the symptom without resolving the thought, so the overthinking simply waited."
+    "After a breakup or a setback, a man may insist he is 'over it' and bury himself in activity, only to find the same questions resurfacing weeks later. The distraction managed the symptom without resolving the thought, so the overthinking simply waited.",
+    "A man lying awake at 2 a.m. re-running a comment he made in a meeting — or a text he sent hours ago — is overthinking every bit as hard as anyone; he is just far less likely to phone a friend to talk it through, so no one else ever sees the loop."
   ],
   "whatPeopleGetWrong": [
     "The central misconception is that men don't overthink, or that rumination is essentially a female trait. Research suggests the gap is a modest average difference, not a categorical one, and that men's overthinking is often hidden by a quieter, more internal style rather than truly absent.",
@@ -72,6 +73,42 @@
     "how-men-process-emotions-internally",
     "why-we-overthink-dating-and-texting",
     "why-women-overthink-relationships"
+  ],
+  "quickTake": "Overthinking gets labeled a women's trait, but men ruminate too — usually more privately, with fewer people to talk it out. A calm surface and a busy schedule can hide a loop running underneath, so 'he doesn't seem worried' isn't reliable evidence that he isn't.",
+  "pullQuote": "The thoughts do not stop; they go underground — a man may seem unbothered while running the same scenario on repeat.",
+  "keyStats": [
+    {
+      "value": "~Somewhat more (women)",
+      "label": "Women report ruminating somewhat more on average, but the gap is modest and the distributions overlap heavily — 'more on average' is not 'only women.'",
+      "source": "Nolen-Hoeksema (2000)"
+    },
+    {
+      "value": "Higher alexithymia",
+      "label": "Men report somewhat more difficulty identifying and articulating feelings on average, so their rumination is often less visible rather than absent.",
+      "source": "Levant et al. (2009)"
+    },
+    {
+      "value": "Suppression backfires",
+      "label": "Hiding the outward signs of emotion tends to leave the internal experience — and arousal — largely intact, so silent cycling prolongs the strain.",
+      "source": "Gross (1998), emotion regulation"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Amount of rumination", "men": "Report somewhat less on average — but the gap is modest", "women": "Report somewhat more on average" },
+      { "aspect": "Where it happens", "men": "More often internal, private, and hidden", "women": "More often talked out with others" },
+      { "aspect": "Typical coping route", "men": "Distraction — work, exercise, projects", "women": "More often processing through conversation" },
+      { "aspect": "How visible it is", "men": "Often masked by a calm, busy exterior", "women": "Often more outwardly expressed" }
+    ]
+  },
+  "keyTakeaways": [
+    "Overthinking isn't a female trait — men ruminate too, just more quietly and with fewer outlets.",
+    "The gender gap in rumination is real but modest, with heavy overlap; many men out-ruminate many women.",
+    "What differs is usually the outlet, not the presence of the thought loops.",
+    "Distraction postpones a worry rather than resolving it, so it tends to resurface later.",
+    "A calm, busy exterior can disguise heavy private rumination — 'he doesn't seem worried' isn't proof.",
+    "Naming the worry and acting on or talking it through loosens its grip more than silent cycling does."
   ],
   "lastReviewed": "2026-06"
 }

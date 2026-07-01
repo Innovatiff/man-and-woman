@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A partner who has cooked dinner most nights for years may find it no longer draws a thank-you — not from coldness, but because it has become invisible through repetition. The first time it stops happening, its absence is felt sharply, which reveals how much was being quietly relied upon.",
     "Couples often report that a health scare, a separation, or watching another relationship end suddenly sharpens their appreciation. The partner did nothing different; the threat of loss simply restored the attention that familiarity had dulled.",
-    "Small bids for connection — a comment about something interesting, a hand reached out, a 'look at this' — can start going unanswered when each person is absorbed in their own day. Over months, the unnoticed bids add up to a sense of being unseen, even when affection is still genuinely there."
+    "Small bids for connection — a comment about something interesting, a hand reached out, a 'look at this' — can start going unanswered when each person is absorbed in their own day. Over months, the unnoticed bids add up to a sense of being unseen, even when affection is still genuinely there.",
+    "A partner who quietly handles the invisible maintenance of a shared life — refilling the car, remembering birthdays, keeping the fridge stocked — often only becomes visible when they stop or when a guest remarks on it. The work was steady; the noticing was what had faded."
   ],
   "whatPeopleGetWrong": [
     "The biggest misconception is that taking someone for granted means you have stopped loving them. More often it reflects how attention naturally works, not how much you care. Treating it as proof of fading love can turn a fixable drift into a self-fulfilling crisis.",
@@ -72,6 +73,42 @@
     "the-power-of-small-gestures",
     "how-couples-grow-apart",
     "what-makes-someone-fall-out-of-love"
+  ],
+  "quickTake": "Taking a partner for granted rarely means you've stopped caring. The mind adapts to what stays constant, so reliable kindness quietly stops registering. Gratitude fades because attention drifts — and deliberately noticing again is one of the surest ways to restore it.",
+  "pullQuote": "The behavior has not changed; the noticing has.",
+  "keyStats": [
+    {
+      "value": "Adaptation",
+      "label": "Positive experiences lose intensity as they become routine, so a once-extraordinary partner can come to feel like background.",
+      "source": "Lyubomirsky, Sheldon & Schkade (2005)"
+    },
+    {
+      "value": "Protective",
+      "label": "Partners who felt more appreciated were more responsive and more committed over time, with gratitude predicting relationship maintenance in both directions.",
+      "source": "Gordon et al. (2012)"
+    },
+    {
+      "value": "Small moments",
+      "label": "The slow accumulation of neglected bids and unacknowledged kindnesses tracks with later distress more than dramatic blow-ups do.",
+      "source": "Gottman & Levenson (1992)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Core mechanism", "men": "Hedonic adaptation to the familiar", "women": "Hedonic adaptation to the familiar" },
+      { "aspect": "How the drift shows up", "men": "May notice or voice it differently", "women": "May notice or voice it differently" },
+      { "aspect": "What rebuilds appreciation", "men": "Specific, consistent noticing over grand gestures", "women": "Specific, consistent noticing over grand gestures" },
+      { "aspect": "What predicts it best", "men": "Attachment, temperament, stress — not gender", "women": "Attachment, temperament, stress — not gender" }
+    ]
+  },
+  "keyTakeaways": [
+    "Taking a partner for granted usually reflects how attention naturally works, not how much you care.",
+    "Hedonic adaptation means reliable kindness stops registering — the behavior stays the same, but the noticing fades.",
+    "Gratitude is practically protective: feeling appreciated tracks with more responsiveness and commitment over time.",
+    "The reliable fix is deliberate, specific noticing — naming what a partner actually does — not occasional grand gestures.",
+    "Answered bids matter: small unanswered moments accumulate into feeling unseen more than dramatic conflict does.",
+    "The drift is broadly human across genders; attachment style, temperament, and stress predict it better than sex."
   ],
   "lastReviewed": "2026-06"
 }

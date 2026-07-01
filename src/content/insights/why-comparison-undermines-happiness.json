@@ -74,5 +74,41 @@
     "why-money-doesnt-buy-happiness",
     "the-happiness-set-point-explained"
   ],
+  "quickTake": "Much of our satisfaction is relative — we judge our lives against other people rather than by what we actually have. Because someone always seems to be doing better, chronic upward comparison quietly erodes happiness, and social media makes it nearly constant.",
+  "pullQuote": "Comparing our full, complicated inner experience against someone else's edited exterior is a structurally unfair match — and it reliably tilts toward making us feel we fall short.",
+  "keyStats": [
+    {
+      "value": "Relative standing",
+      "label": "Within a country richer people report more happiness at a moment, yet raising everyone's income over time does not reliably raise average happiness.",
+      "source": "Easterlin paradox (Easterlin, 1995)"
+    },
+    {
+      "value": "Malleable",
+      "label": "Happier people tend to engage in less self-evaluative comparison, or be less affected by it — suggesting comparison habits can change.",
+      "source": "Lyubomirsky, Sheldon & Schkade (2005)"
+    },
+    {
+      "value": "Both sexes",
+      "label": "Susceptibility tracks individual self-worth and attention habits more than gender; most psychological sex differences are small or near zero.",
+      "source": "Hyde (2005)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Prone to comparison?", "men": "Yes — report comparison-driven dissatisfaction", "women": "Yes — report comparison-driven dissatisfaction" },
+      { "aspect": "Typical domains compared", "men": "Often status, income, achievement (on average)", "women": "Often appearance, relationships, lifestyle (on average)" },
+      { "aspect": "Strongest predictor of impact", "men": "Self-worth and attention habits, not sex", "women": "Self-worth and attention habits, not sex" },
+      { "aspect": "What helps", "men": "Narrowing reference group, gratitude, savoring", "women": "Narrowing reference group, gratitude, savoring" }
+    ]
+  },
+  "keyTakeaways": [
+    "Satisfaction is partly relative: we measure against others, and there is almost always someone doing better on some dimension.",
+    "Comparison is double-edged — it can inform and motivate — but chronic, undirected upward comparison against unrepresentative samples is what erodes happiness.",
+    "Social media expands the reference group enormously and skews it toward curated highlights, making the match structurally unfair.",
+    "The Easterlin paradox suggests much of money's satisfaction is relative, depending on standing rather than absolute level.",
+    "This is a general human tendency, not a personal weakness — treating it as a moral failing adds shame without reducing the comparing.",
+    "Narrowing your reference group, limiting curated feeds, and comparing to your own past rather than others' present are strategies consistent with the evidence."
+  ],
   "lastReviewed": "2026-06"
 }

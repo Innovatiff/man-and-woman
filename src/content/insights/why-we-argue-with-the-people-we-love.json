@@ -74,5 +74,41 @@
     "why-couples-fight-about-small-things",
     "the-four-horsemen-of-relationship-failure"
   ],
+  "quickTake": "We argue hardest with the people we love because they matter most and we feel safe enough to drop our guard. Conflict itself is not the danger sign — how a couple fights, and whether they repair afterward, matters far more.",
+  "pullQuote": "Conflict itself is not the danger sign; what predicts a relationship's future is how a couple fights and whether they repair.",
+  "keyStats": [
+    {
+      "value": "Not frequency",
+      "label": "Longitudinal research found conflict frequency alone did not predict divorce — corrosive patterns and a lack of repair did.",
+      "source": "Gottman & Levenson (1992)"
+    },
+    {
+      "value": "Four horsemen",
+      "label": "Criticism, contempt, defensiveness, and stonewalling stood out as the corrosive patterns distinguishing couples heading for trouble.",
+      "source": "Gottman & Silver (1999)"
+    },
+    {
+      "value": "Demand-withdraw",
+      "label": "Many arguments escalate less over the surface topic than over a felt lack of responsiveness, as one partner presses and the other retreats.",
+      "source": "Christensen & Heavey (1990)"
+    }
+  ],
+  "keyTakeaways": [
+    "We fight hardest with loved ones because intimacy raises the emotional stakes of any disagreement.",
+    "Conflict frequency does not predict a relationship's future — corrosive patterns and missing repair do.",
+    "Feeling safe enough to drop our guard is part of why more friction shows up with a trusted partner.",
+    "Small fights often stand in for larger feelings, like 'I'm not sure my time matters to you.'",
+    "Flooding — the body's stress response — makes calm conversation harder, so pausing to cool down helps.",
+    "Either partner can take the demand or withdraw role; temperament predicts conflict style better than gender."
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Raising issues", "men": "Slightly more likely to withdraw on some topics, on average", "women": "Slightly more likely to raise concerns, on average" },
+      { "aspect": "Response to flooding", "men": "May be somewhat quicker to stonewall or shut down", "women": "May be somewhat more likely to keep pursuing the issue" },
+      { "aspect": "What escalates the fight", "men": "Feeling criticized or pressured", "women": "Feeling unheard or dismissed" },
+      { "aspect": "What repair needs", "men": "Space to cool down, then reconnect", "women": "Acknowledgement, then reconnect" }
+    ]
+  },
   "lastReviewed": "2026-06"
 }

@@ -74,5 +74,41 @@
     "the-four-horsemen-of-relationship-failure",
     "the-importance-of-emotional-attunement"
   ],
+  "quickTake": "Couples rarely stop talking all at once. Connection erodes gradually — overwhelming conflict leads one partner to shut down, a demand-withdraw cycle entrenches, and small everyday bids go unanswered. The silence is usually a symptom of accumulated disconnection, and the pattern can often be reversed.",
+  "pullQuote": "The fights end, but so does the closeness — and the quiet can be mistaken for peace.",
+  "keyStats": [
+    {
+      "value": "Predicts breakdown",
+      "label": "Stonewalling — emotionally withdrawing and going silent during conflict — is one of the patterns that predicts relationship dissolution.",
+      "source": "Gottman & Levenson (1992)"
+    },
+    {
+      "value": "Turn toward",
+      "label": "Thriving couples respond to each other's small everyday bids for connection far more often than struggling ones do.",
+      "source": "Gottman (2011)"
+    },
+    {
+      "value": "Reversible cycle",
+      "label": "The demand-withdraw pattern is self-reinforcing but readily flips depending on who wants change, with substantial overlap between the sexes.",
+      "source": "Christensen & Heavey (1990)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Role in demand-withdraw", "men": "Somewhat more often the withdrawing partner", "women": "Somewhat more often the demanding/pursuing partner" },
+      { "aspect": "How stable is that role?", "men": "Reverses when he is the one wanting change", "women": "Reverses when he is the one wanting change" },
+      { "aspect": "Response to flooding", "men": "May shut down and go silent to cope", "women": "May keep pursuing to try to reconnect" },
+      { "aspect": "What rebuilds connection", "men": "Softened start-up, safe re-engagement, turning toward", "women": "Softened start-up, safe re-engagement, turning toward" }
+    ]
+  },
+  "keyTakeaways": [
+    "Communication tends to erode gradually, not all at once — the silence is usually a symptom of accumulated disconnection rather than its cause.",
+    "Stonewalling is often a response to flooding — feeling too overwhelmed to listen and respond — not coldness or indifference.",
+    "The demand-withdraw cycle is self-reinforcing: the more one pursues, the more the other retreats, until the pursuer gives up.",
+    "Repeatedly missed 'bids for connection' quietly erode the low-stakes conversation that holds a relationship together.",
+    "A quiet relationship is not necessarily a calm one; withdrawal and distance can predict breakdown more than frequent arguing.",
+    "Reversing the slide starts with making conversations feel safe again and deliberately turning toward everyday bids."
+  ],
   "lastReviewed": "2026-06"
 }

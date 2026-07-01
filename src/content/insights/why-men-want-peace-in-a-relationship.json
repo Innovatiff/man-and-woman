@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A man who goes quiet mid-argument and says 'can we drop this' may look like he is stonewalling, but he may actually be flooded and trying not to say something he will regret. The request for a pause can be a bid for peace rather than a dismissal of the issue.",
     "Someone who notices his partner is upset and rushes to smooth things over — apologizing quickly, offering to fix the problem — is often acting on a genuine desire to restore calm, even when the partner would rather be fully heard first.",
-    "A partner who comes home and visibly relaxes when the house is settled, then tenses when there is unresolved tension, is showing how much the emotional climate of the relationship registers for him, even if he rarely puts it into words."
+    "A partner who comes home and visibly relaxes when the house is settled, then tenses when there is unresolved tension, is showing how much the emotional climate of the relationship registers for him, even if he rarely puts it into words.",
+    "A man who seems oddly slow to 'bounce back' after an argument is resolved — still subdued an hour later while his partner has moved on — may simply be taking longer to return to baseline after flooding, not sulking or holding a grudge."
   ],
   "whatPeopleGetWrong": [
     "The biggest misreading is treating a desire for peace as a desire for distance. Research suggests the opposite can be true: a man may want calm precisely because the relationship matters so much that conflict feels threatening to it. Wanting harmony and wanting intimacy are not opposites.",
@@ -72,6 +73,42 @@
     "the-pursue-withdraw-pattern-explained",
     "what-men-need-to-feel-secure",
     "how-to-resolve-conflict-in-relationships"
+  ],
+  "quickTake": "Many men prize calm at home partly for a physiological reason: on average they flood more during conflict and take longer to settle. Wanting peace is usually about managing that overwhelm, not dodging closeness — though when it slides into avoidance, a partner can end up feeling unheard.",
+  "pullQuote": "Peace is not the absence of investment; for many it is evidence of it.",
+  "keyStats": [
+    {
+      "value": "Longer to recover",
+      "label": "During heated conflict men were, on average, more prone to diffuse physiological arousal (flooding) and slower to return to baseline than women.",
+      "source": "Gottman & Levenson (1992)"
+    },
+    {
+      "value": "Withdraw role",
+      "label": "Men more often occupy the withdrawing role in demand-withdraw conflict — but the roles shift depending on whose concern is on the table.",
+      "source": "Christensen & Heavey (1990)"
+    },
+    {
+      "value": "Small effects",
+      "label": "Most measured emotional gender differences are small or near zero, so wanting peace is a common human preference expressed somewhat differently.",
+      "source": "Hyde (2005)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies in conflict",
+    "rows": [
+      { "aspect": "Physiological flooding", "men": "Somewhat more prone; slower to calm down", "women": "Flood too, often recover somewhat faster" },
+      { "aspect": "Common role", "men": "More often withdraw or seek a pause", "women": "More often press to engage the issue" },
+      { "aspect": "Why calm is wanted", "men": "Manage overwhelm; home as a refuge", "women": "Also want calm and a secure base" },
+      { "aspect": "Healthy version", "men": "Name the need for a break, then return", "women": "Allow the break, hold space to re-engage" }
+    ]
+  },
+  "keyTakeaways": [
+    "Part of the pull toward peace is physiological: men, on average, flood more during conflict and take longer to calm down.",
+    "Going quiet or asking for a pause is often self-soothing, not indifference — quiet can mask high internal arousal.",
+    "Men more often withdraw in demand-withdraw conflict, but the roles shift with whose concern is at stake; it's not a fixed trait.",
+    "Wanting harmony and wanting intimacy are not opposites — calm can matter precisely because the relationship does.",
+    "The goal isn't to suppress conflict but to make it safe to stay in: soft start-ups, real breaks when flooded, and circling back.",
+    "These are averages with large overlap; in many couples the woman floods and withdraws while the man pursues."
   ],
   "lastReviewed": "2026-06"
 }

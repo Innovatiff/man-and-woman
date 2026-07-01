@@ -73,5 +73,41 @@
     "understanding-attachment-styles",
     "what-makes-someone-fall-out-of-love"
   ],
+  "quickTake": "Staying in an unhappy relationship is rarely weak willpower. Commitment depends not just on satisfaction but on how much you've invested, how bleak your alternatives seem, and how frightening leaving feels — so you can be deeply unhappy yet genuinely stuck.",
+  "pullQuote": "Accumulated history can paradoxically make an unhappy relationship harder to leave rather than easier.",
+  "keyStats": [
+    {
+      "value": "3 forces",
+      "label": "Commitment rises with satisfaction, size of investments, and poor alternatives — so someone can be dissatisfied yet strongly committed.",
+      "source": "Rusbult's investment model (1980)"
+    },
+    {
+      "value": "Bond persists",
+      "label": "The attachment system maintains proximity to a primary figure independently of how well a partner treats us, so separation can feel genuinely painful.",
+      "source": "Mikulincer & Shaver (2007)"
+    },
+    {
+      "value": "Both sexes",
+      "label": "Investment, sunk cost, fear, and attachment keep people of any gender in unhappy relationships — the underlying psychology isn't gendered.",
+      "source": "Hyde (2005), review of 46 meta-analyses"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "What raises commitment", "men": "Investment, poor alternatives, attachment", "women": "Investment, poor alternatives, attachment" },
+      { "aspect": "Sunk-cost pull", "men": "Years and shared history feel wasteful to leave", "women": "Years and shared history feel wasteful to leave" },
+      { "aspect": "Practical weights", "men": "Finances, children, intertwined lives", "women": "Finances, children, intertwined lives" },
+      { "aspect": "What clarifies the choice", "men": "Fuller life and support outside the relationship", "women": "Fuller life and support outside the relationship" }
+    ]
+  },
+  "keyTakeaways": [
+    "Commitment tracks investment and perceived alternatives, not just satisfaction — so unhappy people can still feel strongly committed.",
+    "Sunk-cost reasoning means past investment, not future prospects, does much of the work of keeping people in place.",
+    "The attachment bond can persist even when a partner treats us badly, which is why separation feels frightening, not foolish.",
+    "Staying is usually ordinary psychology — investment, fear, limited options, attachment — not weakness or 'liking the drama.'",
+    "Building a fuller life and support outside the relationship tends to clarify what's actually wanted and reduce staying from fear.",
+    "Where there is abuse, safety — not satisfaction — is the priority, and no model of ordinary staying should override that."
+  ],
   "lastReviewed": "2026-06"
 }

@@ -73,5 +73,40 @@
     "the-psychology-of-unrequited-love",
     "the-psychology-of-ghosting"
   ],
+  "quickTake": "Rejection hurts because the brain appears to process social pain using some of the same circuitry as physical pain, tied to a deep need to belong. Feeling it strongly is a normal built-in signal, not weakness or oversensitivity.",
+  "pullQuote": "Social pain seems to borrow the brain's physical-pain circuitry — which is why being left out can genuinely ache rather than merely disappoint.",
+  "keyStats": [
+    {
+      "value": "Shared circuitry",
+      "label": "In an fMRI study, social exclusion activated brain regions linked to the distress of physical pain, suggesting overlapping neural roots.",
+      "source": "Eisenberger, Lieberman & Williams (2003)"
+    },
+    {
+      "value": "Fundamental need",
+      "label": "An influential review marshaled broad evidence that the drive to form and keep stable bonds is a basic human motivation, so threats to belonging reliably produce strong distress.",
+      "source": "Baumeister & Leary (1995)"
+    },
+    {
+      "value": "Eases over time",
+      "label": "Tracking the aftermath of non-marital breakups found distress was common and could linger, then generally eased through a recovery process rather than all at once.",
+      "source": "Sbarra & Emery (2005)"
+    }
+  ],
+  "keyTakeaways": [
+    "Rejection can feel physically painful because the brain appears to register social exclusion using some of the same circuitry as bodily hurt.",
+    "The sting traces to a deep, evolved need to belong — the pain is an alarm that a valued connection is threatened.",
+    "Feeling rejection strongly signals a normally functioning social brain, not weakness or being too sensitive.",
+    "Recovery tends to be gradual; rumination can prolong it, while support and self-compassion tend to help.",
+    "The basic experience of social pain appears across genders, with individual differences outweighing average gender differences."
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Capacity to feel social pain", "men": "Present and comparable, on average", "women": "Present and comparable, on average" },
+      { "aspect": "Outward expression of hurt", "men": "May be more likely to mask or minimize it", "women": "May be more likely to voice and share it" },
+      { "aspect": "Coping tendencies", "men": "Sometimes lean toward distraction or solitude", "women": "Sometimes lean toward talking it through with others" },
+      { "aspect": "Underlying driver", "men": "Threatened belonging and self-worth", "women": "Threatened belonging and self-worth" }
+    ]
+  },
   "lastReviewed": "2026-06"
 }

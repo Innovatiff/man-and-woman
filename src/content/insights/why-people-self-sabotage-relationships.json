@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "Someone who finally meets a kind, available partner may suddenly fixate on small flaws or feel inexplicably bored — a common avoidant response when intimacy starts to feel too close for comfort.",
     "A person with anxious tendencies might start arguments or issue ultimatums to 'find out' whether a partner will stay, inadvertently pushing away the very closeness they crave. The conflict feels like seeking reassurance; from the outside it can look like seeking the exit.",
-    "Someone who expects to be left may emotionally check out first — withholding affection or keeping options open — so that if it ends, they were 'never that invested.' Protecting against the pain of loss, they help bring the loss about."
+    "Someone who expects to be left may emotionally check out first — withholding affection or keeping options open — so that if it ends, they were 'never that invested.' Protecting against the pain of loss, they help bring the loss about.",
+    "Someone whose last relationship ended in betrayal may enter a healthy new one already scanning for signs of the same, reading an unanswered text or a late night out as early proof it will happen again. Acting on that expectation — snooping, testing, cooling off first — can slowly manufacture the distance they were bracing for."
   ],
   "whatPeopleGetWrong": [
     "The biggest misconception is that self-sabotage means a person does not care or is simply 'commitment-phobic' by nature. Research suggests the opposite is often true: the behavior tends to be strongest when someone cares a great deal, because that is when vulnerability — and the fear of losing it — runs highest.",
@@ -73,6 +74,42 @@
     "understanding-anxiety-in-relationships",
     "why-men-pull-away",
     "how-trust-is-built-and-broken"
+  ],
+  "quickTake": "Self-sabotage rarely means someone wants the relationship to fail. It's usually self-protection: people who fear closeness, expect rejection, or doubt their worth pull back or pick fights before they can be hurt. It often intensifies precisely when things are going well.",
+  "pullQuote": "The behavior tends to be strongest when someone cares a great deal, because that is when vulnerability — and the fear of losing it — runs highest.",
+  "keyStats": [
+    {
+      "value": "Self-protective",
+      "label": "Avoidant tendencies show up as distancing and deflecting intimacy; anxious tendencies as testing, jealousy, or reassurance-seeking — protective, not malicious.",
+      "source": "Mikulincer & Shaver (2007)"
+    },
+    {
+      "value": "Risk vs reward",
+      "label": "Intimacy is a constant trade-off between connection and the danger of being hurt; those who feel less secure prioritize self-protection over closeness.",
+      "source": "Murray, Holmes & Collins (2006)"
+    },
+    {
+      "value": "78%",
+      "label": "Of measured psychological gender differences are small or close to zero — self-sabotage is better predicted by attachment and self-worth than by sex.",
+      "source": "Hyde (2005), review of 46 meta-analyses"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Typical avoidant move", "men": "Distancing, deflecting, going cold", "women": "Distancing, deflecting, going cold" },
+      { "aspect": "Typical anxious move", "men": "Testing, provoking conflict, reassurance-seeking", "women": "Testing, provoking conflict, reassurance-seeking" },
+      { "aspect": "What socialization may shape", "men": "How withdrawal or conflict gets expressed", "women": "How withdrawal or conflict gets expressed" },
+      { "aspect": "Underlying drivers", "men": "Fear of vulnerability, low self-worth", "women": "Fear of vulnerability, low self-worth" }
+    ]
+  },
+  "keyTakeaways": [
+    "Self-sabotage is usually self-protection, not a wish for the relationship to fail.",
+    "It often intensifies as closeness deepens, because rising stakes make potential loss more frightening.",
+    "Avoidant patterns look like distancing; anxious patterns look like testing and reassurance-seeking.",
+    "Low or contingent self-worth feeds a self-fulfilling cycle that can confirm the very fear driving it.",
+    "Attachment patterns are learned and can shift with awareness, security-building experiences, and sometimes therapy.",
+    "Not every pull-back is sabotage — distinguishing self-protection from sound judgment about a real mismatch is part of the work."
   ],
   "lastReviewed": "2026-06"
 }

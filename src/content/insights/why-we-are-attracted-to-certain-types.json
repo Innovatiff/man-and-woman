@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A person who notices they keep dating the same emotionally unavailable kind of partner is often experiencing a learned pattern, not bad luck. The familiarity of the dynamic — the chase, the uncertainty — can register as chemistry, even when the relationship repeatedly leaves them anxious.",
     "Sometimes a 'type' is more ordinary than it sounds: people raised around a particular temperament, humor, or set of values often feel an easy click with partners who share them. The connection can feel like instant recognition because, in a sense, it is.",
-    "Many people also find their type shifts over time. Someone who once chased intensity may, after enough painful cycles, start to feel genuine attraction to calm and consistency — a sign that attraction can be reshaped by insight and new experiences."
+    "Many people also find their type shifts over time. Someone who once chased intensity may, after enough painful cycles, start to feel genuine attraction to calm and consistency — a sign that attraction can be reshaped by insight and new experiences.",
+    "Two people who share the same offbeat sense of humor, hometown, or niche passion can feel an almost instant closeness on a first meeting — a familiarity-and-similarity pull that gets mistaken for rare destiny when it is really the mind recognizing something it already knows."
   ],
   "whatPeopleGetWrong": [
     "The biggest misconception is treating a type as fixed fate — proof that you are 'meant' for a certain kind of person. The research points elsewhere: types reflect familiarity and learned patterns that can be understood and, where they cause harm, gradually changed. Calling it destiny can keep people stuck in cycles that no longer serve them.",
@@ -73,5 +74,41 @@
     "understanding-attachment-styles",
     "love-vs-infatuation"
   ],
+  "quickTake": "Having a 'type' mostly reflects learned patterns, not fate. Familiarity, similarity, and early attachment quietly steer us toward people who feel recognizable — real pulls, but flexible ones that self-awareness can loosen when they keep leaving us unhappy.",
+  "pullQuote": "The spark of recognition is not always the spark of compatibility — and noticing the difference is often the first step toward choosing differently.",
+  "keyStats": [
+    {
+      "value": "Similarity wins",
+      "label": "A meta-analysis found we tend, on average, to be drawn to people who resemble us in attitudes and values — 'opposites attract' is weaker than the cliché suggests.",
+      "source": "Montoya & Horton (2013)"
+    },
+    {
+      "value": "Mere exposure",
+      "label": "Classic research showed that simply encountering something repeatedly tends to increase liking, which helps explain why proximity and slow-burn attraction are common.",
+      "source": "Zajonc (1968)"
+    },
+    {
+      "value": "Learned, not fixed",
+      "label": "Attachment theory frames adult attraction as shaped by early relationship experience — a tendency that can be examined and revised, not a romantic destiny.",
+      "source": "Hazan & Shaver (1987)"
+    }
+  ],
+  "keyTakeaways": [
+    "A 'type' is best read as a soft default shaped by familiarity, similarity, and attachment — a tendency, not fate.",
+    "Similarity in attitudes and values predicts attraction more reliably than 'opposites attract.'",
+    "Familiarity itself increases liking, which is why proximity and slow-burn connections often grow appealing.",
+    "Repeatedly chasing the same unhappy dynamic usually reflects a learned pattern registering as chemistry, not bad luck.",
+    "Because the pull is learned, insight and new experiences can genuinely reshape what feels attractive over time.",
+    "Both genders are shaped by these same forces, with wide individual variation."
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Role of similarity", "men": "Draws toward shared values and outlook", "women": "Draws toward shared values and outlook" },
+      { "aspect": "Weight of familiarity", "men": "Familiar dynamics feel comfortable and 'right'", "women": "Familiar dynamics feel comfortable and 'right'" },
+      { "aspect": "Emphasis in early attraction", "men": "Often somewhat more weight on physical cues, on average", "women": "Often somewhat more weight on status and reliability cues, on average" },
+      { "aspect": "How much a 'type' can change", "men": "Reshaped by insight and new experience", "women": "Reshaped by insight and new experience" }
+    ]
+  },
   "lastReviewed": "2026-06"
 }

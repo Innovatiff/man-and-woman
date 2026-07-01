@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A man may shrug off a forgotten anniversary but be quietly wounded by a partner rolling her eyes at his opinion in front of friends. The first reads as a lapse; the second can read as contempt, which research identifies as corrosive to relationships.",
     "Sincere recognition often lands harder than romance. Being told 'I really admire how you handled that' or 'I trust your judgment on this' frequently does more to deepen a man's sense of connection than a lavish gift, because it speaks to feeling competent and valued.",
-    "In conflict, many men report that what escalates them is not disagreement itself but feeling talked down to or dismissed. When a partner disagrees while still conveying basic regard, the same conversation tends to stay far calmer."
+    "In conflict, many men report that what escalates them is not disagreement itself but feeling talked down to or dismissed. When a partner disagrees while still conveying basic regard, the same conversation tends to stay far calmer.",
+    "A man who lights up when a partner asks his opinion and actually acts on it — rather than asking and overriding him — is showing how much being taken seriously registers as respect, sometimes more than any compliment."
   ],
   "whatPeopleGetWrong": [
     "The biggest misconception is that valuing respect means a fragile ego or a demand to be obeyed. The research points elsewhere: it is closer to a need to feel seen as competent and to trust that one's partner holds them in genuine regard. Respect in a healthy sense is mutual, not hierarchical.",
@@ -73,6 +74,42 @@
     "the-male-ego-explained",
     "what-men-need-in-relationship",
     "what-men-want-but-rarely-say"
+  ],
+  "quickTake": "For many men, feeling respected and admired by a partner sits close to feeling loved — often tied to competence and identity. It isn't about ego or being obeyed; it's the human need to be seen as capable and held in genuine regard. Women need it just as much.",
+  "pullQuote": "Respect is less about ego and more about trusting that you are seen and valued.",
+  "keyStats": [
+    {
+      "value": "Contempt",
+      "label": "The strongest single predictor of relationship failure Gottman identified is contempt — the opposite of respect.",
+      "source": "Gottman & Silver (1999)"
+    },
+    {
+      "value": "1 of 3 basic needs",
+      "label": "Self-determination theory names competence — feeling effective and recognized — as one of three basic psychological needs, alongside autonomy and relatedness.",
+      "source": "Deci & Ryan (2000)"
+    },
+    {
+      "value": "Small effects",
+      "label": "Most measured psychological gender differences are small or near zero, so respect is a deeply human need, not a male-specific one.",
+      "source": "Hyde (2005)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "How the need is channeled", "men": "Often through recognition of competence and effort", "women": "Often through feeling understood and cared for" },
+      { "aspect": "Felt sting of disrespect", "men": "Contempt/dismissal can read as an attack on identity", "women": "Contempt/dismissal wounds just as deeply" },
+      { "aspect": "How much respect is valued", "men": "Emphasized somewhat more, on average", "women": "Valued just as much overall" },
+      { "aspect": "What lands as connection", "men": "Sincere admiration for character or work", "women": "Responsiveness and warmth, plus admiration" }
+    ]
+  },
+  "keyTakeaways": [
+    "Feeling respected can matter to a man nearly as much as feeling loved — often as keenly as tenderness matters to others.",
+    "Contempt, the opposite of respect, is one of the strongest predictors of relationship breakdown.",
+    "Respect connects to the basic need for competence and to identity, which is why disrespect can feel like an attack on the self.",
+    "'Men need respect, women need love' overstates a real but modest difference — both partners need both.",
+    "Healthy respect is mutual and coexists with honest disagreement; it is not deference or being obeyed.",
+    "Individual history — attachment, family, personality — shapes how central respect feels more than gender does."
   ],
   "lastReviewed": "2026-06"
 }

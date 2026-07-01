@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "Someone spends hours swiping yet feels lonelier and pickier than before, each new profile making the last one seem replaceable — a recognizable signature of choice overload rather than a sign that no good partners exist.",
     "Two people match on a checklist of shared interests but feel no spark when they meet, while a chance in-person connection with someone they would have filtered out online turns into real attraction — the gap between stated preferences and actual chemistry playing out.",
-    "A person keeps a conversation going while half-distracted by other matches, hesitant to commit time to anyone because the next option is always one tap away — abundance quietly eroding the focus that early connection needs."
+    "A person keeps a conversation going while half-distracted by other matches, hesitant to commit time to anyone because the next option is always one tap away — abundance quietly eroding the focus that early connection needs.",
+    "After a good first date, one person cannot resist reopening the app 'just to see who else is out there,' and the fresh grid of faces makes a promising match feel oddly interchangeable — a small, everyday illustration of how endless options can undercut the very connection someone actually wants."
   ],
   "whatPeopleGetWrong": [
     "The biggest misconception is that dating feels harder because people themselves have gotten worse — pickier, shallower, or commitment-averse by nature. The research points more toward structure: the tools and the scale of choice shape behavior, nudging even well-intentioned people into comparison and overload. The problem is partly the format, not just the people in it.",
@@ -72,6 +73,33 @@
     "the-psychology-of-first-impressions",
     "how-to-tell-if-someone-likes-you",
     "the-psychology-of-physical-attraction"
+  ],
+  "quickTake": "Dating often feels harder now less because people got worse and more because the tools changed. Endless options can breed choice overload and comparison, while profile-shopping filters on traits that predict real chemistry poorly.",
+  "pullQuote": "The feeling that someone better is always one swipe away is a known effect of abundant options — not necessarily a truth about your current connection.",
+  "keyStats": [
+    {
+      "value": "No clear edge",
+      "label": "The major review of online dating found no strong evidence that matching algorithms outperform conventional ways of meeting.",
+      "source": "Finkel et al. (2012)"
+    },
+    {
+      "value": "Fewer chosen",
+      "label": "People offered a very large set of options were less likely to choose, and less satisfied with what they chose, than those given a small set.",
+      "source": "Iyengar & Lepper (2000)"
+    },
+    {
+      "value": "Poor predictor",
+      "label": "Stated partner preferences predict real, in-person attraction poorly — so precise profile filtering can screen on the wrong criteria.",
+      "source": "Eastwick & Finkel (2008)"
+    }
+  ],
+  "keyTakeaways": [
+    "Modern dating often feels harder because of structure — endless choice and profile-shopping — not because people themselves got worse.",
+    "Choice overload can make people less decisive and less satisfied, fueling the sense that someone better is one swipe away.",
+    "Matching algorithms have not been shown to beat conventional ways of meeting.",
+    "Stated preferences predict real, in-person attraction poorly, so a checklist match can feel flat while unexpected chemistry appears in person.",
+    "Moving to real interaction sooner and giving fewer people fuller attention tends to work better than sampling many shallowly.",
+    "These pressures affect men and women in broadly similar ways, and plenty of people still find lasting connection through these tools."
   ],
   "lastReviewed": "2026-06"
 }

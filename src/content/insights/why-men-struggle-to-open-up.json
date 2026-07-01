@@ -73,5 +73,41 @@
     "how-men-can-build-emotional-intelligence",
     "how-women-handle-emotions"
   ],
+  "quickTake": "Many men find opening up harder than women do — but that reflects how they were socialized, not a lack of feeling. The emotions are present; the vocabulary and the felt permission to share them are what often lag behind.",
+  "pullQuote": "The feelings register; the labels and language often lag behind. Quiet is not the same as empty.",
+  "keyStats": [
+    {
+      "value": "Similar intensity",
+      "label": "Men and women report experiencing emotions at broadly similar intensities; the larger gap is in outward expression, not inner feeling.",
+      "source": "Kring & Gordon (1998)"
+    },
+    {
+      "value": "Learned, not innate",
+      "label": "'Normative male alexithymia' — difficulty naming emotions — is framed as a consequence of socialization, not an inborn deficit.",
+      "source": "Levant et al. (2009)"
+    },
+    {
+      "value": "Norms lower disclosure",
+      "label": "Men who endorse traditional masculine norms are, on average, less likely to seek help or disclose distress.",
+      "source": "Addis & Mahalik (2003)"
+    }
+  ],
+  "comparison": {
+    "title": "Emotional disclosure: average tendencies",
+    "rows": [
+      { "aspect": "Intensity of feeling", "men": "Broadly similar to women", "women": "Broadly similar to men" },
+      { "aspect": "Outward expression", "men": "Often more constrained", "women": "Often more openly expressed" },
+      { "aspect": "Emotional vocabulary", "men": "More often underpracticed by socialization", "women": "More often practiced and encouraged" },
+      { "aspect": "Preferred setting to open up", "men": "Often side-by-side, during an activity", "women": "Often face-to-face conversation" }
+    ]
+  },
+  "keyTakeaways": [
+    "Difficulty opening up is largely learned through socialization, not a sign of absent or shallow feeling.",
+    "Men and women feel emotions at broadly similar intensities; the reliable gap is in expression, not experience.",
+    "Traditional masculine norms can make disclosure feel like admitting weakness, lowering help-seeking.",
+    "Many men open up more easily side by side — driving, walking, working — than in face-to-face confrontations.",
+    "Safety and calm acceptance make the next disclosure easier; pressure and shame deepen the shutdown.",
+    "Emotional vocabulary is a skill that can be built over time, with heavy overlap between the sexes."
+  ],
   "lastReviewed": "2026-06"
 }

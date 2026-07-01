@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A man whose partner consistently puts work, friends, or family ahead of time together may not complain directly. Instead he might gradually pull back, stop sharing the small parts of his day, or seem flatter — a reaction that is easy to misread as disinterest when it is closer to feeling deprioritized.",
     "Being asked about his day and actually listened to, having plans honored, or being the first person a partner wants to tell good news to can land more powerfully than grand romantic gestures. These small signals of 'you come first to me' often carry disproportionate weight.",
-    "Some men test the waters indirectly — mentioning they 'don't want to be a bother' or downplaying a need — when what they are really checking is whether they still matter. A warm, unhurried response to those moments tends to mean more than the small request itself suggests."
+    "Some men test the waters indirectly — mentioning they 'don't want to be a bother' or downplaying a need — when what they are really checking is whether they still matter. A warm, unhurried response to those moments tends to mean more than the small request itself suggests.",
+    "A partner who reliably texts back, remembers the thing he was nervous about, and carves out unhurried one-on-one time — even during a busy stretch — can leave a man feeling more secure than any anniversary gift. It is the steady pattern of being chosen in ordinary moments, not the occasional spotlight, that registers as mattering."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that needing to feel like a priority is something only women want, while men are content with independence and space. Research on belonging suggests the underlying need is shared. Men often value autonomy and closeness at the same time, and wanting space does not cancel out wanting to feel chosen.",
@@ -72,6 +73,42 @@
     "why-men-crave-appreciation",
     "what-makes-a-man-feel-loved",
     "why-women-want-to-feel-chosen"
+  ],
+  "quickTake": "Feeling like a priority isn't a women's-only need — it's broadly human. Many men feel it strongly but voice it less, so the wish to be chosen can go unmet quietly. Small, consistent signs of 'you come first' tend to matter most.",
+  "pullQuote": "Silence on the topic is not the same as indifference to it — for many men the wish to feel central stays unspoken even when it is strongly felt.",
+  "keyStats": [
+    {
+      "value": "Fundamental",
+      "label": "The need to belong — to have stable, caring relationships where you feel valued — is argued to be a basic human motivation, not a feature of one sex.",
+      "source": "Baumeister & Leary (1995)"
+    },
+    {
+      "value": "Both partners",
+      "label": "Feeling appreciated by a partner predicts greater commitment and relationship maintenance over time — for both members of a couple.",
+      "source": "Gordon et al. (2012)"
+    },
+    {
+      "value": "78%",
+      "label": "Of measured psychological gender differences are small or close to zero — the need to feel valued overlaps heavily across the sexes.",
+      "source": "Hyde (2005), review of 46 meta-analyses"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Voicing the need directly", "men": "Less likely to ask to feel prioritized outright", "women": "Somewhat more likely to name the need aloud" },
+      { "aspect": "How it shows when unmet", "men": "Often withdrawal, sharing less, irritability", "women": "Often raising it or seeking reassurance" },
+      { "aspect": "What signals 'you matter'", "men": "Protected time, being listened to, plans honored", "women": "Responsiveness, feeling understood and chosen" },
+      { "aspect": "Autonomy vs closeness", "men": "Frequently want both at once", "women": "Frequently want both at once" }
+    ]
+  },
+  "keyTakeaways": [
+    "Wanting to feel like a priority is a broadly human need rooted in belonging, not a women's-only concern.",
+    "Many men feel it strongly but are socialized toward self-reliance, so they voice it less often.",
+    "Being deprioritized often shows up as quiet withdrawal or irritability rather than a direct complaint.",
+    "Small, consistent acts — protected time, being listened to, honored plans — tend to matter more than grand gestures.",
+    "Wanting space and wanting to feel chosen coexist; they are not opposites.",
+    "Relationships do better when both partners can ask to feel chosen out loud rather than signaling through distance."
   ],
   "lastReviewed": "2026-06"
 }

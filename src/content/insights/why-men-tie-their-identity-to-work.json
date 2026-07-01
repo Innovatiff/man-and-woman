@@ -73,5 +73,41 @@
     "the-male-ego-explained",
     "building-confidence-as-a-man"
   ],
+  "quickTake": "Many men anchor a large share of self-worth in work, achievement, and providing. That can fuel drive, but it leaves self-esteem fragile when work falters. Meaning drawn from relationships and values, not job status alone, tends to be steadier.",
+  "pullQuote": "When one domain carries the whole weight of a person's worth, any wobble there shakes everything.",
+  "keyStats": [
+    {
+      "value": "Contingent worth",
+      "label": "Self-esteem staked on a domain means success there validates, but setbacks register as threats to identity, not just disappointments.",
+      "source": "Crocker & Wolfe (2001)"
+    },
+    {
+      "value": "Presence vs. search",
+      "label": "Meaning research distinguishes having meaning from searching for it, and finds it can come from purpose and relationships, not status alone.",
+      "source": "Steger et al. (2006), Meaning in Life Questionnaire"
+    },
+    {
+      "value": "78%",
+      "label": "Of measured psychological gender differences are small or close to zero — plenty of women tie identity to work, plenty of men do not.",
+      "source": "Hyde (2005), review of 46 meta-analyses"
+    }
+  ],
+  "comparison": {
+    "title": "Identity and work: average tendencies",
+    "rows": [
+      { "aspect": "Where worth is often staked", "men": "Heavily weighted toward work and providing", "women": "More often spread across work and relationships" },
+      { "aspect": "Impact of job loss", "men": "Can feel like a blow to identity itself", "women": "Also painful, but identity is often less concentrated" },
+      { "aspect": "Source of the pattern", "men": "Socialization praising achievement and provision", "women": "Socialization emphasizing relational roles too" },
+      { "aspect": "What steadies self-worth", "men": "Broadening into values and relationships", "women": "Broadening into values and relationships" }
+    ]
+  },
+  "keyTakeaways": [
+    "Many men anchor a large share of self-worth in work, achievement, and the provider role.",
+    "Contingent self-worth can fuel drive but makes esteem fragile when work falters.",
+    "Job loss can register as an identity threat, not just a financial one, when worth is concentrated in work.",
+    "The motive behind the effort matters — work pursued to prove worth tends to feel hollow even when it pays.",
+    "Diversified meaning, drawn from relationships and values, is steadier than a single pillar.",
+    "This is a modest, culture-reinforced average leaning, not a universal male trait — and it is changeable."
+  ],
   "lastReviewed": "2026-06"
 }

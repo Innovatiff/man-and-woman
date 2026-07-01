@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A partner vents about a frustrating day at work and the man immediately suggests how to handle the boss. He is trying to help, but she wanted to feel understood first — a classic report-talk-meets-rapport-talk mismatch.",
     "Someone whose friend is grieving offers practical steps and resources rather than simply sitting with them. The instinct to do something useful is kind, yet the moment may have called for presence over problem-solving.",
-    "A man who hears 'I just need you to listen' and visibly struggles to hold back advice is bumping against a deeply practiced habit — the urge to fix can feel almost reflexive even when he knows listening is what is wanted."
+    "A man who hears 'I just need you to listen' and visibly struggles to hold back advice is bumping against a deeply practiced habit — the urge to fix can feel almost reflexive even when he knows listening is what is wanted.",
+    "A father whose adult daughter calls upset about a breakup starts listing what she should do next, then catches himself, goes quiet, and just says 'that sounds really painful' — and notices she finally opens up, a small live demonstration of empathy landing where advice could not."
   ],
   "whatPeopleGetWrong": [
     "The biggest misreading is treating solution-mode as not caring. Usually the opposite is true: offering a fix is how many men try to express care. The disconnect is about method, not concern, and seeing it that way tends to defuse a lot of hurt.",
@@ -72,6 +73,42 @@
     "why-listening-matters-more-than-advice",
     "how-men-and-women-communicate",
     "how-men-make-decisions"
+  ],
+  "quickTake": "Many men, on average, hear a problem and move to fix it — usually as a genuine way to show care. The catch is timing: when a partner mainly wants to feel heard, an early solution can land as dismissive even though it is meant to help.",
+  "pullQuote": "The message underneath 'here's what you should do' is often 'I want to help you feel better' — even when it lands as dismissive.",
+  "keyStats": [
+    {
+      "value": "Report-talk",
+      "label": "Tannen observed that men, on average, more often use conversation to exchange information and solve problems, women more often to build rapport.",
+      "source": "Tannen (1990)"
+    },
+    {
+      "value": "Works — sometimes",
+      "label": "Problem-focused coping genuinely helps with controllable stressors, but not when the real need is emotional support rather than a fix.",
+      "source": "Gross & John (2003)"
+    },
+    {
+      "value": "Large overlap",
+      "label": "The sex differences here are real but modest; the capacity to both solve and empathize exists in everyone, so it is a learnable skill.",
+      "source": "Hyde (2005)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies in a hard conversation",
+    "rows": [
+      { "aspect": "Default conversational aim", "men": "Often report-talk: exchange information, solve", "women": "Often rapport-talk: build connection" },
+      { "aspect": "Instinct when a partner is upset", "men": "Move toward a fix, on average", "women": "Move toward comfort and shared feeling, on average" },
+      { "aspect": "Underlying coping style", "men": "Leans problem-focused (change the stressor)", "women": "Leans tend-and-befriend (seek support)" },
+      { "aspect": "What actually helps first", "men": "Reflect the feeling before offering a fix", "women": "Same — feeling heard tends to come first for both" }
+    ]
+  },
+  "keyTakeaways": [
+    "Many men, on average, lean toward a solution-focused, 'report-talk' style — usually a genuine attempt to show care, not indifference.",
+    "The mismatch happens when a partner wants empathy and gets a fix; both can end up feeling unheard despite good intentions.",
+    "Problem-focused coping really works for controllable problems, but not when the need is to feel understood.",
+    "Solution-mode is often about method, not a lack of concern — and sometimes about easing the listener's own discomfort.",
+    "Signposting ('I just need to vent') and asking 'support or solutions?' resolves most of the friction, in both directions.",
+    "Empathic listening is a learnable skill; these are average tendencies with heavy overlap, not fixed traits."
   ],
   "lastReviewed": "2026-06"
 }

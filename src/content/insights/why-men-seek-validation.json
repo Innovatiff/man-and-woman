@@ -73,5 +73,41 @@
     "why-men-value-respect",
     "why-women-seek-reassurance"
   ],
+  "quickTake": "Seeking validation is a universal human need, not a male flaw. Many men point it toward competence, status, and respect because self-worth is often staked there — but underneath sits the basic need to matter and belong.",
+  "pullQuote": "Much of what looks like seeking validation is, at root, seeking evidence of acceptance — a search for belonging wearing the clothes of status.",
+  "keyStats": [
+    {
+      "value": "Universal need",
+      "label": "The drive to form stable bonds and feel we matter to others is a fundamental human motivation, not specific to men.",
+      "source": "Baumeister & Leary (1995), 'The need to belong'"
+    },
+    {
+      "value": "Contingent worth",
+      "label": "People stake self-esteem on chosen domains — competence, approval, competition, appearance — so the need points wherever worth is invested.",
+      "source": "Crocker & Wolfe (2001)"
+    },
+    {
+      "value": "78%",
+      "label": "Of measured psychological gender differences are small or close to zero — men and women overlap far more than they differ.",
+      "source": "Hyde (2005), review of 46 meta-analyses"
+    }
+  ],
+  "comparison": {
+    "title": "Where validation tends to be sought: average tendencies",
+    "rows": [
+      { "aspect": "Common domain of worth", "men": "Often competence, status, provision", "women": "Often relationships and connection, on average" },
+      { "aspect": "How the need shows up", "men": "Recognition for effort, results, capability", "women": "Reassurance of closeness and being valued" },
+      { "aspect": "Underlying driver", "men": "The need to matter and belong", "women": "The need to matter and belong" },
+      { "aspect": "What lands well", "men": "Specific, genuine appreciation of effort", "women": "Specific, genuine appreciation of who they are" }
+    ]
+  },
+  "keyTakeaways": [
+    "The need for esteem and belonging is universal and built into human motivation — not a weakness or a male-only trait.",
+    "Many men direct the need toward competence, status, and respect because self-worth is often staked in those domains.",
+    "Social comparison turns recognition and rank into information a person reads as evidence of their own worth.",
+    "Beneath status-seeking sits the deeper need to matter and be accepted by others.",
+    "Genuine, specific appreciation lands deeply; widening the base of self-worth eases the need for constant reassurance.",
+    "Where the need points varies far more by individual than by gender, with heavy overlap between the sexes."
+  ],
   "lastReviewed": "2026-06"
 }

@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "The stereotype of a man driving in circles rather than asking for directions captures the everyday version — a small reluctance to signal not-knowing, even at the cost of efficiency.",
     "More seriously, men on average delay seeking medical and mental health care, sometimes until a problem is advanced, in part because reaching out conflicts with a self-image built on handling things independently.",
-    "A man under real strain may insist he is 'fine' to friends and partners, not to deceive them, but because admitting he is struggling feels like a failure he would rather absorb alone than expose."
+    "A man under real strain may insist he is 'fine' to friends and partners, not to deceive them, but because admitting he is struggling feels like a failure he would rather absorb alone than expose.",
+    "A man wrestling with a work problem for days may not mention it to a colleague who could solve it in minutes, because reaching out would mean revealing he could not figure it out himself — so the task stays stuck longer than it needs to."
   ],
   "whatPeopleGetWrong": [
     "A common misreading is that a man who will not ask for help simply does not need or want it. Research suggests the want is often there; what blocks it is a learned belief that needing help is weakness. The silence reflects a norm, not an absence of need.",
@@ -72,6 +73,42 @@
     "why-men-struggle-to-open-up",
     "male-friendship-and-loneliness",
     "why-men-fear-vulnerability"
+  ],
+  "quickTake": "Many men hesitate to ask for help — for directions, health, or feelings — not because they don't need it, but because masculine norms teach that asking signals weakness. It's a learned, situational habit that softens when help is reframed as competent rather than weak.",
+  "pullQuote": "The silence reflects a norm, not an absence of need — the want is often there; what blocks it is a learned belief that needing help is weakness.",
+  "keyStats": [
+    {
+      "value": "Central review",
+      "label": "Addis & Mahalik's analysis of men's help-seeking shows it hinges on how central the problem is to identity, whether peers share it, and whether asking threatens self-reliance.",
+      "source": "Addis & Mahalik (2003)"
+    },
+    {
+      "value": "Situational",
+      "label": "Help-seeking is strongly context-dependent — the same man asks freely in some settings and not others — rather than a fixed trait.",
+      "source": "Addis & Mahalik (2003)"
+    },
+    {
+      "value": "Small effect",
+      "label": "The average gender gap in help-seeking is modest with heavy overlap; most measured psychological sex differences are small or near zero.",
+      "source": "Hyde (2005)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Asking for directions or help with a task", "men": "Somewhat more likely to try to manage alone first", "women": "Somewhat more likely to ask sooner, on average" },
+      { "aspect": "Seeking medical or mental health care", "men": "Tend to delay, sometimes until a problem is advanced", "women": "Tend to seek care earlier, on average" },
+      { "aspect": "What asking signals internally", "men": "Can feel like admitting weakness or lost competence", "women": "Less often tied to a self-reliance ideal" },
+      { "aspect": "What lowers the barrier", "men": "Reframing help as competent; peers normalizing it", "women": "Similar, though the starting reluctance is often lower" }
+    ]
+  },
+  "keyTakeaways": [
+    "Reluctance to ask for help is largely learned from masculine self-reliance norms, not an innate male trait.",
+    "The need is usually present — a learned belief that asking equals weakness is what blocks the request.",
+    "Help-seeking is situational: the same man asks readily in some contexts and resists in others.",
+    "The costs are real, from delayed medical and mental health care to isolation and stalled problems.",
+    "Reframing help as a competent, responsible act — and normalizing it among peers — lowers the barrier more than pressure.",
+    "These are modest averages with large overlap; self-reliance is a strength, and only rigidity turns it into a problem."
   ],
   "lastReviewed": "2026-06"
 }

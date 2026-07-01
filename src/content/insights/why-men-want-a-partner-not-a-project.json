@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A partner who keeps a running list of things a man should change — how he dresses, talks, eats, or spends his time — may intend to help, but he can start to feel evaluated rather than loved. Over time this can prompt him to share less and withdraw, the opposite of the closeness that makes real change easier.",
     "Contrast that with a partner who expresses a need directly: 'It matters to me that we plan more together.' That invites a man to respond as an equal making his own choice, rather than a project being upgraded. The same goal, framed as influence rather than correction, tends to land very differently.",
-    "Many men do want to grow — and often welcome a partner's perspective — but on terms that preserve their agency. Feeling trusted to handle their own development, with support rather than supervision, usually produces more lasting change than being managed toward it."
+    "Many men do want to grow — and often welcome a partner's perspective — but on terms that preserve their agency. Feeling trusted to handle their own development, with support rather than supervision, usually produces more lasting change than being managed toward it.",
+    "A man who quietly makes a change he'd resisted for months — once it stops being a repeated request and becomes his own idea — is showing how autonomy works: the same goal sticks when it feels chosen rather than assigned."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that wanting acceptance means men are resistant to growth or want a partner with no expectations. Most are not asking to never change; they are asking not to feel like the relationship is contingent on being fixed. Acceptance and growth can coexist, and often the first makes the second possible.",
@@ -72,6 +73,42 @@
     "why-men-value-independence",
     "what-men-need-in-relationship",
     "why-men-want-peace-in-a-relationship"
+  ],
+  "quickTake": "Most men aren't refusing to grow — they're asking not to feel like love is contingent on being fixed. People resist imposed change but respond to influence offered with respect. Stated as your own need rather than a list of his flaws, the same request lands very differently.",
+  "pullQuote": "Many men experience the 'project' dynamic as control wearing the costume of care.",
+  "keyStats": [
+    {
+      "value": "Autonomy",
+      "label": "Self-determination theory names autonomy — the sense your actions are your own — as a basic need, which is why imposed change lowers motivation even when reasonable.",
+      "source": "Deci & Ryan (2000)"
+    },
+    {
+      "value": "Accepting influence",
+      "label": "Partners in stable marriages let themselves be shaped by each other's views — a two-way, collaborative skill, not one person fixing the other.",
+      "source": "Gottman & Silver (1999)"
+    },
+    {
+      "value": "Small effects",
+      "label": "Most measured psychological gender differences are small or near zero, so the autonomy-and-acceptance need is broadly human.",
+      "source": "Hyde (2005)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: influence vs. treating a partner as a project",
+    "rows": [
+      { "aspect": "Underlying stance", "men": "Feels respected as capable and adequate", "women": "Feels respected as capable and adequate too" },
+      { "aspect": "How change is framed", "men": "Invited as a shared need, agency preserved", "women": "Invited as a shared need, agency preserved" },
+      { "aspect": "Reaction to feeling 'fixed'", "men": "Withdrawal, sharing less, self-protection", "women": "Resentment and withdrawal too" },
+      { "aspect": "What produces lasting change", "men": "Support over supervision, self-chosen goals", "women": "Support over supervision, self-chosen goals" }
+    ]
+  },
+  "keyTakeaways": [
+    "Wanting acceptance is rarely a refusal to grow — it's a wish that love not feel contingent on being fixed.",
+    "Autonomy is a basic psychological need; change that feels chosen sticks, change that feels coerced breeds compliance or rebellion.",
+    "'Accepting influence' is a two-way skill of being shaped by each other — very different from one partner renovating the other.",
+    "Feeling like a project can read as 'you're not enough,' which threatens self-worth tied to competence and triggers withdrawal.",
+    "Acceptance and growth coexist; healthy acceptance still holds honest feedback and doesn't excuse hurtful behavior.",
+    "How much someone bristles depends on self-worth, attachment, and history more than gender."
   ],
   "lastReviewed": "2026-06"
 }

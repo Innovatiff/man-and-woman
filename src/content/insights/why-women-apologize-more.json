@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "Saying 'sorry' before asking a question in a meeting, or 'sorry' when someone else bumps into you, often has little to do with fault. It tends to be a relational signal — softening the interaction or acknowledging another person's space — rather than an admission of wrongdoing.",
     "In a disagreement, one partner may apologize quickly to restore calm even when they do not feel they were wrong. This can resolve the moment but, repeated over time, may leave real grievances unaddressed and quietly build resentment.",
-    "Some women notice they apologize for things outside their control — the weather, a delayed train, another person's bad mood. This reflexive ownership of others' discomfort is a recognizable marker of a low offense threshold combined with strong relational attunement."
+    "Some women notice they apologize for things outside their control — the weather, a delayed train, another person's bad mood. This reflexive ownership of others' discomfort is a recognizable marker of a low offense threshold combined with strong relational attunement.",
+    "Starting an email or message with 'sorry to bother you' before a perfectly reasonable request is a familiar version of the same reflex. The 'sorry' pre-emptively softens the act of taking up someone's time, functioning as courtesy and deference rather than any admission of a real offense."
   ],
   "whatPeopleGetWrong": [
     "The most common misreading is that frequent apologizing signals low self-esteem or weakness. The research suggests it more often reflects a different threshold for offense and a relational communication style — not a deficit in confidence. Plenty of self-assured people apologize often as a way of staying connected and considerate.",
@@ -71,6 +72,42 @@
     "how-women-can-set-boundaries",
     "the-psychology-of-female-self-criticism",
     "why-women-overthink-relationships"
+  ],
+  "quickTake": "Women apologize somewhat more on average — but not from more guilt or less confidence. The best-supported reason is a lower threshold for what counts as an offense. When both sexes agree an offense occurred, they apologize at nearly the same rate.",
+  "pullQuote": "Men did not refuse to apologize so much as classify fewer situations as warranting one.",
+  "keyStats": [
+    {
+      "value": "Same rate",
+      "label": "When people encountered a clear transgression, men and women apologized at nearly equal rates — the gap was in judging what counts as an offense.",
+      "source": "Schumann & Ross (2010)"
+    },
+    {
+      "value": "Lower threshold",
+      "label": "The reliable difference is in how readily a situation is judged worth apologizing for, shaped by what each person was taught to notice.",
+      "source": "Schumann & Ross (2010)"
+    },
+    {
+      "value": "Small overlap",
+      "label": "Most psychological gender differences are small or close to zero — apologizing is a learned social tool with heavy overlap between the sexes.",
+      "source": "Hyde (2005), review of 46 meta-analyses"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Frequency of apologizing", "men": "Somewhat less often, on average", "women": "Somewhat more often, on average" },
+      { "aspect": "Threshold for offense", "men": "Classify fewer situations as warranting one", "women": "Judge more everyday acts as worth a 'sorry'" },
+      { "aspect": "Rate when both agree fault occurred", "men": "Apologize readily", "women": "Apologize readily" },
+      { "aspect": "Common function of 'sorry'", "men": "More often tied to clear wrongdoing", "women": "Often relational — smoothing, softening, connecting" }
+    ]
+  },
+  "keyTakeaways": [
+    "Women apologize somewhat more on average — but when both sexes agree an offense occurred, they apologize at nearly the same rate.",
+    "The best-supported explanation is a lower threshold for what counts as an offense, not more guilt or less confidence.",
+    "A 'sorry' often works as relational lubricant — softening a request or defusing tension — rather than admitting fault.",
+    "Self-silencing can turn apologizing for taking up space into an automatic, pre-emptive habit for some people.",
+    "Frequent apologizing does not signal low self-esteem; plenty of self-assured people apologize often to stay considerate.",
+    "The pattern is largely learned with heavy overlap; the aim is to reserve apologies for genuine missteps, not to stop repairing ruptures."
   ],
   "lastReviewed": "2026-06"
 }

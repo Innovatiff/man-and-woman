@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A man who never quite starts the business, the creative project, or the difficult conversation may not lack desire — he may be avoiding a situation where visible failure feels intolerable. The stalling can look like laziness or indecision when it is closer to self-protection.",
     "Some men over-work or over-prepare to an anxious degree, driven less by ambition than by dread of being caught short. The effort is real, but it is powered by avoidance rather than genuine pull toward a goal, which tends to feel exhausting rather than energizing.",
-    "After a real setback — a job loss, a failed relationship, a public mistake — a man may withdraw sharply, not because he stopped caring but because the event landed as an indictment of his worth. Shame and fear of failure often travel together here."
+    "After a real setback — a job loss, a failed relationship, a public mistake — a man may withdraw sharply, not because he stopped caring but because the event landed as an indictment of his worth. Shame and fear of failure often travel together here.",
+    "A talented man may keep rewriting the same project, delaying the moment he shows it to anyone, telling himself it isn't ready yet — when the real barrier is that an unfinished thing can't fail, but a finished one exposed to judgment can."
   ],
   "whatPeopleGetWrong": [
     "A common misreading is that avoidance means a man doesn't care. Often the opposite is true: the more his self-worth rides on a domain, the more frightening failure there becomes, and the stronger the pull to avoid the risk. Hesitation can signal how much something matters, not how little.",
@@ -72,6 +73,42 @@
     "why-men-tie-their-identity-to-work",
     "building-confidence-as-a-man",
     "the-psychology-of-self-worth"
+  ],
+  "quickTake": "Fear of failure runs deep for many men because socialization often stakes self-worth on achievement, status, or provision — so falling short can feel like a verdict on the whole self. It's a learned pattern, not a fixed male trait, and it tends to breed anxiety and avoidance.",
+  "pullQuote": "When self-worth rides heavily on one domain, failure there can feel like a verdict on the whole self rather than a single disappointing outcome.",
+  "keyStats": [
+    {
+      "value": "Approach vs avoidance",
+      "label": "Elliot & Church separate moving toward success from escaping failure; strong fear of failure maps onto avoidance goals, which breed anxiety, procrastination, and self-protection.",
+      "source": "Elliot & Church (1997)"
+    },
+    {
+      "value": "Contingent self-worth",
+      "label": "When value is staked on a domain like career or provision, the range of events that can wound the self widens — raising the stakes of every attempt.",
+      "source": "Crocker & Wolfe (2001)"
+    },
+    {
+      "value": "Small effect",
+      "label": "Women fear failure too, often intensely; the sexes overlap heavily and what differs on average is where socialization points the fear, not the capacity to feel it.",
+      "source": "Hyde (2005)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Where self-worth is often staked", "men": "Achievement, status, career, provision", "women": "Frequently a broader mix of domains" },
+      { "aspect": "How a public setback lands", "men": "Can register as a verdict on the whole self", "women": "Can hurt intensely too — overlap is large" },
+      { "aspect": "Common avoidance forms", "men": "Stalling, over-preparing, choosing only safe bets", "women": "Similar patterns, differently distributed" },
+      { "aspect": "What the fear tracks", "men": "Fragile self-efficacy in a valued domain", "women": "The same mechanism — efficacy, not gender" }
+    ]
+  },
+  "keyTakeaways": [
+    "Fear of failure is amplified when self-worth is staked heavily on achievement, status, or provision — a learned pattern, not a fixed male trait.",
+    "Avoidance motivation (escaping failure) produces effort but also anxiety, procrastination, and self-protective behavior; moving toward a goal is healthier.",
+    "Avoidance often signals how much something matters, not how little — the more self-worth rides on a domain, the more frightening failure there becomes.",
+    "Self-efficacy is key: those who read setbacks as temporary tend to persist, while fragile efficacy tips fear into avoidance.",
+    "The growth edge is separating self-worth from any single outcome and rebuilding efficacy through surviving manageable setbacks.",
+    "These are averages with large overlap — women fear failure too, and what differs is often where socialization points the fear, not the capacity to feel it."
   ],
   "lastReviewed": "2026-06"
 }

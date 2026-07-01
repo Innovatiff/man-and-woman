@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "Two friends can turn almost anything — a game, a workout, a barbecue technique — into a contest, and the competition is part of how they enjoy each other rather than a sign of real conflict.",
     "A man may feel a flicker of unease when a peer gets a promotion or buys a bigger house, not because he wishes his friend ill, but because social comparison quietly reframes his own position relative to someone similar.",
-    "In groups, men sometimes establish standing through ribbing, one-upmanship, or displays of skill — a jostling that can look combative from outside but often functions to sort out roles and build rapport within the group."
+    "In groups, men sometimes establish standing through ribbing, one-upmanship, or displays of skill — a jostling that can look combative from outside but often functions to sort out roles and build rapport within the group.",
+    "In a pickup basketball game or a work hackathon, men who barely know each other may compete hard for an hour and walk away closer than before — the contest itself doing the bonding rather than driving them apart."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that male competition is mainly aggression or ego run amok. Often it is closer to play, bonding, and self-calibration through comparison. Reading every contest as hostility misses how much of it is how some men connect and motivate themselves.",
@@ -72,6 +73,42 @@
     "the-male-ego-explained",
     "why-men-value-respect",
     "why-comparison-undermines-happiness"
+  ],
+  "quickTake": "Many men lean somewhat harder toward status competition with other men, a pull research ties to intrasexual competition and social comparison. But men cooperate at least as much as they compete, the gap is modest, and much of the rivalry is really a form of bonding.",
+  "pullQuote": "Friendly rivalry becomes a language of connection — which is why competition between men is often affectionate rather than hostile.",
+  "keyStats": [
+    {
+      "value": "37 cultures",
+      "label": "Buss found status and resources weigh into mate preferences across cultures, creating incentives for men to compete over standing and achievement.",
+      "source": "Buss (1989)"
+    },
+    {
+      "value": "Everyone compares",
+      "label": "Social comparison — evaluating ourselves against similar others — is a universal mechanism, not a male one, though socialization can channel it into visible male competition.",
+      "source": "Festinger (1954)"
+    },
+    {
+      "value": "Small effect",
+      "label": "The average male leaning toward competitiveness is modest, with men and women overlapping heavily; most measured sex differences are small.",
+      "source": "Hyde (2005)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Pull toward overt status competition", "men": "Somewhat stronger on average", "women": "Somewhat lower on average, but wide overlap" },
+      { "aspect": "Typical arena", "men": "Often sport, earnings, skill, physical contests", "women": "Often different domains, though many compete fiercely" },
+      { "aspect": "Function of the rivalry", "men": "Frequently bonding, play, and role-sorting", "women": "Also social, though expressed differently on average" },
+      { "aspect": "Underlying driver", "men": "Social comparison plus status incentives", "women": "Social comparison too — the mechanism is shared" }
+    ]
+  },
+  "keyTakeaways": [
+    "Male competitiveness is linked to intrasexual competition over status and to universal social comparison, not to aggression alone.",
+    "The average male leaning is modest, with heavy overlap — many women are intensely competitive and many men are not.",
+    "Much male competition is closer to play and bonding than hostility; friendly rivalry can be a language of connection.",
+    "What differs more is often the arena and how competition is expressed, not the underlying drive itself.",
+    "Men cooperate at least as much as they compete; competition is one thread, not the whole picture.",
+    "It turns unhealthy mainly when it curdles into chronic envy, isolates a man, or gets aimed at loved ones who should be on his team."
   ],
   "lastReviewed": "2026-06"
 }

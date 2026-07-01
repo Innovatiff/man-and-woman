@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "After an unusually open conversation or a tender night, a man might grow quieter the next day, throw himself into work, or want an evening alone. The timing makes it easy to read as regret, when it is often the system rebalancing after an intense dose of closeness.",
     "A partner reaching out for more connection right after a vulnerable moment can inadvertently intensify the demand a withdrawing man is already feeling. The more one pursues, the more the other retreats — the classic demand-withdraw loop tightening rather than resolving.",
-    "Some men describe feeling great during closeness and then, hours later, an unexplained urge for space they cannot fully justify. That gap between the good feeling and the later pull-back is characteristic of deactivation working quietly in the background."
+    "Some men describe feeling great during closeness and then, hours later, an unexplained urge for space they cannot fully justify. That gap between the good feeling and the later pull-back is characteristic of deactivation working quietly in the background.",
+    "A couple who has just said 'I love you' for the first time might find the man oddly reserved at breakfast the next morning — not because the words were a mistake, but because the leap in closeness tripped a quiet need to re-establish his footing. A partner who reads the reserve as regret can escalate the very distance that a little patience would have dissolved."
   ],
   "whatPeopleGetWrong": [
     "The most painful misreading is 'he pulled away, so he doesn't care.' For many men the withdrawal is about managing intensity or autonomy, not diminished feeling — and the bond can be entirely intact underneath. Distance and indifference are not the same thing.",
@@ -72,6 +73,42 @@
     "why-men-need-alone-time",
     "the-pursue-withdraw-pattern-explained",
     "why-men-compartmentalize"
+  ],
+  "quickTake": "Pulling back after closeness is usually about regulating autonomy and managing the intensity of vulnerability, not losing interest. Attachment research links it to avoidant deactivation. For many men it is a temporary rebalancing — though it can read as rejection.",
+  "pullQuote": "Distance and indifference are not the same thing — the withdrawal is often about managing intensity, not diminished feeling.",
+  "keyStats": [
+    {
+      "value": "Deactivation",
+      "label": "More avoidant people turn down the intensity of closeness by creating distance after emotionally stirring moments — often automatically, below conscious choice.",
+      "source": "Mikulincer & Shaver (2007)"
+    },
+    {
+      "value": "Men more often",
+      "label": "In the demand-withdraw pattern, men are somewhat more often in the withdrawing role, particularly when a topic feels emotionally demanding.",
+      "source": "Christensen & Heavey (1990)"
+    },
+    {
+      "value": "78%",
+      "label": "Of measured psychological gender differences are small or close to zero — women withdraw after intimacy too, with large overlap.",
+      "source": "Hyde (2005), review of 46 meta-analyses"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Role in demand-withdraw", "men": "Somewhat more often the withdrawer", "women": "Somewhat more often the pursuer" },
+      { "aspect": "Response to a wave of closeness", "men": "May pull back to rebalance autonomy", "women": "May move toward more connection" },
+      { "aspect": "What the distance usually means", "men": "Regulating intensity, not losing interest", "women": "Often reads the distance as rejection" },
+      { "aspect": "What predicts it best", "men": "Attachment style over gender", "women": "Attachment style over gender" }
+    ]
+  },
+  "keyTakeaways": [
+    "Post-intimacy withdrawal is often autonomy regulation, not a verdict on the relationship.",
+    "Avoidant deactivation frequently works automatically — the man may pull back without a reason he can name.",
+    "Pursuing hard tends to tighten the demand-withdraw loop; giving space without punishing it usually helps.",
+    "The bond can be entirely intact underneath; distance and indifference are not the same thing.",
+    "Signaling — 'I need space and I'll come back' — protects both autonomy and a partner's security.",
+    "Attachment style predicts this better than gender; women withdraw too, and it can shift with safety and practice."
   ],
   "lastReviewed": "2026-06"
 }

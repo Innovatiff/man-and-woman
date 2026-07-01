@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A person stays in a relationship that leaves them consistently unhappy, not because they believe it is right but because the thought of being single feels worse. Spielmann's research suggests this reluctance to leave is one of the clearest ways fear of being single shows up — the fear anchors people in place.",
     "Someone re-enters the dating pool and finds themselves quickly interested in a partner who is unresponsive or clearly a poor match, lowering their standards to secure a connection. When the underlying pull is to simply not be alone, the specific person can matter less than the fact of being partnered.",
-    "A recently single person may feel an urgent drive to couple up again as soon as possible, treating time alone as something to be escaped rather than lived. That urgency, more than any particular candidate, can lead to choices they later question."
+    "A recently single person may feel an urgent drive to couple up again as soon as possible, treating time alone as something to be escaped rather than lived. That urgency, more than any particular candidate, can lead to choices they later question.",
+    "Someone stays in a relationship where a partner is chronically unresponsive, quietly telling themselves it is 'good enough' — the kind of settling for a less responsive partner that Spielmann's research links directly to a stronger fear of being single."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that wanting a relationship and fearing singlehood are the same thing. Genuinely wanting connection is healthy; fear of being single is different in that it is driven by dread of the alternative, and research links it specifically to settling for less. Wanting a partner from a place of security tends to lead to better choices than seeking one from fear.",
@@ -72,6 +73,42 @@
     "understanding-fear-of-abandonment",
     "why-we-fear-commitment",
     "the-psychology-of-loneliness"
+  ],
+  "quickTake": "Fear of being single is normal in small doses — belonging is a basic human need. The trouble is that a stronger version quietly pushes people to settle: staying with unresponsive partners and lowering their standards to avoid being alone.",
+  "pullQuote": "The fear tends to say more about our relationship to aloneness than about any particular partner.",
+  "keyStats": [
+    {
+      "value": "Predicts settling",
+      "label": "A stronger fear of being single predicts more interest in unresponsive or less suitable partners and greater reluctance to leave unhappy relationships.",
+      "source": "Spielmann et al. (2013)"
+    },
+    {
+      "value": "Both sexes",
+      "label": "The fear predicted settling for women and men alike, marking it as a broadly human vulnerability rather than a gendered one.",
+      "source": "Spielmann et al. (2013)"
+    },
+    {
+      "value": "Fundamental need",
+      "label": "The desire for close, stable bonds is described as a basic human motivation, which is why some discomfort with aloneness is entirely normal.",
+      "source": "Baumeister & Leary (1995), 'need to belong'"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Does the fear predict settling?", "men": "Yes, on average", "women": "Yes, on average" },
+      { "aspect": "How it tends to be voiced", "men": "Often unspoken; framed as 'keeping things practical'", "women": "More often named openly as fear of ending up alone" },
+      { "aspect": "Cultural pressure to be partnered", "men": "Present, sometimes tied to status or normalcy", "women": "Present, sometimes tied to timelines and expectations" },
+      { "aspect": "What eases the grip", "men": "A full life and self-worth apart from a partner", "women": "A full life and self-worth apart from a partner" }
+    ]
+  },
+  "keyTakeaways": [
+    "A mild fear of being single is normal; belonging is a fundamental human need.",
+    "The stronger, choice-distorting version predicts settling — staying with unresponsive partners and lowering standards.",
+    "It is not a women's issue: the fear predicts settling for men and women alike.",
+    "Wanting connection from security differs from seeking a partner mainly to escape being alone, and leads to better choices.",
+    "Building comfort with your own company — friendships, interests, a self that is not contingent on being partnered — loosens the fear's grip.",
+    "How intensely anyone feels it depends far more on attachment style and history than on gender."
   ],
   "lastReviewed": "2026-06"
 }

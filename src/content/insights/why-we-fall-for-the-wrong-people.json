@@ -73,5 +73,40 @@
     "why-people-self-sabotage-relationships",
     "love-vs-infatuation"
   ],
+  "quickTake": "Falling for the wrong person is rarely random. Attachment patterns learned early make a familiar dynamic feel like chemistry — so what your nervous system already knows can be mistaken for what is actually good for you.",
+  "pullQuote": "The click can be the echo of a known pattern rather than genuine compatibility — the nervous system mistakes familiarity for safety.",
+  "keyStats": [
+    {
+      "value": "Anxious + avoidant",
+      "label": "A self-reinforcing pairing where one partner's pursuit and the other's distancing feel intensely compelling even while generating distress.",
+      "source": "Mikulincer & Shaver (2007)"
+    },
+    {
+      "value": "Familiarity pulls",
+      "label": "People are reliably drawn to what feels recognizable and consonant with their existing model of how relationships work.",
+      "source": "Montoya & Horton (2013), similarity-attraction meta-analysis"
+    },
+    {
+      "value": "Not fixed",
+      "label": "Attachment styles can shift over time through corrective relationships and reflection — the pull toward the familiar is a tendency, not a fate.",
+      "source": "Hazan & Shaver (1987); Mikulincer & Shaver (2007)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "How the 'wrong' pull tends to show up", "men": "Often as chasing a partner who runs hot and cold", "women": "Often as over-giving to earn a distant partner's closeness" },
+      { "aspect": "Anxious and avoidant patterns", "men": "Found across men, in either role", "women": "Found across women, in either role" },
+      { "aspect": "What 'chemistry' can mask", "men": "Familiar instability read as excitement", "women": "Familiar striving read as connection" },
+      { "aspect": "What tends to change the pattern", "men": "Awareness and corrective, secure experience", "women": "Awareness and corrective, secure experience" }
+    ]
+  },
+  "keyTakeaways": [
+    "The pull toward the 'wrong' person is usually driven by early attachment templates, not poor judgment or low self-worth.",
+    "Anxious and avoidant partners can lock into an on-and-off intensity that gets mistaken for passion rather than dysregulation.",
+    "Familiarity is easily confused with rightness — a calm, kind partner can feel 'boring' when instability is what you learned love to be.",
+    "Intense chemistry alone does not distinguish genuine connection from an activated old pattern; slowing down to watch how the relationship functions does.",
+    "These patterns appear across genders and can shift over time through awareness, secure relationships, and sometimes therapy."
+  ],
   "lastReviewed": "2026-06"
 }

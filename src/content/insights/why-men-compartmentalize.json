@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A man may leave a stressful argument at home, go to work and perform normally, and genuinely not think about it during the day — then feel it return that evening. To a partner this can look like not caring; more often it is the feeling being shelved rather than absent.",
     "After a loss or major stress, some men throw themselves into tasks and appear 'fine,' handling logistics while seeming untouched. This is frequently compartmentalizing under load, not the absence of grief — and the postponed feeling often arrives once the busy period ends.",
-    "In relationships, a partner who wants to process a conflict right away may collide with a man who needs to set it down first. Neither approach is wrong, but the mismatch can read as avoidance on one side and pressure on the other."
+    "In relationships, a partner who wants to process a conflict right away may collide with a man who needs to set it down first. Neither approach is wrong, but the mismatch can read as avoidance on one side and pressure on the other.",
+    "A man juggling a demanding project and a sick parent may mentally 'close the box' on family worry while at his desk, then reopen it on the drive home — a switching that keeps him functional but can look, to those around him, like he cares about work more than the crisis."
   ],
   "whatPeopleGetWrong": [
     "The biggest misconception is that compartmentalizing means a man is unfeeling or doesn't care. The research suggests the feelings are usually present but deliberately set aside, not missing. Suppression hides emotion from view; it does not erase what is felt underneath.",
@@ -72,6 +73,42 @@
     "how-men-deal-with-stress",
     "why-men-pull-away",
     "how-to-regulate-your-emotions"
+  ],
+  "quickTake": "Compartmentalizing is setting feelings or problems aside to focus elsewhere — an emotion-regulation strategy, not a male-only trait. Used in moderation it helps you function under pressure; leaned on too hard it leaves emotions unprocessed and partners feeling shut out.",
+  "pullQuote": "A feeling that is shelved is not processed — the emotion does not disappear, it waits.",
+  "keyStats": [
+    {
+      "value": "Two strategies",
+      "label": "Gross & John contrast cognitive reappraisal (generally adaptive) with expressive suppression — the strategy behind compartmentalizing — which is linked to more costs over time.",
+      "source": "Gross & John (2003)"
+    },
+    {
+      "value": "Less close",
+      "label": "Habitual suppression was associated with less close relationships and more negative emotion left unexpressed rather than resolved.",
+      "source": "Gross & John (2003)"
+    },
+    {
+      "value": "Small effect",
+      "label": "Men report suppressing somewhat more than women on average, but it's a difference of degree with heavy overlap — most sex differences in emotion are small.",
+      "source": "Hyde (2005); Levant et al. (2009)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Reliance on expressive suppression", "men": "Report using it somewhat more, on average", "women": "Report using it somewhat less, on average" },
+      { "aspect": "Naming and voicing emotion", "men": "More often socialized away from putting feelings into words", "women": "More often socialized toward expressing them" },
+      { "aspect": "Handling a conflict in the moment", "men": "May need to set it down before engaging", "women": "May prefer to process it right away" },
+      { "aspect": "When the shelved feeling returns", "men": "Often surfaces later, once demands ease", "women": "Overlaps heavily — this is a human pattern, not a male one" }
+    ]
+  },
+  "keyTakeaways": [
+    "Compartmentalizing is an emotion-regulation strategy — a form of attention-shifting or suppression — not a defect or a male-only trait.",
+    "In the short term it helps people function under pressure; surgeons, soldiers, and parents in a crisis all rely on a version of it.",
+    "Suppressed feelings are set aside, not erased — the emotion waits and can leak out as irritability, withdrawal, or numbness.",
+    "Habitual suppression is linked to less close relationships and lingering, unprocessed emotion.",
+    "The healthiest approach is flexible: shelve a feeling when needed, then deliberately come back to feel and share it.",
+    "Any sex difference is one of degree with large overlap — plenty of women compartmentalize heavily and plenty of men process out loud."
   ],
   "lastReviewed": "2026-06"
 }

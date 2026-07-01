@@ -73,5 +73,41 @@
     "how-men-handle-emotions",
     "how-women-handle-emotions"
   ],
+  "quickTake": "Crying appears to do two jobs: it signals to others that we need support, and it can help us self-soothe and recover. The gap in how often men and women cry looks driven mostly by socialization and physiology, not by a difference in how deeply each feels.",
+  "pullQuote": "Restraint in tears reflects socialization and expression norms, not shallower emotion — crying less does not mean feeling less.",
+  "keyStats": [
+    {
+      "value": "A human signal",
+      "label": "A synthesis of the science argues emotional tears are a distinctly human, hard-to-fake signal of vulnerability that elicits comfort and strengthens social bonds.",
+      "source": "Vingerhoets, Why Only Humans Weep (2013)"
+    },
+    {
+      "value": "Similar inner feeling",
+      "label": "When watching emotional films, men and women reported comparable inner experience and physiology even though women showed more outward expression.",
+      "source": "Kring & Gordon (1998)"
+    },
+    {
+      "value": "Context-dependent relief",
+      "label": "People often feel calmer after crying, but the evidence is mixed — whether it helps depends heavily on the social response and setting.",
+      "source": "Vingerhoets (2013); Gross (1998)"
+    }
+  ],
+  "keyTakeaways": [
+    "Crying serves as both a social signal for support and a way to self-soothe and recover.",
+    "The inner emotional experience is similar across people who differ greatly in how much they outwardly cry.",
+    "The average gender gap in crying reflects socialization and physiology, not depth of feeling.",
+    "Whether crying brings relief depends largely on the comfort and setting around it, not the tears alone.",
+    "A partner who rarely cries is not necessarily less affected; visible tears are a poor readout of feeling.",
+    "Individual variation is wide in both sexes — crying frequency is not a reliable measure of emotional health."
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Depth of inner feeling", "men": "Comparable, on average", "women": "Comparable, on average" },
+      { "aspect": "Outward expression via tears", "men": "Tend to cry less often", "women": "Tend to cry more readily" },
+      { "aspect": "Main driver of the gap", "men": "Socialization to restrain, plus physiology", "women": "More social permission to express, plus physiology" },
+      { "aspect": "When tears surface", "men": "Often held until private or safe", "women": "Often more readily in the moment" }
+    ]
+  },
   "lastReviewed": "2026-06"
 }

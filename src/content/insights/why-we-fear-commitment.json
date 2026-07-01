@@ -73,5 +73,41 @@
     "why-men-pull-away",
     "why-people-self-sabotage-relationships"
   ],
+  "quickTake": "Fear of commitment usually is not about not wanting love — it is about what committing seems to cost: the expectation that closeness will hurt, the worry of losing yourself, and the pull of imagined alternatives. It shows up in both men and women.",
+  "pullQuote": "The worry is not 'I don't love you' but 'will there still be a me in this?'",
+  "keyStats": [
+    {
+      "value": "3 ingredients",
+      "label": "Commitment builds from satisfaction, investment, and the perceived quality of alternatives — so hesitation is often about the math, not a character flaw.",
+      "source": "Rusbult (1980), investment model"
+    },
+    {
+      "value": "Avoidance",
+      "label": "People higher in attachment avoidance tend to equate intimacy with vulnerability and loss of control, keeping partners at a measured distance.",
+      "source": "Mikulincer & Shaver (2007)"
+    },
+    {
+      "value": "Both sexes",
+      "label": "Avoidant and anxious patterns are distributed across both genders; the 'commitment-phobic man' stereotype overstates a small average difference.",
+      "source": "Hyde (2005); Mikulincer & Shaver (2007)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "How avoidance tends to appear", "men": "Reluctance to define the relationship or merge lives", "women": "Reluctance to define the relationship or merge lives" },
+      { "aspect": "How anxiety can appear", "men": "Rushing in, then panicking as it gets real", "women": "Rushing in, then panicking as it gets real" },
+      { "aspect": "The core felt threat", "men": "Loss of freedom or being trapped", "women": "Loss of self or being subsumed" },
+      { "aspect": "What helps a hesitant partner", "men": "Patience, consistency, and their own willingness to lean in", "women": "Patience, consistency, and their own willingness to lean in" }
+    ]
+  },
+  "keyTakeaways": [
+    "Fear of commitment is usually about the perceived cost of committing, not a lack of love.",
+    "Three common roots: an attachment system that learned closeness is risky, fear of losing independence or identity, and the lure of alternatives.",
+    "It is not mainly a male trait — avoidance and anxiety appear across both genders.",
+    "Not all hesitation is a wound; sometimes it is accurate intuition about a genuine mismatch.",
+    "Pressure tends to backfire; patience, consistency, and naming the specific fear tend to help — but the hesitant partner has to lean in too.",
+    "Attachment style and history predict commitment fear far better than gender, and it can shift over a life."
+  ],
   "lastReviewed": "2026-06"
 }

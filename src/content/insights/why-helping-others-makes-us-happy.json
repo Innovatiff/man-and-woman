@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "Someone feeling low who volunteers or helps a friend in need often reports feeling better afterward, sometimes more than if they had treated themselves. The shift in focus from their own troubles to another person's, combined with the connection it creates, tends to lift mood in a way self-focused activity may not.",
     "Research on prosocial spending suggests that buying a small gift or coffee for someone else can produce more happiness than spending the same amount on oneself. The amount matters less than the act of directing it toward another person, which appears to be where much of the emotional benefit comes from.",
-    "People who build helping into their lives — mentoring, caregiving, community work — frequently describe a sense of meaning and belonging that purely self-directed pursuits did not provide. The benefit seems to flow less from the activity itself than from the relationships and sense of purpose it fosters."
+    "People who build helping into their lives — mentoring, caregiving, community work — frequently describe a sense of meaning and belonging that purely self-directed pursuits did not provide. The benefit seems to flow less from the activity itself than from the relationships and sense of purpose it fosters.",
+    "A colleague who quietly stays late to help a struggling coworker meet a deadline often walks out drained but oddly buoyed — the small act of easing someone else's stress tends to leave a warmer afterglow than an evening spent only on their own to-do list."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that happiness comes mainly from acquiring things or experiences for ourselves. Research suggests that, beyond meeting basic needs, directing resources and effort toward others is often a more reliable route to well-being — which is part of why purely self-focused consumption tends to satisfy less than people expect.",
@@ -73,6 +74,33 @@
     "why-money-doesnt-buy-happiness",
     "how-gratitude-improves-wellbeing",
     "how-relationships-affect-happiness"
+  ],
+  "quickTake": "Helping others tends to lift our own happiness — often more reliably than spending on ourselves. The effect seems to run through connection: generosity strengthens our bonds and satisfies a deep human need to belong.",
+  "pullQuote": "Giving does more than please us; it links us to people — which may be why it so often feels better than spending on ourselves.",
+  "keyStats": [
+    {
+      "value": "Others > self",
+      "label": "In experiments, people randomly assigned to spend money on others reported greater happiness than those who spent the same amount on themselves.",
+      "source": "Dunn, Aknin & Norton (2008)"
+    },
+    {
+      "value": "148 studies",
+      "label": "A meta-analysis linking strong social relationships to markedly lower mortality risk, underscoring how central connection is to well-being.",
+      "source": "Holt-Lunstad, Smith & Layton (2010)"
+    },
+    {
+      "value": "Fundamental need",
+      "label": "The 'need to belong' is argued to be a basic human drive, which helps explain why acts that deepen our ties to others feel rewarding.",
+      "source": "Baumeister & Leary (1995)"
+    }
+  ],
+  "keyTakeaways": [
+    "Helping others tends to raise our own happiness, sometimes more reliably than spending on ourselves.",
+    "In experiments, spending on others produced more happiness than spending the same amount on oneself — the act matters more than the amount.",
+    "Much of the benefit appears to flow through connection: generosity strengthens bonds and meets a deep need to belong.",
+    "The lift is not automatic; freely chosen, meaningful giving helps, while coerced or depleting help may not.",
+    "Over-giving to the point of chronic self-sacrifice can erode the benefit and breed resentment.",
+    "The well-being boost appears to apply broadly to both men and women, even if preferred forms of helping differ by person and culture."
   ],
   "lastReviewed": "2026-06"
 }

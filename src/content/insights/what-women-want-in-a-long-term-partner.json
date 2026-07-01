@@ -73,5 +73,41 @@
     "what-men-want-in-a-long-term-partner",
     "how-attraction-works"
   ],
+  "quickTake": "For lasting partnership, women tend to prioritize kindness, reliability, intelligence, and emotional availability. Status shows up in stated preferences, but it predicts real in-person attraction poorly — character and dependability are what actually hold up over time.",
+  "pullQuote": "The partner a woman describes wanting and the one she falls for can look quite different — because a checklist is built from culture, but attraction runs on warmth and chemistry no list captures.",
+  "keyStats": [
+    {
+      "value": "37 cultures",
+      "label": "Buss's landmark survey found kindness and intelligence topped the list of valued long-term traits almost everywhere, for both sexes.",
+      "source": "Buss (1989)"
+    },
+    {
+      "value": "Weak predictor",
+      "label": "What women say they want (e.g. earning potential) predicted little about who actually sparked their attraction in speed-dating studies.",
+      "source": "Eastwick & Finkel (2008)"
+    },
+    {
+      "value": "78%",
+      "label": "Of measured psychological gender differences are small or close to zero — men's and women's long-term preferences overlap far more than they differ.",
+      "source": "Hyde (2005), review of 46 meta-analyses"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Top stated traits", "men": "Kindness, intelligence high; more weight on looks", "women": "Kindness, intelligence high; more weight on resources" },
+      { "aspect": "Role of status/resources", "men": "Mentioned less often, on average", "women": "Mentioned somewhat more in stated preferences" },
+      { "aspect": "Stated vs. real attraction", "men": "Checklist predicts real attraction poorly", "women": "Checklist predicts real attraction poorly" },
+      { "aspect": "What sustains the long haul", "men": "Warmth, reliability, being a steady teammate", "women": "Warmth, reliability, emotional availability" }
+    ]
+  },
+  "keyTakeaways": [
+    "Across 37 cultures, kindness and intelligence rank at the top for both sexes — the traits men and women value most for the long term are strikingly similar.",
+    "Women mention resources and status somewhat more than men in stated preferences, but those stated priorities predict real attraction poorly.",
+    "In-person attraction runs on warmth, humor, and chemistry — which is why the partner a woman describes and the one she falls for can differ.",
+    "Character-based traits — trustworthiness, emotional stability, kindness, dependability — hold up most reliably for lasting partnership.",
+    "As women's economic independence rises, emphasis tends to shift further toward emotional and character traits.",
+    "These are population averages with heavy overlap; personality, attachment, and circumstances shape what any individual wants more than gender does."
+  ],
   "lastReviewed": "2026-06"
 }

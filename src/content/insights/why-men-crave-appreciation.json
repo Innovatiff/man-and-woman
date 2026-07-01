@@ -21,7 +21,8 @@
   "realLifeExamples": [
     "A man who handles a household crisis, covers a hard week at work, or quietly keeps things running may not say he wants thanks — but a sincere 'I notice how much you carry, and I'm grateful' often lands more deeply than he lets on.",
     "Conversely, when effort is consistently met with silence or only noticed when it lapses, many men slowly withdraw. The complaint is rarely 'she doesn't love me'; it is closer to 'nothing I do seems to register,' which is the felt absence of appreciation.",
-    "Appreciation often works better when it is specific. 'Thank you for staying calm and sorting that out — it made a real difference' tends to mean more than a generic 'you're great,' because it shows the effort was actually seen."
+    "Appreciation often works better when it is specific. 'Thank you for staying calm and sorting that out — it made a real difference' tends to mean more than a generic 'you're great,' because it shows the effort was actually seen.",
+    "A man who has spent years being the dependable one — the fixer, the earner, the person who shows up — may light up unexpectedly at a simple, unprompted 'I don't say it enough, but I really appreciate everything you do,' precisely because that steadiness had come to feel invisible."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that wanting appreciation is needy or about ego. The research frames it differently: appreciation is a basic mechanism of relationship maintenance for everyone, and feeling valued sustains commitment and responsiveness. Craving appreciation is closer to wanting the relationship to feel mutual than to seeking flattery.",
@@ -72,6 +73,42 @@
     "what-men-want-but-rarely-say",
     "what-makes-men-happy",
     "what-men-need-in-relationship"
+  ],
+  "quickTake": "Feeling appreciated is a core relational need, and many men quietly under-receive it. Because men are often socialized to give through effort and steady reliability, appreciation becomes the main way they register being valued — and its absence is felt keenly even when they never ask.",
+  "pullQuote": "Appreciation, in other words, is not a nicety; it is relational maintenance.",
+  "keyStats": [
+    {
+      "value": "Upward spiral",
+      "label": "Feeling appreciated by a partner predicted greater commitment and desire to maintain the relationship, and expressing gratitude made both people more responsive over time.",
+      "source": "Gordon et al. (2012)"
+    },
+    {
+      "value": "Protective factor",
+      "label": "A culture of fondness and admiration — regularly voicing what you value — was among the strongest buffers against relationship decline in Gottman's research on lasting couples.",
+      "source": "Gottman & Silver (1999)"
+    },
+    {
+      "value": "Both sexes",
+      "label": "The need to feel valued is human, not male; the sexes overlap heavily, and women often report under-receiving appreciation too, especially for invisible labor.",
+      "source": "Hyde (2005)"
+    }
+  ],
+  "comparison": {
+    "title": "At a glance: average tendencies",
+    "rows": [
+      { "aspect": "Where appreciation is sought", "men": "Often for effort, provision, fixing, showing up", "women": "Often for care and emotional or invisible labor" },
+      { "aspect": "Asking for it directly", "men": "Frequently under-express the need, having been taught not to", "women": "Also often go unthanked, though patterns vary" },
+      { "aspect": "What under-recognition looks like", "men": "Quiet withdrawal after sustained, unnoticed effort", "women": "Similar — feeling that contributions go unseen" },
+      { "aspect": "What it signals", "men": "That the relationship is mutual, not one-way giving", "women": "That effort and presence are genuinely seen" }
+    ]
+  },
+  "keyTakeaways": [
+    "Feeling appreciated is a basic mechanism of relationship maintenance, not neediness or ego — it sustains commitment and responsiveness for everyone.",
+    "Steady, undramatic contributions are easy to take for granted precisely because they're consistent, so many men receive less explicit gratitude than they give.",
+    "Specific appreciation ('thank you for handling that calmly') lands more deeply than a generic compliment, because it shows the effort was actually seen.",
+    "A man who doesn't ask for thanks may still need it — quiet about the need is not the same as indifference to it.",
+    "Voiced gratitude tends to create an upward spiral, motivating both partners to keep investing.",
+    "This is a human need, not a male one; women crave appreciation just as much and often under-receive it too."
   ],
   "lastReviewed": "2026-06"
 }
