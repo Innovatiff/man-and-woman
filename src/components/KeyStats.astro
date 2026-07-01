@@ -1,0 +1,84 @@
+---
+/** "By the numbers" panel — real figures tied to cited studies. */
+export interface Stat {
+  value: string;
+  label: string;
+  source?: string;
+}
+export interface Props {
+  stats: Stat[];
+  heading?: string;
+}
+const { stats, heading = 'By the numbers' } = Astro.props;
+---
+
+<section class="keystats" aria-label={heading}>
+  <p class="keystats-eyebrow">{heading}</p>
+  <div class="keystats-grid">
+    {
+      stats.map((s) => (
+        <div class="keystat">
+          <div class="keystat-value">{s.value}</div>
+          <div class="keystat-label">{s.label}</div>
+          {s.source && <div class="keystat-source">{s.source}</div>}
+        </div>
+      ))
+    }
+  </div>
+  <p class="keystats-note">
+    Figures come from the studies cited at the end of this page. Numbers describe group averages and
+    study samples, not rules about individuals.
+  </p>
+</section>
+
+<style>
+  .keystats {
+    background: var(--slate);
+    color: #f5f5f4;
+    border-radius: var(--radius-lg);
+    padding: var(--space-4) var(--space-5) var(--space-3);
+    margin: var(--space-5) 0;
+  }
+  .keystats-eyebrow {
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    font-weight: 700;
+    color: var(--red-200);
+    margin: 0 0 var(--space-3);
+  }
+  .keystats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 9rem), 1fr));
+    gap: var(--space-4) var(--space-3);
+  }
+  .keystat {
+    border-left: 3px solid var(--red-500);
+    padding-left: 0.85rem;
+  }
+  .keystat-value {
+    font-family: var(--font-display);
+    font-size: clamp(1.6rem, 1.3rem + 1vw, 2.15rem);
+    font-weight: 600;
+    line-height: 1.05;
+    color: #fff;
+  }
+  .keystat-label {
+    font-size: 0.9rem;
+    color: #d6d3d1;
+    margin-top: 0.35rem;
+    line-height: 1.4;
+  }
+  .keystat-source {
+    font-size: 0.74rem;
+    color: #a8a29e;
+    margin-top: 0.35rem;
+  }
+  .keystats-note {
+    font-size: 0.76rem;
+    color: #a8a29e;
+    margin: var(--space-3) 0 0;
+    border-top: 1px solid #3f3f46;
+    padding-top: var(--space-2);
+  }
+</style>

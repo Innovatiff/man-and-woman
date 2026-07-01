@@ -75,5 +75,40 @@
     "how-men-handle-emotions",
     "how-women-fall-in-love"
   ],
+  "quickTake": "Contrary to the cliché, men often fall in love faster and say it first — but they tend to show it through action long before they say it. Deep male attachment forms around feeling respected, needed, and safe, not romance alone.",
+  "pullQuote": "Quiet is not the same as indifferent: men often feel strong attachment sooner than they show it, and express it through what they do.",
+  "keyStats": [
+    {
+      "value": "Say it first",
+      "label": "Across several studies, men report falling in love sooner and are more likely to say 'I love you' first.",
+      "source": "Harrison & Shortall (2011); Ackerman et al. (2011)"
+    },
+    {
+      "value": "231 couples",
+      "label": "Tracked for two years in the classic Boston Couples Study, where men tended to fall in love faster and women more often initiated breakups.",
+      "source": "Rubin, Peplau & Hill (1981)"
+    },
+    {
+      "value": "78%",
+      "label": "Of measured psychological gender differences are small or close to zero — the sexes overlap far more than they differ.",
+      "source": "Hyde (2005), review of 46 meta-analyses"
+    }
+  ],
+  "comparison": {
+    "title": "Early love: average tendencies",
+    "rows": [
+      { "aspect": "Saying \"I love you\" first", "men": "More likely to say it first, on average", "women": "More likely to wait until they feel sure" },
+      { "aspect": "Pace of falling in love", "men": "Tend to fall somewhat faster", "women": "Tend to be more deliberate early on" },
+      { "aspect": "How love is expressed", "men": "Often through actions, reliability, planning", "women": "Often through words and shared emotion" },
+      { "aspect": "What deepens attachment", "men": "Respect, admiration, feeling needed", "women": "Responsiveness, feeling understood and safe" }
+    ]
+  },
+  "keyTakeaways": [
+    "On average, men fall in love somewhat faster and confess it first — the idea that women are 'the romantic ones' is only half true.",
+    "Depth of feeling is similar across the sexes; the reliable difference is in expression and timing, not intensity.",
+    "Admiration, respect, and feeling needed drive male attachment more than grand romantic gestures.",
+    "Read the trajectory of behavior — consistency, effort, future-planning — alongside words, not instead of them.",
+    "These are group averages with heavy overlap; attachment style predicts how a person loves better than their gender does."
+  ],
   "lastReviewed": "2026-06"
 }

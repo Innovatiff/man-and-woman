@@ -11,9 +11,15 @@ import GenderBadge from '../../components/GenderBadge.astro';
 import DisclaimerBox from '../../components/DisclaimerBox.astro';
 import InsightCard from '../../components/InsightCard.astro';
 import AdSlot from '../../components/AdSlot.astro';
+import KeyStats from '../../components/KeyStats.astro';
+import KeyTakeaways from '../../components/KeyTakeaways.astro';
+import ComparisonTable from '../../components/ComparisonTable.astro';
+import QuickTake from '../../components/QuickTake.astro';
+import PullQuote from '../../components/PullQuote.astro';
 import { categoryName, CATEGORY_BY_SLUG } from '../../data/categories';
 import { SITE } from '../../config';
 import { allInsights, relatedInsights, excerpt } from '../../lib/insights';
+import { pickLayout, readingMinutes } from '../../lib/present';
 
 export const getStaticPaths = (async () => {
   const insights = await allInsights();
@@ -28,6 +34,9 @@ const d = insight.data;
 const cat = CATEGORY_BY_SLUG[d.category];
 const related = await relatedInsights(insight);
 
+const layout = pickLayout(d);
+const minutes = readingMinutes(d);
+
 const sections = [
   { id: 'research', heading: 'What the research actually shows', eyebrow: 'The evidence', paragraphs: d.whatResearchShows, tone: 'research' as const },
   { id: 'why', heading: 'Why this happens', eyebrow: 'The mechanism', paragraphs: d.whyItHappens, tone: 'default' as const },
@@ -36,6 +45,15 @@ const sections = [
   { id: 'relationships', heading: 'What this means for relationships', eyebrow: 'Why it matters', paragraphs: d.relationshipImplications, tone: 'default' as const },
   { id: 'nuance', heading: 'The nuance', eyebrow: 'Where it varies', paragraphs: d.theNuance, tone: 'nuance' as const },
 ];
+
+// Where optional blocks land, per layout variant (keeps prose order stable,
+// varies the rhythm and the reading experience from page to page).
+const statsAfter: Record<string, string> = { feature: 'core', editorial: 'real-life', data: 'top', minimal: 'why' };
+const quoteAfter: Record<string, string> = { feature: 'why', editorial: 'research', data: 'real-life', minimal: 'nuance' };
+const statsPos = statsAfter[layout];
+const quotePos = quoteAfter[layout];
+const hasStats = !!(d.keyStats && d.keyStats.length);
+const hasQuote = !!d.pullQuote;
 
 const canonical = `/insights/${d.slug}`;
 const jsonLd = [
@@ -46,6 +64,7 @@ const jsonLd = [
     description: d.metaDescription,
     inLanguage: 'en',
     isAccessibleForFree: true,
+    timeRequired: `PT${minutes}M`,
     author: { '@type': 'Organization', name: SITE.author },
     publisher: {
       '@type': 'Organization',
@@ -94,29 +113,41 @@ const jsonLd = [
     />
   </div>
 
-  <article class="container insight-layout">
+  <article class={`container insight-layout layout-${layout}`}>
     <div class="insight-main">
       <header class="insight-head">
         <div class="insight-head-meta">
           <GenderBadge focus={d.focusGender} />
           <a class="insight-head-cat" href={`/${d.category}`}>{categoryName(d.category)}</a>
+          <span class="insight-head-dot" aria-hidden="true">·</span>
+          <span class="insight-head-time">{minutes} min read</span>
         </div>
         <h1>{d.title}</h1>
-        <LastReviewed date={d.lastReviewed} />
+        {d.quickTake ? <QuickTake text={d.quickTake} /> : <LastReviewed date={d.lastReviewed} />}
       </header>
 
-      <!-- The honest answer, first -->
+      {/* data layout leads with the numbers */}
+      {statsPos === 'top' && hasStats && <KeyStats stats={d.keyStats!} />}
+
       <CoreFinding text={d.coreFinding} />
 
-      {sections[0] && <InsightSection {...sections[0]} />}
-      {sections[1] && <InsightSection {...sections[1]} />}
+      {statsPos === 'core' && hasStats && <KeyStats stats={d.keyStats!} />}
 
-      <AdSlot variant="in-content" />
+      {
+        sections.map((s) => (
+          <Fragment>
+            <InsightSection {...s} />
+            {quotePos === s.id && hasQuote && <PullQuote text={d.pullQuote!} />}
+            {statsPos === s.id && hasStats && <KeyStats stats={d.keyStats!} />}
+            {s.id === 'why' && <AdSlot variant="in-content" />}
+            {s.id === 'relationships' && d.comparison && (
+              <ComparisonTable rows={d.comparison.rows} title={d.comparison.title} />
+            )}
+          </Fragment>
+        ))
+      }
 
-      {sections[2] && <InsightSection {...sections[2]} />}
-      {sections[3] && <InsightSection {...sections[3]} />}
-      {sections[4] && <InsightSection {...sections[4]} />}
-      {sections[5] && <InsightSection {...sections[5]} />}
+      {d.keyTakeaways && d.keyTakeaways.length > 0 && <KeyTakeaways items={d.keyTakeaways} />}
 
       <Faq items={d.faqs} heading="Questions people ask about this" />
 
@@ -143,10 +174,13 @@ const jsonLd = [
 
       <ResearchSources sources={d.researchSources} />
 
+      {d.quickTake && (
+        <div class="insight-reviewed"><LastReviewed date={d.lastReviewed} /></div>
+      )}
+
       <DisclaimerBox />
     </div>
 
-    <!-- Desktop-only sidebar: on this page + sidebar ad -->
     <aside class="insight-side" aria-label="Page navigation and notices">
       <div class="side-sticky">
         <nav class="onthispage" aria-label="On this page">
@@ -181,7 +215,7 @@ const jsonLd = [
   .insight-head-meta {
     display: flex;
     align-items: center;
-    gap: 0.75rem;
+    gap: 0.6rem;
     flex-wrap: wrap;
     margin-bottom: var(--space-3);
   }
@@ -196,6 +230,13 @@ const jsonLd = [
   .insight-head-cat:hover {
     color: var(--color-primary-strong);
   }
+  .insight-head-dot {
+    color: var(--color-border);
+  }
+  .insight-head-time {
+    font-size: 0.8rem;
+    color: var(--color-text-muted);
+  }
   .insight-head h1 {
     font-size: var(--step-3);
     margin-bottom: var(--space-2);
@@ -203,6 +244,9 @@ const jsonLd = [
   }
   .related {
     margin-top: var(--space-6);
+  }
+  .insight-reviewed {
+    margin-top: var(--space-4);
   }
 
   .insight-side {
@@ -242,6 +286,59 @@ const jsonLd = [
   }
   .onthispage a:hover {
     color: var(--color-primary-strong);
+  }
+
+  /* ---------- Layout variants: vary the reading rhythm & decoration ---------- */
+
+  /* Feature: bold bordered title block. */
+  .layout-feature .insight-head {
+    border-left: 4px solid var(--color-primary);
+    padding-left: var(--space-4);
+  }
+
+  /* Editorial: drop cap on the first research paragraph, numbered sections. */
+  .layout-editorial :global(#research > p:first-of-type::first-letter) {
+    initial-letter: 2.4;
+    -webkit-initial-letter: 2.4;
+    font-family: var(--font-display);
+    font-weight: 600;
+    color: var(--color-primary);
+    margin-right: 0.6rem;
+  }
+  .layout-editorial :global(.insight-section) {
+    counter-increment: sec;
+    position: relative;
+  }
+  .layout-editorial :global(.insight-section > h2::before) {
+    content: counter(sec, decimal-leading-zero);
+    display: block;
+    font-family: var(--font-display);
+    font-size: 0.9rem;
+    color: var(--color-primary);
+    letter-spacing: 0.1em;
+    margin-bottom: 0.35rem;
+  }
+  .layout-editorial .insight-main {
+    counter-reset: sec;
+  }
+
+  /* Data: tighter rhythm, heavier rules between sections. */
+  .layout-data :global(.insight-section) {
+    border-top: 1px solid var(--color-border);
+    padding-top: var(--space-4);
+  }
+  .layout-data :global(.tone-research),
+  .layout-data :global(.tone-warn),
+  .layout-data :global(.tone-nuance) {
+    border-top: none;
+  }
+
+  /* Minimal: airy, understated. */
+  .layout-minimal :global(.insight-section) {
+    margin-block: var(--space-7);
+  }
+  .layout-minimal .insight-head h1 {
+    font-size: var(--step-4);
   }
 
   @media (max-width: 960px) {

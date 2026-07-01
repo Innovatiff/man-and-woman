@@ -1,0 +1,46 @@
+---
+export interface Props {
+  text: string;
+  minutes?: number;
+}
+const { text, minutes } = Astro.props;
+---
+
+<aside class="quicktake">
+  <div class="quicktake-head">
+    <span class="quicktake-label">Quick take</span>
+    {minutes && <span class="quicktake-time">{minutes} min read</span>}
+  </div>
+  <p class="quicktake-text">{text}</p>
+</aside>
+
+<style>
+  .quicktake {
+    border-left: 3px solid var(--color-primary);
+    padding: 0.25rem 0 0.25rem 1rem;
+    margin: var(--space-4) 0;
+  }
+  .quicktake-head {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 0.35rem;
+  }
+  .quicktake-label {
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    font-weight: 700;
+    color: var(--color-primary-strong);
+  }
+  .quicktake-time {
+    font-size: 0.76rem;
+    color: var(--color-text-muted);
+  }
+  .quicktake-text {
+    margin: 0;
+    font-size: var(--step-1);
+    line-height: 1.5;
+    color: #3f3f46;
+  }
+</style>

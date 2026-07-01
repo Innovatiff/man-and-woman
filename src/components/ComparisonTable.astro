@@ -1,0 +1,100 @@
+---
+/** Men-vs-women comparison at a glance. Framed as average tendencies. */
+export interface Row {
+  aspect: string;
+  men: string;
+  women: string;
+}
+export interface Props {
+  rows: Row[];
+  title?: string;
+}
+const { rows, title = 'At a glance: average tendencies' } = Astro.props;
+---
+
+<section class="cmp" aria-label={title}>
+  <h2 class="cmp-title">{title}</h2>
+  <p class="cmp-note muted">
+    Broad averages with heavy overlap — many people differ from their group's tendency. This is a
+    map, not a measurement of any one person.
+  </p>
+  <div class="cmp-wrap">
+    <table class="cmp-table">
+      <thead>
+        <tr>
+          <th scope="col">Aspect</th>
+          <th scope="col"><span class="badge badge--men">● Men (avg.)</span></th>
+          <th scope="col"><span class="badge badge--women">● Women (avg.)</span></th>
+        </tr>
+      </thead>
+      <tbody>
+        {
+          rows.map((r) => (
+            <tr>
+              <th scope="row">{r.aspect}</th>
+              <td>{r.men}</td>
+              <td>{r.women}</td>
+            </tr>
+          ))
+        }
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<style>
+  .cmp {
+    margin: var(--space-6) 0;
+  }
+  .cmp-title {
+    font-size: var(--step-2);
+    margin-bottom: var(--space-2);
+  }
+  .cmp-note {
+    font-size: 0.88rem;
+    max-width: 60ch;
+    margin-bottom: var(--space-3);
+  }
+  .cmp-wrap {
+    overflow-x: auto;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+  }
+  .cmp-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.94rem;
+    min-width: 34rem;
+  }
+  .cmp-table th,
+  .cmp-table td {
+    text-align: left;
+    padding: 0.8rem 1rem;
+    vertical-align: top;
+    border-bottom: 1px solid var(--color-border);
+  }
+  .cmp-table thead th {
+    background: var(--color-surface);
+    font-family: var(--font-body);
+    font-size: 0.8rem;
+    white-space: nowrap;
+  }
+  .cmp-table tbody th[scope='row'] {
+    font-family: var(--font-body);
+    font-weight: 600;
+    color: var(--slate);
+    width: 26%;
+    background: #fff;
+  }
+  .cmp-table td {
+    color: #44403c;
+  }
+  .cmp-table tbody tr:last-child th,
+  .cmp-table tbody tr:last-child td {
+    border-bottom: none;
+  }
+  .cmp-table tbody tr:nth-child(even) td,
+  .cmp-table tbody tr:nth-child(even) th[scope='row'] {
+    background: #fbfbfa;
+  }
+</style>

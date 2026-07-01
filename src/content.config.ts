@@ -42,6 +42,41 @@ const insights = defineCollection({
     researchSources: z.array(z.string()).min(2),
     relatedInsights: z.array(z.string()).default([]),
 
+    /* ---- Optional rich-content fields (progressively enrich pages) ---- */
+
+    /** One- or two-sentence TL;DR shown near the top. */
+    quickTake: z.string().optional(),
+
+    /** A short, striking line pulled from the research to use as a pull quote. */
+    pullQuote: z.string().optional(),
+
+    /** "By the numbers" panel: real figures tied to cited studies. */
+    keyStats: z
+      .array(
+        z.object({
+          value: z.string(),
+          label: z.string(),
+          source: z.string().optional(),
+        }),
+      )
+      .optional(),
+
+    /** Bullet summary shown before the FAQ. */
+    keyTakeaways: z.array(z.string()).optional(),
+
+    /** Optional men-vs-women comparison table (mostly for "both" pages). */
+    comparison: z
+      .object({
+        title: z.string().optional(),
+        rows: z.array(
+          z.object({ aspect: z.string(), men: z.string(), women: z.string() }),
+        ),
+      })
+      .optional(),
+
+    /** Force a specific layout variant; otherwise derived from the slug. */
+    layout: z.enum(['feature', 'editorial', 'data', 'minimal']).optional(),
+
     /** Tags drive the Explorer scoring and cross-topic linking. */
     tags: z.array(z.string()).default([]),
 

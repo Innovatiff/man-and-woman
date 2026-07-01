@@ -1,0 +1,54 @@
+---
+export interface Props {
+  items: string[];
+  heading?: string;
+}
+const { items, heading = 'Key takeaways' } = Astro.props;
+---
+
+<section class="takeaways" aria-label={heading}>
+  <h2 class="takeaways-title">{heading}</h2>
+  <ul class="takeaways-list">
+    {items.map((t) => <li>{t}</li>)}
+  </ul>
+</section>
+
+<style>
+  .takeaways {
+    background: var(--red-50);
+    border: 1px solid var(--red-100);
+    border-radius: var(--radius-lg);
+    padding: var(--space-4) var(--space-5);
+    margin: var(--space-6) 0;
+  }
+  .takeaways-title {
+    font-size: var(--step-1);
+    margin-bottom: var(--space-3);
+  }
+  .takeaways-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    gap: 0.7rem;
+  }
+  .takeaways-list li {
+    position: relative;
+    padding-left: 1.9rem;
+    color: #44403c;
+    line-height: 1.5;
+    margin: 0;
+  }
+  .takeaways-list li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0.15rem;
+    width: 1.15rem;
+    height: 1.15rem;
+    border-radius: 50%;
+    background: var(--color-primary);
+    -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='white' d='M9 16.2l-3.5-3.5a1 1 0 10-1.4 1.4l4.2 4.2a1 1 0 001.4 0l9-9a1 1 0 10-1.4-1.4z'/%3E%3C/svg%3E") center / 0.8rem no-repeat;
+    mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='white' d='M9 16.2l-3.5-3.5a1 1 0 10-1.4 1.4l4.2 4.2a1 1 0 001.4 0l9-9a1 1 0 10-1.4-1.4z'/%3E%3C/svg%3E") center / 0.8rem no-repeat;
+  }
+</style>
