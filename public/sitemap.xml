@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Convenience alias for /sitemap.xml.
+
+  Astro's @astrojs/sitemap integration generates the maintained sitemap as
+  /sitemap-index.xml -> /sitemap-0.xml (regenerated every build with the current
+  URL list). Some tools and people expect the sitemap at /sitemap.xml, so this
+  static index simply points at the always-current /sitemap-0.xml. It contains a
+  pointer only — never a hard-coded URL list — so it never goes stale as pages
+  are added. Submitting either /sitemap.xml or /sitemap-index.xml to Search
+  Console works and resolves to the same set of URLs.
+-->
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://menwomenpsychology.com/sitemap-0.xml</loc>
+  </sitemap>
+</sitemapindex>
