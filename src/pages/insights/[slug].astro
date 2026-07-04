@@ -56,7 +56,7 @@ const quotePos = quoteAfter[layout];
 const hasStats = !!(d.keyStats && d.keyStats.length);
 const hasQuote = !!d.pullQuote;
 
-const canonical = `/insights/${d.slug}`;
+const canonical = `/insights/${d.slug}/`;
 const jsonLd = [
   {
     '@context': 'https://schema.org',
@@ -70,7 +70,7 @@ const jsonLd = [
     author: {
       '@type': 'Organization',
       name: `${SITE.name} Editorial Team`,
-      url: `${SITE.url}/about`,
+      url: `${SITE.url}/about/`,
     },
     reviewedBy: { '@type': 'Organization', name: `${SITE.name} Editorial Team` },
     publisher: {
@@ -78,8 +78,8 @@ const jsonLd = [
       name: SITE.name,
       logo: { '@type': 'ImageObject', url: `${SITE.url}/favicon.svg` },
     },
-    publishingPrinciples: `${SITE.url}/editorial-policy`,
-    correctionsPolicy: `${SITE.url}/editorial-policy`,
+    publishingPrinciples: `${SITE.url}/editorial-policy/`,
+    correctionsPolicy: `${SITE.url}/editorial-policy/`,
     mainEntityOfPage: `${SITE.url}${canonical}`,
     articleSection: cat?.name ?? d.category,
     about: d.tags,
@@ -98,7 +98,7 @@ const jsonLd = [
     '@type': 'BreadcrumbList',
     itemListElement: [
       { '@type': 'ListItem', position: 1, name: 'Home', item: SITE.url },
-      { '@type': 'ListItem', position: 2, name: cat?.name ?? 'Insights', item: `${SITE.url}/${d.category}` },
+      { '@type': 'ListItem', position: 2, name: cat?.name ?? 'Insights', item: `${SITE.url}/${d.category}/` },
       { '@type': 'ListItem', position: 3, name: d.title, item: `${SITE.url}${canonical}` },
     ],
   },
@@ -127,7 +127,7 @@ const jsonLd = [
       <header class="insight-head">
         <div class="insight-head-meta">
           <GenderBadge focus={d.focusGender} />
-          <a class="insight-head-cat" href={`/${d.category}`}>{categoryName(d.category)}</a>
+          <a class="insight-head-cat" href={`/${d.category}/`}>{categoryName(d.category)}</a>
           <span class="insight-head-dot" aria-hidden="true">·</span>
           <span class="insight-head-time">{minutes} min read</span>
         </div>
@@ -192,8 +192,8 @@ const jsonLd = [
       <div class="insight-reviewed">
         <LastReviewed date={d.lastReviewed} />
         <p class="insight-reviewed-note">
-          Written and reviewed by the <a href="/about">{SITE.name} Editorial Team</a> against our
-          <a href="/editorial-policy"> editorial standards</a>. This article is educational and is
+          Written and reviewed by the <a href="/about/">{SITE.name} Editorial Team</a> against our
+          <a href="/editorial-policy/"> editorial standards</a>. This article is educational and is
           not a substitute for professional advice.
         </p>
       </div>

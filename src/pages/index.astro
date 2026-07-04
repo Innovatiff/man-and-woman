@@ -40,7 +40,7 @@ const jsonLd = [
     publisher: { '@type': 'Organization', name: SITE.name, url: SITE.url },
     potentialAction: {
       '@type': 'SearchAction',
-      target: `${SITE.url}/explore`,
+      target: `${SITE.url}/explore/`,
       'query-input': 'required name=search_term_string',
     },
   },
@@ -59,9 +59,9 @@ const jsonLd = [
       'attachment and love',
       'happiness and well-being',
     ],
-    publishingPrinciples: `${SITE.url}/editorial-policy`,
-    correctionsPolicy: `${SITE.url}/editorial-policy`,
-    diversityPolicy: `${SITE.url}/editorial-policy`,
+    publishingPrinciples: `${SITE.url}/editorial-policy/`,
+    correctionsPolicy: `${SITE.url}/editorial-policy/`,
+    diversityPolicy: `${SITE.url}/editorial-policy/`,
   },
 ];
 ---
@@ -82,7 +82,7 @@ const jsonLd = [
         love, and live — without stereotypes and without agenda.
       </p>
       <div class="hero-cta">
-        <a href="/explore" class="btn btn--primary btn--lg">Explore the Psychology</a>
+        <a href="/explore/" class="btn btn--primary btn--lg">Explore the Psychology</a>
       </div>
       <p class="hero-note muted">No account. No clickbait. No gender-war framing — just findings.</p>
     </div>
@@ -133,7 +133,7 @@ const jsonLd = [
       <div class="category-grid">
         {
           CATEGORIES.map((c) => (
-            <a class="category-pill" href={`/${c.slug}`}>
+            <a class="category-pill" href={`/${c.slug}/`}>
               <GenderBadge focus={c.focus} />
               <span class="category-name">{c.name}</span>
             </a>
@@ -165,7 +165,7 @@ const jsonLd = [
         }
       </div>
       <div class="center" style="margin-top: var(--space-5)">
-        <a href="/explore" class="btn btn--ghost">Not sure where to start? Use the Explorer →</a>
+        <a href="/explore/" class="btn btn--ghost">Not sure where to start? Use the Explorer →</a>
       </div>
     </div>
   </section>

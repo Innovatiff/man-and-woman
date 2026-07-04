@@ -27,7 +27,16 @@ const {
   noindex = false,
 } = Astro.props;
 
-const canonicalURL = new URL(canonical ?? Astro.url.pathname, SITE.url).toString();
+// Canonicalise to the trailing-slash form. The site is built with Astro's
+// default `directory` format, so every page lives at `/path/index.html` and is
+// served at `/path/`. The sitemap already emits trailing-slash URLs, so the
+// canonical tag, og:url, and internal links must match — otherwise Google sees
+// `/path` and `/path/` as two URLs and indexes neither. Normalise here so it is
+// impossible to get wrong per-page.
+const rawPath = canonical ?? Astro.url.pathname;
+const withSlash =
+  rawPath === '/' || rawPath.endsWith('/') ? rawPath : `${rawPath}/`;
+const canonicalURL = new URL(withSlash, SITE.url).toString();
 const fullTitle = title.includes(SITE.name) ? title : `${title} | ${SITE.name}`;
 const jsonLdBlocks = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
 ---

@@ -18,11 +18,11 @@ const popular = CATEGORIES.slice(0, 6);
     </p>
     <div class="notfound-actions">
       <a href="/" class="btn btn--primary">Back to home</a>
-      <a href="/explore" class="btn btn--ghost">Open the Psychology Explorer</a>
+      <a href="/explore/" class="btn btn--ghost">Open the Psychology Explorer</a>
     </div>
     <h2 class="notfound-sub">Popular categories</h2>
     <ul class="notfound-cats">
-      {popular.map((c) => <li><a href={`/${c.slug}`}>{c.name}</a></li>)}
+      {popular.map((c) => <li><a href={`/${c.slug}/`}>{c.name}</a></li>)}
     </ul>
   </section>
 </BaseLayout>

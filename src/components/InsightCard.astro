@@ -14,7 +14,7 @@ export interface Props {
 const { title, slug, category, focusGender, excerpt, reason } = Astro.props;
 ---
 
-<a class="card card--link insight-card" href={`/insights/${slug}`}>
+<a class="card card--link insight-card" href={`/insights/${slug}/`}>
   <div class="insight-card-meta">
     <GenderBadge focus={focusGender} />
     <span class="insight-card-cat">{categoryName(category)}</span>

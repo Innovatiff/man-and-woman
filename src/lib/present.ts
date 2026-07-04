@@ -38,3 +38,19 @@ export function pickLayout(d: Insight['data']): Layout {
 
 /** Rotating accent per section index, kept subtle and on-brand. */
 export const SECTION_ACCENTS = ['red', 'teal', 'amber', 'slate'] as const;
+
+/**
+ * Normalise an internal path to the trailing-slash form used site-wide (the
+ * site builds with Astro's `directory` format, so every page is served at
+ * `/path/`). Leaves the root, external links, mailto/anchors/queries, and file
+ * URLs (anything with a dot in the final segment, e.g. `/favicon.svg`)
+ * untouched so we never break a real asset. Applied at render time in the
+ * header, footer, and breadcrumbs so every internal link matches its canonical.
+ */
+export function trailingSlash(href: string): string {
+  if (!href || !href.startsWith('/') || href === '/') return href;
+  if (href.endsWith('/') || href.includes('#') || href.includes('?')) return href;
+  const last = href.split('/').pop() ?? '';
+  if (last.includes('.')) return href;
+  return `${href}/`;
+}

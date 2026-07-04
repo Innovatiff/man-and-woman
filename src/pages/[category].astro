@@ -38,7 +38,7 @@ const jsonLd = [
     '@type': 'CollectionPage',
     name: data.name,
     description: data.description,
-    url: `${SITE.url}/${data.slug}`,
+    url: `${SITE.url}/${data.slug}/`,
   },
   {
     '@context': 'https://schema.org',
@@ -114,7 +114,7 @@ const jsonLd = [
         ) : (
           <p class="muted">
             In-depth pages for this category are being researched and added. Meanwhile, explore
-            related areas below or use the <a href="/explore">Psychology Explorer</a>.
+            related areas below or use the <a href="/explore/">Psychology Explorer</a>.
           </p>
         )
       }
@@ -136,7 +136,7 @@ const jsonLd = [
           <h2 id="related-cats-h">Related categories</h2>
           <div class="related-cats">
             {related.map((r) => (
-              <a class="related-cat" href={`/${r.slug}`}>
+              <a class="related-cat" href={`/${r.slug}/`}>
                 <span class="related-cat-name">{r.name}</span>
                 <span class="muted">{r.shortName}</span>
               </a>

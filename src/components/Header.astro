@@ -1,5 +1,6 @@
 ---
 import { SITE, NAV_LINKS } from '../config';
+import { trailingSlash } from '../lib/present';
 import BrandMark from './BrandMark.astro';
 const path = Astro.url.pathname;
 const isActive = (href: string) => path === href || (href !== '/' && path.startsWith(href));
@@ -42,7 +43,7 @@ const isGroup = (item: (typeof NAV_LINKS)[number]): item is { label: string; chi
                 <ul class="nav-dropdown-menu">
                   {item.children.map((c) => (
                     <li>
-                      <a href={c.href} aria-current={isActive(c.href) ? 'page' : undefined}>
+                      <a href={trailingSlash(c.href)} aria-current={isActive(c.href) ? 'page' : undefined}>
                         {c.label}
                       </a>
                     </li>
@@ -51,7 +52,7 @@ const isGroup = (item: (typeof NAV_LINKS)[number]): item is { label: string; chi
               </li>
             ) : (
               <li>
-                <a class="nav-link" href={item.href} aria-current={isActive(item.href) ? 'page' : undefined}>
+                <a class="nav-link" href={trailingSlash(item.href)} aria-current={isActive(item.href) ? 'page' : undefined}>
                   {item.label}
                 </a>
               </li>
@@ -59,7 +60,7 @@ const isGroup = (item: (typeof NAV_LINKS)[number]): item is { label: string; chi
           )
         }
         <li class="nav-cta">
-          <a href="/explore" class="btn btn--primary">Start Exploring</a>
+          <a href="/explore/" class="btn btn--primary">Start Exploring</a>
         </li>
       </ul>
     </nav>

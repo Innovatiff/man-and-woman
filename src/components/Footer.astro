@@ -1,6 +1,7 @@
 ---
 import { SITE, DISCLAIMER } from '../config';
 import { CATEGORIES } from '../data/categories';
+import { trailingSlash } from '../lib/present';
 import BrandMark from './BrandMark.astro';
 
 const year = 2026;
@@ -54,7 +55,7 @@ const exploreCols = [
           <span>Men Women <span class="brand-accent">Psychology</span></span>
         </a>
         <p class="muted footer-tagline">{SITE.tagline}</p>
-        <a href="/explore" class="btn btn--ghost">Open the Psychology Explorer</a>
+        <a href="/explore/" class="btn btn--ghost">Open the Psychology Explorer</a>
       </div>
 
       <div class="footer-cols">
@@ -65,7 +66,7 @@ const exploreCols = [
               <ul>
                 {col.links.map((l) => (
                   <li>
-                    <a href={l.href}>{l.label}</a>
+                    <a href={trailingSlash(l.href)}>{l.label}</a>
                   </li>
                 ))}
               </ul>
@@ -80,10 +81,10 @@ const exploreCols = [
     <div class="footer-bottom">
       <p class="muted">© {year} {SITE.name}. All findings represent general tendencies, not universal rules.</p>
       <ul class="footer-legal">
-        <li><a href="/privacy-policy">Privacy Policy</a></li>
-        <li><a href="/terms">Terms</a></li>
-        <li><a href="/disclaimer">Disclaimer</a></li>
-        <li><a href="/contact">Contact</a></li>
+        <li><a href="/privacy-policy/">Privacy Policy</a></li>
+        <li><a href="/terms/">Terms</a></li>
+        <li><a href="/disclaimer/">Disclaimer</a></li>
+        <li><a href="/contact/">Contact</a></li>
       </ul>
     </div>
   </div>
