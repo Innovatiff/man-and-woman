@@ -5,6 +5,7 @@ import InsightCard from '../components/InsightCard.astro';
 import GenderBadge from '../components/GenderBadge.astro';
 import { SITE, DISCLAIMER } from '../config';
 import { CATEGORIES } from '../data/categories';
+import { TOPICS } from '../data/topics';
 import { FOCUSES } from '../data/explorer';
 import { featuredInsights, excerpt } from '../lib/insights';
 
@@ -143,6 +144,21 @@ const jsonLd = [
     </div>
   </section>
 
+  <!-- BROWSE BY TOPIC -->
+  <section class="section section--tight">
+    <div class="container">
+      <header class="section-head">
+        <p class="eyebrow">Cutting across categories</p>
+        <h2>Browse by topic</h2>
+        <p class="lede">Go deep on a single theme — attachment, trust, conflict, meaning — wherever it appears in the library.</p>
+      </header>
+      <div class="topic-links">
+        {TOPICS.map((t) => <a class="topic-link" href={`/topics/${t.slug}/`}>{t.title}</a>)}
+        <a class="topic-link topic-link--all" href="/topics/">All topics →</a>
+      </div>
+    </div>
+  </section>
+
   <!-- FEATURED INSIGHTS -->
   <section class="section">
     <div class="container">
@@ -247,6 +263,34 @@ const jsonLd = [
     color: var(--color-primary-strong);
     font-weight: 600;
     font-size: 0.92rem;
+  }
+
+  .topic-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem;
+  }
+  .topic-link {
+    display: inline-flex;
+    align-items: center;
+    background: #fff;
+    border: 1px solid var(--color-border);
+    border-radius: 999px;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    color: var(--slate);
+    font-weight: 600;
+    font-size: 0.95rem;
+    transition: border-color 0.18s ease, background 0.18s ease, transform 0.18s ease;
+  }
+  .topic-link:hover {
+    border-color: var(--color-primary);
+    background: var(--color-primary-soft);
+    transform: translateY(-1px);
+  }
+  .topic-link--all {
+    background: var(--color-primary-soft);
+    color: var(--color-primary-strong);
   }
 
   .category-section {

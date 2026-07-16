@@ -19,7 +19,7 @@ import QuickTake from '../../components/QuickTake.astro';
 import PullQuote from '../../components/PullQuote.astro';
 import { categoryName, CATEGORY_BY_SLUG } from '../../data/categories';
 import { SITE } from '../../config';
-import { allInsights, relatedInsights, excerpt } from '../../lib/insights';
+import { allInsights, relatedInsights, moreInCategory, topicsForInsight, excerpt } from '../../lib/insights';
 import { pickLayout, readingMinutes } from '../../lib/present';
 
 export const getStaticPaths = (async () => {
@@ -34,6 +34,12 @@ const { insight } = Astro.props;
 const d = insight.data;
 const cat = CATEGORY_BY_SLUG[d.category];
 const related = await relatedInsights(insight);
+const topics = topicsForInsight(insight);
+const more = await moreInCategory(
+  insight,
+  related.map((r) => r.data.slug),
+  8,
+);
 
 const layout = pickLayout(d);
 const minutes = readingMinutes(d);
@@ -134,6 +140,16 @@ const jsonLd = [
         <h1>{d.title}</h1>
         <Byline date={d.lastReviewed} />
         {d.quickTake && <QuickTake text={d.quickTake} />}
+        {
+          topics.length > 0 && (
+            <nav class="insight-topics" aria-label="Topics">
+              <span class="insight-topics-label">Topics</span>
+              {topics.map((t) => (
+                <a href={`/topics/${t.slug}/`}>{t.title}</a>
+              ))}
+            </nav>
+          )
+        }
       </header>
 
       {/* data layout leads with the numbers */}
@@ -184,6 +200,24 @@ const jsonLd = [
               ))}
             </div>
           </section>
+        )
+      }
+
+      {
+        more.length > 0 && (
+          <nav class="more-in-cat" aria-label={`More in ${categoryName(d.category)}`}>
+            <h2>More in {categoryName(d.category)}</h2>
+            <ul>
+              {more.map((m) => (
+                <li>
+                  <a href={`/insights/${m.data.slug}/`}>{m.data.title}</a>
+                </li>
+              ))}
+            </ul>
+            <a class="more-in-cat-all" href={`/${d.category}/`}>
+              See everything in {categoryName(d.category)} →
+            </a>
+          </nav>
         )
       }
 
@@ -265,6 +299,78 @@ const jsonLd = [
   .related {
     margin-top: var(--space-6);
   }
+
+  /* Topic chips under the byline — quick links into the cross-cutting hubs. */
+  .insight-topics {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.5rem;
+    margin-top: var(--space-3);
+  }
+  .insight-topics-label {
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-weight: 700;
+    color: var(--color-text-muted);
+  }
+  .insight-topics a {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--color-primary-strong);
+    text-decoration: none;
+    background: var(--color-primary-soft);
+    border: 1px solid transparent;
+    border-radius: 999px;
+    padding: 0.2rem 0.7rem;
+  }
+  .insight-topics a:hover {
+    border-color: var(--color-primary);
+  }
+
+  /* Compact "more in this category" internal-link list. */
+  .more-in-cat {
+    margin-top: var(--space-6);
+    padding-top: var(--space-4);
+    border-top: 1px solid var(--color-border);
+  }
+  .more-in-cat h2 {
+    font-size: var(--step-1);
+    margin-bottom: var(--space-3);
+  }
+  .more-in-cat ul {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 var(--space-3);
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 20rem), 1fr));
+    gap: 0.3rem 1.5rem;
+  }
+  .more-in-cat li {
+    margin: 0;
+    border-bottom: 1px solid var(--color-border);
+  }
+  .more-in-cat li a {
+    display: block;
+    padding: 0.55rem 0;
+    color: var(--slate);
+    text-decoration: none;
+    font-size: 0.95rem;
+  }
+  .more-in-cat li a:hover {
+    color: var(--color-primary-strong);
+  }
+  .more-in-cat-all {
+    font-weight: 600;
+    color: var(--color-primary-strong);
+    text-decoration: none;
+    font-size: 0.92rem;
+  }
+  .more-in-cat-all:hover {
+    text-decoration: underline;
+  }
+
   .insight-reviewed {
     margin-top: var(--space-5);
   }

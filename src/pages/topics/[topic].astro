@@ -1,0 +1,169 @@
+---
+import type { GetStaticPaths } from 'astro';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import InsightCard from '../../components/InsightCard.astro';
+import AdSlot from '../../components/AdSlot.astro';
+import DisclaimerBox from '../../components/DisclaimerBox.astro';
+import GenderBadge from '../../components/GenderBadge.astro';
+import { TOPICS, TOPIC_BY_SLUG } from '../../data/topics';
+import { SITE } from '../../config';
+import { insightsForTopic, excerpt } from '../../lib/insights';
+
+export const getStaticPaths = (() =>
+  TOPICS.map((t) => ({ params: { topic: t.slug } }))) satisfies GetStaticPaths;
+
+const { topic } = Astro.params;
+const data = TOPIC_BY_SLUG[topic!];
+if (!data) return Astro.redirect('/404');
+
+const insights = await insightsForTopic(data);
+const others = TOPICS.filter((t) => t.slug !== data.slug);
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: data.title,
+    description: data.metaDescription,
+    url: `${SITE.url}/topics/${data.slug}/`,
+    isPartOf: { '@type': 'WebSite', name: SITE.name, url: SITE.url },
+    hasPart: insights.map((i) => ({
+      '@type': 'Article',
+      headline: i.data.title,
+      url: `${SITE.url}/insights/${i.data.slug}/`,
+    })),
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: SITE.url },
+      { '@type': 'ListItem', position: 2, name: 'Topics', item: `${SITE.url}/topics/` },
+      { '@type': 'ListItem', position: 3, name: data.title, item: `${SITE.url}/topics/${data.slug}/` },
+    ],
+  },
+];
+---
+
+<BaseLayout
+  title={data.metaTitle}
+  description={data.metaDescription}
+  canonical={`/topics/${data.slug}`}
+  ogType="website"
+  jsonLd={jsonLd}
+>
+  <div class="container">
+    <Breadcrumbs
+      items={[
+        { label: 'Home', href: '/' },
+        { label: 'Topics', href: '/topics' },
+        { label: data.title },
+      ]}
+    />
+  </div>
+
+  <header class="topic-header">
+    <div class="container">
+      <p class="eyebrow">Topic</p>
+      <h1>{data.title}</h1>
+      <p class="lede topic-blurb">{data.blurb}</p>
+    </div>
+  </header>
+
+  <div class="container topic-body">
+    <section class="topic-intro" aria-label={`About ${data.title}`}>
+      {data.intro.map((p) => <p>{p}</p>)}
+    </section>
+
+    <section class="section--tight" aria-labelledby="topic-insights-h">
+      <h2 id="topic-insights-h">
+        {insights.length} {insights.length === 1 ? 'insight' : 'insights'} on {data.title.toLowerCase()}
+      </h2>
+      <div class="grid grid--2">
+        {
+          insights.map((i) => (
+            <InsightCard
+              title={i.data.title}
+              slug={i.data.slug}
+              category={i.data.category}
+              focusGender={i.data.focusGender}
+              excerpt={excerpt(i)}
+            />
+          ))
+        }
+      </div>
+    </section>
+
+    <AdSlot variant="in-content" />
+
+    <section class="section--tight" aria-labelledby="other-topics-h">
+      <h2 id="other-topics-h">Explore other topics</h2>
+      <div class="topic-chips">
+        {
+          others.map((t) => (
+            <a class="topic-chip" href={`/topics/${t.slug}/`}>
+              <GenderBadge focus={t.focus} />
+              <span>{t.title}</span>
+            </a>
+          ))
+        }
+      </div>
+    </section>
+
+    <DisclaimerBox />
+  </div>
+</BaseLayout>
+
+<style>
+  .topic-header {
+    padding-block: var(--space-5) var(--space-4);
+    background: radial-gradient(60% 80% at 100% 0%, rgba(220, 38, 38, 0.06), transparent 70%);
+  }
+  .topic-header h1 {
+    margin-top: var(--space-2);
+  }
+  .topic-blurb {
+    max-width: 52rem;
+  }
+  .topic-body {
+    max-width: var(--wide-width);
+  }
+  .topic-intro {
+    max-width: 65ch;
+    margin: var(--space-5) 0 var(--space-6);
+  }
+  .topic-intro p {
+    color: #3f3f46;
+    font-size: 1.02rem;
+    line-height: 1.7;
+    margin-bottom: var(--space-3);
+  }
+  .topic-intro p:first-of-type {
+    font-size: var(--step-1);
+    color: #292524;
+  }
+  .topic-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+  }
+  .topic-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: #fff;
+    border: 1px solid var(--color-border);
+    border-radius: 999px;
+    padding: 0.5rem 0.9rem;
+    text-decoration: none;
+    color: var(--slate);
+    font-weight: 600;
+    font-size: 0.92rem;
+    transition: border-color 0.18s ease, background 0.18s ease;
+  }
+  .topic-chip:hover {
+    border-color: var(--color-primary);
+    background: var(--color-primary-soft);
+  }
+</style>
