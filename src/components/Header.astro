@@ -12,7 +12,8 @@ const isGroup = (
 <header class="site-header" data-pagefind-ignore>
   <div class="container header-inner">
     <a href="/" class="brand" aria-label={`${SITE.name} home`}>
-      <BrandMark id="hdr" size={30} />
+      <BrandMark id="hdr" size={26} />
+      <span class="brand-text">Men Women <span class="brand-accent">Psychology</span></span>
     </a>
 
     <nav class="primary-nav" aria-label="Primary">
@@ -108,9 +109,25 @@ const isGroup = (
   .brand {
     display: inline-flex;
     align-items: center;
+    gap: 0.6rem;
     margin-right: auto; /* pushes nav + actions to the right */
-    line-height: 0; /* no extra box around the inline logo */
+    font-family: var(--font-display);
+    font-weight: 600;
+    font-size: 1.3rem;
+    color: var(--color-text);
     text-decoration: none;
+    letter-spacing: -0.01em;
+    white-space: nowrap;
+  }
+  .brand-accent {
+    color: var(--color-primary);
+  }
+  /* Phones: heart only — the wordmark is kept for tablet and desktop. The brand
+     keeps its font-size so the em-sized heart mark stays the right size. */
+  @media (max-width: 600px) {
+    .brand-text {
+      display: none;
+    }
   }
 
   .primary-nav {
