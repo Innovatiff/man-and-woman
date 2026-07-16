@@ -18,6 +18,8 @@ export default defineConfig({
       changefreq: 'monthly',
       priority: 0.7,
       lastmod: new Date('2026-06-30'),
+      // The search page is a noindex tool, not content — keep it out of the sitemap.
+      filter: (page) => !page.includes('/search/'),
     }),
   ],
   build: {

@@ -8,7 +8,7 @@ const isGroup = (item: (typeof NAV_LINKS)[number]): item is { label: string; chi
   'children' in item;
 ---
 
-<header class="site-header">
+<header class="site-header" data-pagefind-ignore>
   <div class="container header-inner">
     <a href="/" class="brand" aria-label={`${SITE.name} home`}>
       <BrandMark id="hdr" size={26} />
@@ -59,6 +59,11 @@ const isGroup = (item: (typeof NAV_LINKS)[number]): item is { label: string; chi
             ),
           )
         }
+        <li>
+          <a class="nav-link" href="/search/" aria-current={isActive('/search') ? 'page' : undefined}>
+            Search
+          </a>
+        </li>
         <li class="nav-cta">
           <a href="/explore/" class="btn btn--primary">Start Exploring</a>
         </li>
