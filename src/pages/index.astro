@@ -7,7 +7,12 @@ import { SITE, DISCLAIMER } from '../config';
 import { CATEGORIES } from '../data/categories';
 import { TOPICS } from '../data/topics';
 import { FOCUSES } from '../data/explorer';
-import { featuredInsights, excerpt } from '../lib/insights';
+import { allInsights, featuredInsights, excerpt } from '../lib/insights';
+
+const insightCount = (await allInsights()).length;
+// Round down to a clean "N+" so the hero stat stays tidy as the library grows.
+const insightsRounded = `${Math.floor(insightCount / 25) * 25}+`;
+const areasCount = CATEGORIES.length + TOPICS.length;
 
 const featuredSlugs = [
   'what-men-need-in-relationship',
@@ -87,6 +92,12 @@ const jsonLd = [
         <a href="/explore/" class="btn btn--primary btn--lg">Explore the Psychology</a>
       </div>
       <p class="hero-note muted">No account. No clickbait. No gender-war framing — just findings.</p>
+
+      <ul class="hero-stats" aria-label="What's inside">
+        <li><strong>{insightsRounded}</strong><span>in-depth, cited articles</span></li>
+        <li><strong>{areasCount}</strong><span>research areas &amp; topics</span></li>
+        <li><strong>Every page</strong><span>reviewed for accuracy &amp; balance</span></li>
+      </ul>
     </div>
   </section>
 
@@ -238,6 +249,30 @@ const jsonLd = [
   }
   .hero-note {
     font-size: 0.9rem;
+  }
+  .hero-stats {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-3) var(--space-6);
+    padding: var(--space-4) 0 0;
+    margin: var(--space-4) 0 0;
+    border-top: 1px solid var(--color-border);
+  }
+  .hero-stats li {
+    display: flex;
+    flex-direction: column;
+    gap: 0.1rem;
+  }
+  .hero-stats strong {
+    font-family: var(--font-display);
+    font-size: var(--step-2);
+    line-height: 1;
+    color: var(--color-primary-strong);
+  }
+  .hero-stats span {
+    font-size: 0.85rem;
+    color: var(--color-text-muted);
   }
 
   .strip {
