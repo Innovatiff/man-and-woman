@@ -16,6 +16,12 @@ export interface Props {
   /** JSON-LD object(s) to embed for rich results. */
   jsonLd?: Record<string, unknown> | Record<string, unknown>[];
   noindex?: boolean;
+  /**
+   * Path to the page's social share image (a build-generated PNG under /og/).
+   * Falls back to the branded homepage card. PNG matters: most social platforms
+   * do not render SVG OG images.
+   */
+  ogImage?: string;
 }
 
 const {
@@ -25,6 +31,7 @@ const {
   ogType = 'website',
   jsonLd,
   noindex = false,
+  ogImage,
 } = Astro.props;
 
 // Canonicalise to the trailing-slash form. The site is built with Astro's
@@ -37,6 +44,7 @@ const rawPath = canonical ?? Astro.url.pathname;
 const withSlash =
   rawPath === '/' || rawPath.endsWith('/') ? rawPath : `${rawPath}/`;
 const canonicalURL = new URL(withSlash, SITE.url).toString();
+const ogImageURL = new URL(ogImage ?? '/og/home.png', SITE.url).toString();
 const fullTitle = title.includes(SITE.name) ? title : `${title} | ${SITE.name}`;
 const jsonLdBlocks = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
 ---
@@ -62,13 +70,17 @@ const jsonLdBlocks = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonicalURL} />
     <meta property="og:locale" content="en_US" />
-    <meta property="og:image" content={new URL('/og-default.svg', SITE.url).toString()} />
+    <meta property="og:image" content={ogImageURL} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:type" content="image/png" />
+    <meta property="og:image:alt" content={fullTitle} />
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={fullTitle} />
     <meta name="twitter:description" content={description} />
-    <meta name="twitter:image" content={new URL('/og-default.svg', SITE.url).toString()} />
+    <meta name="twitter:image" content={ogImageURL} />
 
     <link rel="sitemap" href="/sitemap-index.xml" />
 
