@@ -60,6 +60,11 @@ const isGroup = (item: (typeof NAV_LINKS)[number]): item is { label: string; chi
           )
         }
         <li>
+          <a class="nav-link" href="/quizzes/" aria-current={isActive('/quizzes') ? 'page' : undefined}>
+            Quizzes
+          </a>
+        </li>
+        <li>
           <a class="nav-link" href="/search/" aria-current={isActive('/search') ? 'page' : undefined}>
             Search
           </a>

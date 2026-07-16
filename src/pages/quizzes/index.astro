@@ -1,0 +1,134 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import DisclaimerBox from '../../components/DisclaimerBox.astro';
+import { SITE } from '../../config';
+
+const quizzes = [
+  {
+    href: '/quizzes/attachment-style/',
+    title: "What's Your Attachment Style?",
+    blurb:
+      'Discover whether you lean secure, anxious, avoidant, or fearful-avoidant — scored on the two dimensions psychologists actually measure.',
+    meta: '16 questions · ~2 min',
+    available: true,
+  },
+  {
+    href: '#',
+    title: 'More quizzes coming soon',
+    blurb:
+      'We are building more research-based reflections — on love languages, conflict styles, and how you handle closeness. Check back soon.',
+    meta: 'In development',
+    available: false,
+  },
+];
+
+const metaTitle = 'Psychology Quizzes — Research-Based Self-Reflection';
+const metaDescription =
+  'Free, research-based psychology quizzes and self-reflections — starting with the attachment style quiz. Educational tools, not clinical diagnoses.';
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: metaTitle,
+  description: metaDescription,
+  url: `${SITE.url}/quizzes/`,
+};
+---
+
+<BaseLayout title={metaTitle} description={metaDescription} canonical="/quizzes" ogImage="/og/quizzes.png" jsonLd={jsonLd}>
+  <div class="container quizzes-wrap">
+    <Breadcrumbs items={[{ label: 'Home', href: '/' }, { label: 'Quizzes' }]} />
+
+    <header class="quizzes-head">
+      <p class="eyebrow">Learn something about yourself</p>
+      <h1>Psychology quizzes</h1>
+      <p class="lede">
+        Short, research-based reflections that turn the psychology on this site into something you
+        can apply to yourself. Educational tools for insight — never clinical diagnoses.
+      </p>
+    </header>
+
+    <div class="quiz-grid">
+      {
+        quizzes.map((q) =>
+          q.available ? (
+            <a class="quiz-tile" href={q.href}>
+              <span class="quiz-tile-meta">{q.meta}</span>
+              <h2>{q.title}</h2>
+              <p class="muted">{q.blurb}</p>
+              <span class="quiz-tile-cta">Take the quiz →</span>
+            </a>
+          ) : (
+            <div class="quiz-tile quiz-tile--soon">
+              <span class="quiz-tile-meta">{q.meta}</span>
+              <h2>{q.title}</h2>
+              <p class="muted">{q.blurb}</p>
+            </div>
+          ),
+        )
+      }
+    </div>
+
+    <DisclaimerBox />
+  </div>
+</BaseLayout>
+
+<style>
+  .quizzes-wrap {
+    max-width: var(--wide-width);
+    padding-bottom: var(--space-7);
+  }
+  .quizzes-head {
+    margin: var(--space-4) 0 var(--space-5);
+  }
+  .quizzes-head h1 {
+    margin: var(--space-2) 0 var(--space-3);
+  }
+  .quiz-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 20rem), 1fr));
+    gap: var(--space-4);
+  }
+  .quiz-tile {
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+    background: #fff;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-lg);
+    padding: var(--space-5);
+    text-decoration: none;
+    color: var(--slate);
+    transition: border-color 0.18s ease, transform 0.18s ease, box-shadow 0.18s ease;
+  }
+  a.quiz-tile:hover {
+    border-color: color-mix(in srgb, var(--color-primary) 35%, var(--color-border));
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-sm);
+  }
+  .quiz-tile--soon {
+    opacity: 0.7;
+  }
+  .quiz-tile-meta {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-weight: 700;
+    color: var(--color-primary-strong);
+  }
+  .quiz-tile h2 {
+    font-size: var(--step-1);
+    margin: var(--space-1) 0;
+  }
+  .quiz-tile .muted {
+    font-size: 0.95rem;
+    line-height: 1.55;
+  }
+  .quiz-tile-cta {
+    margin-top: var(--space-2);
+    font-weight: 600;
+    color: var(--color-primary-strong);
+    font-size: 0.92rem;
+  }
+</style>

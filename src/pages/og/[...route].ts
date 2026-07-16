@@ -45,6 +45,16 @@ for (const t of TOPICS) {
   };
 }
 
+// Quiz landing cards.
+pages['quizzes/attachment-style'] = {
+  title: "What's Your Attachment Style?",
+  description: 'A free, research-based quiz · Men Women Psychology',
+};
+pages['quizzes'] = {
+  title: 'Psychology Quizzes',
+  description: 'Research-based self-reflection · Men Women Psychology',
+};
+
 export const { getStaticPaths, GET } = await OGImageRoute({
   pages,
   getImageOptions: (_path, page) => ({

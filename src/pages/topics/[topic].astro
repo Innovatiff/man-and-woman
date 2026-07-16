@@ -77,6 +77,18 @@ const jsonLd = [
       {data.intro.map((p) => <p>{p}</p>)}
     </section>
 
+    {
+      data.slug === 'attachment-styles' && (
+        <a class="topic-quiz-cta" href="/quizzes/attachment-style/">
+          <div>
+            <strong>Not sure which pattern is yours?</strong>
+            <span>Take the free attachment style quiz — 16 questions, about 2 minutes.</span>
+          </div>
+          <span class="topic-quiz-cta-btn">Take the quiz →</span>
+        </a>
+      )
+    }
+
     <section class="section--tight" aria-labelledby="topic-insights-h">
       <h2 id="topic-insights-h">
         {insights.length} {insights.length === 1 ? 'insight' : 'insights'} on {data.title.toLowerCase()}
@@ -144,6 +156,42 @@ const jsonLd = [
     font-size: var(--step-1);
     color: #292524;
   }
+  .topic-quiz-cta {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--space-3);
+    flex-wrap: wrap;
+    background: var(--color-primary-soft);
+    border: 1px solid color-mix(in srgb, var(--color-primary) 25%, var(--color-border));
+    border-radius: var(--radius-lg);
+    padding: var(--space-4);
+    margin-bottom: var(--space-5);
+    text-decoration: none;
+    color: var(--slate);
+    transition: border-color 0.18s ease;
+  }
+  .topic-quiz-cta:hover {
+    border-color: var(--color-primary);
+  }
+  .topic-quiz-cta strong {
+    display: block;
+    color: var(--slate);
+  }
+  .topic-quiz-cta span {
+    color: #57534e;
+    font-size: 0.95rem;
+  }
+  .topic-quiz-cta-btn {
+    flex: none;
+    background: var(--color-primary);
+    color: #fff !important;
+    font-weight: 600;
+    padding: 0.6rem 1.1rem;
+    border-radius: var(--radius);
+    white-space: nowrap;
+  }
+
   .topic-chips {
     display: flex;
     flex-wrap: wrap;
