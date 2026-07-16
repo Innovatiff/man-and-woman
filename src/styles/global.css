@@ -30,7 +30,7 @@
   --color-surface: var(--surface);
   --color-card: #ffffff; /* card / panel surface (flips in dark) */
   --color-text: var(--slate);
-  --color-text-soft: var(--color-text-soft); /* body prose (flips in dark) */
+  --color-text-soft: #3f3f46; /* body prose (flips in dark) */
   --color-text-muted: var(--muted);
   --color-border: var(--border);
   --color-primary: var(--red-600);
@@ -45,38 +45,6 @@
   --tone-warn-border: #fef3c7;
 
   color-scheme: light;
-}
-
-/* --------------------------------------------------------------------------
-   Dark theme. Applied when the root carries data-theme="dark" (set by the
-   no-flash script in the head, driven by the user's toggle or their OS
-   preference). Only tokens flip — components read tokens, so surfaces, text,
-   borders, callouts, and shadows all adapt without per-component changes.
-   -------------------------------------------------------------------------- */
-:root[data-theme='dark'] {
-  --warm-white: #13171e; /* page background */
-  --surface: #1b212b; /* subtle raised background */
-  --border: #2c3542;
-  --muted: #9aa4b3;
-  --slate: #232c3a; /* dark elevated panel bg (footer, hero strip, CTAs) */
-
-  --color-card: #1a212b; /* card surface (was #fff) */
-  --color-text: #e7e9ee; /* primary text (was slate) */
-  --color-text-soft: #c4cad3; /* body prose */
-  --color-primary-soft: #2c1618; /* dark red tint */
-  --color-primary-strong: #f87171; /* lighter red for links/accents on dark */
-  --color-link: #f87171;
-
-  --tone-research-bg: #0e2320;
-  --tone-research-border: #17433b;
-  --tone-warn-bg: #241d0d;
-  --tone-warn-border: #3f371a;
-
-  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.4);
-  --shadow-md: 0 4px 14px rgba(0, 0, 0, 0.45);
-  --shadow-lg: 0 18px 48px rgba(0, 0, 0, 0.55);
-
-  color-scheme: dark;
 
   /* Typography */
   --font-display: 'Fraunces Variable', 'Fraunces', Georgia, 'Times New Roman', serif;
@@ -106,6 +74,39 @@
   --space-5: 2rem;
   --space-6: 3rem;
   --space-7: 4.5rem;
+}
+
+/* --------------------------------------------------------------------------
+   Dark theme. Applied when the root carries data-theme="dark" (set by the
+   no-flash script in the head). Only COLOUR tokens flip — the typography,
+   scale, layout, and spacing tokens live in :root and are shared by both
+   themes. Components read tokens, so surfaces, text, borders, callouts, and
+   shadows all adapt without per-component changes.
+   -------------------------------------------------------------------------- */
+:root[data-theme='dark'] {
+  --warm-white: #13171e; /* page background */
+  --surface: #1b212b; /* subtle raised background */
+  --border: #2c3542;
+  --muted: #9aa4b3;
+  --slate: #232c3a; /* dark elevated panel bg (footer, hero strip, CTAs) */
+
+  --color-card: #1a212b; /* card surface (was #fff) */
+  --color-text: #e7e9ee; /* primary text (was slate) */
+  --color-text-soft: #c4cad3; /* body prose */
+  --color-primary-soft: #2c1618; /* dark red tint */
+  --color-primary-strong: #f87171; /* lighter red for links/accents on dark */
+  --color-link: #f87171;
+
+  --tone-research-bg: #0e2320;
+  --tone-research-border: #17433b;
+  --tone-warn-bg: #241d0d;
+  --tone-warn-border: #3f371a;
+
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.4);
+  --shadow-md: 0 4px 14px rgba(0, 0, 0, 0.45);
+  --shadow-lg: 0 18px 48px rgba(0, 0, 0, 0.55);
+
+  color-scheme: dark;
 }
 
 *,

@@ -23,7 +23,10 @@ export default defineConfig({
     }),
   ],
   build: {
-    inlineStylesheets: 'auto',
+    // Inline all CSS into each page's <head>. This removes render-blocking
+    // stylesheet requests, so styles are present on first paint and there is no
+    // flash of unstyled content on load or navigation. Also improves FCP.
+    inlineStylesheets: 'always',
   },
   compressHTML: true,
 });
