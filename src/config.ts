@@ -38,17 +38,35 @@ export interface NavGroup {
 export type NavItem = NavLink | NavGroup;
 
 export const NAV_LINKS: NavItem[] = [
-  { label: 'Explore Men', href: '/male-psychology' },
-  { label: 'Explore Women', href: '/female-psychology' },
   {
-    label: 'Topics',
+    label: 'Men',
     children: [
-      { label: 'Relationships', href: '/relationships-and-communication' },
-      { label: 'Self Improvement', href: '/self-improvement-men' },
-      { label: 'Love and Attraction', href: '/love-and-attraction' },
+      { label: 'Male Psychology', href: '/male-psychology' },
+      { label: 'How Men Think', href: '/how-men-think' },
+      { label: 'What Men Want', href: '/what-men-want' },
+      { label: 'Self Improvement for Men', href: '/self-improvement-men' },
     ],
   },
-  { label: 'About', href: '/about' },
+  {
+    label: 'Women',
+    children: [
+      { label: 'Female Psychology', href: '/female-psychology' },
+      { label: 'How Women Think', href: '/how-women-think' },
+      { label: 'What Women Want', href: '/what-women-want' },
+      { label: 'Self Improvement for Women', href: '/self-improvement-women' },
+    ],
+  },
+  {
+    label: 'Relationships',
+    children: [
+      { label: 'Love & Attraction', href: '/love-and-attraction' },
+      { label: 'Relationships & Communication', href: '/relationships-and-communication' },
+      { label: 'Dating Psychology', href: '/dating-psychology' },
+      { label: 'Happiness & Fulfillment', href: '/happiness-and-fulfillment' },
+    ],
+  },
+  { label: 'Topics', href: '/topics' },
+  { label: 'Quizzes', href: '/quizzes' },
 ];
 
 /**
