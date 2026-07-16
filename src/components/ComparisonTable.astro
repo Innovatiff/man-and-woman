@@ -105,12 +105,12 @@ const note = neutral
   .cmp-table tbody th[scope='row'] {
     font-family: var(--font-body);
     font-weight: 600;
-    color: var(--slate);
+    color: var(--color-text);
     width: 26%;
-    background: #fff;
+    background: var(--color-card);
   }
   .cmp-table td {
-    color: #44403c;
+    color: var(--color-text-soft);
   }
   .cmp-table tbody tr:last-child th,
   .cmp-table tbody tr:last-child td {
@@ -118,6 +118,6 @@ const note = neutral
   }
   .cmp-table tbody tr:nth-child(even) td,
   .cmp-table tbody tr:nth-child(even) th[scope='row'] {
-    background: #fbfbfa;
+    background: color-mix(in srgb, var(--color-text) 3%, var(--color-card));
   }
 </style>

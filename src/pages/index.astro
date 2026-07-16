@@ -369,12 +369,12 @@ const jsonLd = [
   .topic-link {
     display: inline-flex;
     align-items: center;
-    background: #fff;
+    background: var(--color-card);
     border: 1px solid var(--color-border);
     border-radius: 999px;
     padding: 0.5rem 1rem;
     text-decoration: none;
-    color: var(--slate);
+    color: var(--color-text);
     font-weight: 600;
     font-size: 0.95rem;
     transition: border-color 0.18s ease, background 0.18s ease, transform 0.18s ease;
@@ -403,12 +403,12 @@ const jsonLd = [
     flex-direction: column;
     gap: 0.5rem;
     align-items: flex-start;
-    background: #fff;
+    background: var(--color-card);
     border: 1px solid var(--color-border);
     border-radius: var(--radius);
     padding: var(--space-3) var(--space-4);
     text-decoration: none;
-    color: var(--slate);
+    color: var(--color-text);
     transition: border-color 0.18s ease, transform 0.18s ease, box-shadow 0.18s ease;
   }
   .category-pill:hover {
@@ -434,7 +434,7 @@ const jsonLd = [
   }
   .honesty p {
     margin: 0;
-    color: #44403c;
+    color: var(--color-text-soft);
     max-width: 70ch;
   }
 </style>

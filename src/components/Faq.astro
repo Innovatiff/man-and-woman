@@ -47,7 +47,7 @@ const { items, heading = 'Frequently asked questions' } = Astro.props;
     font-family: var(--font-display);
     font-size: var(--step-1);
     font-weight: 600;
-    color: var(--slate);
+    color: var(--color-text);
   }
   .faq-item summary::-webkit-details-marker {
     display: none;
@@ -70,7 +70,7 @@ const { items, heading = 'Frequently asked questions' } = Astro.props;
   }
   .faq-answer p {
     margin: 0;
-    color: #44403c;
+    color: var(--color-text-soft);
     max-width: 60ch;
   }
 </style>

@@ -28,13 +28,55 @@
   /* Semantic tokens */
   --color-bg: var(--warm-white);
   --color-surface: var(--surface);
+  --color-card: #ffffff; /* card / panel surface (flips in dark) */
   --color-text: var(--slate);
+  --color-text-soft: var(--color-text-soft); /* body prose (flips in dark) */
   --color-text-muted: var(--muted);
   --color-border: var(--border);
   --color-primary: var(--red-600);
   --color-primary-strong: var(--red-700);
   --color-primary-soft: var(--red-50);
   --color-link: var(--red-700);
+
+  /* Tinted callout surfaces (flip in dark) */
+  --tone-research-bg: #f0fdfa;
+  --tone-research-border: #ccfbf1;
+  --tone-warn-bg: #fffbeb;
+  --tone-warn-border: #fef3c7;
+
+  color-scheme: light;
+}
+
+/* --------------------------------------------------------------------------
+   Dark theme. Applied when the root carries data-theme="dark" (set by the
+   no-flash script in the head, driven by the user's toggle or their OS
+   preference). Only tokens flip — components read tokens, so surfaces, text,
+   borders, callouts, and shadows all adapt without per-component changes.
+   -------------------------------------------------------------------------- */
+:root[data-theme='dark'] {
+  --warm-white: #13171e; /* page background */
+  --surface: #1b212b; /* subtle raised background */
+  --border: #2c3542;
+  --muted: #9aa4b3;
+  --slate: #232c3a; /* dark elevated panel bg (footer, hero strip, CTAs) */
+
+  --color-card: #1a212b; /* card surface (was #fff) */
+  --color-text: #e7e9ee; /* primary text (was slate) */
+  --color-text-soft: #c4cad3; /* body prose */
+  --color-primary-soft: #2c1618; /* dark red tint */
+  --color-primary-strong: #f87171; /* lighter red for links/accents on dark */
+  --color-link: #f87171;
+
+  --tone-research-bg: #0e2320;
+  --tone-research-border: #17433b;
+  --tone-warn-bg: #241d0d;
+  --tone-warn-border: #3f371a;
+
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.4);
+  --shadow-md: 0 4px 14px rgba(0, 0, 0, 0.45);
+  --shadow-lg: 0 18px 48px rgba(0, 0, 0, 0.55);
+
+  color-scheme: dark;
 
   /* Typography */
   --font-display: 'Fraunces Variable', 'Fraunces', Georgia, 'Times New Roman', serif;
@@ -105,7 +147,7 @@ h4 {
   font-family: var(--font-display);
   font-weight: 600;
   line-height: 1.15;
-  color: var(--slate);
+  color: var(--color-text);
   letter-spacing: -0.01em;
   margin: 0 0 var(--space-3);
 }
@@ -193,7 +235,7 @@ hr {
 
 .lede {
   font-size: var(--step-1);
-  color: #44403c;
+  color: var(--color-text-soft);
   line-height: 1.55;
 }
 
@@ -259,7 +301,7 @@ hr {
 }
 
 .card {
-  background: #fff;
+  background: var(--color-card);
   border: 1px solid var(--color-border);
   border-radius: var(--radius-lg);
   padding: var(--space-4);
@@ -313,7 +355,7 @@ a.card:hover,
   font-style: italic;
   font-size: var(--step-2);
   line-height: 1.35;
-  color: var(--slate);
+  color: var(--color-text);
   border-left: 4px solid var(--color-primary);
   padding: 0.25rem 0 0.25rem 1.25rem;
   margin: var(--space-5) 0;

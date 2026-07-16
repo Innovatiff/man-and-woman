@@ -26,7 +26,7 @@ const { id, heading, eyebrow, paragraphs, tone = 'default' } = Astro.props;
     scroll-margin-top: 5rem;
   }
   .insight-section p {
-    color: #3f3f46;
+    color: var(--color-text-soft);
     max-width: 65ch;
   }
   .tone-research,
@@ -37,13 +37,13 @@ const { id, heading, eyebrow, paragraphs, tone = 'default' } = Astro.props;
     border: 1px solid var(--color-border);
   }
   .tone-research {
-    background: #f0fdfa;
-    border-color: #ccfbf1;
+    background: var(--tone-research-bg);
+    border-color: var(--tone-research-border);
     border-left: 4px solid var(--teal);
   }
   .tone-warn {
-    background: #fffbeb;
-    border-color: #fef3c7;
+    background: var(--tone-warn-bg);
+    border-color: var(--tone-warn-border);
     border-left: 4px solid var(--amber);
   }
   .tone-nuance {
