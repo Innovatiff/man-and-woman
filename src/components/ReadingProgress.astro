@@ -1,0 +1,51 @@
+---
+/**
+ * A thin reading-progress bar fixed to the very top of the viewport. Tracks how
+ * far the reader has scrolled through the first <article> on the page. Especially
+ * useful on mobile, where the "On this page" sidebar is hidden.
+ */
+---
+
+<div class="reading-progress" aria-hidden="true"><span id="reading-progress-bar"></span></div>
+
+<style>
+  .reading-progress {
+    position: fixed;
+    inset: 0 0 auto 0;
+    height: 3px;
+    z-index: 1000;
+    background: transparent;
+    pointer-events: none;
+  }
+  #reading-progress-bar {
+    display: block;
+    height: 100%;
+    width: 0;
+    background: var(--color-primary);
+    border-radius: 0 2px 2px 0;
+    transition: width 0.08s linear;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    #reading-progress-bar {
+      transition: none;
+    }
+  }
+</style>
+
+<script>
+  const bar = document.getElementById('reading-progress-bar');
+  const article = document.querySelector('article');
+  if (bar && article) {
+    const clamp = (n: number, lo: number, hi: number) => Math.min(Math.max(n, lo), hi);
+    const update = () => {
+      const rect = article.getBoundingClientRect();
+      const startAbs = rect.top + window.scrollY;
+      const range = Math.max(article.offsetHeight - window.innerHeight, 1);
+      const pct = clamp((window.scrollY - startAbs) / range, 0, 1) * 100;
+      bar.style.width = `${pct}%`;
+    };
+    update();
+    window.addEventListener('scroll', update, { passive: true });
+    window.addEventListener('resize', update);
+  }
+</script>

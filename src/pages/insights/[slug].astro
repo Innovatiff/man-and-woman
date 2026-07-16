@@ -8,6 +8,7 @@ import Faq from '../../components/Faq.astro';
 import ResearchSources from '../../components/ResearchSources.astro';
 import LastReviewed from '../../components/LastReviewed.astro';
 import Byline from '../../components/Byline.astro';
+import ReadingProgress from '../../components/ReadingProgress.astro';
 import GenderBadge from '../../components/GenderBadge.astro';
 import DisclaimerBox from '../../components/DisclaimerBox.astro';
 import InsightCard from '../../components/InsightCard.astro';
@@ -119,6 +120,7 @@ const jsonLd = [
   ogImage={`/og/insights/${d.slug}.png`}
   jsonLd={jsonLd}
 >
+  <ReadingProgress />
   <div class="container">
     <Breadcrumbs
       items={[
@@ -254,6 +256,37 @@ const jsonLd = [
     </aside>
   </article>
 </BaseLayout>
+
+<script>
+  // Scroll-spy: highlight the current section in the "On this page" nav.
+  const tocLinks = Array.from(
+    document.querySelectorAll('.onthispage a'),
+  ) as HTMLAnchorElement[];
+  if (tocLinks.length) {
+    const byId = new Map<string, HTMLAnchorElement>();
+    tocLinks.forEach((a) => {
+      const id = a.getAttribute('href')?.slice(1);
+      if (id) byId.set(id, a);
+    });
+    const setActive = (id: string) => {
+      tocLinks.forEach((a) => a.removeAttribute('aria-current'));
+      byId.get(id)?.setAttribute('aria-current', 'true');
+    };
+    const obs = new IntersectionObserver(
+      (entries) => {
+        const visible = entries
+          .filter((e) => e.isIntersecting)
+          .sort((a, b) => a.boundingClientRect.top - b.boundingClientRect.top);
+        if (visible.length) setActive((visible[0].target as HTMLElement).id);
+      },
+      { rootMargin: '-25% 0px -65% 0px', threshold: 0 },
+    );
+    byId.forEach((_, id) => {
+      const el = document.getElementById(id);
+      if (el) obs.observe(el);
+    });
+  }
+</script>
 
 <style>
   .insight-layout {
@@ -418,15 +451,25 @@ const jsonLd = [
     margin: 0;
   }
   .onthispage li {
-    margin-bottom: 0.55rem;
+    margin-bottom: 0.15rem;
   }
   .onthispage a {
+    display: block;
+    padding: 0.25rem 0 0.25rem 0.75rem;
+    border-left: 2px solid var(--color-border);
     color: #44403c;
     text-decoration: none;
     font-size: 0.9rem;
+    transition: color 0.15s ease, border-color 0.15s ease;
   }
   .onthispage a:hover {
     color: var(--color-primary-strong);
+    border-left-color: var(--color-primary);
+  }
+  .onthispage a[aria-current='true'] {
+    color: var(--color-primary-strong);
+    font-weight: 600;
+    border-left-color: var(--color-primary);
   }
 
   /* ---------- Layout variants: vary the reading rhythm & decoration ---------- */
