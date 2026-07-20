@@ -1,32 +1,36 @@
 {
-  "title": "How Couples Fall Back in Love — What Research Shows",
+  "title": "How Couples Fall Back in Love: What Research Shows",
   "slug": "how-couples-fall-back-in-love",
   "category": "love-and-attraction",
   "focusGender": "both",
   "featured": false,
-  "tags": ["falling-in-love", "commitment", "behavior"],
-  "metaTitle": "How Couples Fall Back in Love — The Psychology",
-  "metaDescription": "What research suggests helps couples reconnect: shared novelty, gratitude, and turning toward each other — rebuilding closeness that dulls over time.",
-  "coreFinding": "Research suggests couples can rekindle closeness when they deliberately reintroduce novelty, appreciation, and everyday responsiveness. Long relationships tend to lose intensity partly through routine and inattention, not necessarily a loss of love. Evidence points to shared new experiences, expressed gratitude, and consistently turning toward each other as ways to rebuild connection — though results vary and deeper problems may need more than these practices.",
+  "tags": [
+    "falling-in-love",
+    "commitment",
+    "behavior"
+  ],
+  "metaTitle": "How Couples Fall Back in Love: The Psychology",
+  "metaDescription": "What research suggests helps couples reconnect: shared novelty, gratitude, and turning toward each other, rebuilding closeness that dulls over time.",
+  "coreFinding": "Research suggests couples can rekindle closeness when they deliberately reintroduce novelty, appreciation, and everyday responsiveness. Long relationships tend to lose intensity partly through routine and inattention, not necessarily a loss of love. Evidence points to shared new experiences, expressed gratitude, and consistently turning toward each other as ways to rebuild connection, though results vary and deeper problems may need more than these practices.",
   "whatResearchShows": [
     "The self-expansion model offers one of the clearest findings. Aron and colleagues (2000) showed that couples who engage in novel, exciting, shared activities report higher relationship quality than those doing pleasant but routine activities. The proposed mechanism is that new experiences expand each partner's sense of self and get associated with the relationship, restoring some of the excitement that early love supplied through discovery. Reintroducing novelty can therefore help couples feel drawn to each other again.",
     "Gratitude appears to strengthen bonds. Gordon and colleagues (2012) found that feeling and expressing appreciation was linked to greater relationship maintenance and responsiveness over time, in a cycle where gratitude prompts partners to invest more, which generates more to be grateful for. This suggests that noticing and voicing what you value in a partner can help rebuild warmth that has faded into being taken for granted.",
     "Gottman's research on trust (2011) emphasizes small everyday moments. Partners constantly make bids for attention and connection, and 'turning toward' those bids rather than ignoring them predicts relationship stability and closeness. Reconnecting is often less about grand gestures than about consistently responding to each other's small overtures. None of these mechanisms is specific to one gender; they appear to help couples broadly."
   ],
   "whyItHappens": [
-    "Early love supplies novelty automatically. When people first get together, almost everything about each other is new, which is inherently expanding and exciting. Over time that discovery slows, and the relationship can settle into routine — not because love died, but because the built-in source of novelty ran out and was not replaced.",
+    "Early love supplies novelty automatically. When people first get together, almost everything about each other is new, which is inherently expanding and exciting. Over time that discovery slows, and the relationship can settle into routine, not because love died, but because the built-in source of novelty ran out and was not replaced.",
     "Attention drifts toward the familiar and away from the partner. As a relationship becomes predictable, people can stop actively noticing each other, taking presence and effort for granted. Research on gratitude suggests that appreciation naturally erodes without attention, which dulls warmth even in fundamentally sound relationships.",
-    "Small disconnections accumulate. When bids for connection are repeatedly missed — a comment brushed off, a moment of interest ignored — partners gradually turn away from each other. The distance often builds through many minor lapses rather than one dramatic event, which is also why it can be rebuilt through many small reconnections."
+    "Small disconnections accumulate. When bids for connection are repeatedly missed (a comment brushed off, a moment of interest ignored) partners gradually turn away from each other. The distance often builds through many minor lapses rather than one dramatic event, which is also why it can be rebuilt through many small reconnections."
   ],
   "realLifeExamples": [
-    "A couple stuck in routine takes up a new activity together — a class, travel, a shared project — and finds some of the old spark returning. The novelty gives them fresh experiences to associate with each other, echoing the self-expansion effect.",
+    "A couple stuck in routine takes up a new activity together (a class, travel, a shared project) and finds some of the old spark returning. The novelty gives them fresh experiences to associate with each other, echoing the self-expansion effect.",
     "One partner starts regularly voicing specific appreciation instead of only noticing what goes wrong, and the emotional climate warms as gratitude prompts more mutual investment over time.",
-    "Two people who had drifted begin paying attention to each other's small bids again — looking up when the other speaks, asking follow-up questions, responding to a touch — and closeness gradually rebuilds through these everyday moments rather than one grand gesture.",
-    "A couple worn down by the logistics of young kids sets aside a short standing time each week — a walk, coffee after bedtime — to talk about anything other than the household. The protected ritual slowly reopens a channel that busyness had quietly closed."
+    "Two people who had drifted begin paying attention to each other's small bids again (looking up when the other speaks, asking follow-up questions, responding to a touch) and closeness gradually rebuilds through these everyday moments rather than one grand gesture.",
+    "A couple worn down by the logistics of young kids sets aside a short standing time each week (a walk, coffee after bedtime) to talk about anything other than the household. The protected ritual slowly reopens a channel that busyness had quietly closed."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that fading intensity means love is gone and the relationship is over. Research suggests routine and inattention dull closeness in ways that are often reversible, and that many couples who feel they have fallen out of love have really fallen into neglect that can be addressed.",
-    "It is also a mistake to expect a single dramatic gesture to fix disconnection. Evidence points more toward consistent small actions — novelty, gratitude, turning toward each other — sustained over time. That said, rekindling practices are not a cure-all; serious issues like betrayal or contempt usually need deeper repair."
+    "It is also a mistake to expect a single dramatic gesture to fix disconnection. Evidence points more toward consistent small actions (novelty, gratitude, turning toward each other) sustained over time. That said, rekindling practices are not a cure-all; serious issues like betrayal or contempt usually need deeper repair."
   ],
   "relationshipImplications": [
     "Reconnection is often something couples can actively work at rather than wait to happen. Deliberately building in shared novelty, practicing appreciation, and responding to each other's small overtures gives partners concrete levers, which can be reassuring when a relationship feels flat but not broken.",
@@ -74,8 +78,8 @@
     "what-makes-someone-fall-out-of-love",
     "how-shared-experiences-deepen-love"
   ],
-  "quickTake": "Couples often can rekindle closeness — because fading feelings usually come from routine and inattention, not a real loss of love. Shared novelty, expressed gratitude, and turning toward each other's small bids tend to rebuild warmth, though deeper wounds may need more.",
-  "pullQuote": "Many couples who feel they have fallen out of love have really fallen into neglect — and neglect can be addressed.",
+  "quickTake": "Couples often can rekindle closeness, because fading feelings usually come from routine and inattention, not a real loss of love. Shared novelty, expressed gratitude, and turning toward each other's small bids tend to rebuild warmth, though deeper wounds may need more.",
+  "pullQuote": "Many couples who feel they have fallen out of love have really fallen into neglect, and neglect can be addressed.",
   "keyStats": [
     {
       "value": "Higher quality",
@@ -96,17 +100,33 @@
   "comparison": {
     "title": "At a glance: average tendencies",
     "rows": [
-      { "aspect": "Response to shared novelty", "men": "Reconnects through new experiences", "women": "Reconnects through new experiences" },
-      { "aspect": "Response to expressed gratitude", "men": "Feels valued, invests more in return", "women": "Feels valued, invests more in return" },
-      { "aspect": "Turning toward small bids", "men": "Builds closeness over time", "women": "Builds closeness over time" },
-      { "aspect": "What one person can start", "men": "Can begin a positive cycle", "women": "Can begin a positive cycle" }
+      {
+        "aspect": "Response to shared novelty",
+        "men": "Reconnects through new experiences",
+        "women": "Reconnects through new experiences"
+      },
+      {
+        "aspect": "Response to expressed gratitude",
+        "men": "Feels valued, invests more in return",
+        "women": "Feels valued, invests more in return"
+      },
+      {
+        "aspect": "Turning toward small bids",
+        "men": "Builds closeness over time",
+        "women": "Builds closeness over time"
+      },
+      {
+        "aspect": "What one person can start",
+        "men": "Can begin a positive cycle",
+        "women": "Can begin a positive cycle"
+      }
     ]
   },
   "keyTakeaways": [
-    "Fading intensity often reflects routine and neglect, not lost love — and neglect is frequently reversible.",
+    "Fading intensity often reflects routine and neglect, not lost love, and neglect is frequently reversible.",
     "Shared novelty, expressed gratitude, and turning toward each other's small bids are the best-supported ways to rebuild closeness.",
     "Reconnection tends to come from consistent small actions over time, not a single dramatic gesture.",
-    "These practices are broadly human — they help men and women in similar ways.",
+    "These practices are broadly human. They help men and women in similar ways.",
     "Even one partner shifting toward gratitude and responsiveness can start a positive cycle.",
     "Rekindling works best when the foundation is sound; betrayal or contempt usually needs deeper repair."
   ],

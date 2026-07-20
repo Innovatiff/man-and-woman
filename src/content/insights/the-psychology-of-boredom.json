@@ -1,44 +1,50 @@
 {
-  "title": "The Psychology of Boredom — What It Is and What It's For",
+  "title": "The Psychology of Boredom: What It Is and What It's For",
   "slug": "the-psychology-of-boredom",
   "category": "emotions-and-feelings",
   "focusGender": "both",
   "featured": false,
-  "tags": ["boredom", "attention", "meaning", "novelty", "relationships"],
+  "tags": [
+    "boredom",
+    "attention",
+    "meaning",
+    "novelty",
+    "relationships"
+  ],
   "metaTitle": "The Psychology of Boredom and What It's Telling You",
   "metaDescription": "Boredom is the frustrated wish to engage, not laziness. Why we feel it, what it signals about meaning and relationships, and how novelty renews interest.",
-  "coreFinding": "Boredom is not laziness or a character flaw but a specific, uncomfortable state: wanting to be engaged while being unable to lock attention onto anything satisfying. Psychologists increasingly treat it as a signal rather than a defect — a nudge that your current activity, environment, or direction is out of step with what you find meaningful. In relationships it tends to reflect lost novelty and habituation, and shared new experiences are one of the better-studied ways to renew interest.",
+  "coreFinding": "Boredom is not laziness or a character flaw but a specific, uncomfortable state: wanting to be engaged while being unable to lock attention onto anything satisfying. Psychologists increasingly treat it as a signal rather than a defect, a nudge that your current activity, environment, or direction is out of step with what you find meaningful. In relationships it tends to reflect lost novelty and habituation, and shared new experiences are one of the better-studied ways to renew interest.",
   "whatResearchShows": [
-    "One of the most influential modern definitions comes from John Eastwood and colleagues (Eastwood, Frischen, Fenske & Smilek, 2012), who framed boredom as 'the aversive experience of wanting, but being unable, to engage in satisfying activity.' On this view boredom is fundamentally an attention problem: you are motivated to be absorbed in something, but your attention will not settle, and the mismatch itself feels unpleasant. That reframing matters, because it separates boredom from simply having nothing to do — you can be desperately busy and still bored if nothing engages you.",
-    "Boredom also appears to be more than a minor nuisance; people will go to surprising lengths to escape it. In a widely reported set of studies by Timothy Wilson and colleagues (Wilson et al., 2014), many participants left alone in a bare room with only their thoughts chose to give themselves a mild electric shock rather than sit with the emptiness — in one variant, about 67% of men and 25% of women shocked themselves at least once, despite having earlier said they would pay to avoid it. The finding underscores how genuinely aversive an unengaged mind can be.",
-    "Researchers such as Wijnand van Tilburg and Eric Igou (2012) have distinguished boredom from related states like frustration and sadness and argued it carries information: chronic boredom often signals a lack of meaning or challenge, and can push people to seek more meaningful activity. In relationships specifically, a notable longitudinal study by Tsapelas, Aron, and Orbuch (2009) followed married couples and found that spouses who reported being bored in year seven were significantly less satisfied nine years later, in year sixteen — suggesting boredom is worth heeding early rather than waiting out."
+    "One of the most influential modern definitions comes from John Eastwood and colleagues (Eastwood, Frischen, Fenske & Smilek, 2012), who framed boredom as 'the aversive experience of wanting, but being unable, to engage in satisfying activity.' On this view boredom is fundamentally an attention problem: you are motivated to be absorbed in something, but your attention will not settle, and the mismatch itself feels unpleasant. That reframing matters, because it separates boredom from simply having nothing to do. You can be desperately busy and still bored if nothing engages you.",
+    "Boredom also appears to be more than a minor nuisance; people will go to surprising lengths to escape it. In a widely reported set of studies by Timothy Wilson and colleagues (Wilson et al., 2014), many participants left alone in a bare room with only their thoughts chose to give themselves a mild electric shock rather than sit with the emptiness. In one variant, about 67% of men and 25% of women shocked themselves at least once, despite having earlier said they would pay to avoid it. The finding underscores how genuinely aversive an unengaged mind can be.",
+    "Researchers such as Wijnand van Tilburg and Eric Igou (2012) have distinguished boredom from related states like frustration and sadness and argued it carries information: chronic boredom often signals a lack of meaning or challenge, and can push people to seek more meaningful activity. In relationships specifically, a notable longitudinal study by Tsapelas, Aron, and Orbuch (2009) followed married couples and found that spouses who reported being bored in year seven were significantly less satisfied nine years later, in year sixteen, suggesting boredom is worth heeding early rather than waiting out."
   ],
   "whyItHappens": [
-    "At the level of mechanism, boredom tends to arise from a mismatch between your capacities and your situation. Tasks that are far too easy, far too hard, too repetitive, or disconnected from anything you care about all make it difficult for attention to engage, and that failure to engage is the felt experience of being bored. This is the flip side of what Mihaly Csikszentmihalyi called flow — the deep absorption that comes when challenge and skill are well matched. Boredom is, in a sense, flow's absence: attention with nowhere satisfying to land.",
+    "At the level of mechanism, boredom tends to arise from a mismatch between your capacities and your situation. Tasks that are far too easy, far too hard, too repetitive, or disconnected from anything you care about all make it difficult for attention to engage, and that failure to engage is the felt experience of being bored. This is the flip side of what Mihaly Csikszentmihalyi called flow, the deep absorption that comes when challenge and skill are well matched. Boredom is, in a sense, flow's absence: attention with nowhere satisfying to land.",
     "Habituation explains much of boredom in relationships and long-term routines. Novel and rewarding experiences are attention-grabbing partly because they are new; as they repeat, the brain predicts them, and they stop pulling focus the way they once did. The intense early stage of a relationship is naturally novel, so as partners settle into familiar patterns, the same person and the same rituals simply command less attention than they used to. That fading is a normal feature of how attention and reward work, not evidence that the bond has failed.",
-    "Boredom can also be a messenger about meaning and values. When someone feels persistently, diffusely bored across much of their life, it often reflects a gap between how they are spending their days and what they find purposeful, rather than a shortage of activities. In that sense chronic boredom can be uncomfortable but useful — it can prompt people to reassess and change direction, which is why some researchers describe it as a spur to growth rather than something to simply suppress."
+    "Boredom can also be a messenger about meaning and values. When someone feels persistently, diffusely bored across much of their life, it often reflects a gap between how they are spending their days and what they find purposeful, rather than a shortage of activities. In that sense chronic boredom can be uncomfortable but useful. It can prompt people to reassess and change direction, which is why some researchers describe it as a spur to growth rather than something to simply suppress."
   ],
   "realLifeExamples": [
-    "Someone scrolls their phone for an hour, flicking between apps, and feels more restless and empty at the end than when they started. They were not short of stimulation; they were unable to engage with any of it. This is the classic modern face of boredom — a hungry, unsettled attention that endless content fails to feed.",
-    "A couple who once stayed up talking now moves through a smooth, predictable week — same commute, same shows, same short exchanges about logistics — and one or both quietly notice a flatness. Nothing is wrong, exactly, but the relationship has stopped surprising them. This is habituation at work, and it is a common, addressable stage rather than a sign that love has run out.",
-    "A person who is competent and busy at work still feels a low hum of boredom that no new task quite resolves. Often that hum is less about the tasks than about meaning — a sense that the work no longer connects to anything they value. Heard rather than ignored, that signal can be the first step toward a real change in direction."
+    "Someone scrolls their phone for an hour, flicking between apps, and feels more restless and empty at the end than when they started. They were not short of stimulation; they were unable to engage with any of it. This is the classic modern face of boredom, a hungry, unsettled attention that endless content fails to feed.",
+    "A couple who once stayed up talking now moves through a smooth, predictable week (same commute, same shows, same short exchanges about logistics) and one or both quietly notice a flatness. Nothing is wrong, exactly, but the relationship has stopped surprising them. This is habituation at work, and it is a common, addressable stage rather than a sign that love has run out.",
+    "A person who is competent and busy at work still feels a low hum of boredom that no new task quite resolves. Often that hum is less about the tasks than about meaning, a sense that the work no longer connects to anything they value. Heard rather than ignored, that signal can be the first step toward a real change in direction."
   ],
   "whatPeopleGetWrong": [
-    "The biggest misconception is that boredom equals laziness or a lack of imagination — that a bored person simply needs to try harder or be grateful. The research suggests boredom is an involuntary state of wanting to engage and being unable to, which is closer to frustrated motivation than to apathy. Treating it as a moral failing usually just adds shame to an already uncomfortable experience, without addressing the mismatch driving it.",
+    "The biggest misconception is that boredom equals laziness or a lack of imagination, that a bored person simply needs to try harder or be grateful. The research suggests boredom is an involuntary state of wanting to engage and being unable to, which is closer to frustrated motivation than to apathy. Treating it as a moral failing usually just adds shame to an already uncomfortable experience, without addressing the mismatch driving it.",
     "A second error is assuming boredom in a relationship means the relationship is over or that one partner is the problem. Habituation to novelty is a predictable feature of long-term closeness, not a verdict on compatibility, and it tends to respond to shared effort rather than to blame or a new partner. Reading ordinary familiarity as a fatal flaw can push people to abandon good relationships in search of a spark that any relationship would eventually dull."
   ],
   "relationshipImplications": [
-    "The most studied antidote to relationship boredom is deliberately introducing novelty and shared challenge. Arthur Aron and colleagues (2000) found that couples who took part in novel and mildly arousing activities together reported higher relationship quality afterward than couples who did something merely pleasant, a pattern that fits his broader 'self-expansion' model — we feel closer and more alive with partners who help us grow and encounter the new. In practice that can be as simple as learning something together, traveling somewhere unfamiliar, or breaking a stale routine, rather than waiting for interest to return on its own.",
-    "It also helps to treat boredom as information both partners can talk about without accusation. Naming it early — 'I think we've fallen into autopilot and I miss feeling surprised by us' — turns a vague discontent into a shared problem to solve, well before it hardens into the lower satisfaction that longitudinal research links to unaddressed boredom. The goal is not constant excitement, which no relationship sustains, but enough renewal to keep attention and curiosity alive."
+    "The most studied antidote to relationship boredom is deliberately introducing novelty and shared challenge. Arthur Aron and colleagues (2000) found that couples who took part in novel and mildly arousing activities together reported higher relationship quality afterward than couples who did something merely pleasant, a pattern that fits his broader 'self-expansion' model. We feel closer and more alive with partners who help us grow and encounter the new. In practice that can be as simple as learning something together, traveling somewhere unfamiliar, or breaking a stale routine, rather than waiting for interest to return on its own.",
+    "It also helps to treat boredom as information both partners can talk about without accusation. Naming it early, 'I think we've fallen into autopilot and I miss feeling surprised by us', turns a vague discontent into a shared problem to solve, well before it hardens into the lower satisfaction that longitudinal research links to unaddressed boredom. The goal is not constant excitement, which no relationship sustains, but enough renewal to keep attention and curiosity alive."
   ],
   "theNuance": [
-    "Boredom is a normal, universal emotion, not a gendered one, and occasional boredom is neither dangerous nor a sign that anything is broken. The distinction that matters is between passing, situational boredom — a dull meeting, a slow afternoon — and a chronic, pervasive version that colors much of life. The first usually resolves with a change of activity; the second is more likely to be signaling something about meaning, mood, or direction, and can occasionally overlap with low mood or difficulty regulating attention, where support can help.",
+    "Boredom is a normal, universal emotion, not a gendered one, and occasional boredom is neither dangerous nor a sign that anything is broken. The distinction that matters is between passing, situational boredom (a dull meeting, a slow afternoon) and a chronic, pervasive version that colors much of life. The first usually resolves with a change of activity; the second is more likely to be signaling something about meaning, mood, or direction, and can occasionally overlap with low mood or difficulty regulating attention, where support can help.",
     "It is also worth remembering that the research describes tendencies, not rules. The gender split in the Wilson shock studies, for instance, was striking but came from small samples and specific conditions, and should not be read as a fixed fact about men and women. What holds up more broadly is the core idea: boredom is the discomfort of disengaged attention, it carries useful information, and both the everyday kind and the relationship kind respond better to curiosity and change than to self-criticism."
   ],
   "faqs": [
     {
       "question": "What exactly is boredom, psychologically?",
-      "answer": "Researchers define it as the aversive experience of wanting to engage in something satisfying but being unable to. That makes it an attention problem more than a shortage of things to do — you can be busy and still bored if nothing holds your focus. It is frustrated motivation, not simple apathy."
+      "answer": "Researchers define it as the aversive experience of wanting to engage in something satisfying but being unable to. That makes it an attention problem more than a shortage of things to do. You can be busy and still bored if nothing holds your focus. It is frustrated motivation, not simple apathy."
     },
     {
       "question": "Is boredom a bad thing, or can it be useful?",
@@ -58,7 +64,7 @@
     },
     {
       "question": "Why is it so hard to just sit and do nothing?",
-      "answer": "Studies suggest an unengaged mind can be genuinely aversive — in Wilson's research, many people preferred a mild electric shock to sitting alone with their thoughts. Attention seems to crave something to engage with, so stillness without focus can feel uncomfortable rather than restful for many of us."
+      "answer": "Studies suggest an unengaged mind can be genuinely aversive. In Wilson's research, many people preferred a mild electric shock to sitting alone with their thoughts. Attention seems to crave something to engage with, so stillness without focus can feel uncomfortable rather than restful for many of us."
     }
   ],
   "researchSources": [
@@ -74,8 +80,8 @@
     "how-couples-grow-apart",
     "the-role-of-mystery-in-attraction"
   ],
-  "quickTake": "Boredom is the frustrated wish to engage — an attention problem, not laziness. It often signals that an activity or direction is out of step with what you value, and in relationships it tends to reflect lost novelty that shared new experiences can renew.",
-  "pullQuote": "Boredom is not empty time; it is the discomfort of attention with nowhere satisfying to land — and that discomfort is usually trying to tell you something.",
+  "quickTake": "Boredom is the frustrated wish to engage, an attention problem, not laziness. It often signals that an activity or direction is out of step with what you value, and in relationships it tends to reflect lost novelty that shared new experiences can renew.",
+  "pullQuote": "Boredom is not empty time; it is the discomfort of attention with nowhere satisfying to land, and that discomfort is usually trying to tell you something.",
   "keyStats": [
     {
       "value": "67% vs. 25%",
@@ -89,7 +95,7 @@
     },
     {
       "value": "Attention problem",
-      "label": "Boredom is defined as wanting, but being unable, to engage attention in something satisfying — not simply a lack of activity.",
+      "label": "Boredom is defined as wanting, but being unable, to engage attention in something satisfying, not simply a lack of activity.",
       "source": "Eastwood et al. (2012)"
     }
   ],
@@ -98,16 +104,32 @@
     "leftLabel": "Situational boredom",
     "rightLabel": "Chronic boredom",
     "rows": [
-      { "aspect": "Core experience", "men": "A temporary mismatch — this moment or task fails to engage you", "women": "A persistent sense that little in life engages you" },
-      { "aspect": "What it signals", "men": "This activity, setting, or routine needs changing", "women": "Possible disconnection from meaning, values, or direction" },
-      { "aspect": "Common response", "men": "Seek novelty, challenge, or a better-fit activity", "women": "Restlessness, low mood, or reaching for intense stimulation" },
-      { "aspect": "Healthy move", "men": "Re-engage attention or switch the activity", "women": "Reconnect with what matters, and seek support if it lingers" }
+      {
+        "aspect": "Core experience",
+        "men": "A temporary mismatch, this moment or task fails to engage you",
+        "women": "A persistent sense that little in life engages you"
+      },
+      {
+        "aspect": "What it signals",
+        "men": "This activity, setting, or routine needs changing",
+        "women": "Possible disconnection from meaning, values, or direction"
+      },
+      {
+        "aspect": "Common response",
+        "men": "Seek novelty, challenge, or a better-fit activity",
+        "women": "Restlessness, low mood, or reaching for intense stimulation"
+      },
+      {
+        "aspect": "Healthy move",
+        "men": "Re-engage attention or switch the activity",
+        "women": "Reconnect with what matters, and seek support if it lingers"
+      }
     ]
   },
   "keyTakeaways": [
-    "Boredom is the aversive state of wanting to engage but being unable to — an attention problem, not laziness or apathy.",
+    "Boredom is the aversive state of wanting to engage but being unable to, an attention problem, not laziness or apathy.",
     "It carries information: chronic boredom often signals a gap between how you spend your time and what you find meaningful.",
-    "Relationship boredom is largely habituation — familiar routines command less attention than novel ones once did.",
+    "Relationship boredom is largely habituation. Familiar routines command less attention than novel ones once did.",
     "Shared novelty and challenge, per Aron's self-expansion research, are among the best-studied ways to renew interest.",
     "Occasional boredom is normal; a persistent, pervasive version is the kind most worth heeding and, if it lingers, discussing with support."
   ],

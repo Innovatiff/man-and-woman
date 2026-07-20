@@ -1,35 +1,39 @@
 {
-  "title": "The Psychology of Compromise in Relationships — What Works",
+  "title": "The Psychology of Compromise in Relationships: What Works",
   "slug": "the-psychology-of-compromise-in-relationships",
   "category": "relationships-and-communication",
   "focusGender": "both",
   "featured": false,
-  "tags": ["communication", "conflict", "commitment"],
+  "tags": [
+    "communication",
+    "conflict",
+    "commitment"
+  ],
   "metaTitle": "The Psychology of Compromise in Relationships",
   "metaDescription": "What research shows about healthy compromise: accepting influence, fairness, and why win-win problem-solving beats scorekeeping and chronic self-sacrifice.",
-  "coreFinding": "Healthy compromise is less about meeting exactly halfway and more about each partner being genuinely willing to be influenced by the other. Research links accepting a partner's influence and fair, collaborative problem-solving to more stable relationships, while rigid scorekeeping and one-sided sacrifice tend to breed resentment. The goal is usually a solution both can live with, not a perfect split — and this applies across genders.",
+  "coreFinding": "Healthy compromise is less about meeting exactly halfway and more about each partner being genuinely willing to be influenced by the other. Research links accepting a partner's influence and fair, collaborative problem-solving to more stable relationships, while rigid scorekeeping and one-sided sacrifice tend to breed resentment. The goal is usually a solution both can live with, not a perfect split, and this applies across genders.",
   "whatResearchShows": [
-    "John Gottman's research (Gottman and Silver, 1999) found that a partner's willingness to 'accept influence' — to take the other's opinions and feelings seriously and let them shape decisions — was a strong predictor of relationship stability. In his studies, relationships where one partner consistently resisted being influenced were markedly more likely to struggle, regardless of who that partner was.",
+    "John Gottman's research (Gottman and Silver, 1999) found that a partner's willingness to 'accept influence', to take the other's opinions and feelings seriously and let them shape decisions, was a strong predictor of relationship stability. In his studies, relationships where one partner consistently resisted being influenced were markedly more likely to struggle, regardless of who that partner was.",
     "Caryl Rusbult's investment model (1980) helps explain why people are willing to compromise at all. Satisfaction, investment, and a sense of commitment make partners more likely to act for the good of the relationship rather than purely for themselves. When commitment is high, short-term sacrifices feel worthwhile; when it is low, the willingness to bend tends to drop.",
-    "Compromise also works better when it is built on understanding. Reis and Shaver's intimacy framework (1988) underscores that feeling heard and validated changes how negotiations go — people give ground more readily when they feel their underlying concerns have been genuinely understood. None of this is unique to either gender, and individual differences are substantial."
+    "Compromise also works better when it is built on understanding. Reis and Shaver's intimacy framework (1988) underscores that feeling heard and validated changes how negotiations go. People give ground more readily when they feel their underlying concerns have been genuinely understood. None of this is unique to either gender, and individual differences are substantial."
   ],
   "whyItHappens": [
     "Compromise asks people to tolerate not getting exactly what they want, which can feel like loss. What makes it sustainable is reciprocity and fairness: when both partners take turns bending and each feels their core needs are respected, giving ground feels like investment rather than defeat. When the bending is chronically one-sided, the under-served partner tends to accumulate resentment.",
     "Accepting influence depends partly on security. Someone who feels respected and safe can let a partner's view change their decision without feeling diminished. By contrast, when self-worth or control feels threatened, even small concessions can feel like losing face, which is why some conflicts escalate far beyond the actual issue at stake.",
-    "There is also a difference between compromising on preferences and compromising on core values or needs. Healthy compromise tends to involve finding workable solutions on the many things that are negotiable, while protecting the few things that genuinely are not. Couples who blur this line — surrendering core needs to keep the peace — often pay for it later."
+    "There is also a difference between compromising on preferences and compromising on core values or needs. Healthy compromise tends to involve finding workable solutions on the many things that are negotiable, while protecting the few things that genuinely are not. Couples who blur this line, surrendering core needs to keep the peace, often pay for it later."
   ],
   "realLifeExamples": [
     "Two partners disagree about how to spend a free weekend. Rather than one always conceding, they alternate, or find a plan that includes something for each. Over time this back-and-forth tends to feel fair, and neither builds up a quiet ledger of grievances.",
-    "A couple deciding where to live treats it as a shared problem to solve together — mapping out what each genuinely needs versus merely prefers — rather than a contest one person has to win. The aim is a solution both can live with, even if neither gets their first choice.",
+    "A couple deciding where to live treats it as a shared problem to solve together, mapping out what each genuinely needs versus merely prefers, rather than a contest one person has to win. The aim is a solution both can live with, even if neither gets their first choice.",
     "One partner habitually gives in to avoid conflict, telling themselves it keeps the peace. Months later, the accumulated resentment leaks out as irritability or withdrawal. What looked like compromise was actually self-erasure, which tends to damage the relationship more than honest disagreement would have.",
-    "Two people planning a shared budget each start by naming what genuinely matters — one wants a cushion of savings, the other wants room for travel — before negotiating the rest. Because each felt their core concern was heard first, they bend readily on the details, and the final plan feels like a joint decision rather than one side conceding to the other."
+    "Two people planning a shared budget each start by naming what genuinely matters (one wants a cushion of savings, the other wants room for travel) before negotiating the rest. Because each felt their core concern was heard first, they bend readily on the details, and the final plan feels like a joint decision rather than one side conceding to the other."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that compromise means splitting everything exactly in half. In practice, healthy compromise is more about each partner being open to influence and trading off across many decisions over time, so that fairness balances out in the long run rather than within every single issue.",
     "Another mistake is confusing compromise with chronic self-sacrifice. Consistently giving up your own needs to avoid friction is not a stable form of compromise; research and clinical experience suggest it tends to build resentment and erode intimacy. Genuine compromise requires both voices to stay in the conversation."
   ],
   "relationshipImplications": [
-    "Practicing accepting influence — actively looking for the part of a partner's view you can agree with, and letting it shape your decisions — tends to strengthen relationships. It signals respect and partnership, and Gottman's work suggests it is one of the more protective habits a couple can build.",
+    "Practicing accepting influence (actively looking for the part of a partner's view you can agree with, and letting it shape your decisions) tends to strengthen relationships. It signals respect and partnership, and Gottman's work suggests it is one of the more protective habits a couple can build.",
     "It also helps to distinguish negotiable preferences from non-negotiable needs early. Couples who can name what truly matters to each of them tend to compromise more cleanly, because they are bending on the flexible things while honestly protecting the few that are not. Scorekeeping is best replaced with a shared sense of fairness over time."
   ],
   "theNuance": [
@@ -43,7 +47,7 @@
     },
     {
       "question": "Is compromise always a good thing in relationships?",
-      "answer": "Often, but not always. Bending on negotiable preferences tends to strengthen a partnership. Repeatedly surrendering core needs or values to avoid conflict is different — that pattern is linked with resentment and lost intimacy. Healthy compromise keeps both partners' voices in the conversation rather than erasing one."
+      "answer": "Often, but not always. Bending on negotiable preferences tends to strengthen a partnership. Repeatedly surrendering core needs or values to avoid conflict is different, that pattern is linked with resentment and lost intimacy. Healthy compromise keeps both partners' voices in the conversation rather than erasing one."
     },
     {
       "question": "Why does one-sided compromise cause resentment?",
@@ -84,7 +88,7 @@
     },
     {
       "value": "Commitment",
-      "label": "Satisfaction, investment, and commitment make partners more willing to act for the relationship rather than purely for themselves — when commitment is low, willingness to bend drops.",
+      "label": "Satisfaction, investment, and commitment make partners more willing to act for the relationship rather than purely for themselves, when commitment is low, willingness to bend drops.",
       "source": "Rusbult (1980), investment model"
     },
     {
@@ -96,16 +100,28 @@
   "comparison": {
     "title": "At a glance: average tendencies",
     "rows": [
-      { "aspect": "Willingness to compromise", "men": "Varies by individual more than by sex", "women": "Varies by individual more than by sex" },
-      { "aspect": "What predicts how compromise feels", "men": "Attachment style and sense of security", "women": "Attachment style and sense of security" },
-      { "aspect": "Effect of social expectations", "men": "May be nudged toward holding the line", "women": "May be nudged toward accommodating" }
+      {
+        "aspect": "Willingness to compromise",
+        "men": "Varies by individual more than by sex",
+        "women": "Varies by individual more than by sex"
+      },
+      {
+        "aspect": "What predicts how compromise feels",
+        "men": "Attachment style and sense of security",
+        "women": "Attachment style and sense of security"
+      },
+      {
+        "aspect": "Effect of social expectations",
+        "men": "May be nudged toward holding the line",
+        "women": "May be nudged toward accommodating"
+      }
     ]
   },
   "keyTakeaways": [
     "Healthy compromise is about being open to influence, not splitting everything exactly in half.",
     "Accepting a partner's influence is a strong predictor of relationship stability.",
     "Fairness balances out across many decisions over time, not within every single issue.",
-    "Chronic one-sided sacrifice is not compromise — it tends to build resentment and erode intimacy.",
+    "Chronic one-sided sacrifice is not compromise. It tends to build resentment and erode intimacy.",
     "Distinguish negotiable preferences from non-negotiable core needs, and protect the few that truly matter.",
     "Willingness to compromise varies more between individuals than between the sexes."
   ],

@@ -1,28 +1,31 @@
 {
-  "title": "Do Opposites Attract? — What the Research Actually Finds",
+  "title": "Do Opposites Attract?: What the Research Actually Finds",
   "slug": "do-opposites-attract",
   "category": "love-and-attraction",
   "focusGender": "both",
   "featured": false,
-  "tags": ["attraction", "behavior"],
-  "metaTitle": "Do Opposites Attract? — What Psychology Actually Shows",
+  "tags": [
+    "attraction",
+    "behavior"
+  ],
+  "metaTitle": "Do Opposites Attract?: What Psychology Actually Shows",
   "metaDescription": "Research suggests similarity, not opposition, drives most attraction. What studies show about the 'opposites attract' idea and where differences help.",
   "coreFinding": "Despite the popular saying, research suggests we are generally drawn to people who are similar to us, not opposite. Shared values, attitudes, and backgrounds reliably predict attraction, while the appeal of pure opposites tends to be weak and short-lived. Some differences can complement a relationship, but they usually work best alongside a strong base of similarity.",
   "whatResearchShows": [
     "A large body of research points toward similarity, not opposition, as the stronger force in attraction. Montoya and Horton (2013) conducted a meta-analytic review of the similarity-attraction effect and found consistent evidence that perceived similarity in attitudes and values predicts liking. The effect is robust across many studies, while support for opposites attracting is comparatively thin.",
-    "Part of why similarity works is familiarity. Zajonc (1968) demonstrated the mere-exposure effect: people tend to develop more positive feelings toward things — and people — they encounter repeatedly. Similar others often feel familiar and easy to be around, which can smooth the path toward attraction and reduce the friction that sharp differences sometimes create.",
-    "The 'opposites attract' idea usually refers to complementarity — the notion that differences fit together like puzzle pieces. Research suggests genuine complementarity plays a modest role at best, and mainly in specific domains rather than as a general rule. Studies more often find that couples resemble each other on key dimensions like values and outlook, and that this resemblance is associated with greater satisfaction. These patterns hold broadly across genders."
+    "Part of why similarity works is familiarity. Zajonc (1968) demonstrated the mere-exposure effect: people tend to develop more positive feelings toward things, and people, they encounter repeatedly. Similar others often feel familiar and easy to be around, which can smooth the path toward attraction and reduce the friction that sharp differences sometimes create.",
+    "The 'opposites attract' idea usually refers to complementarity, the notion that differences fit together like puzzle pieces. Research suggests genuine complementarity plays a modest role at best, and mainly in specific domains rather than as a general rule. Studies more often find that couples resemble each other on key dimensions like values and outlook, and that this resemblance is associated with greater satisfaction. These patterns hold broadly across genders."
   ],
   "whyItHappens": [
-    "Similarity is rewarding for several reasons. When someone shares your views, it tends to validate your sense of reality and reduce conflict over fundamental matters. Agreement feels affirming, and shared interests create natural opportunities to spend time together, which through repeated positive contact can deepen liking — a link consistent with the mere-exposure effect.",
+    "Similarity is rewarding for several reasons. When someone shares your views, it tends to validate your sense of reality and reduce conflict over fundamental matters. Agreement feels affirming, and shared interests create natural opportunities to spend time together, which through repeated positive contact can deepen liking, a link consistent with the mere-exposure effect.",
     "Familiarity also lowers uncertainty. People who are similar to us are often easier to predict and understand, which can make interactions feel safer and more comfortable. From an attachment perspective, that sense of ease and predictability supports the gradual building of closeness, whereas constant fundamental difference can keep a relationship feeling effortful.",
     "Where differences do help, they tend to be specific and complementary rather than total opposition. A pairing of, say, someone who likes to plan and someone more spontaneous can balance each other on a shared foundation of common values. The differences work because the core compatibility is already there, not in spite of an absence of it."
   ],
   "realLifeExamples": [
     "Two people discover they share similar values about family, money, and how to treat others, and the relationship feels easy from early on. They may describe this as 'just clicking,' which often reflects underlying similarity rather than a mysterious chemistry between opposites.",
-    "A couple seems different on the surface — one outgoing, one reserved — and they describe themselves as proof that opposites attract. On closer look, they usually share the deeper things that matter most to them, and their differences sit on top of a compatible foundation rather than defining the relationship.",
-    "An intense early attraction to someone very different can fade once the novelty wears off and the practical friction of mismatched values appears. What felt exciting at first — the sense of someone from a different world — can become a source of recurring conflict when core priorities don't align.",
-    "An introvert and an extrovert can genuinely thrive together — one drawing the other out, the other offering calm — but usually only because they already agree on the things underneath: how to handle money, whether to have kids, how to treat people. The difference in social energy is complementary precisely because the foundation is shared."
+    "A couple seems different on the surface (one outgoing, one reserved) and they describe themselves as proof that opposites attract. On closer look, they usually share the deeper things that matter most to them, and their differences sit on top of a compatible foundation rather than defining the relationship.",
+    "An intense early attraction to someone very different can fade once the novelty wears off and the practical friction of mismatched values appears. What felt exciting at first, the sense of someone from a different world, can become a source of recurring conflict when core priorities don't align.",
+    "An introvert and an extrovert can genuinely thrive together (one drawing the other out, the other offering calm) but usually only because they already agree on the things underneath: how to handle money, whether to have kids, how to treat people. The difference in social energy is complementary precisely because the foundation is shared."
   ],
   "whatPeopleGetWrong": [
     "The biggest misconception is taking 'opposites attract' as a general rule for relationships. Research suggests the opposite is closer to the truth for most enduring attraction: similarity in values and attitudes is the stronger and more reliable predictor. The saying captures the appeal of novelty better than it describes what sustains a bond.",
@@ -47,7 +50,7 @@
     },
     {
       "question": "Can differences ever strengthen a relationship?",
-      "answer": "Yes, in a complementary way. Differences in style — such as planner and improviser — can balance a couple when they sit on a foundation of shared values. Research suggests complementarity plays a modest role and tends to work best alongside strong underlying similarity, not in place of it."
+      "answer": "Yes, in a complementary way. Differences in style, such as planner and improviser, can balance a couple when they sit on a foundation of shared values. Research suggests complementarity plays a modest role and tends to work best alongside strong underlying similarity, not in place of it."
     },
     {
       "question": "What kind of similarity matters most?",
@@ -73,8 +76,8 @@
     "what-makes-relationships-last",
     "the-science-of-chemistry-and-spark"
   ],
-  "quickTake": "Mostly no. The research leans the other way: we are generally drawn to people similar to us in values and attitudes, and that similarity predicts lasting satisfaction. Some differences can complement a couple — but usually only on top of a shared foundation, not instead of one.",
-  "pullQuote": "The saying captures the appeal of novelty better than it describes what sustains a bond — for enduring attraction, similarity is the stronger force.",
+  "quickTake": "Mostly no. The research leans the other way: we are generally drawn to people similar to us in values and attitudes, and that similarity predicts lasting satisfaction. Some differences can complement a couple, but usually only on top of a shared foundation, not instead of one.",
+  "pullQuote": "The saying captures the appeal of novelty better than it describes what sustains a bond. For enduring attraction, similarity is the stronger force.",
   "keyStats": [
     {
       "value": "Meta-analysis",
@@ -83,29 +86,45 @@
     },
     {
       "value": "Mere exposure",
-      "label": "People tend to develop more positive feelings toward what they encounter repeatedly — similar others feel familiar, smoothing the path to attraction.",
+      "label": "People tend to develop more positive feelings toward what they encounter repeatedly. Similar others feel familiar, smoothing the path to attraction.",
       "source": "Zajonc (1968)"
     },
     {
       "value": "78%",
-      "label": "Of measured psychological gender differences are small or close to zero — the pull toward similarity operates for people generally, not along gender lines.",
+      "label": "Of measured psychological gender differences are small or close to zero. The pull toward similarity operates for people generally, not along gender lines.",
       "source": "Hyde (2005), review of 46 meta-analyses"
     }
   ],
   "comparison": {
     "title": "At a glance: what actually drives attraction",
     "rows": [
-      { "aspect": "The stronger force", "men": "Similarity in values and attitudes, on average", "women": "Similarity in values and attitudes, on average" },
-      { "aspect": "Role of true opposites", "men": "Weak and often short-lived appeal", "women": "Weak and often short-lived appeal" },
-      { "aspect": "Where differences help", "men": "Complementary style on a shared foundation", "women": "Complementary style on a shared foundation" },
-      { "aspect": "What predicts satisfaction", "men": "Aligned core values and life goals", "women": "Aligned core values and life goals" }
+      {
+        "aspect": "The stronger force",
+        "men": "Similarity in values and attitudes, on average",
+        "women": "Similarity in values and attitudes, on average"
+      },
+      {
+        "aspect": "Role of true opposites",
+        "men": "Weak and often short-lived appeal",
+        "women": "Weak and often short-lived appeal"
+      },
+      {
+        "aspect": "Where differences help",
+        "men": "Complementary style on a shared foundation",
+        "women": "Complementary style on a shared foundation"
+      },
+      {
+        "aspect": "What predicts satisfaction",
+        "men": "Aligned core values and life goals",
+        "women": "Aligned core values and life goals"
+      }
     ]
   },
   "keyTakeaways": [
-    "Research consistently finds similarity in values and attitudes — not opposition — is the stronger predictor of attraction.",
+    "Research consistently finds similarity in values and attitudes, not opposition, is the stronger predictor of attraction.",
     "The 'opposites attract' saying mostly captures the short-lived pull of novelty, not what sustains a relationship.",
     "Complementary differences can help, but usually only when they sit on a foundation of shared fundamentals.",
-    "Surface differences (hobbies, energy, temperament) are easy to confuse with deep ones (values, goals) — they are not the same.",
+    "Surface differences (hobbies, energy, temperament) are easy to confuse with deep ones (values, goals). They are not the same.",
     "Alignment on core values, life goals, and how you treat others predicts satisfaction more than matched hobbies do.",
     "The similarity effect applies broadly across genders, with heavy overlap between individuals."
   ],

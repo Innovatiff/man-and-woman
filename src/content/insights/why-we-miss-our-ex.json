@@ -1,17 +1,21 @@
 {
-  "title": "Why We Miss Our Ex — The Psychology of Longing",
+  "title": "Why We Miss Our Ex: The Psychology of Longing",
   "slug": "why-we-miss-our-ex",
   "category": "love-and-attraction",
   "focusGender": "both",
   "featured": false,
-  "tags": ["emotions", "behavior", "falling-in-love"],
-  "metaTitle": "Why We Miss Our Ex — What Psychology Shows",
+  "tags": [
+    "emotions",
+    "behavior",
+    "falling-in-love"
+  ],
+  "metaTitle": "Why We Miss Our Ex: What Psychology Shows",
   "metaDescription": "Why we miss an ex: research on attachment bonds, idealized memory, and a withdrawal-like response after a breakup, and why it affects both men and women.",
   "coreFinding": "Missing an ex is largely the work of an attachment bond that does not switch off the moment a relationship ends. Research suggests the brain reacts to losing a partner somewhat like losing a source of comfort and stability, memory tends to romanticize the past, and the result can feel like a withdrawal-like craving. It usually fades with time, and both men and women feel it deeply.",
   "whatResearchShows": [
-    "Hazan and Shaver (1987) established that adult romantic love operates through the attachment system — the same bonding mechanism that ties children to caregivers. Because a partner becomes an attachment figure, a breakup is experienced as the loss of a source of security, which helps explain why the longing can feel so physical and persistent rather than purely a matter of preference.",
+    "Hazan and Shaver (1987) established that adult romantic love operates through the attachment system, the same bonding mechanism that ties children to caregivers. Because a partner becomes an attachment figure, a breakup is experienced as the loss of a source of security, which helps explain why the longing can feel so physical and persistent rather than purely a matter of preference.",
     "Sbarra and Emery (2005) tracked the emotional aftermath of non-marital breakups and found that distress, love, and sadness often persist and overlap for some time after a relationship ends. The feelings do not vanish at the breakup; they tend to fade gradually, and people can continue to feel love for a former partner well into the separation.",
-    "Field (2017), reviewing the research on romantic breakup distress, describes responses that can resemble grief and even a withdrawal-like state — preoccupation, craving contact, and difficulty letting go. This points to how strongly the bond can grip us, while also noting that for most people the intensity eases over time as the attachment system reorganizes."
+    "Field (2017), reviewing the research on romantic breakup distress, describes responses that can resemble grief and even a withdrawal-like state, preoccupation, craving contact, and difficulty letting go. This points to how strongly the bond can grip us, while also noting that for most people the intensity eases over time as the attachment system reorganizes."
   ],
   "whyItHappens": [
     "At the core is broken attachment. Hazan and Shaver (1987) frame a partner as someone the attachment system relies on for comfort and security, so losing them registers as a threat the mind keeps trying to resolve by seeking them out. The pull to text, check on, or reunite with an ex is often this system protesting the loss rather than clear evidence the relationship should continue.",
@@ -19,20 +23,20 @@
     "There is also a withdrawal-like quality, as Field (2017) describes. A close relationship shapes daily routines, rewards, and a sense of being known; when it ends, the absence of those familiar sources of comfort can feel like craving, with waves of preoccupation that gradually subside as new routines and supports take their place."
   ],
   "realLifeExamples": [
-    "Someone who clearly remembers why a relationship ended still feels a strong urge to reach out at night or after a hard day — a sign that the attachment pull and the rational assessment can run on separate tracks, with longing persisting even when the decision to part was sound.",
+    "Someone who clearly remembers why a relationship ended still feels a strong urge to reach out at night or after a hard day, a sign that the attachment pull and the rational assessment can run on separate tracks, with longing persisting even when the decision to part was sound.",
     "A person scrolling old photos finds themselves dwelling on the best memories while the conflicts and disappointments fade into the background. This idealized recall can make an ex feel more irreplaceable than the day-to-day relationship actually was.",
-    "The missing often comes in waves rather than a steady decline — relatively fine for stretches, then ambushed by a song, a place, or an anniversary. This uneven, grief-like pattern is consistent with how attachment loss tends to ease gradually rather than all at once."
+    "The missing often comes in waves rather than a steady decline, relatively fine for stretches, then ambushed by a song, a place, or an anniversary. This uneven, grief-like pattern is consistent with how attachment loss tends to ease gradually rather than all at once."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that missing an ex means you should get back together. Research on attachment suggests the longing largely reflects a broken bond and idealized memory, which can persist even after a genuinely necessary breakup. Missing someone is information about attachment, not a reliable verdict on compatibility.",
     "Another error, especially around gender, is assuming men move on quickly and feel less. Studies find both men and women experience real breakup distress; the differences are mostly in expression, not depth. Sbarra and Emery's (2005) work shows lingering love and sadness are common across people, not unique to one sex."
   ],
   "relationshipImplications": [
-    "Understanding the missing as attachment doing its work can reduce self-judgment and impulsive reaching out. Knowing that the pull will likely ease as the attachment system reorganizes — and that idealized memory is inflating the picture — helps people ride out the waves without treating every pang as a sign to reconcile.",
+    "Understanding the missing as attachment doing its work can reduce self-judgment and impulsive reaching out. Knowing that the pull will likely ease as the attachment system reorganizes, and that idealized memory is inflating the picture, helps people ride out the waves without treating every pang as a sign to reconcile.",
     "Field's (2017) review suggests recovery is supported by rebuilding the routines, connections, and sources of comfort the relationship used to provide. Leaning on friends, structure, and time tends to help the bond loosen its grip, whereas constant contact or monitoring an ex often keeps the longing alive."
   ],
   "theNuance": [
-    "Men and women appear to miss their exes in broadly similar ways. Consistent with Hyde's gender similarities hypothesis (2005), the underlying mechanisms — attachment, idealized memory, withdrawal-like craving — are largely shared, even if cultural norms shape how openly each person grieves the loss.",
+    "Men and women appear to miss their exes in broadly similar ways. Consistent with Hyde's gender similarities hypothesis (2005), the underlying mechanisms (attachment, idealized memory, withdrawal-like craving) are largely shared, even if cultural norms shape how openly each person grieves the loss.",
     "How much and how long someone misses an ex varies widely by individual. Attachment style, who initiated the breakup, the length and meaning of the relationship, and current support all shape the experience far more than gender does. Missing an ex is also a normal part of grieving, not a flaw to fix."
   ],
   "faqs": [
@@ -78,7 +82,7 @@
   "keyStats": [
     {
       "value": "Attachment loss",
-      "label": "Because a partner becomes an attachment figure, a breakup registers as the loss of a source of security — which is why the longing can feel physical and persistent.",
+      "label": "Because a partner becomes an attachment figure, a breakup registers as the loss of a source of security, which is why the longing can feel physical and persistent.",
       "source": "Hazan & Shaver (1987)"
     },
     {
@@ -88,25 +92,41 @@
     },
     {
       "value": "Withdrawal-like",
-      "label": "Breakup responses can resemble grief and a withdrawal-like state — preoccupation, craving contact, difficulty letting go — that eases as the attachment system reorganizes.",
+      "label": "Breakup responses can resemble grief and a withdrawal-like state (preoccupation, craving contact, difficulty letting go) that eases as the attachment system reorganizes.",
       "source": "Field (2017), review"
     }
   ],
   "comparison": {
     "title": "At a glance: average tendencies",
     "rows": [
-      { "aspect": "Depth of breakup distress", "men": "Real and often significant", "women": "Real and often significant" },
-      { "aspect": "How grief is expressed", "men": "Sometimes less openly, shaped by norms", "women": "Sometimes more openly voiced or shared" },
-      { "aspect": "Idealized memory of the ex", "men": "Common; recalls the good, softens the bad", "women": "Common; recalls the good, softens the bad" },
-      { "aspect": "What supports recovery", "men": "Routines, friends, time, limited contact", "women": "Routines, friends, time, limited contact" }
+      {
+        "aspect": "Depth of breakup distress",
+        "men": "Real and often significant",
+        "women": "Real and often significant"
+      },
+      {
+        "aspect": "How grief is expressed",
+        "men": "Sometimes less openly, shaped by norms",
+        "women": "Sometimes more openly voiced or shared"
+      },
+      {
+        "aspect": "Idealized memory of the ex",
+        "men": "Common; recalls the good, softens the bad",
+        "women": "Common; recalls the good, softens the bad"
+      },
+      {
+        "aspect": "What supports recovery",
+        "men": "Routines, friends, time, limited contact",
+        "women": "Routines, friends, time, limited contact"
+      }
     ]
   },
   "keyTakeaways": [
     "Missing an ex is largely a broken attachment bond that keeps seeking a lost source of comfort and security.",
-    "Memory idealizes the past — you often miss a partly edited version of the relationship, which can inflate the longing.",
+    "Memory idealizes the past. You often miss a partly edited version of the relationship, which can inflate the longing.",
     "The 'withdrawal-like' craving reflects lost routines and rewards, and tends to come in waves that gradually subside.",
     "Longing is not a reliable sign to reconcile; strong feeling can coexist with real incompatibility.",
-    "Both men and women feel breakup distress deeply — the differences are mostly in expression, not depth.",
+    "Both men and women feel breakup distress deeply. The differences are mostly in expression, not depth.",
     "Recovery is supported by rebuilding routines and connections and limiting contact; time lets the bond loosen its grip."
   ],
   "lastReviewed": "2026-06"

@@ -1,16 +1,19 @@
 {
-  "title": "How to Communicate Needs Without Fighting — The Psychology",
+  "title": "How to Communicate Needs Without Fighting: The Psychology",
   "slug": "how-to-communicate-needs-without-fighting",
   "category": "relationships-and-communication",
   "focusGender": "both",
   "featured": false,
-  "tags": ["communication", "conflict"],
+  "tags": [
+    "communication",
+    "conflict"
+  ],
   "metaTitle": "How to Communicate Needs Without Fighting",
   "metaDescription": "What research suggests about voicing needs without conflict: soft start-ups, I-statements, responsiveness, and why how you begin tends to matter most.",
-  "coreFinding": "Research suggests how a conversation begins strongly predicts how it ends. Raising needs with a gentle, specific 'soft start-up' and 'I' statements — rather than blame or criticism — tends to keep a partner from getting defensive. Pairing that with genuine listening and responsiveness lets couples address real needs without the exchange escalating into a fight.",
+  "coreFinding": "Research suggests how a conversation begins strongly predicts how it ends. Raising needs with a gentle, specific 'soft start-up' and 'I' statements, rather than blame or criticism, tends to keep a partner from getting defensive. Pairing that with genuine listening and responsiveness lets couples address real needs without the exchange escalating into a fight.",
   "whatResearchShows": [
     "Among the most robust findings in relationship science is the power of the opening. Gottman and Levenson (1992) observed couples discussing conflicts and found that interactions beginning with criticism or contempt tended to stay negative and predicted later distress. Gottman and Silver (1999) distilled this into the 'soft start-up': raising an issue gently and specifically, which dramatically raises the odds of a productive conversation rather than a defensive one.",
-    "How needs are framed also shapes whether a partner withdraws. Christensen and Heavey (1990) documented the demand-withdraw pattern, in which one person pushes — often through criticism or pressure — and the other shuts down, which only intensifies the original demand. Softening the approach and owning your own feelings, rather than indicting your partner, tends to interrupt this self-reinforcing cycle before it begins.",
+    "How needs are framed also shapes whether a partner withdraws. Christensen and Heavey (1990) documented the demand-withdraw pattern, in which one person pushes, often through criticism or pressure, and the other shuts down, which only intensifies the original demand. Softening the approach and owning your own feelings, rather than indicting your partner, tends to interrupt this self-reinforcing cycle before it begins.",
     "Finally, communicating a need is only half the exchange; being heard is the other half. Reis and Shaver's intimacy-as-process model (1988) shows that closeness deepens when one person discloses something meaningful and the other responds with understanding, validation, and care. A need voiced well but met with dismissal still erodes connection, so responsiveness on the listening end matters as much as the wording on the speaking end."
   ],
   "whyItHappens": [
@@ -19,9 +22,9 @@
     "The demand-withdraw cycle escalates because pressure and shutdown feed each other. The more one partner pushes, the more the other retreats, and the more they retreat, the harder the first pushes. Beginning gently and staying specific lowers the threat level, which makes it less likely either partner slips into pursuing or stonewalling."
   ],
   "realLifeExamples": [
-    "Opening with 'You never help around here' tends to provoke a defense of all the times they did help — and the real need, more shared load, goes unaddressed. Reframing it as 'I'm feeling stretched thin and could use a hand with dinner this week' is far more likely to get a cooperative response.",
+    "Opening with 'You never help around here' tends to provoke a defense of all the times they did help, and the real need, more shared load, goes unaddressed. Reframing it as 'I'm feeling stretched thin and could use a hand with dinner this week' is far more likely to get a cooperative response.",
     "A partner who raises a recurring frustration calmly and specifically, then pauses to actually hear the other's side, often resolves in minutes what a heated, blaming version would have turned into an hours-long fight. The content was identical; the start-up and the listening were not.",
-    "When one person voices a need and the other responds with 'I hear you, that makes sense, let's figure it out,' the need rarely becomes a conflict at all. The validation itself — feeling understood — frequently matters as much as the practical fix.",
+    "When one person voices a need and the other responds with 'I hear you, that makes sense, let's figure it out,' the need rarely becomes a conflict at all. The validation itself, feeling understood, frequently matters as much as the practical fix.",
     "A partner who has been quietly resenting always handling the finances swaps 'you're useless with money' for 'I feel anxious carrying the budget alone and I'd like us to sit down monthly and share it.' Same underlying need, but the version that names a feeling and a specific ask tends to open a plan rather than a defense."
   ],
   "whatPeopleGetWrong": [
@@ -29,7 +32,7 @@
     "People also assume that staying calm means swallowing the need entirely. But suppressing needs tends to breed resentment, not peace. The skill is not avoiding the conversation; it is having it gently, specifically, and with room for the other person to respond."
   ],
   "relationshipImplications": [
-    "Couples who learn to open hard conversations gently and to own their feelings tend to resolve more and wound each other less. This is a learnable skill, not a fixed trait — practicing soft start-ups and 'I' statements can change the texture of conflict over time for either partner.",
+    "Couples who learn to open hard conversations gently and to own their feelings tend to resolve more and wound each other less. This is a learnable skill, not a fixed trait. Practicing soft start-ups and 'I' statements can change the texture of conflict over time for either partner.",
     "Because being heard is half the equation, the listening partner also has work to do: responding with understanding rather than defensiveness or fixes. When both people get good at speaking softly and listening generously, needs become information to act on rather than sparks for a fight."
   ],
   "theNuance": [
@@ -75,8 +78,8 @@
     "why-listening-matters-more-than-advice",
     "the-four-horsemen-of-relationship-failure"
   ],
-  "quickTake": "How a conversation starts strongly predicts how it ends. Raising a need gently and specifically with an 'I' statement, rather than blame, keeps a partner from getting defensive — and pairing that with genuine listening lets couples handle real needs without it turning into a fight.",
-  "pullQuote": "The same need raised with a harsh versus a soft start-up tends to produce completely different conversations — how you begin often matters more than what you're asking for.",
+  "quickTake": "How a conversation starts strongly predicts how it ends. Raising a need gently and specifically with an 'I' statement, rather than blame, keeps a partner from getting defensive, and pairing that with genuine listening lets couples handle real needs without it turning into a fight.",
+  "pullQuote": "The same need raised with a harsh versus a soft start-up tends to produce completely different conversations. How you begin often matters more than what you're asking for.",
   "keyStats": [
     {
       "value": "The opening predicts the outcome",
@@ -85,7 +88,7 @@
     },
     {
       "value": "Demand-withdraw",
-      "label": "A self-reinforcing cycle where one partner pushes (often via criticism) and the other shuts down, intensifying the original demand — either partner can be in either role.",
+      "label": "A self-reinforcing cycle where one partner pushes (often via criticism) and the other shuts down, intensifying the original demand. Either partner can be in either role.",
       "source": "Christensen & Heavey (1990)"
     },
     {
@@ -97,17 +100,33 @@
   "comparison": {
     "title": "At a glance: average tendencies",
     "rows": [
-      { "aspect": "Common role in conflict", "men": "Somewhat more often the withdrawing partner", "women": "Somewhat more often the raising/demanding partner" },
-      { "aspect": "Under stress", "men": "May shut down or stonewall more readily", "women": "May pursue or press the issue more readily" },
-      { "aspect": "Skills that help", "men": "Soft start-ups and responsive listening", "women": "Soft start-ups and responsive listening" },
-      { "aspect": "What drives the pattern", "men": "Attachment history and habit over gender", "women": "Attachment history and habit over gender" }
+      {
+        "aspect": "Common role in conflict",
+        "men": "Somewhat more often the withdrawing partner",
+        "women": "Somewhat more often the raising/demanding partner"
+      },
+      {
+        "aspect": "Under stress",
+        "men": "May shut down or stonewall more readily",
+        "women": "May pursue or press the issue more readily"
+      },
+      {
+        "aspect": "Skills that help",
+        "men": "Soft start-ups and responsive listening",
+        "women": "Soft start-ups and responsive listening"
+      },
+      {
+        "aspect": "What drives the pattern",
+        "men": "Attachment history and habit over gender",
+        "women": "Attachment history and habit over gender"
+      }
     ]
   },
   "keyTakeaways": [
-    "How you start predicts how it ends — a gentle, specific soft start-up beats criticism or blame.",
+    "How you start predicts how it ends. A gentle, specific soft start-up beats criticism or blame.",
     "'I' statements report your experience (hard to argue with) instead of indicting your partner (invites rebuttal).",
     "The demand-withdraw cycle escalates when pressure and shutdown feed each other; either partner can be in either role.",
-    "Being heard is half the exchange — responsiveness on the listening end matters as much as the wording.",
+    "Being heard is half the exchange. Responsiveness on the listening end matters as much as the wording.",
     "Staying calm doesn't mean swallowing the need; suppression breeds resentment, not peace.",
     "These are learnable skills, and both sexes can fall into criticism or withdrawal and both can learn softer patterns."
   ],

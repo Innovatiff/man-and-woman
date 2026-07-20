@@ -1,34 +1,37 @@
 {
-  "title": "Why Men Value Independence — Autonomy, Socialization, and Closeness",
+  "title": "Why Men Value Independence: Autonomy, Socialization, and Closeness",
   "slug": "why-men-value-independence",
   "category": "how-men-think",
   "focusGender": "men",
   "featured": false,
-  "tags": ["how-they-think", "behavior"],
-  "metaTitle": "Why Men Value Independence — The Psychology",
+  "tags": [
+    "how-they-think",
+    "behavior"
+  ],
+  "metaTitle": "Why Men Value Independence: The Psychology",
   "metaDescription": "Why many men value independence and autonomy: the psychology of self-determination, socialization, and why it rarely means rejecting closeness or love.",
-  "coreFinding": "Many men place a high value on independence and autonomy — having room to act, decide, and pursue their own interests. Psychologically this reflects a basic human need for autonomy, amplified in men by socialization toward self-reliance. Valuing independence is generally not a rejection of closeness; healthy relationships tend to support both togetherness and a partner's separate self.",
+  "coreFinding": "Many men place a high value on independence and autonomy, having room to act, decide, and pursue their own interests. Psychologically this reflects a basic human need for autonomy, amplified in men by socialization toward self-reliance. Valuing independence is generally not a rejection of closeness; healthy relationships tend to support both togetherness and a partner's separate self.",
   "whatResearchShows": [
-    "Self-determination theory (Deci and Ryan, 2000) identifies autonomy — the sense of acting from one's own volition rather than under control — as one of three basic psychological needs, alongside competence and relatedness. Crucially, autonomy is not the opposite of connection. The theory holds that people function best when they feel both genuinely connected to others and free to be themselves; the two needs coexist rather than compete.",
-    "Research on the demand-withdraw pattern in couples (Christensen and Heavey, 1990) found that, on average, men more often occupy the withdrawing role during conflict, sometimes seeking distance when a partner seeks more engagement. This is better understood as a dynamic between two people's needs than as a male trait — the roles can reverse depending on who wants change — but it illustrates how a pull toward autonomy can show up under stress.",
+    "Self-determination theory (Deci and Ryan, 2000) identifies autonomy, the sense of acting from one's own volition rather than under control, as one of three basic psychological needs, alongside competence and relatedness. Crucially, autonomy is not the opposite of connection. The theory holds that people function best when they feel both genuinely connected to others and free to be themselves; the two needs coexist rather than compete.",
+    "Research on the demand-withdraw pattern in couples (Christensen and Heavey, 1990) found that, on average, men more often occupy the withdrawing role during conflict, sometimes seeking distance when a partner seeks more engagement. This is better understood as a dynamic between two people's needs than as a male trait, the roles can reverse depending on who wants change, but it illustrates how a pull toward autonomy can show up under stress.",
     "It is important to keep the scale in view. Hyde's gender similarities hypothesis (2005) shows that men and women are far more alike than different on most psychological measures. The need for autonomy is universal; what tends to differ, on average, is how strongly independence is emphasized in men's socialization and how readily it is expressed, not whether the underlying need exists."
   ],
   "whyItHappens": [
-    "Socialization is a major driver. Many men are raised with strong messages valuing self-reliance, standing on their own, and not appearing overly dependent. Independence can thus become tied to identity and self-respect — a way of feeling competent and whole — which is part of why encroachments on it can feel disproportionately threatening.",
+    "Socialization is a major driver. Many men are raised with strong messages valuing self-reliance, standing on their own, and not appearing overly dependent. Independence can thus become tied to identity and self-respect, a way of feeling competent and whole, which is part of why encroachments on it can feel disproportionately threatening.",
     "Autonomy also serves a healthy regulatory function. Time and space to pursue one's own interests, decompress, or simply be alone can help a person manage stress and return to a relationship with more to give. For some men, periodic solitude or independent activity is less a retreat from the partner than a way of staying balanced.",
-    "Problems arise mainly when independence tips into avoidance — when distance is used to dodge intimacy or conflict rather than to recharge. The same behavior can mean very different things: a healthy need for space, or an avoidant pattern of withdrawal. Distinguishing the two usually requires looking at whether the person also returns and reconnects."
+    "Problems arise mainly when independence tips into avoidance, when distance is used to dodge intimacy or conflict rather than to recharge. The same behavior can mean very different things: a healthy need for space, or an avoidant pattern of withdrawal. Distinguishing the two usually requires looking at whether the person also returns and reconnects."
   ],
   "realLifeExamples": [
-    "A man may want regular time for his own pursuits — a hobby, exercise, solitary downtime — not as a way of avoiding his partner but as a way of maintaining a sense of self and managing stress.",
+    "A man may want regular time for his own pursuits (a hobby, exercise, solitary downtime) not as a way of avoiding his partner but as a way of maintaining a sense of self and managing stress.",
     "Wanting to solve a problem himself before asking for help, or to make certain decisions on his own, often reflects a value on competence and autonomy rather than a desire to shut a partner out.",
     "Under conflict, a man may seek some distance to cool down before re-engaging. Whether this is healthy depends largely on whether he comes back to the conversation; space to regulate is constructive, while disappearing to avoid the issue is not."
   ],
   "whatPeopleGetWrong": [
-    "The biggest misconception is that a man's wish for independence means he does not want closeness or is pulling away from the relationship. Self-determination research suggests autonomy and connection are complementary needs, not opposites — many men want both a strong bond and room to be their own person, and meeting one need need not starve the other.",
-    "Another error is treating all distance as the same. There is a real difference between healthy autonomy — space that lets someone return more present — and avoidant withdrawal that dodges intimacy. Reading every request for space as rejection, or excusing every withdrawal as a 'need for independence,' both miss the distinction that actually matters."
+    "The biggest misconception is that a man's wish for independence means he does not want closeness or is pulling away from the relationship. Self-determination research suggests autonomy and connection are complementary needs, not opposites. Many men want both a strong bond and room to be their own person, and meeting one need need not starve the other.",
+    "Another error is treating all distance as the same. There is a real difference between healthy autonomy, space that lets someone return more present, and avoidant withdrawal that dodges intimacy. Reading every request for space as rejection, or excusing every withdrawal as a 'need for independence,' both miss the distinction that actually matters."
   ],
   "relationshipImplications": [
-    "Relationships tend to do better when a partner's need for autonomy is respected rather than treated as a threat — when independence and closeness are framed as compatible rather than competing. Supporting each other's separate interests often deepens rather than dilutes the bond.",
+    "Relationships tend to do better when a partner's need for autonomy is respected rather than treated as a threat, when independence and closeness are framed as compatible rather than competing. Supporting each other's separate interests often deepens rather than dilutes the bond.",
     "At the same time, it helps to name the difference between recharging and avoiding. A man who values independence can reassure a partner by reconnecting after taking space, and couples can agree on how to take time apart without it reading as withdrawal. The goal is interdependence: two whole people who choose each other, not two people who lose themselves."
   ],
   "theNuance": [
@@ -38,7 +41,7 @@
   "faqs": [
     {
       "question": "Why do many men value independence so much?",
-      "answer": "Research suggests it reflects a universal need for autonomy, amplified in many men by socialization toward self-reliance. Independence can become tied to identity and self-respect. Importantly, valuing autonomy is generally not the opposite of wanting closeness — the two needs tend to coexist rather than compete."
+      "answer": "Research suggests it reflects a universal need for autonomy, amplified in many men by socialization toward self-reliance. Independence can become tied to identity and self-respect. Importantly, valuing autonomy is generally not the opposite of wanting closeness. The two needs tend to coexist rather than compete."
     },
     {
       "question": "Does a man wanting space mean he's pulling away from the relationship?",
@@ -58,7 +61,7 @@
     },
     {
       "question": "How can a couple balance independence and closeness?",
-      "answer": "Treating autonomy and connection as compatible rather than competing tends to help. Respecting each other's separate interests, naming the difference between recharging and avoiding, and reconnecting after time apart all support balance. The aim is interdependence — two whole people who choose each other rather than lose themselves."
+      "answer": "Treating autonomy and connection as compatible rather than competing tends to help. Respecting each other's separate interests, naming the difference between recharging and avoiding, and reconnecting after time apart all support balance. The aim is interdependence, two whole people who choose each other rather than lose themselves."
     }
   ],
   "researchSources": [
@@ -73,8 +76,8 @@
     "the-pursue-withdraw-pattern-explained",
     "what-drives-male-behavior"
   ],
-  "quickTake": "Many men prize independence — room to act, decide, and pursue their own interests. That reflects a universal need for autonomy, amplified by socialization toward self-reliance. It is rarely a rejection of closeness; healthy bonds support both togetherness and a separate self.",
-  "pullQuote": "Autonomy is not the opposite of connection — people function best when they feel both genuinely bonded and free to be themselves.",
+  "quickTake": "Many men prize independence, room to act, decide, and pursue their own interests. That reflects a universal need for autonomy, amplified by socialization toward self-reliance. It is rarely a rejection of closeness; healthy bonds support both togetherness and a separate self.",
+  "pullQuote": "Autonomy is not the opposite of connection. People function best when they feel both genuinely bonded and free to be themselves.",
   "keyStats": [
     {
       "value": "One of 3 basic needs",
@@ -88,22 +91,38 @@
     },
     {
       "value": "78%",
-      "label": "Of measured psychological gender differences are small or close to zero — the need for autonomy is universal.",
+      "label": "Of measured psychological gender differences are small or close to zero. The need for autonomy is universal.",
       "source": "Hyde (2005), review of 46 meta-analyses"
     }
   ],
   "comparison": {
     "title": "Independence and closeness: average tendencies",
     "rows": [
-      { "aspect": "Emphasis in socialization", "men": "Often stronger messages toward self-reliance", "women": "Often stronger messages toward connection" },
-      { "aspect": "Role under conflict", "men": "More often seek distance to cool down", "women": "More often seek engagement to resolve" },
-      { "aspect": "Underlying need for autonomy", "men": "Universal and present", "women": "Universal and present" },
-      { "aspect": "Healthy balance", "men": "Space, then reconnection", "women": "Connection that still allows separateness" }
+      {
+        "aspect": "Emphasis in socialization",
+        "men": "Often stronger messages toward self-reliance",
+        "women": "Often stronger messages toward connection"
+      },
+      {
+        "aspect": "Role under conflict",
+        "men": "More often seek distance to cool down",
+        "women": "More often seek engagement to resolve"
+      },
+      {
+        "aspect": "Underlying need for autonomy",
+        "men": "Universal and present",
+        "women": "Universal and present"
+      },
+      {
+        "aspect": "Healthy balance",
+        "men": "Space, then reconnection",
+        "women": "Connection that still allows separateness"
+      }
     ]
   },
   "keyTakeaways": [
     "Valuing independence reflects a universal need for autonomy, amplified in many men by socialization toward self-reliance.",
-    "Autonomy and connection are complementary needs, not opposites — many men want both a strong bond and room to be themselves.",
+    "Autonomy and connection are complementary needs, not opposites. Many men want both a strong bond and room to be themselves.",
     "Time and space can be a way to manage stress and return with more to give, not a retreat from the partner.",
     "The key distinction is whether someone reconnects: healthy autonomy returns, avoidant withdrawal dodges intimacy.",
     "Relationships do better when a partner's need for space is respected rather than read as rejection.",

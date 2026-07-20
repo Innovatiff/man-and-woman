@@ -1,28 +1,32 @@
 {
-  "title": "The Psychology of Rebound Relationships — Do They Help or Hurt?",
+  "title": "The Psychology of Rebound Relationships: Do They Help or Hurt?",
   "slug": "the-psychology-of-rebound-relationships",
   "category": "love-and-attraction",
   "focusGender": "both",
   "featured": false,
-  "tags": ["behavior", "emotions", "falling-in-love"],
+  "tags": [
+    "behavior",
+    "emotions",
+    "falling-in-love"
+  ],
   "metaTitle": "The Psychology of Rebound Relationships Explained",
   "metaDescription": "What research suggests about rebound relationships: how they affect breakup recovery, why people seek them, and when they tend to help or hurt.",
   "coreFinding": "Rebound relationships have a worse reputation than the evidence supports. Research suggests that, on average, starting a new connection after a breakup tends to be associated with higher self-esteem and faster recovery rather than dysfunction. The honest picture is mixed: a rebound can soothe the loss of attachment, but if it mainly distracts from grief it can delay genuine healing.",
   "whatResearchShows": [
     "The cultural assumption is that rebounds are doomed and unhealthy, yet careful studies paint a more nuanced picture. Research on the emotional aftermath of breakups by Sbarra and Emery (2005) tracked how distress fades over time and found that recovery is a gradual, non-linear process shaped heavily by how people re-engage with life and others. New connections are part of how many people find their footing again, not simply a symptom of avoidance.",
     "Work examining people who began new relationships soon after a split has tended to find that, on average, faster re-partnering is associated with greater confidence, well-being, and feeling over the ex, not less. The often-repeated claim that rebounds inevitably blow up appears to be more folklore than finding. That said, averages hide wide variation, and outcomes depend on the person and their motives.",
-    "Attachment theory (Hazan and Shaver, 1987) helps explain why. Romantic relationships activate the same attachment system that bonds children to caregivers, so losing a partner can feel like losing a secure base. Mikulincer and Shaver (2007) describe how the system seeks a new figure to restore felt security. A rebound can partly meet that need — which is why it can genuinely help — but it can also reactivate old patterns if the underlying distress is unaddressed."
+    "Attachment theory (Hazan and Shaver, 1987) helps explain why. Romantic relationships activate the same attachment system that bonds children to caregivers, so losing a partner can feel like losing a secure base. Mikulincer and Shaver (2007) describe how the system seeks a new figure to restore felt security. A rebound can partly meet that need, which is why it can genuinely help, but it can also reactivate old patterns if the underlying distress is unaddressed."
   ],
   "whyItHappens": [
     "After a breakup, the attachment system tends to go into a kind of alarm, prompting people to seek closeness and reassurance. Forming a new bond can down-regulate that distress, which is one reason a rebound can feel stabilizing rather than reckless. The pull toward someone new is often less about that specific person and more about the human need for a secure base described in attachment research.",
     "Self-esteem also plays a role. A breakup can bruise the sense of being desirable and lovable, and fresh attention or affection can restore it quickly. This can be healthy when it rebuilds a realistic sense of worth, and less so when it becomes dependent on constant external validation to avoid sitting with painful feelings.",
-    "Motivation matters more than timing. Someone reaching toward connection because they feel ready tends to do well; someone using a new partner mainly to numb grief, avoid being alone, or make an ex jealous is more likely to struggle. The same behavior — dating soon after a split — can be growth or avoidance depending on what is driving it."
+    "Motivation matters more than timing. Someone reaching toward connection because they feel ready tends to do well; someone using a new partner mainly to numb grief, avoid being alone, or make an ex jealous is more likely to struggle. The same behavior, dating soon after a split, can be growth or avoidance depending on what is driving it."
   ],
   "realLifeExamples": [
-    "A person who starts seeing someone a few weeks after a long relationship ends, and feels lighter and more themselves, is often not in denial — for many people, gentle new connection is part of how confidence and equilibrium return.",
+    "A person who starts seeing someone a few weeks after a long relationship ends, and feels lighter and more themselves, is often not in denial. For many people, gentle new connection is part of how confidence and equilibrium return.",
     "Someone who jumps from partner to partner without ever feeling settled may be using each relationship to outrun grief. Here the rebound pattern can postpone the processing that eventually has to happen, and the unresolved feelings tend to resurface.",
-    "A rebound that involves constantly comparing the new partner to the ex, or seeking reassurance to quiet anxiety, often signals that the attachment wound is still raw — not that the new person is wrong, but that more healing is still underway.",
-    "A person who dates again quickly and openly tells a new partner they are fresh out of something, staying honest about where their head is, often navigates a rebound well — the candor lets both people calibrate expectations rather than pretending the recent loss did not happen."
+    "A rebound that involves constantly comparing the new partner to the ex, or seeking reassurance to quiet anxiety, often signals that the attachment wound is still raw, not that the new person is wrong, but that more healing is still underway.",
+    "A person who dates again quickly and openly tells a new partner they are fresh out of something, staying honest about where their head is, often navigates a rebound well. The candor lets both people calibrate expectations rather than pretending the recent loss did not happen."
   ],
   "whatPeopleGetWrong": [
     "The biggest misconception is that rebounds are uniformly unhealthy and destined to fail. The evidence suggests the opposite is at least as common: new connection often supports recovery and self-esteem. Labeling every post-breakup relationship a doomed rebound is not well supported.",
@@ -74,12 +78,12 @@
     "why-we-stay-in-bad-relationships",
     "understanding-attachment-styles"
   ],
-  "quickTake": "Rebounds have a worse reputation than the evidence supports. On average, starting a new connection after a breakup is associated with higher self-esteem and faster recovery, not dysfunction — though a rebound used mainly to avoid grief can delay real healing.",
-  "pullQuote": "The same behavior — dating soon after a split — can be growth or avoidance depending on what is driving it; motivation matters more than timing.",
+  "quickTake": "Rebounds have a worse reputation than the evidence supports. On average, starting a new connection after a breakup is associated with higher self-esteem and faster recovery, not dysfunction, though a rebound used mainly to avoid grief can delay real healing.",
+  "pullQuote": "The same behavior, dating soon after a split, can be growth or avoidance depending on what is driving it; motivation matters more than timing.",
   "keyStats": [
     {
       "value": "Higher self-esteem",
-      "label": "On average, faster re-partnering after a breakup is associated with greater confidence, wellbeing, and feeling over the ex — not less.",
+      "label": "On average, faster re-partnering after a breakup is associated with greater confidence, wellbeing, and feeling over the ex, not less.",
       "source": "Research on post-breakup re-partnering; cf. Sbarra & Emery (2005)"
     },
     {
@@ -96,10 +100,26 @@
   "comparison": {
     "title": "At a glance: average tendencies",
     "rows": [
-      { "aspect": "Healthiness of rebounding", "men": "No reliable evidence one sex rebounds more healthily", "women": "No reliable evidence one sex rebounds more healthily" },
-      { "aspect": "What drives the pull to reconnect", "men": "Attachment system seeking a new secure base", "women": "Attachment system seeking a new secure base" },
-      { "aspect": "What predicts the outcome", "men": "Attachment style and motivation, not gender", "women": "Attachment style and motivation, not gender" },
-      { "aspect": "Overlap", "men": "Averages overlap heavily across the sexes", "women": "Averages overlap heavily across the sexes" }
+      {
+        "aspect": "Healthiness of rebounding",
+        "men": "No reliable evidence one sex rebounds more healthily",
+        "women": "No reliable evidence one sex rebounds more healthily"
+      },
+      {
+        "aspect": "What drives the pull to reconnect",
+        "men": "Attachment system seeking a new secure base",
+        "women": "Attachment system seeking a new secure base"
+      },
+      {
+        "aspect": "What predicts the outcome",
+        "men": "Attachment style and motivation, not gender",
+        "women": "Attachment style and motivation, not gender"
+      },
+      {
+        "aspect": "Overlap",
+        "men": "Averages overlap heavily across the sexes",
+        "women": "Averages overlap heavily across the sexes"
+      }
     ]
   },
   "keyTakeaways": [
@@ -107,7 +127,7 @@
     "On average, faster re-partnering tracks with higher self-esteem and feeling over an ex, not with dysfunction.",
     "A breakup can leave the attachment system seeking a new secure base, which is why reaching for someone can feel stabilizing.",
     "Motivation matters more than timing: connection that adds to a rebuilt life differs from connection used to numb grief.",
-    "There is no single correct waiting period — readiness and honest motivation predict outcomes better than the calendar.",
+    "There is no single correct waiting period. Readiness and honest motivation predict outcomes better than the calendar.",
     "Attachment style and circumstance predict how someone rebounds far better than their gender does."
   ],
   "lastReviewed": "2026-06"

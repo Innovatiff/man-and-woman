@@ -1,38 +1,44 @@
 {
-  "title": "The Psychology of Empathy vs Compassion — Why the Difference Matters",
+  "title": "The Psychology of Empathy vs Compassion: Why the Difference Matters",
   "slug": "the-psychology-of-empathy-vs-compassion",
   "category": "emotions-and-feelings",
   "focusGender": "both",
   "featured": false,
-  "tags": ["empathy", "compassion", "burnout", "emotions", "caregiving"],
-  "metaTitle": "Empathy vs Compassion — What Psychology Really Shows",
+  "tags": [
+    "empathy",
+    "compassion",
+    "burnout",
+    "emotions",
+    "caregiving"
+  ],
+  "metaTitle": "Empathy vs Compassion: What Psychology Really Shows",
   "metaDescription": "Empathy means feeling with someone; compassion means feeling for them plus the warmth to help. Research shows why the distinction protects against burnout.",
   "coreFinding": "Empathy and compassion are related but distinct. Empathy is sharing or resonating with another person's feelings; compassion adds warmth, concern, and the motivation to help. Research by Singer and Klimecki (2014) suggests they draw on different neural systems, and that compassion is more sustainable, while unbuffered empathy can tip into distress and burnout.",
   "whatResearchShows": [
-    "Tania Singer and Olga Klimecki (2014) drew a sharp line between two responses to another's suffering. Empathy is feeling into what someone else feels — if they hurt, you hurt too. Compassion is a warmer, other-focused state: you are concerned for the person and moved to help, but you are not swallowed by their pain. In their studies, empathy training amplified people's shared distress and even activated brain regions tied to pain, whereas compassion training increased positive, affiliative feeling and engaged different networks associated with reward and care.",
-    "This matters practically because unbuffered empathy can be corrosive. Research on nurses, physicians, and other caregivers links high 'empathic distress' to emotional exhaustion and burnout, sometimes called compassion fatigue — though several researchers argue the more accurate term is empathy fatigue, since compassion itself appears to be protective rather than depleting. When Klimecki and colleagues had participants complete compassion training after empathy training, the negative affect from empathy was reduced and replaced with more resilient, caring engagement.",
-    "The distinction also maps onto older work. Daniel Batson's decades of research on the empathy–altruism hypothesis show that empathic concern — a compassion-like, other-oriented feeling — reliably motivates genuine helping, not just self-soothing. And Mark Davis's Interpersonal Reactivity Index (1983) separates cognitive empathy (perspective-taking, understanding another's view) from affective empathy (personal distress and empathic concern), reinforcing that 'empathy' is not one thing but a family of related capacities."
+    "Tania Singer and Olga Klimecki (2014) drew a sharp line between two responses to another's suffering. Empathy is feeling into what someone else feels, if they hurt, you hurt too. Compassion is a warmer, other-focused state: you are concerned for the person and moved to help, but you are not swallowed by their pain. In their studies, empathy training amplified people's shared distress and even activated brain regions tied to pain, whereas compassion training increased positive, affiliative feeling and engaged different networks associated with reward and care.",
+    "This matters practically because unbuffered empathy can be corrosive. Research on nurses, physicians, and other caregivers links high 'empathic distress' to emotional exhaustion and burnout, sometimes called compassion fatigue, though several researchers argue the more accurate term is empathy fatigue, since compassion itself appears to be protective rather than depleting. When Klimecki and colleagues had participants complete compassion training after empathy training, the negative affect from empathy was reduced and replaced with more resilient, caring engagement.",
+    "The distinction also maps onto older work. Daniel Batson's decades of research on the empathy–altruism hypothesis show that empathic concern (a compassion-like, other-oriented feeling) reliably motivates genuine helping, not just self-soothing. And Mark Davis's Interpersonal Reactivity Index (1983) separates cognitive empathy (perspective-taking, understanding another's view) from affective empathy (personal distress and empathic concern), reinforcing that 'empathy' is not one thing but a family of related capacities."
   ],
   "whyItHappens": [
-    "Part of the difference is where attention lands. Affective empathy tends to be self-referential: another person's pain becomes your own aversive experience, which the brain treats somewhat like a threat, activating stress and pain-related circuitry. Compassion redirects that attention outward and forward — toward the person and toward what might help — which recruits warmth and reward-related systems instead. That shift in focus is a large part of why compassion feels energizing where raw empathy can feel draining.",
+    "Part of the difference is where attention lands. Affective empathy tends to be self-referential: another person's pain becomes your own aversive experience, which the brain treats somewhat like a threat, activating stress and pain-related circuitry. Compassion redirects that attention outward and forward, toward the person and toward what might help, which recruits warmth and reward-related systems instead. That shift in focus is a large part of why compassion feels energizing where raw empathy can feel draining.",
     "The two responses also have different action tendencies. Empathic distress often produces an urge to escape or withdraw, because the feeling is unpleasant and about you; compassion produces an urge to approach and support, because the concern is about them. This is why two caring people can react oppositely to the same suffering: one shuts down or turns away to protect themselves, the other stays present and steady.",
-    "Crucially, compassion appears to be trainable, which suggests these are states and skills, not fixed traits. Contemplative practices and structured programs (loving-kindness and compassion training) reliably increase warmth toward others and reduce empathic distress. This makes compassion less a matter of temperament and more a capacity people can deliberately build — including men and women alike, since the average gender differences here are small compared with individual variation and training effects."
+    "Crucially, compassion appears to be trainable, which suggests these are states and skills, not fixed traits. Contemplative practices and structured programs (loving-kindness and compassion training) reliably increase warmth toward others and reduce empathic distress. This makes compassion less a matter of temperament and more a capacity people can deliberately build, including men and women alike, since the average gender differences here are small compared with individual variation and training effects."
   ],
   "realLifeExamples": [
-    "A friend calls in tears about a job loss. An empathy-dominant response is to sink into the panic with them until you both feel hopeless. A compassion-dominant response is to feel warmth and concern, stay steady, and ask what would actually help — a difference the friend usually feels as being supported rather than joined in the drowning.",
+    "A friend calls in tears about a job loss. An empathy-dominant response is to sink into the panic with them until you both feel hopeless. A compassion-dominant response is to feel warmth and concern, stay steady, and ask what would actually help, a difference the friend usually feels as being supported rather than joined in the drowning.",
     "In caregiving work, this plays out over months. A new nurse who absorbs every patient's fear as her own may be deeply kind yet burns out within a year. A colleague who has learned to care warmly without merging with each patient's distress can sustain that care for decades. The second is not colder; she is drawing on compassion rather than raw empathic resonance.",
     "Parenting shows the same split. A child falls and cries; a parent flooded by their own alarm may panic, which frightens the child more, while a parent who stays warm and calm ('I've got you, let's look at it') soothes faster. The regulated, compassionate response is often more helpful than the fully mirrored, empathic one."
   ],
   "whatPeopleGetWrong": [
     "The most common misconception is that more empathy is always better, and that stepping back from someone's pain means you care less. Research suggests the opposite can be true: staying flooded by another's feelings can leave you too overwhelmed to help and, over time, drive you to avoid suffering people altogether. Compassion, which keeps some emotional footing, is usually the more caring and more durable response.",
-    "A related error is treating empathy and compassion as the same word. They are not interchangeable in the research. Empathy is the resonance; compassion is the warm concern plus the will to act. Blurring them leads people to prescribe 'more empathy' when what actually protects helpers and helps recipients is more compassion — feeling for someone without being consumed by feeling as them."
+    "A related error is treating empathy and compassion as the same word. They are not interchangeable in the research. Empathy is the resonance; compassion is the warm concern plus the will to act. Blurring them leads people to prescribe 'more empathy' when what actually protects helpers and helps recipients is more compassion, feeling for someone without being consumed by feeling as them."
   ],
   "relationshipImplications": [
     "In relationships, the practical goal is often to feel with a partner enough to understand them, then shift into compassion so you can actually support them. When both partners simply spiral in each other's distress, nobody is regulated enough to help; when one can stay warm and steady, they become a secure base. This is a skill couples can practise: acknowledge the feeling, then move toward care and, where wanted, action.",
-    "This also reframes 'compassion fatigue' in long relationships and caregiving. Feeling depleted often signals too much unbuffered empathy, not too little love. Building compassion — warmth without total merging — alongside boundaries and self-care tends to be what makes sustained care possible. It is not a lesser form of caring; it is the form that lasts."
+    "This also reframes 'compassion fatigue' in long relationships and caregiving. Feeling depleted often signals too much unbuffered empathy, not too little love. Building compassion, warmth without total merging, alongside boundaries and self-care tends to be what makes sustained care possible. It is not a lesser form of caring; it is the form that lasts."
   ],
   "theNuance": [
-    "The empathy–compassion distinction is well supported but still an active research area, and terminology varies between labs — some use 'empathic concern' for what others call compassion. The neural findings come largely from training studies with modest samples, so the broad pattern is more secure than any precise claim about specific brain regions. The core, robust idea is that other-focused warmth is more sustainable than self-focused distress.",
+    "The empathy–compassion distinction is well supported but still an active research area, and terminology varies between labs. Some use 'empathic concern' for what others call compassion. The neural findings come largely from training studies with modest samples, so the broad pattern is more secure than any precise claim about specific brain regions. The core, robust idea is that other-focused warmth is more sustainable than self-focused distress.",
     "None of this is gendered in any strong way. Cultural stories often cast women as more empathic, but average differences are small, depend heavily on how empathy is measured (self-report gaps are larger than performance-based ones), and are dwarfed by individual variation and by how much someone has practised. Both compassion and the regulation that protects it are capacities anyone can develop."
   ],
   "faqs": [
@@ -74,12 +80,12 @@
     "the-psychology-of-womens-empathy",
     "why-listening-matters-more-than-advice"
   ],
-  "quickTake": "Empathy is feeling with someone; compassion is feeling for them with warmth and the will to help. Research suggests compassion is the more sustainable response — it lets you care without drowning in another's pain.",
+  "quickTake": "Empathy is feeling with someone; compassion is feeling for them with warmth and the will to help. Research suggests compassion is the more sustainable response. It lets you care without drowning in another's pain.",
   "pullQuote": "Feeling depleted by someone's pain often signals too much unbuffered empathy, not too little love.",
   "keyStats": [
     {
       "value": "Different systems",
-      "label": "Training studies suggest empathy and compassion recruit distinct neural networks — pain-related versus reward and affiliation.",
+      "label": "Training studies suggest empathy and compassion recruit distinct neural networks, pain-related versus reward and affiliation.",
       "source": "Singer & Klimecki (2014)"
     },
     {
@@ -98,10 +104,26 @@
     "leftLabel": "Empathy (feeling with)",
     "rightLabel": "Compassion (feeling for)",
     "rows": [
-      { "aspect": "Emotional stance", "men": "Sharing or mirroring the other person's feeling", "women": "Warm concern for the person, without merging" },
-      { "aspect": "Focus of attention", "men": "Can become self-referential — their pain becomes yours", "women": "Stays other-focused and oriented toward help" },
-      { "aspect": "Action tendency", "men": "Urge to withdraw or escape the distress", "women": "Urge to approach and support" },
-      { "aspect": "Over time", "men": "Risks empathic distress and burnout", "women": "More sustainable and protective" }
+      {
+        "aspect": "Emotional stance",
+        "men": "Sharing or mirroring the other person's feeling",
+        "women": "Warm concern for the person, without merging"
+      },
+      {
+        "aspect": "Focus of attention",
+        "men": "Can become self-referential. Their pain becomes yours",
+        "women": "Stays other-focused and oriented toward help"
+      },
+      {
+        "aspect": "Action tendency",
+        "men": "Urge to withdraw or escape the distress",
+        "women": "Urge to approach and support"
+      },
+      {
+        "aspect": "Over time",
+        "men": "Risks empathic distress and burnout",
+        "women": "More sustainable and protective"
+      }
     ]
   },
   "keyTakeaways": [

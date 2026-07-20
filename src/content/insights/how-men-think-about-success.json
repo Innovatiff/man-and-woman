@@ -1,34 +1,40 @@
 {
-  "title": "How Men Think About Success — Status, Provision, and Meaning",
+  "title": "How Men Think About Success: Status, Provision, and Meaning",
   "slug": "how-men-think-about-success",
   "category": "how-men-think",
   "focusGender": "men",
   "featured": false,
-  "tags": ["success", "status", "identity", "provider-role", "meaning"],
-  "metaTitle": "How Men Think About Success — What Psychology Shows",
-  "metaDescription": "How men tend to define success — status, provision, achievement, and meaning — what research suggests drives it, and why the definition shifts with age.",
-  "coreFinding": "On average, many men are socialized to measure success by external markers — earning, status, achievement, and providing — which can make self-worth feel contingent on performance. Yet the longest-running studies of adult life find that relationships, not accomplishments, best predict a good life. Most men hold both scorecards at once, and the internal one tends to matter more with age. Individual variation is large, and the overlap with how women define success is substantial.",
+  "tags": [
+    "success",
+    "status",
+    "identity",
+    "provider-role",
+    "meaning"
+  ],
+  "metaTitle": "How Men Think About Success: What Psychology Shows",
+  "metaDescription": "How men tend to define success (status, provision, achievement, and meaning) what research suggests drives it, and why the definition shifts with age.",
+  "coreFinding": "On average, many men are socialized to measure success by external markers (earning, status, achievement, and providing) which can make self-worth feel contingent on performance. Yet the longest-running studies of adult life find that relationships, not accomplishments, best predict a good life. Most men hold both scorecards at once, and the internal one tends to matter more with age. Individual variation is large, and the overlap with how women define success is substantial.",
   "whatResearchShows": [
-    "The Harvard Study of Adult Development, which has followed 724 men since 1938 and later their families, offers one of the clearest findings in the field: the quality of a person's close relationships in midlife predicted late-life health and happiness better than income, IQ, or professional prestige. George Vaillant, who directed the study for decades, summarized it bluntly — the men who thrived were not those who climbed highest but those who stayed connected. Robert Waldinger and Marc Schulz revisited the data in The Good Life (2023) and reached the same conclusion.",
+    "The Harvard Study of Adult Development, which has followed 724 men since 1938 and later their families, offers one of the clearest findings in the field: the quality of a person's close relationships in midlife predicted late-life health and happiness better than income, IQ, or professional prestige. George Vaillant, who directed the study for decades, summarized it bluntly. The men who thrived were not those who climbed highest but those who stayed connected. Robert Waldinger and Marc Schulz revisited the data in The Good Life (2023) and reached the same conclusion.",
     "Status still matters, and research helps explain why men often chase it. Cheng, Tracy and Henrich (2010) distinguish two routes to social rank: dominance, in which influence is taken through intimidation, and prestige, in which it is granted freely for respected skill and generosity. Across their studies both paths raise a person's standing, but prestige is more strongly tied to being genuinely liked. Much of what looks like a hunger for success is really a bid for the respect and belonging that prestige confers.",
-    "The kind of success men pursue seems to matter more than the amount. Kasser and Ryan (1996) found that people who prioritize extrinsic goals — money, image, and status — tend to report lower well-being than those oriented toward intrinsic goals like growth, connection, and community. Kahneman and Deaton (2010) similarly found that day-to-day emotional well-being rose with income only up to a moderate threshold, after which more money bought little additional happiness. The evidence is correlational and averages hide wide variation, but the pattern is consistent: chasing external markers alone is a shaky foundation for a good life."
+    "The kind of success men pursue seems to matter more than the amount. Kasser and Ryan (1996) found that people who prioritize extrinsic goals (money, image, and status) tend to report lower well-being than those oriented toward intrinsic goals like growth, connection, and community. Kahneman and Deaton (2010) similarly found that day-to-day emotional well-being rose with income only up to a moderate threshold, after which more money bought little additional happiness. The evidence is correlational and averages hide wide variation, but the pattern is consistent: chasing external markers alone is a shaky foundation for a good life."
   ],
   "whyItHappens": [
     "From boyhood, many boys absorb a script that ties male worth to achievement and provision. Mahalik and colleagues' Conformity to Masculine Norms Inventory (2003) identifies 'winning' and 'primacy of work' among the norms men are pressured to internalize. When self-esteem is hitched to performance, a setback at work can feel like a verdict on one's value as a man rather than simply a bad quarter.",
-    "The provider role runs deep. For generations, a man's ability to support others was treated as the core of his adult identity, and while the economics have changed, the emotional wiring often has not. Many men still describe earning and being useful as central to feeling like a worthy partner — which is why job loss or underemployment can hit male mental health hard, and why sincere appreciation for a man's effort can land so powerfully.",
-    "There is also a social-comparison engine. Humans track relative standing, and men are, on average, somewhat more likely to compete openly for rank — a tendency shaped by both socialization and the fact that status has historically influenced men's opportunities. The trap is that relative comparison never ends: there is always someone higher up, so success defined purely by rank offers no stable place to rest."
+    "The provider role runs deep. For generations, a man's ability to support others was treated as the core of his adult identity, and while the economics have changed, the emotional wiring often has not. Many men still describe earning and being useful as central to feeling like a worthy partner, which is why job loss or underemployment can hit male mental health hard, and why sincere appreciation for a man's effort can land so powerfully.",
+    "There is also a social-comparison engine. Humans track relative standing, and men are, on average, somewhat more likely to compete openly for rank, a tendency shaped by both socialization and the fact that status has historically influenced men's opportunities. The trap is that relative comparison never ends: there is always someone higher up, so success defined purely by rank offers no stable place to rest."
   ],
   "realLifeExamples": [
-    "A man lands the promotion he chased for years and feels, within weeks, oddly flat — the goalpost has simply moved to the next title. This 'arrival fallacy' is common when success is defined by external milestones that reset the moment they are reached.",
+    "A man lands the promotion he chased for years and feels, within weeks, oddly flat. The goalpost has simply moved to the next title. This 'arrival fallacy' is common when success is defined by external milestones that reset the moment they are reached.",
     "A father works long hours to provide, sincerely believing this is how he shows love, while his family quietly wishes he were more present. He is not neglecting them by his own logic; he is succeeding at the version of success he was handed.",
     "A man who loses a job or retires can feel unmoored in a way that surprises those around him, as if his identity walked out the door with the role. When work has carried most of the weight of self-worth, its absence exposes how little else was holding it up."
   ],
   "whatPeopleGetWrong": [
-    "The common assumption is that men who focus on money or status are simply greedy or shallow. More often, achievement is standing in for something else — respect, security, the sense of being enough. Understanding the need underneath the striving is more accurate, and more useful, than judging the striving itself.",
+    "The common assumption is that men who focus on money or status are simply greedy or shallow. More often, achievement is standing in for something else, respect, security, the sense of being enough. Understanding the need underneath the striving is more accurate, and more useful, than judging the striving itself.",
     "Another misconception is that caring about success and caring about relationships are opposites. They are not. The healthiest pattern research points to is an integrated one: ambition held alongside connection, with achievement serving a life rather than substituting for one."
   ],
   "relationshipImplications": [
-    "For partners, recognizing that a man's drive is often love expressed in the currency he was taught can defuse a lot of conflict. Naming what you actually need — presence, not just provision — tends to work better than criticizing the drive itself. And genuine appreciation for his effort is rarely wasted; feeling that his work matters to someone is, for many men, deeply steadying.",
+    "For partners, recognizing that a man's drive is often love expressed in the currency he was taught can defuse a lot of conflict. Naming what you actually need (presence, not just provision) tends to work better than criticizing the drive itself. And genuine appreciation for his effort is rarely wasted; feeling that his work matters to someone is, for many men, deeply steadying.",
     "For men, the practical move is to widen the scorecard on purpose: to count health, friendship, character, and being present as forms of success, not distractions from it. That is not lowering the bar. Longitudinal evidence suggests it is aiming at the targets that actually predict a life well lived."
   ],
   "theNuance": [
@@ -54,7 +60,7 @@
     },
     {
       "question": "How can men build a healthier definition of success?",
-      "answer": "Research points toward widening the scorecard on purpose — counting health, friendship, character, and presence as real forms of success. Orienting toward intrinsic goals like growth and connection, rather than external markers alone, tracks more reliably with long-term well-being."
+      "answer": "Research points toward widening the scorecard on purpose, counting health, friendship, character, and presence as real forms of success. Orienting toward intrinsic goals like growth and connection, rather than external markers alone, tracks more reliably with long-term well-being."
     },
     {
       "question": "Is ambition unhealthy for men?",
@@ -75,7 +81,7 @@
     "the-psychology-of-the-provider-role",
     "how-men-cope-with-failure"
   ],
-  "quickTake": "Many men are taught to measure success by external markers — earning, status, achievement — but the longest studies of adult life find relationships predict a good life far better. The internal scorecard tends to matter more with age.",
+  "quickTake": "Many men are taught to measure success by external markers (earning, status, achievement) but the longest studies of adult life find relationships predict a good life far better. The internal scorecard tends to matter more with age.",
   "pullQuote": "Much of what looks like a hunger for success is really a bid for the respect, security, and belonging underneath it.",
   "keyStats": [
     {
@@ -85,7 +91,7 @@
     },
     {
       "value": "Two paths to status",
-      "label": "Research distinguishes prestige — respect freely granted for skill — from dominance, rank taken by force, as the routes men pursue.",
+      "label": "Research distinguishes prestige, respect freely granted for skill, from dominance, rank taken by force, as the routes men pursue.",
       "source": "Cheng, Tracy & Henrich (2010)"
     },
     {
@@ -99,17 +105,33 @@
     "leftLabel": "External markers",
     "rightLabel": "Internal markers",
     "rows": [
-      { "aspect": "How it is measured", "men": "Money, title, status, visible achievement", "women": "Growth, character, relationships, contribution" },
-      { "aspect": "Where it comes from", "men": "Comparison with others and outside recognition", "women": "Alignment with one's own values" },
-      { "aspect": "Link to long-term well-being", "men": "Weak once basic needs are met", "women": "Strong in longitudinal studies" },
-      { "aspect": "The catch", "men": "Resets the moment a goal is reached", "women": "Compounds slowly and tends to last" }
+      {
+        "aspect": "How it is measured",
+        "men": "Money, title, status, visible achievement",
+        "women": "Growth, character, relationships, contribution"
+      },
+      {
+        "aspect": "Where it comes from",
+        "men": "Comparison with others and outside recognition",
+        "women": "Alignment with one's own values"
+      },
+      {
+        "aspect": "Link to long-term well-being",
+        "men": "Weak once basic needs are met",
+        "women": "Strong in longitudinal studies"
+      },
+      {
+        "aspect": "The catch",
+        "men": "Resets the moment a goal is reached",
+        "women": "Compounds slowly and tends to last"
+      }
     ]
   },
   "keyTakeaways": [
     "On average, men are socialized to measure success by external markers like earning and status, which can make self-worth feel contingent on performance.",
     "The longest-running studies of adult development find relationships, not achievement, best predict late-life health and happiness.",
     "How success is pursued matters more than how much: intrinsic goals track well-being, while external markers alone do not.",
-    "Much male striving is a proxy for respect, security, and feeling enough — understanding that need beats judging the drive.",
+    "Much male striving is a proxy for respect, security, and feeling enough. Understanding that need beats judging the drive.",
     "These are averages with heavy overlap between the sexes; ambition and connection are complements, not opposites."
   ],
   "lastReviewed": "2026-06"

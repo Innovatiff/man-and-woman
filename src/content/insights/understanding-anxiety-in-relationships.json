@@ -1,35 +1,39 @@
 {
-  "title": "Understanding Anxiety in Relationships — Where It Comes From",
+  "title": "Understanding Anxiety in Relationships: Where It Comes From",
   "slug": "understanding-anxiety-in-relationships",
   "category": "emotions-and-feelings",
   "focusGender": "both",
   "featured": false,
-  "tags": ["emotions", "behavior", "communication"],
-  "metaTitle": "Understanding Anxiety in Relationships — The Psychology",
+  "tags": [
+    "emotions",
+    "behavior",
+    "communication"
+  ],
+  "metaTitle": "Understanding Anxiety in Relationships: The Psychology",
   "metaDescription": "Understanding anxiety in relationships: how attachment, uncertainty, and reassurance loops drive it, and what research suggests helps build felt security.",
-  "coreFinding": "Relationship anxiety usually stems from a sensitive attachment system reacting to perceived threats to a bond, amplified by uncertainty about where one stands. Research suggests it tends to drive reassurance-seeking that can briefly soothe but rarely resolves the underlying insecurity. Building durable felt security — through responsiveness and consistency from both partners — tends to help more than repeated reassurance. Both men and women experience it.",
+  "coreFinding": "Relationship anxiety usually stems from a sensitive attachment system reacting to perceived threats to a bond, amplified by uncertainty about where one stands. Research suggests it tends to drive reassurance-seeking that can briefly soothe but rarely resolves the underlying insecurity. Building durable felt security, through responsiveness and consistency from both partners, tends to help more than repeated reassurance. Both men and women experience it.",
   "whatResearchShows": [
-    "Cindy Hazan and Phillip Shaver's foundational work (1987) reframed adult romantic love as an attachment process, built on the same emotional system that bonds infants to caregivers. Their research suggests that people carry characteristic patterns of relating — secure, anxious, or avoidant — and that those higher in attachment anxiety tend to worry more about a partner's availability and to feel relationships are precarious, even when little is objectively wrong.",
-    "Mikulincer and Shaver's later synthesis (2007) details how attachment anxiety operates: heightened vigilance to signs of rejection, intense emotional reactions to perceived distance, and strategies aimed at re-establishing closeness. Their work suggests these patterns are learned and can shift over time, particularly through relationships with responsive partners — meaning relationship anxiety is not necessarily a fixed feature of who someone is.",
+    "Cindy Hazan and Phillip Shaver's foundational work (1987) reframed adult romantic love as an attachment process, built on the same emotional system that bonds infants to caregivers. Their research suggests that people carry characteristic patterns of relating (secure, anxious, or avoidant) and that those higher in attachment anxiety tend to worry more about a partner's availability and to feel relationships are precarious, even when little is objectively wrong.",
+    "Mikulincer and Shaver's later synthesis (2007) details how attachment anxiety operates: heightened vigilance to signs of rejection, intense emotional reactions to perceived distance, and strategies aimed at re-establishing closeness. Their work suggests these patterns are learned and can shift over time, particularly through relationships with responsive partners, meaning relationship anxiety is not necessarily a fixed feature of who someone is.",
     "Sandra Murray and colleagues' risk-regulation model (2006) explains the day-to-day mechanics. People continuously gauge how safe it feels to depend on a partner, balancing the desire for closeness against the fear of rejection. When felt security is low, the mind tilts toward self-protection and threat-detection, which can manifest as the worry, testing, and reassurance-seeking that characterize relationship anxiety."
   ],
   "whyItHappens": [
-    "Relationship anxiety begins with the attachment system doing its job — scanning for threats to a vital bond. For someone whose system is set to high sensitivity, ambiguous signals (a short reply, a quiet evening, a change in tone) get read as possible signs of withdrawal, triggering worry well before any conscious evaluation of whether something is actually wrong.",
-    "Uncertainty is the fuel. When a person cannot clearly tell where they stand, the mind tends to fill the gap with the worst plausible story. Research on risk regulation suggests this is self-protective — bracing for rejection feels safer than being blindsided — but it also keeps anxiety running and can distort how a partner's ordinary behavior is interpreted.",
+    "Relationship anxiety begins with the attachment system doing its job, scanning for threats to a vital bond. For someone whose system is set to high sensitivity, ambiguous signals (a short reply, a quiet evening, a change in tone) get read as possible signs of withdrawal, triggering worry well before any conscious evaluation of whether something is actually wrong.",
+    "Uncertainty is the fuel. When a person cannot clearly tell where they stand, the mind tends to fill the gap with the worst plausible story. Research on risk regulation suggests this is self-protective, bracing for rejection feels safer than being blindsided, but it also keeps anxiety running and can distort how a partner's ordinary behavior is interpreted.",
     "Reassurance-seeking is the common downstream behavior, and it tends to create a loop. Asking 'Are we okay?' brings momentary relief, but because the relief comes from outside rather than from internal security, the doubt soon returns and the question repeats. Over time this can wear on both partners, even though it springs from a genuine need to feel safe."
   ],
   "realLifeExamples": [
-    "A delayed text reply sets off a spiral — maybe something is wrong, maybe interest is fading — when the simpler explanation is that the partner is busy. The anxiety is the attachment alarm firing on ambiguous information, not evidence of an actual problem. Recognizing the pattern tends to make it easier to wait for facts rather than act on the fear.",
+    "A delayed text reply sets off a spiral (maybe something is wrong, maybe interest is fading) when the simpler explanation is that the partner is busy. The anxiety is the attachment alarm firing on ambiguous information, not evidence of an actual problem. Recognizing the pattern tends to make it easier to wait for facts rather than act on the fear.",
     "Someone repeatedly asks their partner whether they still care, feels reassured for a few hours, then feels the doubt creep back and asks again. This reassurance loop is common in relationship anxiety; the relief is real but temporary, because it does not build the internal security that would actually quiet the worry.",
-    "A person might also test a partner — creating distance to see if they pursue, or reading silence as confirmation of fears. These behaviors usually come from a need for evidence of safety, and naming the underlying anxiety directly tends to work better than acting it out through tests a partner may not even notice."
+    "A person might also test a partner, creating distance to see if they pursue, or reading silence as confirmation of fears. These behaviors usually come from a need for evidence of safety, and naming the underlying anxiety directly tends to work better than acting it out through tests a partner may not even notice."
   ],
   "whatPeopleGetWrong": [
     "A frequent misconception is that relationship anxiety means a person has chosen the wrong partner or that the relationship is doomed. Research suggests it often reflects the worried person's attachment patterns more than the relationship's actual health. A genuinely caring, consistent partner can coexist with significant anxiety, because the anxiety is generated largely from within.",
-    "Another error is assuming reassurance will eventually fix it. Reassurance can soothe in the moment, but because the doubt is regenerated internally, external reassurance alone rarely resolves it and can even reinforce the loop. Building felt security through consistent responsiveness — and the anxious person's own internal work — tends to help more than repeated reassurance."
+    "Another error is assuming reassurance will eventually fix it. Reassurance can soothe in the moment, but because the doubt is regenerated internally, external reassurance alone rarely resolves it and can even reinforce the loop. Building felt security through consistent responsiveness, and the anxious person's own internal work, tends to help more than repeated reassurance."
   ],
   "relationshipImplications": [
-    "For the anxious partner, recognizing the pattern is a first step — noticing 'this is my attachment system reacting to uncertainty' creates space to respond thoughtfully rather than act on every alarm. Naming the feeling openly, rather than testing or repeatedly seeking reassurance, tends to invite the kind of responsiveness that actually builds security.",
-    "For the other partner, consistency matters more than grand gestures. Research suggests that reliable, responsive behavior over time gradually raises felt security and can help an anxious partner's system recalibrate. Reacting to anxiety with frustration or withdrawal, by contrast, tends to confirm the fear and intensify the loop — so steady, predictable warmth usually helps most."
+    "For the anxious partner, recognizing the pattern is a first step. Noticing 'this is my attachment system reacting to uncertainty' creates space to respond thoughtfully rather than act on every alarm. Naming the feeling openly, rather than testing or repeatedly seeking reassurance, tends to invite the kind of responsiveness that actually builds security.",
+    "For the other partner, consistency matters more than grand gestures. Research suggests that reliable, responsive behavior over time gradually raises felt security and can help an anxious partner's system recalibrate. Reacting to anxiety with frustration or withdrawal, by contrast, tends to confirm the fear and intensify the loop, so steady, predictable warmth usually helps most."
   ],
   "theNuance": [
     "Relationship anxiety is something people of every gender experience; it is not a male or female trait. Janet Hyde's gender similarities hypothesis (2005) underscores that men and women are far more alike than different on most psychological measures. Anxious attachment and the worry it brings appear across the spectrum, even if they are sometimes expressed or labeled differently.",
@@ -95,10 +99,26 @@
   "comparison": {
     "title": "At a glance: average tendencies",
     "rows": [
-      { "aspect": "How the worry shows", "men": "May surface as irritability, withdrawal, or distraction", "women": "May surface as voiced worry or reassurance-seeking" },
-      { "aspect": "Reassurance loop", "men": "Both can fall into it; relief is temporary either way", "women": "Both can fall into it; relief is temporary either way" },
-      { "aspect": "What builds security", "men": "Consistent, responsive, predictable behavior over time", "women": "Consistent, responsive, predictable behavior over time" },
-      { "aspect": "Underlying driver", "men": "Attachment system reacting to uncertainty", "women": "Attachment system reacting to uncertainty" }
+      {
+        "aspect": "How the worry shows",
+        "men": "May surface as irritability, withdrawal, or distraction",
+        "women": "May surface as voiced worry or reassurance-seeking"
+      },
+      {
+        "aspect": "Reassurance loop",
+        "men": "Both can fall into it; relief is temporary either way",
+        "women": "Both can fall into it; relief is temporary either way"
+      },
+      {
+        "aspect": "What builds security",
+        "men": "Consistent, responsive, predictable behavior over time",
+        "women": "Consistent, responsive, predictable behavior over time"
+      },
+      {
+        "aspect": "Underlying driver",
+        "men": "Attachment system reacting to uncertainty",
+        "women": "Attachment system reacting to uncertainty"
+      }
     ]
   },
   "keyTakeaways": [

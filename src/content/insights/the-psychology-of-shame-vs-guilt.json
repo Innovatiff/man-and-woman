@@ -1,31 +1,34 @@
 {
-  "title": "The Psychology of Shame vs Guilt — What Research Shows",
+  "title": "The Psychology of Shame vs Guilt: What Research Shows",
   "slug": "the-psychology-of-shame-vs-guilt",
   "category": "emotions-and-feelings",
   "focusGender": "both",
   "featured": false,
-  "tags": ["emotions", "behavior"],
-  "metaTitle": "Shame vs Guilt — The Psychology of Two Moral Emotions",
+  "tags": [
+    "emotions",
+    "behavior"
+  ],
+  "metaTitle": "Shame vs Guilt: The Psychology of Two Moral Emotions",
   "metaDescription": "Research on shame vs guilt: why guilt ('I did a bad thing') tends to be more adaptive than shame ('I am bad'), and how to shift from one to the other.",
   "coreFinding": "Shame and guilt are closely related moral emotions that research distinguishes by focus: guilt centers on a specific behavior ('I did a bad thing'), while shame condemns the whole self ('I am bad'). This difference matters. Guilt tends to motivate repair and growth, whereas shame more often drives hiding, defensiveness, and withdrawal. Learning to feel guilt without sliding into shame is one of the more useful emotional skills.",
   "whatResearchShows": [
-    "June Tangney and colleagues' research on moral emotions (2007) draws a sharp line between shame and guilt. Guilt focuses on a specific action and tends to prompt reparative behavior — apologizing, fixing the harm, doing better. Shame focuses on the global self and is associated with a desire to hide, escape, or strike back. Across studies, guilt-proneness predicts more constructive outcomes, while shame-proneness is linked to defensiveness, anger, and poorer adjustment.",
+    "June Tangney and colleagues' research on moral emotions (2007) draws a sharp line between shame and guilt. Guilt focuses on a specific action and tends to prompt reparative behavior, apologizing, fixing the harm, doing better. Shame focuses on the global self and is associated with a desire to hide, escape, or strike back. Across studies, guilt-proneness predicts more constructive outcomes, while shame-proneness is linked to defensiveness, anger, and poorer adjustment.",
     "Jennifer Crocker and Connie Wolfe's contingencies of self-worth (2001) help explain why shame can be so destabilizing: when self-worth hinges on always being good or competent, a single failure can feel like evidence about one's entire value, turning ordinary guilt into a verdict on the self. The same misstep lands very differently depending on whether worth feels conditional or secure.",
-    "Kristin Neff's work on self-compassion (2003) offers a route out. Treating oneself with the kindness one would offer a friend tends to allow honest acknowledgment of a wrong without collapsing into self-condemnation — which research links to taking responsibility more readily, not less. Self-compassion is associated with accountability, contrary to the fear that it excuses bad behavior."
+    "Kristin Neff's work on self-compassion (2003) offers a route out. Treating oneself with the kindness one would offer a friend tends to allow honest acknowledgment of a wrong without collapsing into self-condemnation, which research links to taking responsibility more readily, not less. Self-compassion is associated with accountability, contrary to the fear that it excuses bad behavior."
   ],
   "whyItHappens": [
-    "Both emotions evolved to regulate social behavior — they signal that we have violated a standard and motivate us to protect our relationships and standing. The trouble is in the framing. Guilt keeps the problem bounded to an action that can be repaired; shame generalizes it to a self that cannot easily be fixed, which feels far more threatening.",
+    "Both emotions evolved to regulate social behavior. They signal that we have violated a standard and motivate us to protect our relationships and standing. The trouble is in the framing. Guilt keeps the problem bounded to an action that can be repaired; shame generalizes it to a self that cannot easily be fixed, which feels far more threatening.",
     "When self-worth is contingent on being good, capable, or approved of, mistakes are more likely to trigger shame than guilt, because each failure reads as information about one's core value. People with more secure, non-contingent self-worth are better able to feel the localized sting of guilt and move to repair.",
-    "Shame's instinct to hide is self-defeating. Because it makes a person want to conceal, withdraw, or deflect blame, it tends to block the very repair that would resolve the situation — whereas guilt's instinct to fix the specific harm usually does resolve it. This is much of why guilt is the more adaptive of the two."
+    "Shame's instinct to hide is self-defeating. Because it makes a person want to conceal, withdraw, or deflect blame, it tends to block the very repair that would resolve the situation, whereas guilt's instinct to fix the specific harm usually does resolve it. This is much of why guilt is the more adaptive of the two."
   ],
   "realLifeExamples": [
-    "After snapping at a partner, someone feeling guilt thinks 'that was unfair, I should apologize' and does — repairing the moment. Someone sliding into shame thinks 'I'm a terrible partner,' feels exposed, and may withdraw or get defensive, which leaves the rupture unmended.",
+    "After snapping at a partner, someone feeling guilt thinks 'that was unfair, I should apologize' and does, repairing the moment. Someone sliding into shame thinks 'I'm a terrible partner,' feels exposed, and may withdraw or get defensive, which leaves the rupture unmended.",
     "A worker who makes a mistake on a project can treat it as a fixable error to own and correct, or as proof they are incompetent. The first stance tends to lead to learning and disclosure; the second to concealment and avoidance.",
     "Parents and teachers can shape which emotion takes hold by criticizing the behavior ('hitting was wrong') rather than the child ('you're bad'), since global condemnation tends to seed shame while specific feedback tends to cultivate reparative guilt.",
-    "A person who receives critical feedback at work can hear 'this report had errors' as a fixable problem to correct, or as 'I'm not good enough' — the same words landing as guilt for one person and shame for another, depending on how secure their sense of worth is."
+    "A person who receives critical feedback at work can hear 'this report had errors' as a fixable problem to correct, or as 'I'm not good enough', the same words landing as guilt for one person and shame for another, depending on how secure their sense of worth is."
   ],
   "whatPeopleGetWrong": [
-    "A common misconception is that shame is simply a stronger or deeper form of guilt. Research suggests they are qualitatively different in focus and effect — guilt on the deed, shame on the self — and that more shame is not 'more conscience.' In fact, shame-proneness is often less associated with constructive moral behavior than guilt-proneness.",
+    "A common misconception is that shame is simply a stronger or deeper form of guilt. Research suggests they are qualitatively different in focus and effect (guilt on the deed, shame on the self) and that more shame is not 'more conscience.' In fact, shame-proneness is often less associated with constructive moral behavior than guilt-proneness.",
     "Another error is assuming that being hard on yourself makes you more accountable. The evidence points the other way: self-compassion tends to support taking responsibility, because it is possible to admit a wrong without the wrong becoming a verdict on one's whole worth."
   ],
   "relationshipImplications": [
@@ -39,7 +42,7 @@
   "faqs": [
     {
       "question": "What is the difference between shame and guilt?",
-      "answer": "Research by Tangney and colleagues distinguishes them by focus. Guilt centers on a specific behavior — 'I did a bad thing' — and tends to prompt repair. Shame centers on the whole self — 'I am bad' — and tends to prompt hiding or defensiveness. The line is the deed versus the self."
+      "answer": "Research by Tangney and colleagues distinguishes them by focus. Guilt centers on a specific behavior, 'I did a bad thing', and tends to prompt repair. Shame centers on the whole self, 'I am bad', and tends to prompt hiding or defensiveness. The line is the deed versus the self."
     },
     {
       "question": "Is guilt healthier than shame?",
@@ -55,7 +58,7 @@
     },
     {
       "question": "How can someone shift from shame to guilt?",
-      "answer": "Many find it helps to separate the act from the self — naming the specific behavior to repair rather than judging one's whole character. Practicing self-compassion and noticing the slide from 'I did wrong' to 'I am wrong' can interrupt shame. Results vary, and persistent shame may benefit from professional support."
+      "answer": "Many find it helps to separate the act from the self, naming the specific behavior to repair rather than judging one's whole character. Practicing self-compassion and noticing the slide from 'I did wrong' to 'I am wrong' can interrupt shame. Results vary, and persistent shame may benefit from professional support."
     },
     {
       "question": "Can shame or guilt be useful at all?",
@@ -89,25 +92,41 @@
     },
     {
       "value": "Supports accountability",
-      "label": "Self-compassion is associated with taking responsibility more readily, not less — contrary to the fear that it excuses bad behavior.",
+      "label": "Self-compassion is associated with taking responsibility more readily, not less, contrary to the fear that it excuses bad behavior.",
       "source": "Neff (2003)"
     }
   ],
   "comparison": {
     "title": "At a glance: guilt vs shame",
     "rows": [
-      { "aspect": "Focus", "men": "Guilt targets a specific behavior ('I did a bad thing')", "women": "Shame targets the whole self ('I am bad')" },
-      { "aspect": "Typical impulse", "men": "Apologize, fix the harm, do better", "women": "Hide, escape, deflect blame, or strike back" },
-      { "aspect": "Effect on relationships", "men": "Tends to lead to repair and recovery", "women": "Tends to escalate ruptures and block repair" },
-      { "aspect": "Best feedback style", "men": "Naming the specific act ('when you did X')", "women": "Character attacks ('you always') that seed shame" }
+      {
+        "aspect": "Focus",
+        "men": "Guilt targets a specific behavior ('I did a bad thing')",
+        "women": "Shame targets the whole self ('I am bad')"
+      },
+      {
+        "aspect": "Typical impulse",
+        "men": "Apologize, fix the harm, do better",
+        "women": "Hide, escape, deflect blame, or strike back"
+      },
+      {
+        "aspect": "Effect on relationships",
+        "men": "Tends to lead to repair and recovery",
+        "women": "Tends to escalate ruptures and block repair"
+      },
+      {
+        "aspect": "Best feedback style",
+        "men": "Naming the specific act ('when you did X')",
+        "women": "Character attacks ('you always') that seed shame"
+      }
     ]
   },
   "keyTakeaways": [
     "Guilt centers on a behavior ('I did a bad thing'); shame condemns the whole self ('I am bad').",
-    "Guilt tends to be the more adaptive emotion — it motivates apology and repair.",
+    "Guilt tends to be the more adaptive emotion. It motivates apology and repair.",
     "Shame's pull to hide, deflect, or attack often blocks the very repair that would resolve the situation.",
     "When self-worth feels conditional, ordinary guilt is more likely to tip into shame.",
-    "Self-compassion supports accountability rather than excusing it — being harsh on yourself does not make you more responsible.",
+    "Self-compassion supports accountability rather than excusing it. Being harsh on yourself does not make you more responsible.",
     "Feedback aimed at specific behavior invites reparative guilt; feedback aimed at character tends to provoke shame."
   ],
   "lastReviewed": "2026-06"

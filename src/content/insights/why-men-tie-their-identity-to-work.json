@@ -1,39 +1,43 @@
 {
-  "title": "Why Men Tie Their Identity to Work — The Psychology",
+  "title": "Why Men Tie Their Identity to Work: The Psychology",
   "slug": "why-men-tie-their-identity-to-work",
   "category": "male-psychology",
   "focusGender": "men",
   "featured": false,
-  "tags": ["how-they-think", "behavior", "self-improvement"],
-  "metaTitle": "Why Men Tie Their Identity to Work — The Psychology",
+  "tags": [
+    "how-they-think",
+    "behavior",
+    "self-improvement"
+  ],
+  "metaTitle": "Why Men Tie Their Identity to Work: The Psychology",
   "metaDescription": "Why many men anchor self-worth in work and the provider role, how contingent self-esteem forms, the risks of it, and where real meaning comes from.",
   "coreFinding": "Many men, on average, anchor a large share of their self-worth in work, achievement, and the provider role. Research on contingent self-worth suggests this can drive motivation but leaves self-esteem fragile when work falters. Meaning that draws on relationships and values, not job status alone, tends to be more stable. Individuals vary widely.",
   "whatResearchShows": [
-    "Crocker and Wolfe (2001) describe self-esteem as contingent on domains a person stakes their worth in — for many men, that domain is heavily weighted toward competence, work, and being a capable provider. When self-worth rides on performance in one area, success feels validating but setbacks in that area register as threats to identity, not just disappointments.",
+    "Crocker and Wolfe (2001) describe self-esteem as contingent on domains a person stakes their worth in. For many men, that domain is heavily weighted toward competence, work, and being a capable provider. When self-worth rides on performance in one area, success feels validating but setbacks in that area register as threats to identity, not just disappointments.",
     "This pattern is shaped by socialization more than biology. Boys are often praised for achievement and usefulness, and many cultures still frame the man's role around earning and providing. Over time, work can become the main stage on which a man feels he proves his value, which helps explain why job loss or career stagnation can hit some men especially hard.",
     "It is worth keeping the size of the difference in perspective. Janet Hyde's gender similarities hypothesis (2005) shows men and women are far more alike than different on most psychological measures. Plenty of women tie identity to work too, and plenty of men do not. The tendency is a modest average leaning reinforced by culture, not a universal law."
   ],
   "whyItHappens": [
     "Part of it is where worth gets staked. Crocker and Wolfe (2001) found people pursue self-esteem in chosen domains, and when a man's sense of being good enough depends on output, work naturally becomes central. The upside is drive and discipline; the downside is that mood and identity start to track quarterly results and external validation.",
-    "Meaning research adds nuance. Steger and colleagues (2006), in developing the Meaning in Life Questionnaire, distinguish the presence of meaning from the search for it — and meaning can come from purpose, contribution, and relationships, not status alone. Work can supply genuine meaning, but problems arise when it is the only source a man has built.",
+    "Meaning research adds nuance. Steger and colleagues (2006), in developing the Meaning in Life Questionnaire, distinguish the presence of meaning from the search for it, and meaning can come from purpose, contribution, and relationships, not status alone. Work can supply genuine meaning, but problems arise when it is the only source a man has built.",
     "Self-determination theory (Deci and Ryan, 2000) helps explain which work feels nourishing. Activity that satisfies competence, autonomy, and relatedness supports well-being; work pursued mainly to prove worth or meet others' expectations tends to feel hollow even when it pays well. The motive behind the effort matters as much as the achievement."
   ],
   "realLifeExamples": [
-    "A man who loses a job may experience it less as a financial event and more as a blow to who he is — feeling adrift, ashamed, or strangely invisible, even when loved ones reassure him he is more than his paycheck.",
+    "A man who loses a job may experience it less as a financial event and more as a blow to who he is, feeling adrift, ashamed, or strangely invisible, even when loved ones reassure him he is more than his paycheck.",
     "Some men struggle to relax on weekends or in retirement, because without tasks to perform they feel a quiet loss of purpose. The free time that should feel like reward can instead surface the question of what they are for.",
     "A man may pour himself into work partly because it is the arena where he most reliably feels competent and respected, while finding it harder to feel that same sense of value at home or in friendships he has not invested in as deeply."
   ],
   "whatPeopleGetWrong": [
-    "A common mistake is reading a man's overwork as simple greed or avoidance of family. For many, it is closer to identity maintenance — work is where he feels he earns his place. Understanding that does not excuse neglect, but it points to a more useful conversation than accusation.",
-    "Another error is assuming this is just how men are. It is largely learned and therefore changeable. Men who broaden where they draw worth — into relationships, character, and values — tend to weather career setbacks with more resilience, which suggests the pattern is a habit of mind, not a fixed trait."
+    "A common mistake is reading a man's overwork as simple greed or avoidance of family. For many, it is closer to identity maintenance. Work is where he feels he earns his place. Understanding that does not excuse neglect, but it points to a more useful conversation than accusation.",
+    "Another error is assuming this is just how men are. It is largely learned and therefore changeable. Men who broaden where they draw worth (into relationships, character, and values) tend to weather career setbacks with more resilience, which suggests the pattern is a habit of mind, not a fixed trait."
   ],
   "relationshipImplications": [
     "If a partner's worth is wrapped up in providing, criticism of his work or earning can land far harder than intended, and praise for his effort can mean more than it might seem. Recognizing this helps a partner offer support without walking on eggshells.",
     "Relationships tend to do better when a man has sources of identity beyond work, because a partner does not want to compete with a job for a sense of self that should also live at home. Gently encouraging connection, rest, and meaning outside achievement is rarely a loss for the relationship."
   ],
   "theNuance": [
-    "These are averages with heavy overlap. Hyde's work (2005) is a reminder that staking identity in work is a human pattern, not a male one — many women experience it intensely, and many men anchor their worth in family, faith, or creativity instead. Culture and class shape it as much as gender does.",
-    "There is nothing wrong with caring deeply about work or taking pride in providing; these can be sources of real meaning and dignity. The risk is concentration — when one domain carries the whole weight of a person's worth, any wobble there shakes everything. Diversified meaning is steadier than a single pillar."
+    "These are averages with heavy overlap. Hyde's work (2005) is a reminder that staking identity in work is a human pattern, not a male one. Many women experience it intensely, and many men anchor their worth in family, faith, or creativity instead. Culture and class shape it as much as gender does.",
+    "There is nothing wrong with caring deeply about work or taking pride in providing; these can be sources of real meaning and dignity. The risk is concentration, when one domain carries the whole weight of a person's worth, any wobble there shakes everything. Diversified meaning is steadier than a single pillar."
   ],
   "faqs": [
     {
@@ -42,7 +46,7 @@
     },
     {
       "question": "Is tying self-worth to work unhealthy?",
-      "answer": "Not inherently — work can offer genuine meaning and motivation. The risk, research suggests, is concentration: when self-worth depends almost entirely on work, setbacks there threaten the whole identity. Drawing worth from several sources tends to make self-esteem more stable and resilient."
+      "answer": "Not inherently, work can offer genuine meaning and motivation. The risk, research suggests, is concentration: when self-worth depends almost entirely on work, setbacks there threaten the whole identity. Drawing worth from several sources tends to make self-esteem more stable and resilient."
     },
     {
       "question": "Why does job loss hit some men so hard emotionally?",
@@ -88,26 +92,42 @@
     },
     {
       "value": "78%",
-      "label": "Of measured psychological gender differences are small or close to zero — plenty of women tie identity to work, plenty of men do not.",
+      "label": "Of measured psychological gender differences are small or close to zero. Plenty of women tie identity to work, plenty of men do not.",
       "source": "Hyde (2005), review of 46 meta-analyses"
     }
   ],
   "comparison": {
     "title": "Identity and work: average tendencies",
     "rows": [
-      { "aspect": "Where worth is often staked", "men": "Heavily weighted toward work and providing", "women": "More often spread across work and relationships" },
-      { "aspect": "Impact of job loss", "men": "Can feel like a blow to identity itself", "women": "Also painful, but identity is often less concentrated" },
-      { "aspect": "Source of the pattern", "men": "Socialization praising achievement and provision", "women": "Socialization emphasizing relational roles too" },
-      { "aspect": "What steadies self-worth", "men": "Broadening into values and relationships", "women": "Broadening into values and relationships" }
+      {
+        "aspect": "Where worth is often staked",
+        "men": "Heavily weighted toward work and providing",
+        "women": "More often spread across work and relationships"
+      },
+      {
+        "aspect": "Impact of job loss",
+        "men": "Can feel like a blow to identity itself",
+        "women": "Also painful, but identity is often less concentrated"
+      },
+      {
+        "aspect": "Source of the pattern",
+        "men": "Socialization praising achievement and provision",
+        "women": "Socialization emphasizing relational roles too"
+      },
+      {
+        "aspect": "What steadies self-worth",
+        "men": "Broadening into values and relationships",
+        "women": "Broadening into values and relationships"
+      }
     ]
   },
   "keyTakeaways": [
     "Many men anchor a large share of self-worth in work, achievement, and the provider role.",
     "Contingent self-worth can fuel drive but makes esteem fragile when work falters.",
     "Job loss can register as an identity threat, not just a financial one, when worth is concentrated in work.",
-    "The motive behind the effort matters — work pursued to prove worth tends to feel hollow even when it pays.",
+    "The motive behind the effort matters. Work pursued to prove worth tends to feel hollow even when it pays.",
     "Diversified meaning, drawn from relationships and values, is steadier than a single pillar.",
-    "This is a modest, culture-reinforced average leaning, not a universal male trait — and it is changeable."
+    "This is a modest, culture-reinforced average leaning, not a universal male trait, and it is changeable."
   ],
   "lastReviewed": "2026-06"
 }

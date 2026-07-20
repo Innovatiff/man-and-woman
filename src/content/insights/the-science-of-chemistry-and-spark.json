@@ -1,30 +1,34 @@
 {
-  "title": "The Science of Chemistry and Spark — What Creates Instant Attraction",
+  "title": "The Science of Chemistry and Spark: What Creates Instant Attraction",
   "slug": "the-science-of-chemistry-and-spark",
   "category": "love-and-attraction",
   "focusGender": "both",
   "featured": false,
-  "tags": ["attraction", "falling-in-love", "emotions"],
-  "metaTitle": "The Science of Chemistry and Spark — What Psychology Shows",
-  "metaDescription": "What psychology suggests about romantic chemistry: arousal, novelty, and self-expansion — and why a strong spark doesn't guarantee a lasting bond.",
+  "tags": [
+    "attraction",
+    "falling-in-love",
+    "emotions"
+  ],
+  "metaTitle": "The Science of Chemistry and Spark: What Psychology Shows",
+  "metaDescription": "What psychology suggests about romantic chemistry: arousal, novelty, and self-expansion, and why a strong spark doesn't guarantee a lasting bond.",
   "coreFinding": "What people call 'chemistry' appears to be a blend of physical arousal, novelty, and the sense that someone expands your world. Research suggests intense early attraction is partly the brain interpreting heightened arousal as desire. A strong spark tends to feel involuntary, but it is not a reliable signal of long-term compatibility on its own.",
   "whatResearchShows": [
-    "One of the most cited findings on chemistry comes from Dutton and Aron (1974), whose bridge study suggested that physiological arousal can be misattributed to attraction. Men who met a woman on a high, swaying suspension bridge later showed more romantic interest than men who met her on a stable one. The leading interpretation is that the body's arousal from the height was, in part, reinterpreted as desire — a process now called arousal misattribution.",
+    "One of the most cited findings on chemistry comes from Dutton and Aron (1974), whose bridge study suggested that physiological arousal can be misattributed to attraction. Men who met a woman on a high, swaying suspension bridge later showed more romantic interest than men who met her on a stable one. The leading interpretation is that the body's arousal from the height was, in part, reinterpreted as desire, a process now called arousal misattribution.",
     "Passionate love, the intense and often consuming early stage many people describe as 'spark,' has been measured by Hatfield and Sprecher (1986) using the Passionate Love Scale. Their work frames this state as a mix of longing, intrusive thinking, and emotional and physical arousal. Importantly, the research treats passionate love as one phase of love rather than its full or final form.",
     "Aron and colleagues (2000) add that novelty and shared excitement deepen attraction through what they call self-expansion. Couples who took part in novel, arousing activities together reported higher relationship quality afterward. This suggests that part of chemistry is relational and ongoing, not just a fixed reaction between two people at first sight. None of these patterns appears unique to one gender."
   ],
   "whyItHappens": [
-    "The arousal-misattribution mechanism helps explain why intense or uncertain situations can amplify attraction. When the heart races, the brain looks for an explanation, and an appealing person nearby can become the perceived cause. This does not mean chemistry is fake — the arousal is real — but it does mean the feeling can be shaped by context as much as by the other person.",
+    "The arousal-misattribution mechanism helps explain why intense or uncertain situations can amplify attraction. When the heart races, the brain looks for an explanation, and an appealing person nearby can become the perceived cause. This does not mean chemistry is fake, the arousal is real, but it does mean the feeling can be shaped by context as much as by the other person.",
     "Self-expansion theory offers a complementary mechanism. People tend to bond intensely with partners who broaden their sense of who they are, introducing new experiences, perspectives, and possibilities. Early dating is often full of this novelty, which may be one reason the spark feels strongest at the start, when almost everything about the other person is new to discover.",
     "Underlying all of this is attachment. Hazan and Shaver (1987) framed romantic love as an attachment process, and the early surge of chemistry often coexists with the uncertainty of not yet knowing where you stand. That uncertainty can heighten preoccupation, which many people experience as the pull of a powerful spark rather than as ordinary nervousness."
   ],
   "realLifeExamples": [
-    "Two people meet at a high-energy event — a concert, a hike, a moment of shared stress — and the connection feels electric. Some of that intensity may come from the situation itself, with the body's arousal blending into the experience of attraction. The same conversation in a quiet, low-stakes setting might have felt pleasant but less charged.",
+    "Two people meet at a high-energy event (a concert, a hike, a moment of shared stress) and the connection feels electric. Some of that intensity may come from the situation itself, with the body's arousal blending into the experience of attraction. The same conversation in a quiet, low-stakes setting might have felt pleasant but less charged.",
     "A couple early in dating describes feeling 'on fire' when they try new things together: traveling, learning a skill, exploring an unfamiliar city. As life settles into routine, the intensity can soften, which partners sometimes misread as fading interest rather than the natural shift from novelty toward familiarity.",
-    "One person feels overwhelming chemistry with someone who is hard to read or inconsistently available. The uncertainty keeps them preoccupied, and they interpret that preoccupation as a uniquely strong bond — when in part it may be the ambiguity itself amplifying the feeling."
+    "One person feels overwhelming chemistry with someone who is hard to read or inconsistently available. The uncertainty keeps them preoccupied, and they interpret that preoccupation as a uniquely strong bond, when in part it may be the ambiguity itself amplifying the feeling."
   ],
   "whatPeopleGetWrong": [
-    "The most common misconception is that a strong spark reliably predicts a good relationship. Research suggests intense early chemistry is influenced by arousal, novelty, and uncertainty — factors that can be present with both compatible and incompatible partners. A powerful initial pull says a great deal about the moment and relatively little, on its own, about long-term fit.",
+    "The most common misconception is that a strong spark reliably predicts a good relationship. Research suggests intense early chemistry is influenced by arousal, novelty, and uncertainty, factors that can be present with both compatible and incompatible partners. A powerful initial pull says a great deal about the moment and relatively little, on its own, about long-term fit.",
     "Another mistake is assuming that the absence of fireworks means there is no potential. Many lasting relationships report attraction that grew steadily rather than igniting instantly, often through familiarity and repeated positive contact. Chemistry is not always a switch that flips on the first meeting; for many people it builds."
   ],
   "relationshipImplications": [
@@ -74,39 +78,55 @@
     "love-vs-infatuation",
     "the-stages-of-falling-in-love"
   ],
-  "quickTake": "Chemistry appears to be a blend of physical arousal, novelty, and the feeling that someone expands your world — with the brain partly reading a racing heart as desire. The spark feels involuntary, but on its own it's a weak signal of long-term compatibility.",
+  "quickTake": "Chemistry appears to be a blend of physical arousal, novelty, and the feeling that someone expands your world, with the brain partly reading a racing heart as desire. The spark feels involuntary, but on its own it's a weak signal of long-term compatibility.",
   "pullQuote": "A powerful initial pull says a great deal about the moment and relatively little, on its own, about long-term fit.",
   "keyStats": [
     {
       "value": "Arousal misattribution",
-      "label": "Men who met a woman on a high, swaying suspension bridge later showed more romantic interest than those who met her on a stable one — arousal partly reinterpreted as desire.",
+      "label": "Men who met a woman on a high, swaying suspension bridge later showed more romantic interest than those who met her on a stable one, arousal partly reinterpreted as desire.",
       "source": "Dutton & Aron (1974), bridge study"
     },
     {
       "value": "Novelty deepens bonds",
-      "label": "Couples who took part in novel, arousing activities together reported higher relationship quality afterward — evidence that chemistry is relational and ongoing, not fixed at first sight.",
+      "label": "Couples who took part in novel, arousing activities together reported higher relationship quality afterward, evidence that chemistry is relational and ongoing, not fixed at first sight.",
       "source": "Aron et al. (2000)"
     },
     {
       "value": "One phase, not the whole",
-      "label": "Passionate love — measured by the Passionate Love Scale as longing, intrusive thinking, and arousal — is treated as a stage of love rather than its full or final form.",
+      "label": "Passionate love (measured by the Passionate Love Scale as longing, intrusive thinking, and arousal) is treated as a stage of love rather than its full or final form.",
       "source": "Hatfield & Sprecher (1986)"
     }
   ],
   "comparison": {
     "title": "At a glance: average tendencies",
     "rows": [
-      { "aspect": "Arousal read as attraction", "men": "Susceptible to misattributing arousal to a person", "women": "Susceptible to misattributing arousal to a person" },
-      { "aspect": "Pull of novelty and discovery", "men": "Fuels early spark through self-expansion", "women": "Fuels early spark through self-expansion" },
-      { "aspect": "Spark as a compatibility signal", "men": "Weak predictor of long-term fit on its own", "women": "Weak predictor of long-term fit on its own" },
-      { "aspect": "Can attraction grow without a spark", "men": "Often, through familiarity and repeated contact", "women": "Often, through familiarity and repeated contact" }
+      {
+        "aspect": "Arousal read as attraction",
+        "men": "Susceptible to misattributing arousal to a person",
+        "women": "Susceptible to misattributing arousal to a person"
+      },
+      {
+        "aspect": "Pull of novelty and discovery",
+        "men": "Fuels early spark through self-expansion",
+        "women": "Fuels early spark through self-expansion"
+      },
+      {
+        "aspect": "Spark as a compatibility signal",
+        "men": "Weak predictor of long-term fit on its own",
+        "women": "Weak predictor of long-term fit on its own"
+      },
+      {
+        "aspect": "Can attraction grow without a spark",
+        "men": "Often, through familiarity and repeated contact",
+        "women": "Often, through familiarity and repeated contact"
+      }
     ]
   },
   "keyTakeaways": [
     "Chemistry blends physical arousal, novelty, and the sense that someone expands your world.",
-    "The brain can misattribute a racing heart to the person you're with — the arousal is real, but context shapes it.",
+    "The brain can misattribute a racing heart to the person you're with. The arousal is real, but context shapes it.",
     "A strong spark reflects the moment more than long-term compatibility; weigh it against how someone treats you.",
-    "No instant fireworks doesn't mean no potential — attraction often builds through familiarity and repeated contact.",
+    "No instant fireworks doesn't mean no potential. Attraction often builds through familiarity and repeated contact.",
     "Shared novelty and adventure can renew attraction, so a softening spark need not mean fading interest.",
     "The mechanisms apply broadly across men and women, with heavy individual overlap."
   ],

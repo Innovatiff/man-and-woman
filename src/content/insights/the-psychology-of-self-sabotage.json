@@ -1,44 +1,50 @@
 {
-  "title": "The Psychology of Self-Sabotage — Why We Undermine What We Want",
+  "title": "The Psychology of Self-Sabotage: Why We Undermine What We Want",
   "slug": "the-psychology-of-self-sabotage",
   "category": "behavior-patterns",
   "focusGender": "both",
   "featured": false,
-  "tags": ["self-sabotage", "self-handicapping", "procrastination", "self-worth", "behavior"],
+  "tags": [
+    "self-sabotage",
+    "self-handicapping",
+    "procrastination",
+    "self-worth",
+    "behavior"
+  ],
   "metaTitle": "The Psychology of Self-Sabotage Explained",
   "metaDescription": "Self-sabotage often protects self-esteem or manages fear, not laziness. Research on self-handicapping and procrastination explains why we undermine our goals.",
-  "coreFinding": "Self-sabotage is when people undermine their own goals or relationships, often without realizing it. Research suggests it usually serves a hidden purpose — protecting self-esteem, managing fear, or avoiding painful emotions — rather than reflecting laziness or lack of desire. Understanding the underlying fear tends to help more than self-blame.",
+  "coreFinding": "Self-sabotage is when people undermine their own goals or relationships, often without realizing it. Research suggests it usually serves a hidden purpose (protecting self-esteem, managing fear, or avoiding painful emotions) rather than reflecting laziness or lack of desire. Understanding the underlying fear tends to help more than self-blame.",
   "whatResearchShows": [
-    "One of the clearest mechanisms is self-handicapping, first demonstrated by Steven Berglas and Edward Jones (1978). In their studies, people facing a threatening evaluation created obstacles for themselves — choosing a performance-impairing drug, under-preparing, or leaving too little time — so that failure could be blamed on the handicap rather than their ability. The logic is protective: if you sabotage yourself, a poor result says nothing about your true competence. It shields self-esteem at the cost of actually succeeding.",
-    "Self-sabotage is often driven by a tension between approach and avoidance. Fear of failure is the obvious driver, but researchers also describe fear of success — anxiety about the exposure, expectations, or change that succeeding would bring. When the same goal is both wanted and feared, people can get caught in an approach-avoidance conflict, moving toward the goal and then pulling back just before it is within reach, which looks from the outside like inexplicable self-defeat.",
-    "Procrastination, one of the most common forms, is now understood less as a time-management failure and more as emotion regulation. Work by Timothy Pychyl and Fuschia Sirois suggests people procrastinate to escape the negative feelings a task stirs up — boredom, anxiety, self-doubt — trading long-term goals for short-term mood repair. Sirois's research also links chronic procrastination to stress and poorer health, underlining that it is a coping strategy with real costs, not simple laziness."
+    "One of the clearest mechanisms is self-handicapping, first demonstrated by Steven Berglas and Edward Jones (1978). In their studies, people facing a threatening evaluation created obstacles for themselves (choosing a performance-impairing drug, under-preparing, or leaving too little time) so that failure could be blamed on the handicap rather than their ability. The logic is protective: if you sabotage yourself, a poor result says nothing about your true competence. It shields self-esteem at the cost of actually succeeding.",
+    "Self-sabotage is often driven by a tension between approach and avoidance. Fear of failure is the obvious driver, but researchers also describe fear of success, anxiety about the exposure, expectations, or change that succeeding would bring. When the same goal is both wanted and feared, people can get caught in an approach-avoidance conflict, moving toward the goal and then pulling back just before it is within reach, which looks from the outside like inexplicable self-defeat.",
+    "Procrastination, one of the most common forms, is now understood less as a time-management failure and more as emotion regulation. Work by Timothy Pychyl and Fuschia Sirois suggests people procrastinate to escape the negative feelings a task stirs up (boredom, anxiety, self-doubt) trading long-term goals for short-term mood repair. Sirois's research also links chronic procrastination to stress and poorer health, underlining that it is a coping strategy with real costs, not simple laziness."
   ],
   "whyItHappens": [
     "At the root of much self-sabotage is the protection of self-worth. If a person's sense of their own value feels fragile, an all-out effort that fails is intolerable, because it seems to expose the self as inadequate. Self-handicapping solves this by muddying the evidence: with a ready excuse in place, failure no longer indicts their ability, and even success can be credited to overcoming the handicap. The behaviour is self-defeating in outcome but self-protective in intent.",
-    "Emotion regulation is the other engine. Many self-sabotaging acts — procrastinating, picking a fight, withdrawing, drinking before a big day — are ways of escaping an uncomfortable feeling in the moment. The relief is immediate, which reinforces the behaviour, while the cost arrives later. Because the short-term reward is emotional and the long-term cost is practical, the pattern can persist even when the person genuinely wants the goal, which is exactly why willpower alone rarely resolves it.",
-    "In relationships, self-sabotage frequently traces back to attachment history and low self-worth. Someone who fears abandonment or does not feel deserving of love may test a partner, pick fights, or withdraw as connection deepens, effectively creating the rejection they dread on their own terms. Research on relationship self-sabotage (for example, Peel and colleagues) links these patterns to insecure attachment and to protective goals — defending against anticipated hurt — rather than to a lack of caring."
+    "Emotion regulation is the other engine. Many self-sabotaging acts (procrastinating, picking a fight, withdrawing, drinking before a big day) are ways of escaping an uncomfortable feeling in the moment. The relief is immediate, which reinforces the behaviour, while the cost arrives later. Because the short-term reward is emotional and the long-term cost is practical, the pattern can persist even when the person genuinely wants the goal, which is exactly why willpower alone rarely resolves it.",
+    "In relationships, self-sabotage frequently traces back to attachment history and low self-worth. Someone who fears abandonment or does not feel deserving of love may test a partner, pick fights, or withdraw as connection deepens, effectively creating the rejection they dread on their own terms. Research on relationship self-sabotage (for example, Peel and colleagues) links these patterns to insecure attachment and to protective goals, defending against anticipated hurt, rather than to a lack of caring."
   ],
   "realLifeExamples": [
     "A student who deeply wants to do well leaves a major assignment until the night before, then hands in rushed work. On the surface it looks like poor planning, but underneath, the last-minute crunch provides cover: a mediocre grade can be blamed on time rather than talent. The self-handicap protected the ego and undermined the result at the same time.",
-    "Someone with a real chance at a promotion suddenly starts missing deadlines and playing down their interest as the opportunity nears. This can be fear of success at work — the visibility, higher expectations, and change that stepping up would bring feel threatening, so they quietly retreat from the thing they said they wanted.",
-    "In a new relationship that is going well, a person who fears getting hurt may start manufacturing conflict, reading neutral texts as slights, or pulling away emotionally. It looks like the relationship is failing on its own, but the withdrawal is often a pre-emptive strike against feared rejection — ending things first, or proving they were doomed, rather than risking being left."
+    "Someone with a real chance at a promotion suddenly starts missing deadlines and playing down their interest as the opportunity nears. This can be fear of success at work. The visibility, higher expectations, and change that stepping up would bring feel threatening, so they quietly retreat from the thing they said they wanted.",
+    "In a new relationship that is going well, a person who fears getting hurt may start manufacturing conflict, reading neutral texts as slights, or pulling away emotionally. It looks like the relationship is failing on its own, but the withdrawal is often a pre-emptive strike against feared rejection, ending things first, or proving they were doomed, rather than risking being left."
   ],
   "whatPeopleGetWrong": [
     "The biggest misconception is that self-sabotage means someone does not really want the goal, or that they are simply lazy or weak. Research points to the opposite: people often sabotage the things they want most, precisely because those things matter enough to be frightening. Procrastination in particular is better understood as emotion regulation than as a character flaw, which is why 'just try harder' so often fails to shift it.",
-    "A second error is treating self-sabotage as fully conscious. Much of it is automatic and out of awareness — the mind protecting self-esteem or dodging a bad feeling before the person notices what is happening. Because the motive is usually hidden, harsh self-criticism tends to deepen the pattern by adding shame, whereas curiosity about the underlying fear is more likely to loosen it."
+    "A second error is treating self-sabotage as fully conscious. Much of it is automatic and out of awareness, the mind protecting self-esteem or dodging a bad feeling before the person notices what is happening. Because the motive is usually hidden, harsh self-criticism tends to deepen the pattern by adding shame, whereas curiosity about the underlying fear is more likely to loosen it."
   ],
   "relationshipImplications": [
-    "Recognizing self-sabotage as fear-driven changes how couples respond to it. When a partner picks fights or pulls away as things get closer, reading the behaviour as a signal of fear rather than proof of indifference opens the door to reassurance and honest conversation instead of escalation. Naming the pattern gently — noticing the pull-back and asking what is underneath it — tends to work better than accusation, which usually confirms the very fear driving the sabotage.",
-    "For the person doing the sabotaging, the practical path is to get curious about what feeling or fear the behaviour is managing, and to build self-worth that does not depend on flawless performance. Because these patterns are often rooted in attachment and self-esteem, they respond to self-compassion and, where entrenched, to therapy. This is a shared human tendency rather than a gendered one, though its flavour — retreating, provoking, over-controlling — varies by individual and history."
+    "Recognizing self-sabotage as fear-driven changes how couples respond to it. When a partner picks fights or pulls away as things get closer, reading the behaviour as a signal of fear rather than proof of indifference opens the door to reassurance and honest conversation instead of escalation. Naming the pattern gently, noticing the pull-back and asking what is underneath it, tends to work better than accusation, which usually confirms the very fear driving the sabotage.",
+    "For the person doing the sabotaging, the practical path is to get curious about what feeling or fear the behaviour is managing, and to build self-worth that does not depend on flawless performance. Because these patterns are often rooted in attachment and self-esteem, they respond to self-compassion and, where entrenched, to therapy. This is a shared human tendency rather than a gendered one, though its flavour (retreating, provoking, over-controlling) varies by individual and history."
   ],
   "theNuance": [
-    "The core mechanisms here are well supported: self-handicapping is a robust laboratory finding, and the reframing of procrastination as emotion regulation has strong support. Some adjacent ideas are softer — 'fear of success' is more a clinical description than a tightly measured construct, and relationship self-sabotage is a newer research area. As always, these describe tendencies and patterns, not rules, and self-sabotage exists on a spectrum from occasional to entrenched.",
+    "The core mechanisms here are well supported: self-handicapping is a robust laboratory finding, and the reframing of procrastination as emotion regulation has strong support. Some adjacent ideas are softer. 'Fear of success' is more a clinical description than a tightly measured construct, and relationship self-sabotage is a newer research area. As always, these describe tendencies and patterns, not rules, and self-sabotage exists on a spectrum from occasional to entrenched.",
     "Individual variation dominates. Whether someone self-handicaps, and how, depends on their self-esteem, attachment history, past experiences, and the stakes of the situation, far more than on their gender. The most useful and accurate framing is compassionate rather than condemning: self-sabotage is usually a misguided form of self-protection. This is educational content, not therapy; for persistent patterns that are causing real harm, a mental-health professional can help, and support is available."
   ],
   "faqs": [
     {
       "question": "What is self-sabotage in psychology?",
-      "answer": "It is undermining your own goals or relationships, often without full awareness. Research suggests it usually serves a hidden purpose — protecting self-esteem, avoiding fear, or escaping painful emotions — rather than reflecting laziness or a genuine lack of desire for the goal."
+      "answer": "It is undermining your own goals or relationships, often without full awareness. Research suggests it usually serves a hidden purpose (protecting self-esteem, avoiding fear, or escaping painful emotions) rather than reflecting laziness or a genuine lack of desire for the goal."
     },
     {
       "question": "What is self-handicapping?",
@@ -46,7 +52,7 @@
     },
     {
       "question": "Is procrastination a form of self-sabotage?",
-      "answer": "Often, yes. Research by Pychyl and Sirois suggests procrastination is largely emotion regulation — escaping the negative feelings a task provokes for short-term relief. It tends to reflect difficulty managing emotions rather than laziness, which is why simply trying harder rarely resolves it."
+      "answer": "Often, yes. Research by Pychyl and Sirois suggests procrastination is largely emotion regulation, escaping the negative feelings a task provokes for short-term relief. It tends to reflect difficulty managing emotions rather than laziness, which is why simply trying harder rarely resolves it."
     },
     {
       "question": "Can you fear success as well as failure?",
@@ -84,7 +90,7 @@
     },
     {
       "value": "Mood repair",
-      "label": "Procrastination is largely emotion regulation — escaping a task's negative feelings for short-term relief.",
+      "label": "Procrastination is largely emotion regulation, escaping a task's negative feelings for short-term relief.",
       "source": "Sirois & Pychyl (2013)"
     },
     {
@@ -98,14 +104,30 @@
     "leftLabel": "Fear of failure",
     "rightLabel": "Fear of success",
     "rows": [
-      { "aspect": "Core worry", "men": "Being exposed as not good enough", "women": "The exposure, expectations, and change success brings" },
-      { "aspect": "Typical behaviour", "men": "Under-preparing, procrastinating, self-handicapping", "women": "Retreating or losing interest as the goal nears" },
-      { "aspect": "What it protects", "men": "Self-esteem from a clear verdict of inadequacy", "women": "A familiar, lower-pressure sense of self" },
-      { "aspect": "Hidden logic", "men": "A failure with an excuse hurts less than an honest one", "women": "Staying where I am feels safer than being seen" }
+      {
+        "aspect": "Core worry",
+        "men": "Being exposed as not good enough",
+        "women": "The exposure, expectations, and change success brings"
+      },
+      {
+        "aspect": "Typical behaviour",
+        "men": "Under-preparing, procrastinating, self-handicapping",
+        "women": "Retreating or losing interest as the goal nears"
+      },
+      {
+        "aspect": "What it protects",
+        "men": "Self-esteem from a clear verdict of inadequacy",
+        "women": "A familiar, lower-pressure sense of self"
+      },
+      {
+        "aspect": "Hidden logic",
+        "men": "A failure with an excuse hurts less than an honest one",
+        "women": "Staying where I am feels safer than being seen"
+      }
     ]
   },
   "keyTakeaways": [
-    "Self-sabotage usually serves a hidden protective purpose — guarding self-esteem or managing fear — rather than reflecting laziness.",
+    "Self-sabotage usually serves a hidden protective purpose, guarding self-esteem or managing fear, rather than reflecting laziness.",
     "Self-handicapping, shown by Berglas and Jones, creates obstacles so failure can be blamed on the obstacle, not one's ability.",
     "Procrastination is better understood as emotion regulation than as poor time management, which is why 'try harder' often fails.",
     "People frequently sabotage the goals and relationships they want most, because those matter enough to feel threatening.",

@@ -93,7 +93,7 @@ export const EXPLORER_STEPS: ExplorerStep[] = [
   {
     id: 'focus',
     title: 'What are you here to understand?',
-    helper: 'There are no wrong answers here — pick what fits you right now.',
+    helper: 'There are no wrong answers here: pick what fits you right now.',
     options: [
       { id: 'men', label: 'I want to understand men better', tags: ['how-they-think', 'what-they-want'], focus: 'men' },
       { id: 'women', label: 'I want to understand women better', tags: ['how-they-think', 'what-they-want'], focus: 'women' },
@@ -123,7 +123,7 @@ export const EXPLORER_STEPS: ExplorerStep[] = [
   {
     id: 'situation',
     title: 'Where are you right now?',
-    helper: 'Whatever your situation, you are welcome here. This stays private — nothing is stored.',
+    helper: 'Whatever your situation, you are welcome here. This stays private: nothing is stored.',
     options: [
       { id: 'single', label: 'Single and want to understand the other gender', tags: ['attraction', 'what-they-want'] },
       { id: 'partnered', label: 'In a relationship and want to understand my partner', tags: ['communication', 'what-they-want', 'commitment'] },

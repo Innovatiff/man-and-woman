@@ -4,28 +4,33 @@
   "category": "what-women-want",
   "focusGender": "women",
   "featured": true,
-  "tags": ["what-they-want", "emotions", "communication", "commitment"],
+  "tags": [
+    "what-they-want",
+    "emotions",
+    "communication",
+    "commitment"
+  ],
   "metaTitle": "What Women Need in a Relationship to Feel Secure",
-  "metaDescription": "Real psychology on what women need to feel secure: responsiveness, felt security, reliability, and being genuinely known — not gifts or status.",
-  "coreFinding": "Research suggests that what most reliably helps women feel secure in a relationship is perceived partner responsiveness — the sense of being understood, validated, and cared for — backed by consistency and reliability over time. Felt security, the confidence that a partner values the relationship and will not let you down, matters far more than material provision. At its core, many women describe the need to feel genuinely known and prioritized.",
+  "metaDescription": "Real psychology on what women need to feel secure: responsiveness, felt security, reliability, and being genuinely known, not gifts or status.",
+  "coreFinding": "Research suggests that what most reliably helps women feel secure in a relationship is perceived partner responsiveness (the sense of being understood, validated, and cared for) backed by consistency and reliability over time. Felt security, the confidence that a partner values the relationship and will not let you down, matters far more than material provision. At its core, many women describe the need to feel genuinely known and prioritized.",
   "whatResearchShows": [
-    "A large body of relationship science converges on one concept: perceived partner responsiveness. Reis and Shaver's intimacy model (1988) describes closeness as a process in which one person discloses and the other responds with understanding, validation, and care. When a partner consistently responds that way, people of both sexes feel more secure — and many women specifically report this responsive attunement as the heart of what they need.",
+    "A large body of relationship science converges on one concept: perceived partner responsiveness. Reis and Shaver's intimacy model (1988) describes closeness as a process in which one person discloses and the other responds with understanding, validation, and care. When a partner consistently responds that way, people of both sexes feel more secure, and many women specifically report this responsive attunement as the heart of what they need.",
     "Murray, Holmes and Collins (2006) describe a 'risk regulation system': in close relationships, people constantly gauge whether it is safe to depend on a partner, and they feel secure only when they perceive that the partner values and will not reject them. On this account, felt security is not a luxury but the foundation that allows a woman to invest fully. Reassurance, reliability, and signals of commitment lower perceived risk and let her lean in.",
-    "Attachment theory (Hazan and Shaver, 1987) frames this in terms of a secure base: a partner who is consistently available and responsive becomes someone a woman can rely on, which steadies the whole relationship. None of these needs is unique to women — men report them too — and the average differences between the sexes are modest, with heavy overlap."
+    "Attachment theory (Hazan and Shaver, 1987) frames this in terms of a secure base: a partner who is consistently available and responsive becomes someone a woman can rely on, which steadies the whole relationship. None of these needs is unique to women, men report them too, and the average differences between the sexes are modest, with heavy overlap."
   ],
   "whyItHappens": [
     "The emphasis on felt security has a clear logic in attachment terms. If the bond is built on whether a partner can be trusted as a secure base (Hazan and Shaver, 1987), then consistency and responsiveness are precisely what the attachment system is scanning for. Sporadic warmth followed by withdrawal tends to register as threat, while steady, predictable care registers as safety.",
-    "Murray and colleagues' risk regulation model (2006) explains why reassurance matters so much. Opening up to a partner carries the risk of rejection, and people manage that risk by reading their partner's commitment. When a woman perceives strong, dependable investment, she can relax her guard; when commitment feels uncertain, self-protection can crowd out closeness — which is why mixed signals are so destabilizing.",
-    "Reis and Shaver's process (1988) clarifies why being known is so central. Responsiveness is not just kindness in general; it is kindness aimed accurately at who she actually is. Feeling understood in her specifics — her worries, her ambitions, her inner world — is what converts ordinary attention into genuine security."
+    "Murray and colleagues' risk regulation model (2006) explains why reassurance matters so much. Opening up to a partner carries the risk of rejection, and people manage that risk by reading their partner's commitment. When a woman perceives strong, dependable investment, she can relax her guard; when commitment feels uncertain, self-protection can crowd out closeness, which is why mixed signals are so destabilizing.",
+    "Reis and Shaver's process (1988) clarifies why being known is so central. Responsiveness is not just kindness in general; it is kindness aimed accurately at who she actually is. Feeling understood in her specifics (her worries, her ambitions, her inner world) is what converts ordinary attention into genuine security."
   ],
   "realLifeExamples": [
     "Security often shows up in small, repeated acts rather than dramatic ones: a partner who remembers what she was anxious about and checks in, who follows through on what he said he would do, who listens without immediately trying to fix. These responsive details are frequently what a woman means when she says she feels safe.",
     "Inconsistency tends to undermine security more than almost anything else. A partner who is attentive one week and distant the next can leave a woman feeling she must stay vigilant, because the risk regulation system reads unpredictability as a reason to protect herself rather than depend.",
-    "Being prioritized is its own signal. When a woman sees that the relationship is treated as important — protected time, her concerns taken seriously, decisions made with her in mind — it communicates the commitment that lets felt security take root.",
+    "Being prioritized is its own signal. When a woman sees that the relationship is treated as important (protected time, her concerns taken seriously, decisions made with her in mind) it communicates the commitment that lets felt security take root.",
     "After a hard day, many women describe wanting a partner to listen and reflect back that the day sounded rough before jumping to solutions. The rush to fix, however well-meant, can register as 'your feelings are a problem to close out' rather than the understanding that actually builds security."
   ],
   "whatPeopleGetWrong": [
-    "The most damaging misconception is that women primarily want money, gifts, or status. The research points elsewhere: the durable need is for responsiveness and felt security — being understood, valued, and able to depend on a partner. Material gestures can be nice, but they do not substitute for the sense of being genuinely known and safely held.",
+    "The most damaging misconception is that women primarily want money, gifts, or status. The research points elsewhere: the durable need is for responsiveness and felt security, being understood, valued, and able to depend on a partner. Material gestures can be nice, but they do not substitute for the sense of being genuinely known and safely held.",
     "A related error is treating reassurance-seeking as neediness or drama. From a risk regulation standpoint, checking whether a partner is still invested is a normal way of managing the real vulnerability of depending on someone. The answer is steady reassurance and reliability, not dismissal."
   ],
   "relationshipImplications": [
@@ -39,7 +44,7 @@
   "faqs": [
     {
       "question": "What do women need most to feel secure in a relationship?",
-      "answer": "Research points to perceived partner responsiveness — feeling understood, validated, and cared for — combined with reliability and felt security (the sense a partner is genuinely invested). Being known and prioritized tends to matter far more than material provision, though individual needs vary considerably."
+      "answer": "Research points to perceived partner responsiveness (feeling understood, validated, and cared for) combined with reliability and felt security (the sense a partner is genuinely invested). Being known and prioritized tends to matter far more than material provision, though individual needs vary considerably."
     },
     {
       "question": "Do women just want a partner with money or status?",
@@ -78,12 +83,12 @@
     "what-men-need-in-relationship",
     "why-women-test-men"
   ],
-  "quickTake": "What most reliably helps a woman feel secure is perceived partner responsiveness — feeling understood, validated, and cared for — backed by consistency over time. Being genuinely known and prioritized matters far more than money, gifts, or status.",
+  "quickTake": "What most reliably helps a woman feel secure is perceived partner responsiveness (feeling understood, validated, and cared for) backed by consistency over time. Being genuinely known and prioritized matters far more than money, gifts, or status.",
   "pullQuote": "Responsiveness is not just kindness in general; it is kindness aimed accurately at who she actually is.",
   "keyStats": [
     {
       "value": "Responsiveness",
-      "label": "A large body of relationship science converges on perceived partner responsiveness — feeling understood, validated, and cared for — as the core of intimacy and felt security.",
+      "label": "A large body of relationship science converges on perceived partner responsiveness (feeling understood, validated, and cared for) as the core of intimacy and felt security.",
       "source": "Reis & Shaver (1988)"
     },
     {
@@ -93,24 +98,40 @@
     },
     {
       "value": "78%",
-      "label": "Of measured psychological gender differences are small or close to zero — responsiveness and felt security are human needs, not female-specific ones.",
+      "label": "Of measured psychological gender differences are small or close to zero. Responsiveness and felt security are human needs, not female-specific ones.",
       "source": "Hyde (2005), review of 46 meta-analyses"
     }
   ],
   "comparison": {
     "title": "Feeling secure: average tendencies",
     "rows": [
-      { "aspect": "Core need", "men": "Responsiveness and felt security too", "women": "Responsiveness and felt security" },
-      { "aspect": "How the need is voiced", "men": "Often less directly or through action", "women": "More likely to name it explicitly" },
-      { "aspect": "What undermines security", "men": "Inconsistency and feeling unappreciated", "women": "Inconsistency and mixed signals" },
-      { "aspect": "What restores it", "men": "Reliability, respect, steady presence", "women": "Reliability, accurate listening, being prioritized" }
+      {
+        "aspect": "Core need",
+        "men": "Responsiveness and felt security too",
+        "women": "Responsiveness and felt security"
+      },
+      {
+        "aspect": "How the need is voiced",
+        "men": "Often less directly or through action",
+        "women": "More likely to name it explicitly"
+      },
+      {
+        "aspect": "What undermines security",
+        "men": "Inconsistency and feeling unappreciated",
+        "women": "Inconsistency and mixed signals"
+      },
+      {
+        "aspect": "What restores it",
+        "men": "Reliability, respect, steady presence",
+        "women": "Reliability, accurate listening, being prioritized"
+      }
     ]
   },
   "keyTakeaways": [
-    "Perceived partner responsiveness — feeling understood, validated, and cared for — is the heart of what helps women feel secure.",
+    "Perceived partner responsiveness (feeling understood, validated, and cared for) is the heart of what helps women feel secure.",
     "Felt security, the confidence a partner is invested and won't let her down, matters more than material provision.",
     "Consistency is decisive: steady, predictable care registers as safety; warmth that alternates with withdrawal registers as threat.",
-    "Reassurance-seeking is normal risk management, not neediness — steady reassurance settles it better than dismissal.",
+    "Reassurance-seeking is normal risk management, not neediness. Steady reassurance settles it better than dismissal.",
     "Listening to understand rather than to fix is often what converts attention into genuine security.",
     "These needs are human, not female-specific; attachment style predicts an individual's needs better than gender."
   ],

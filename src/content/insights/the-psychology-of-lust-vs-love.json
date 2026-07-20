@@ -1,17 +1,21 @@
 {
-  "title": "The Psychology of Lust vs Love — What Separates Them",
+  "title": "The Psychology of Lust vs Love: What Separates Them",
   "slug": "the-psychology-of-lust-vs-love",
   "category": "love-and-attraction",
   "focusGender": "both",
   "featured": false,
-  "tags": ["attraction", "falling-in-love", "emotions"],
+  "tags": [
+    "attraction",
+    "falling-in-love",
+    "emotions"
+  ],
   "metaTitle": "The Psychology of Lust vs Love Explained",
   "metaDescription": "What research suggests distinguishes lust from love: separate desire and attachment systems, how they overlap, and why one does not guarantee the other.",
-  "coreFinding": "Research suggests lust and love draw on distinct but connected systems in the mind and brain — one geared toward sexual desire, the other toward deep attachment. They often occur together, but either can exist without the other. That is why intense desire does not guarantee lasting love, and enduring love does not require constant passion. Understanding the difference can make both easier to interpret honestly.",
+  "coreFinding": "Research suggests lust and love draw on distinct but connected systems in the mind and brain, one geared toward sexual desire, the other toward deep attachment. They often occur together, but either can exist without the other. That is why intense desire does not guarantee lasting love, and enduring love does not require constant passion. Understanding the difference can make both easier to interpret honestly.",
   "whatResearchShows": [
-    "Lisa Diamond (2004) reviewed evidence that romantic love and sexual desire are functionally distinct systems that can operate independently. People can feel deep romantic love without sexual desire and strong desire without love, and the two are not always directed at the same person. Diamond argued they evolved for different purposes — desire tied to reproduction, attachment tied to long-term bonding — which helps explain why they do not always align.",
+    "Lisa Diamond (2004) reviewed evidence that romantic love and sexual desire are functionally distinct systems that can operate independently. People can feel deep romantic love without sexual desire and strong desire without love, and the two are not always directed at the same person. Diamond argued they evolved for different purposes (desire tied to reproduction, attachment tied to long-term bonding) which helps explain why they do not always align.",
     "Neuroscience points in a similar direction. Fisher, Aron and Brown (2006) proposed that mating involves partly separable brain systems for lust, romantic attraction, and attachment, associated with different neurochemical patterns. On this view, the racing intensity of early attraction and the calmer security of long-term attachment are related but distinguishable experiences, not simply more or less of the same thing.",
-    "The passionate side of love has been studied directly. Hatfield and Sprecher's Passionate Love Scale (1986) captures the intense longing and arousal of early love, which shares features with lust but also includes yearning for emotional union, not only physical desire. Over time, this passionate intensity often gives way to companionate love — deep affection and commitment. None of these systems is unique to one gender, and all appear across people."
+    "The passionate side of love has been studied directly. Hatfield and Sprecher's Passionate Love Scale (1986) captures the intense longing and arousal of early love, which shares features with lust but also includes yearning for emotional union, not only physical desire. Over time, this passionate intensity often gives way to companionate love, deep affection and commitment. None of these systems is unique to one gender, and all appear across people."
   ],
   "whyItHappens": [
     "The systems evolved to solve different problems. Sexual desire motivates people toward potential partners, while attachment supports the sustained bond that helps a couple stay together over time. Because these served distinct functions, it makes sense that they are partly separable and can activate on different timelines or toward different people.",
@@ -22,7 +26,7 @@
     "Two people feel a powerful physical pull but find that once the initial excitement fades, little emotional connection remains. The desire was real, but the attachment system was never deeply engaged, so there was less to sustain the relationship.",
     "A long-term couple loves each other deeply while passionate intensity has softened into steady affection and security. The change reflects the natural shift from passionate toward companionate love, not a loss of love itself.",
     "Someone feels strong desire early on that gradually deepens as trust and shared experience accumulate, with lust and love growing together. This common trajectory shows how the systems, though distinct, often reinforce each other over time.",
-    "A person feels deep, tender love for someone — a close partner during a stressful stretch, say — while sexual desire has temporarily dimmed, and worries something is wrong. Often nothing is: the attachment system is fully engaged while the desire system is quieter, a normal sign that the two run partly independently."
+    "A person feels deep, tender love for someone (a close partner during a stressful stretch, say) while sexual desire has temporarily dimmed, and worries something is wrong. Often nothing is: the attachment system is fully engaged while the desire system is quieter, a normal sign that the two run partly independently."
   ],
   "whatPeopleGetWrong": [
     "The most common misconception is treating intense desire as proof of love. Research suggests desire and attachment are partly independent, so a strong physical pull says little on its own about whether deep, lasting love will follow. Passion can be present, absent, or fade while love remains, and vice versa.",
@@ -39,7 +43,7 @@
   "faqs": [
     {
       "question": "What is the psychological difference between lust and love?",
-      "answer": "Research suggests they draw on distinct systems — one geared toward sexual desire, the other toward deep attachment. They often occur together, but either can exist without the other, which is why strong desire does not guarantee lasting love and enduring love does not require constant passion."
+      "answer": "Research suggests they draw on distinct systems, one geared toward sexual desire, the other toward deep attachment. They often occur together, but either can exist without the other, which is why strong desire does not guarantee lasting love and enduring love does not require constant passion."
     },
     {
       "question": "How can I tell if it's lust or love?",
@@ -55,7 +59,7 @@
     },
     {
       "question": "Why does passion fade even when love stays?",
-      "answer": "Research suggests many couples move from passionate love toward companionate love — calmer, deeply affectionate, and secure. This shift is a normal developmental arc rather than a loss of love. Confusing fading intensity with fading love is common, but the two are not the same thing."
+      "answer": "Research suggests many couples move from passionate love toward companionate love, calmer, deeply affectionate, and secure. This shift is a normal developmental arc rather than a loss of love. Confusing fading intensity with fading love is common, but the two are not the same thing."
     },
     {
       "question": "Do men and women differ in lust versus love?",
@@ -74,7 +78,7 @@
     "how-attraction-works",
     "the-stages-of-falling-in-love"
   ],
-  "quickTake": "Lust and love run on distinct but connected systems — one geared to sexual desire, the other to deep attachment. They often travel together, but either can exist without the other, which is why hot desire does not guarantee lasting love and calm love does not mean the spark is dead.",
+  "quickTake": "Lust and love run on distinct but connected systems, one geared to sexual desire, the other to deep attachment. They often travel together, but either can exist without the other, which is why hot desire does not guarantee lasting love and calm love does not mean the spark is dead.",
   "pullQuote": "Intense desire does not guarantee lasting love, and enduring love does not require constant passion.",
   "keyStats": [
     {
@@ -96,16 +100,28 @@
   "comparison": {
     "title": "At a glance: average tendencies",
     "rows": [
-      { "aspect": "How desire is described", "men": "Some studies report it framed slightly more directly", "women": "Some studies report it framed as more context-linked" },
-      { "aspect": "The underlying systems", "men": "Lust, attraction, and attachment all operate", "women": "Lust, attraction, and attachment all operate" },
-      { "aspect": "Overlap between the sexes", "men": "Large — differences are matters of degree", "women": "Large — differences are matters of degree" }
+      {
+        "aspect": "How desire is described",
+        "men": "Some studies report it framed slightly more directly",
+        "women": "Some studies report it framed as more context-linked"
+      },
+      {
+        "aspect": "The underlying systems",
+        "men": "Lust, attraction, and attachment all operate",
+        "women": "Lust, attraction, and attachment all operate"
+      },
+      {
+        "aspect": "Overlap between the sexes",
+        "men": "Large. Differences are matters of degree",
+        "women": "Large. Differences are matters of degree"
+      }
     ]
   },
   "keyTakeaways": [
-    "Lust and love draw on distinct but interacting systems — desire and attachment can activate separately.",
+    "Lust and love draw on distinct but interacting systems. Desire and attachment can activate separately.",
     "Either can exist without the other, so intense desire is not proof of love, and calm love is not a dead relationship.",
     "Early passion is arousal-heavy and urgent; deep attachment feels calmer, safer, and more stable.",
-    "Passion often shifts toward companionate love over time — a normal arc, not a failure.",
+    "Passion often shifts toward companionate love over time, a normal arc, not a failure.",
     "Both desire and closeness can be nurtured through shared novelty and turning toward each other.",
     "Both systems operate in everyone; gender differences in desire are modest and easily overstated."
   ],

@@ -1,17 +1,21 @@
 {
-  "title": "Why Men Value Loyalty and Trust — The Psychology of Commitment",
+  "title": "Why Men Value Loyalty and Trust: The Psychology of Commitment",
   "slug": "why-men-value-loyalty-and-trust",
   "category": "what-men-want",
   "focusGender": "men",
   "featured": false,
-  "tags": ["what-they-want", "commitment", "emotions"],
+  "tags": [
+    "what-they-want",
+    "commitment",
+    "emotions"
+  ],
   "metaTitle": "Why Men Value Loyalty and Trust in Relationships",
   "metaDescription": "Why loyalty and trust matter so much to many men: research on trust as the foundation of commitment, how investment deepens bonds, and jealousy.",
   "coreFinding": "Many men describe loyalty and trust as the bedrock of a relationship, and research supports why: trust is what allows partners to invest and depend on each other safely. The need for a dependable bond is close to universal across genders, though the specific worries that loyalty soothes can differ somewhat between individuals.",
   "whatResearchShows": [
-    "John Gottman's work, summarized in The Science of Trust (2011), frames trust as the single most important currency in a relationship — the sense that a partner has your back and will act in your interest even when it costs them. When that trust is present, conflict is survivable; when it erodes, even small slights can curdle into resentment. This is not a male-specific finding, but it helps explain why men so often name loyalty as non-negotiable.",
-    "Caryl Rusbult's investment model (1980) shows why dependability matters so much. Commitment grows out of satisfaction, a lack of better alternatives, and the investments people pour into a relationship — time, shared history, vulnerability. Loyalty is what makes those investments feel safe; without it, the whole structure of commitment becomes risky to build.",
-    "On jealousy, Buss and colleagues (1992) found an average difference in what tends to trigger it: their studies suggested men, on average, reported somewhat more distress at imagined sexual infidelity, while women reported more at emotional infidelity. The effect is debated and overlaps heavily, but it points to how betrayal can land differently — without implying either sex values loyalty more than the other."
+    "John Gottman's work, summarized in The Science of Trust (2011), frames trust as the single most important currency in a relationship, the sense that a partner has your back and will act in your interest even when it costs them. When that trust is present, conflict is survivable; when it erodes, even small slights can curdle into resentment. This is not a male-specific finding, but it helps explain why men so often name loyalty as non-negotiable.",
+    "Caryl Rusbult's investment model (1980) shows why dependability matters so much. Commitment grows out of satisfaction, a lack of better alternatives, and the investments people pour into a relationship, time, shared history, vulnerability. Loyalty is what makes those investments feel safe; without it, the whole structure of commitment becomes risky to build.",
+    "On jealousy, Buss and colleagues (1992) found an average difference in what tends to trigger it: their studies suggested men, on average, reported somewhat more distress at imagined sexual infidelity, while women reported more at emotional infidelity. The effect is debated and overlaps heavily, but it points to how betrayal can land differently, without implying either sex values loyalty more than the other."
   ],
   "whyItHappens": [
     "Trust reduces the vulnerability of depending on someone. For many men, a partner is a primary source of emotional support and intimacy, sometimes the main one, which raises the stakes of that bond being secure. Loyalty is what makes it safe to lean in, lower the guard, and invest for the long term.",
@@ -19,17 +23,17 @@
     "There is also a meaning dimension. For some men, being trusted and being loyal is tied to a sense of honor and reliability they want to embody. Keeping their word and being kept faith with is part of how they understand being a good partner, not merely a defense against being hurt."
   ],
   "realLifeExamples": [
-    "A man who becomes deeply uneasy when a partner is secretive about their phone or evasive about plans is often reacting to a perceived threat to trust rather than to the specific behavior — the worry is about the foundation, not the detail.",
+    "A man who becomes deeply uneasy when a partner is secretive about their phone or evasive about plans is often reacting to a perceived threat to trust rather than to the specific behavior. The worry is about the foundation, not the detail.",
     "Someone who slowly opens up over months, sharing fears and history he rarely tells anyone, is making the kind of investment Rusbult described. Loyalty is what allowed that vulnerability, and a betrayal would feel like a violation of everything he risked.",
-    "A partner who quietly notices and remembers small acts of faithfulness — being defended in front of others, being chosen consistently — is registering loyalty as ongoing reassurance that the bond is safe to keep building on.",
-    "A man who reacts far more strongly to a broken promise about something minor than to the inconvenience itself is usually responding to what the lapse signals about reliability — the small breach reads as a crack in the foundation, not just a missed errand."
+    "A partner who quietly notices and remembers small acts of faithfulness (being defended in front of others, being chosen consistently) is registering loyalty as ongoing reassurance that the bond is safe to keep building on.",
+    "A man who reacts far more strongly to a broken promise about something minor than to the inconvenience itself is usually responding to what the lapse signals about reliability. The small breach reads as a crack in the foundation, not just a missed errand."
   ],
   "whatPeopleGetWrong": [
     "A common misreading is that a man's emphasis on loyalty is mainly about control or possessiveness. While insecurity can express itself that way, the research points to something more basic: trust is the precondition for safe investment, and valuing it reflects how much the relationship matters.",
-    "It is also a mistake to assume the jealousy findings mean men only care about sexual fidelity. The averages are small and contested, and emotional betrayal wounds men deeply too — loyalty is valued across the board, not in one narrow form."
+    "It is also a mistake to assume the jealousy findings mean men only care about sexual fidelity. The averages are small and contested, and emotional betrayal wounds men deeply too. Loyalty is valued across the board, not in one narrow form."
   ],
   "relationshipImplications": [
-    "Because trust is foundational, rebuilding it after a breach is slow and deliberate work. Gottman's research suggests it is restored through consistent, transparent, trustworthy action over time, not through a single apology — a reality worth knowing for any couple recovering from betrayal.",
+    "Because trust is foundational, rebuilding it after a breach is slow and deliberate work. Gottman's research suggests it is restored through consistent, transparent, trustworthy action over time, not through a single apology, a reality worth knowing for any couple recovering from betrayal.",
     "Day to day, loyalty is built in small moments: following through on what you say, being honest about hard things, and choosing your partner visibly. For many men, these ordinary acts of dependability matter more than grand declarations, and they are what let a relationship feel like solid ground."
   ],
   "theNuance": [
@@ -74,12 +78,12 @@
     "what-men-need-to-feel-secure",
     "how-to-rebuild-trust-after-betrayal"
   ],
-  "quickTake": "For many men, loyalty and trust are the foundation everything else is built on — because trust is what makes it safe to invest, depend, and lower your guard. The need for a dependable bond is close to universal, even if the specific fears it soothes vary.",
+  "quickTake": "For many men, loyalty and trust are the foundation everything else is built on, because trust is what makes it safe to invest, depend, and lower your guard. The need for a dependable bond is close to universal, even if the specific fears it soothes vary.",
   "pullQuote": "Loyalty is what makes it safe to lean in, lower the guard, and invest for the long term.",
   "keyStats": [
     {
       "value": "Most important currency",
-      "label": "Gottman frames trust — the sense a partner has your back even at a cost to themselves — as the central currency of a relationship.",
+      "label": "Gottman frames trust, the sense a partner has your back even at a cost to themselves, as the central currency of a relationship.",
       "source": "Gottman, The Science of Trust (2011)"
     },
     {
@@ -96,17 +100,33 @@
   "comparison": {
     "title": "At a glance: average tendencies",
     "rows": [
-      { "aspect": "How much loyalty is valued", "men": "Treated as foundational, often named non-negotiable", "women": "Treated as foundational too — close to universal need" },
-      { "aspect": "Jealousy trigger (on average)", "men": "Somewhat more distress at sexual infidelity", "women": "Somewhat more distress at emotional infidelity" },
-      { "aspect": "What loyalty enables", "men": "Safe vulnerability, leaning on a primary confidant", "women": "Safe vulnerability and emotional dependence too" },
-      { "aspect": "How trust is rebuilt", "men": "Consistent, transparent action over time", "women": "Consistent, transparent action over time" }
+      {
+        "aspect": "How much loyalty is valued",
+        "men": "Treated as foundational, often named non-negotiable",
+        "women": "Treated as foundational too, close to universal need"
+      },
+      {
+        "aspect": "Jealousy trigger (on average)",
+        "men": "Somewhat more distress at sexual infidelity",
+        "women": "Somewhat more distress at emotional infidelity"
+      },
+      {
+        "aspect": "What loyalty enables",
+        "men": "Safe vulnerability, leaning on a primary confidant",
+        "women": "Safe vulnerability and emotional dependence too"
+      },
+      {
+        "aspect": "How trust is rebuilt",
+        "men": "Consistent, transparent action over time",
+        "women": "Consistent, transparent action over time"
+      }
     ]
   },
   "keyTakeaways": [
-    "Trust is the precondition for safe investment — which is why many men name loyalty as non-negotiable.",
+    "Trust is the precondition for safe investment, which is why many men name loyalty as non-negotiable.",
     "Rusbult's investment model explains the link: the more you pour in, the more a breach threatens, so dependability matters more the deeper the bond.",
     "The need for a loyal partner is close to universal; men do not value loyalty more than women, though the specific fears it soothes can differ.",
-    "Jealousy triggers differ on average — men somewhat more at sexual infidelity, women at emotional — but the effect is small, debated, and overlaps heavily.",
+    "Jealousy triggers differ on average (men somewhat more at sexual infidelity, women at emotional) but the effect is small, debated, and overlaps heavily.",
     "A man's focus on loyalty is usually about safe investment, not control; the healthy version is dependability and honesty, not surveillance.",
     "Trust is rebuilt slowly through consistent, transparent action over time, not a single apology."
   ],

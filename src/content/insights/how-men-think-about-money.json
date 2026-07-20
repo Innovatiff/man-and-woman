@@ -1,32 +1,35 @@
 {
-  "title": "How Men Think About Money — Status, Security, and Identity",
+  "title": "How Men Think About Money: Status, Security, and Identity",
   "slug": "how-men-think-about-money",
   "category": "how-men-think",
   "focusGender": "men",
   "featured": false,
-  "tags": ["how-they-think", "behavior"],
-  "metaTitle": "How Men Think About Money — The Psychology",
-  "metaDescription": "Research on how many men think about money: provider identity, status, risk, and self-worth — plus how much of this is socialization, not biology.",
-  "coreFinding": "For many men, money is tangled up with identity — a sense of being a capable provider, of earning respect and security. This can make financial setbacks feel like personal failures and financial success feel like proof of worth. Much of this stems from socialization rather than nature, and individual attitudes toward money vary enormously.",
+  "tags": [
+    "how-they-think",
+    "behavior"
+  ],
+  "metaTitle": "How Men Think About Money: The Psychology",
+  "metaDescription": "Research on how many men think about money: provider identity, status, risk, and self-worth, plus how much of this is socialization, not biology.",
+  "coreFinding": "For many men, money is tangled up with identity, a sense of being a capable provider, of earning respect and security. This can make financial setbacks feel like personal failures and financial success feel like proof of worth. Much of this stems from socialization rather than nature, and individual attitudes toward money vary enormously.",
   "whatResearchShows": [
-    "Buss's (1989) large cross-cultural study of mate preferences found that resources and earning capacity were, on average, weighted somewhat more heavily by women, while physical attractiveness was weighted somewhat more by men — a pattern often used to explain why many men internalize a provider role. Buss framed these as average tendencies shaped by both evolutionary pressures and culture, not rigid rules, and later work stresses how strongly context and socialization shape them.",
-    "Research on contingencies of self-worth by Crocker and Wolfe (2001) helps explain why money can feel so loaded. When a person stakes their self-esteem on a particular domain — such as financial success or being a provider — outcomes in that domain swing their sense of worth sharply. For men who tie identity to earning, a raise or a layoff can feel like a verdict on their value as a person.",
-    "It is important not to overstate the gap. Janet Hyde's gender similarities hypothesis (2005) shows the sexes are far more alike than different across most psychological measures, and attitudes toward money are no exception — plenty of women are ambitious earners and plenty of men are indifferent to status. Averages hide enormous individual variation."
+    "Buss's (1989) large cross-cultural study of mate preferences found that resources and earning capacity were, on average, weighted somewhat more heavily by women, while physical attractiveness was weighted somewhat more by men, a pattern often used to explain why many men internalize a provider role. Buss framed these as average tendencies shaped by both evolutionary pressures and culture, not rigid rules, and later work stresses how strongly context and socialization shape them.",
+    "Research on contingencies of self-worth by Crocker and Wolfe (2001) helps explain why money can feel so loaded. When a person stakes their self-esteem on a particular domain, such as financial success or being a provider, outcomes in that domain swing their sense of worth sharply. For men who tie identity to earning, a raise or a layoff can feel like a verdict on their value as a person.",
+    "It is important not to overstate the gap. Janet Hyde's gender similarities hypothesis (2005) shows the sexes are far more alike than different across most psychological measures, and attitudes toward money are no exception. Plenty of women are ambitious earners and plenty of men are indifferent to status. Averages hide enormous individual variation."
   ],
   "whyItHappens": [
     "Many boys are raised with the message that a man's worth is measured by what he can provide. That framing can make earning feel less like a practical task and more like a test of adequacy, so financial ups and downs carry unusual emotional weight.",
-    "When self-worth is staked on being a provider, money becomes a domain where esteem rises and falls. This helps explain why some men become anxious, secretive, or defensive about finances — a threat to income can feel like a threat to identity, not just to the bank account.",
-    "Status and comparison also play a role. Money can function as a visible marker of success among peers, and social comparison — a process Festinger (1954) described, in which people gauge themselves against others — can push some men toward risk, overwork, or spending meant to signal standing. These pressures are learned and cultural far more than they are fixed traits."
+    "When self-worth is staked on being a provider, money becomes a domain where esteem rises and falls. This helps explain why some men become anxious, secretive, or defensive about finances. A threat to income can feel like a threat to identity, not just to the bank account.",
+    "Status and comparison also play a role. Money can function as a visible marker of success among peers, and social comparison (a process Festinger (1954) described, in which people gauge themselves against others) can push some men toward risk, overwork, or spending meant to signal standing. These pressures are learned and cultural far more than they are fixed traits."
   ],
   "realLifeExamples": [
     "A man who loses a job may withdraw or become irritable well beyond the practical problem, because the setback feels like evidence that he is failing at something central to who he is meant to be.",
-    "Some men take on financial risk — a venture, an investment, a big purchase — partly to feel capable and to earn standing, and can struggle to walk away even when the numbers argue against it.",
+    "Some men take on financial risk (a venture, an investment, a big purchase) partly to feel capable and to earn standing, and can struggle to walk away even when the numbers argue against it.",
     "Reluctance to discuss money troubles with a partner is common. For a man who equates providing with worth, admitting financial strain can feel like admitting personal inadequacy, so silence can seem safer than honesty.",
-    "A man whose partner out-earns him may feel a low, hard-to-name discomfort even when he intellectually welcomes the household's stronger finances — not because he resents her success, but because a script he absorbed young quietly equates 'provider' with 'worthy,' and the mismatch pokes at it."
+    "A man whose partner out-earns him may feel a low, hard-to-name discomfort even when he intellectually welcomes the household's stronger finances, not because he resents her success, but because a script he absorbed young quietly equates 'provider' with 'worthy,' and the mismatch pokes at it."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that men are naturally more money-driven or better with finances. The evidence points more toward socialization: many men are taught to link identity to earning, which shapes behavior far more than any innate financial instinct does.",
-    "Another mistake is reading a man's financial anxiety as simple greed or materialism. Often it reflects a fear of failing at a role he was taught defines him — closer to insecurity than to love of money for its own sake."
+    "Another mistake is reading a man's financial anxiety as simple greed or materialism. Often it reflects a fear of failing at a role he was taught defines him, closer to insecurity than to love of money for its own sake."
   ],
   "relationshipImplications": [
     "Understanding that money can feel identity-laden for a partner helps couples talk about it with less blame. Framing financial conversations around shared goals rather than personal adequacy tends to lower defensiveness and make honesty easier.",
@@ -34,7 +37,7 @@
   ],
   "theNuance": [
     "These are averages, and the overlap between men and women is large. Many women stake self-worth on financial success and many men do not; ambition, frugality, and risk tolerance vary at least as much within each sex as between them.",
-    "Individual factors usually predict money attitudes better than gender — upbringing, culture, financial history, personality, and whether someone was raised with scarcity or plenty. A man's relationship with money says more about his particular story than about men in general."
+    "Individual factors usually predict money attitudes better than gender, upbringing, culture, financial history, personality, and whether someone was raised with scarcity or plenty. A man's relationship with money says more about his particular story than about men in general."
   ],
   "faqs": [
     {
@@ -74,17 +77,17 @@
     "what-drives-male-behavior",
     "how-men-think-under-pressure"
   ],
-  "quickTake": "For many men, money is tangled up with identity — proof of being a capable provider. That can make a layoff feel like a verdict on their worth and a raise feel like validation. Most of this is learned, not innate, and attitudes vary enormously.",
+  "quickTake": "For many men, money is tangled up with identity, proof of being a capable provider. That can make a layoff feel like a verdict on their worth and a raise feel like validation. Most of this is learned, not innate, and attitudes vary enormously.",
   "pullQuote": "For men who tie identity to earning, a raise or a layoff can feel like a verdict on their value as a person.",
   "keyStats": [
     {
       "value": "37 cultures",
-      "label": "In a large cross-cultural study, women weighted resources and earning capacity somewhat more heavily, while men weighted physical attractiveness more — framed as average tendencies, not rules.",
+      "label": "In a large cross-cultural study, women weighted resources and earning capacity somewhat more heavily, while men weighted physical attractiveness more, framed as average tendencies, not rules.",
       "source": "Buss (1989)"
     },
     {
       "value": "Stake domain",
-      "label": "When self-worth is staked on a domain like being a provider, outcomes there swing esteem sharply — which is why money can feel so loaded.",
+      "label": "When self-worth is staked on a domain like being a provider, outcomes there swing esteem sharply, which is why money can feel so loaded.",
       "source": "Crocker & Wolfe (2001)"
     },
     {
@@ -96,10 +99,26 @@
   "comparison": {
     "title": "At a glance: average tendencies",
     "rows": [
-      { "aspect": "Link between money and identity", "men": "Often socialized to tie worth to providing", "women": "Varies widely; many also stake self-worth on earning" },
-      { "aspect": "Reaction to a setback", "men": "Can feel like a personal verdict, not just a problem", "women": "Also stressful; sometimes framed less around 'provider' identity" },
-      { "aspect": "Talking about money trouble", "men": "May stay silent to avoid feeling inadequate", "women": "Also hard, but sometimes more open to discussing strain" },
-      { "aspect": "Status and comparison", "men": "May feel pressure to signal standing to peers", "women": "Also subject to comparison, often around different markers" }
+      {
+        "aspect": "Link between money and identity",
+        "men": "Often socialized to tie worth to providing",
+        "women": "Varies widely; many also stake self-worth on earning"
+      },
+      {
+        "aspect": "Reaction to a setback",
+        "men": "Can feel like a personal verdict, not just a problem",
+        "women": "Also stressful; sometimes framed less around 'provider' identity"
+      },
+      {
+        "aspect": "Talking about money trouble",
+        "men": "May stay silent to avoid feeling inadequate",
+        "women": "Also hard, but sometimes more open to discussing strain"
+      },
+      {
+        "aspect": "Status and comparison",
+        "men": "May feel pressure to signal standing to peers",
+        "women": "Also subject to comparison, often around different markers"
+      }
     ]
   },
   "keyTakeaways": [
@@ -108,7 +127,7 @@
     "Financial anxiety is often closer to insecurity about a role than to greed or love of wealth for its own sake.",
     "There is little evidence men are naturally better with money; the pattern reflects socialization and opportunity more than innate skill.",
     "Framing money talk around shared goals rather than personal adequacy lowers defensiveness and makes honesty easier.",
-    "These are averages with heavy overlap — upbringing, culture, and personal history predict money attitudes better than gender."
+    "These are averages with heavy overlap. Upbringing, culture, and personal history predict money attitudes better than gender."
   ],
   "lastReviewed": "2026-06"
 }

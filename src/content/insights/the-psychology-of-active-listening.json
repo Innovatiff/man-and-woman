@@ -1,35 +1,41 @@
 {
-  "title": "The Psychology of Active Listening — Why Feeling Heard Matters",
+  "title": "The Psychology of Active Listening: Why Feeling Heard Matters",
   "slug": "the-psychology-of-active-listening",
   "category": "relationships-and-communication",
   "focusGender": "both",
   "featured": false,
-  "tags": ["listening", "communication", "empathy", "connection", "validation"],
-  "metaTitle": "The Psychology of Active Listening — What Research Shows",
+  "tags": [
+    "listening",
+    "communication",
+    "empathy",
+    "connection",
+    "validation"
+  ],
+  "metaTitle": "The Psychology of Active Listening: What Research Shows",
   "metaDescription": "Why active listening makes people feel understood better than advice does, what reflective listening actually involves, and how to do it without faking it.",
-  "coreFinding": "Active listening — reflecting back what someone says and signalling genuine attention — tends to make people feel more understood than either giving advice or offering simple acknowledgment. Feeling understood, in turn, is one of the strongest ingredients of closeness. The skill matters roughly equally for both sexes, despite the stereotype that it is a 'female' strength.",
+  "coreFinding": "Active listening, reflecting back what someone says and signalling genuine attention, tends to make people feel more understood than either giving advice or offering simple acknowledgment. Feeling understood, in turn, is one of the strongest ingredients of closeness. The skill matters roughly equally for both sexes, despite the stereotype that it is a 'female' strength.",
   "whatResearchShows": [
     "The concept of active listening comes from Carl Rogers and Richard Farson (1957), who described a way of attending that goes beyond hearing words: reflecting the speaker's meaning and feeling back to them so they know they have been understood. Rogers argued this kind of listening communicates respect and acceptance, which is why it became foundational in counselling and, later, in everyday communication training.",
-    "A study by Weger, Castle Bell, Minei and Robinson (2014) put active listening to a direct test. Participants who received active-listening responses — paraphrasing plus questions that showed engagement — reported feeling more understood than those who got simple acknowledgments ('uh-huh, I see') or unsolicited advice. The effect was modest but consistent, suggesting that how we respond, not just whether we stay quiet, shapes whether a speaker feels heard.",
-    "The deeper mechanism is captured by Reis and Shaver's concept of perceived partner responsiveness: the sense that another person understands, validates, and cares about your inner world. Across relationship research, this perception is one of the most reliable predictors of intimacy and satisfaction. Active listening is, in effect, the behavior that produces responsiveness — it is how understanding gets demonstrated rather than merely felt. Gottman's work on couples 'turning toward' each other's small bids points in the same direction."
+    "A study by Weger, Castle Bell, Minei and Robinson (2014) put active listening to a direct test. Participants who received active-listening responses, paraphrasing plus questions that showed engagement, reported feeling more understood than those who got simple acknowledgments ('uh-huh, I see') or unsolicited advice. The effect was modest but consistent, suggesting that how we respond, not just whether we stay quiet, shapes whether a speaker feels heard.",
+    "The deeper mechanism is captured by Reis and Shaver's concept of perceived partner responsiveness: the sense that another person understands, validates, and cares about your inner world. Across relationship research, this perception is one of the most reliable predictors of intimacy and satisfaction. Active listening is, in effect, the behavior that produces responsiveness. It is how understanding gets demonstrated rather than merely felt. Gottman's work on couples 'turning toward' each other's small bids points in the same direction."
   ],
   "whyItHappens": [
-    "Feeling understood meets a basic human need. Being accurately heard signals that we are not alone with an experience and that we matter to the listener — a social reassurance that calms the nervous system. This is why people often feel better after being listened to even when nothing about their problem has changed: the distress was partly about disconnection, and connection is what eased it.",
-    "Active listening works partly by slowing the listener down. Much of what passes for listening is really waiting to talk — rehearsing a reply, an example, or a fix while the other person is still speaking. Reflecting back what you heard forces attention onto the speaker's actual meaning and gives them a chance to correct you, which both improves accuracy and communicates care. The effort itself is part of the message.",
-    "There is a widely cited idea, from linguist Deborah Tannen, that women on average lean toward 'rapport talk' (connection) and men toward 'report talk' (information and problem-solving). This can create a mismatch where one person wants to be heard and the other jumps to solutions. But the overlap between the sexes is large, the tendency is shaped by socialization rather than fixed, and men and women both value feeling understood — so active listening is a skill for everyone, not a female specialty."
+    "Feeling understood meets a basic human need. Being accurately heard signals that we are not alone with an experience and that we matter to the listener, a social reassurance that calms the nervous system. This is why people often feel better after being listened to even when nothing about their problem has changed: the distress was partly about disconnection, and connection is what eased it.",
+    "Active listening works partly by slowing the listener down. Much of what passes for listening is really waiting to talk, rehearsing a reply, an example, or a fix while the other person is still speaking. Reflecting back what you heard forces attention onto the speaker's actual meaning and gives them a chance to correct you, which both improves accuracy and communicates care. The effort itself is part of the message.",
+    "There is a widely cited idea, from linguist Deborah Tannen, that women on average lean toward 'rapport talk' (connection) and men toward 'report talk' (information and problem-solving). This can create a mismatch where one person wants to be heard and the other jumps to solutions. But the overlap between the sexes is large, the tendency is shaped by socialization rather than fixed, and men and women both value feeling understood, so active listening is a skill for everyone, not a female specialty."
   ],
   "realLifeExamples": [
-    "A partner comes home venting about a rough day. One response is 'You should just talk to your boss' — a fix. Another is 'That sounds exhausting; it's like no matter what you do, it's never enough right now.' The second reflects the feeling back, and it usually lands as more supportive even though it solves nothing, because the speaker mainly wanted to feel understood.",
-    "In a disagreement, a person who says 'So what I'm hearing is that you felt left out when I made the plan without you — is that right?' often defuses the tension. The paraphrase shows they were actually listening rather than just loading their rebuttal, and it invites correction, which lowers defensiveness on both sides.",
-    "Active listening also shows up in small non-verbal ways: putting the phone down, turning toward the person, and letting a pause sit rather than filling it. These signals of full attention are part of why people describe some listeners as easy to open up to — the listening is visible, not just internal. A well-timed silence can itself be a form of listening, giving the speaker room to find the rest of what they wanted to say instead of being cut off by a quick reply."
+    "A partner comes home venting about a rough day. One response is 'You should just talk to your boss', a fix. Another is 'That sounds exhausting; it's like no matter what you do, it's never enough right now.' The second reflects the feeling back, and it usually lands as more supportive even though it solves nothing, because the speaker mainly wanted to feel understood.",
+    "In a disagreement, a person who says 'So what I'm hearing is that you felt left out when I made the plan without you, is that right?' often defuses the tension. The paraphrase shows they were actually listening rather than just loading their rebuttal, and it invites correction, which lowers defensiveness on both sides.",
+    "Active listening also shows up in small non-verbal ways: putting the phone down, turning toward the person, and letting a pause sit rather than filling it. These signals of full attention are part of why people describe some listeners as easy to open up to. The listening is visible, not just internal. A well-timed silence can itself be a form of listening, giving the speaker room to find the rest of what they wanted to say instead of being cut off by a quick reply."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that listening well means staying silent or nodding along. Research suggests the opposite: engaged, reflective responses make people feel more understood than passive acknowledgment does. Pure silence can even read as disengagement. Good listening is active precisely because it involves showing, through paraphrase and thoughtful questions, that you have taken in what was said.",
-    "The other frequent error is assuming everyone wants advice. Offering solutions can be genuinely helpful when someone asks for them, but jumping to fixes before a person feels heard often backfires — it can imply the problem is simple or that their feelings are a nuisance to be resolved. This is not about men versus women; anyone can mistake problem-solving for support. The reliable move is to listen first and ask whether they want help before giving it."
+    "The other frequent error is assuming everyone wants advice. Offering solutions can be genuinely helpful when someone asks for them, but jumping to fixes before a person feels heard often backfires. It can imply the problem is simple or that their feelings are a nuisance to be resolved. This is not about men versus women; anyone can mistake problem-solving for support. The reliable move is to listen first and ask whether they want help before giving it."
   ],
   "relationshipImplications": [
     "Building the habit of listening before responding is one of the higher-leverage things a couple or friendship can do. A simple practice: before replying to something emotional, reflect back what you heard ('It sounds like...') and ask if you've got it right. Then ask, 'Do you want help thinking this through, or do you mainly need me to listen?' That single question prevents most support mismatches.",
-    "It also helps to notice your own pull toward fixing, defending, or one-upping, and to hold it for a moment. None of this means never giving advice or never sharing your own view — it means sequencing them after the other person feels heard. When both partners can do this, conflicts de-escalate faster and everyday sharing feels safer, which strengthens the bond over time. The habit compounds: people who feel reliably listened to tend to share more, which gives their partner more chances to understand them, and the relationship grows in mutual knowledge rather than assumption."
+    "It also helps to notice your own pull toward fixing, defending, or one-upping, and to hold it for a moment. None of this means never giving advice or never sharing your own view. It means sequencing them after the other person feels heard. When both partners can do this, conflicts de-escalate faster and everyday sharing feels safer, which strengthens the bond over time. The habit compounds: people who feel reliably listened to tend to share more, which gives their partner more chances to understand them, and the relationship grows in mutual knowledge rather than assumption."
   ],
   "theNuance": [
     "The evidence that active listening helps is solid but not magical; effects in controlled studies tend to be modest, and technique matters less than sincerity. Mechanically parroting phrases ('I hear that you feel...') without genuine attention can feel scripted and even patronizing. The skill is a vehicle for real interest, not a substitute for it.",
@@ -38,7 +44,7 @@
   "faqs": [
     {
       "question": "What is active listening, exactly?",
-      "answer": "It is a way of listening, described by Rogers and Farson, where you reflect back the speaker's meaning and feeling — through paraphrasing and engaged questions — so they know they've been understood. It goes beyond hearing the words to showing you've grasped what they mean."
+      "answer": "It is a way of listening, described by Rogers and Farson, where you reflect back the speaker's meaning and feeling, through paraphrasing and engaged questions, so they know they've been understood. It goes beyond hearing the words to showing you've grasped what they mean."
     },
     {
       "question": "Does active listening really work better than giving advice?",
@@ -46,7 +52,7 @@
     },
     {
       "question": "Why does feeling heard matter so much?",
-      "answer": "Perceived partner responsiveness — feeling understood, validated, and cared for — is one of the strongest predictors of intimacy in relationship research. Being accurately heard signals that we matter and aren't alone with an experience, which is calming in itself."
+      "answer": "Perceived partner responsiveness (feeling understood, validated, and cared for) is one of the strongest predictors of intimacy in relationship research. Being accurately heard signals that we matter and aren't alone with an experience, which is calming in itself."
     },
     {
       "question": "Are women naturally better listeners than men?",
@@ -74,7 +80,7 @@
     "why-women-want-to-be-understood-not-fixed",
     "how-to-communicate-needs-without-fighting"
   ],
-  "quickTake": "Reflecting back what someone says makes them feel more understood than advice or a silent nod. And feeling understood is one of the strongest ingredients of closeness — for both sexes.",
+  "quickTake": "Reflecting back what someone says makes them feel more understood than advice or a silent nod. And feeling understood is one of the strongest ingredients of closeness, for both sexes.",
   "pullQuote": "Much of what passes for listening is really waiting to talk; active listening is the effort of showing you actually took in what was said.",
   "keyStats": [
     {
@@ -84,7 +90,7 @@
     },
     {
       "value": "Top predictor",
-      "label": "Perceived partner responsiveness — feeling heard and validated — is among the strongest predictors of intimacy.",
+      "label": "Perceived partner responsiveness, feeling heard and validated, is among the strongest predictors of intimacy.",
       "source": "Reis & Shaver (1988)"
     },
     {
@@ -96,10 +102,26 @@
   "comparison": {
     "title": "Listening for connection vs. listening for a fix",
     "rows": [
-      { "aspect": "Immediate goal", "men": "Slightly more likely to listen for the problem to solve", "women": "Slightly more likely to listen for connection first" },
-      { "aspect": "Typical response", "men": "May offer a solution or plan", "women": "May offer reflection and shared feeling" },
-      { "aspect": "Risk of the style", "men": "Can feel dismissive if help wasn't wanted", "women": "Can feel like avoidance if help was wanted" },
-      { "aspect": "What both need", "men": "To feel understood before being fixed", "women": "To feel understood before being fixed" }
+      {
+        "aspect": "Immediate goal",
+        "men": "Slightly more likely to listen for the problem to solve",
+        "women": "Slightly more likely to listen for connection first"
+      },
+      {
+        "aspect": "Typical response",
+        "men": "May offer a solution or plan",
+        "women": "May offer reflection and shared feeling"
+      },
+      {
+        "aspect": "Risk of the style",
+        "men": "Can feel dismissive if help wasn't wanted",
+        "women": "Can feel like avoidance if help was wanted"
+      },
+      {
+        "aspect": "What both need",
+        "men": "To feel understood before being fixed",
+        "women": "To feel understood before being fixed"
+      }
     ]
   },
   "keyTakeaways": [

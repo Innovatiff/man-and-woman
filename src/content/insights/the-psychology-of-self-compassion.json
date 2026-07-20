@@ -1,26 +1,30 @@
 {
-  "title": "The Psychology of Self-Compassion — What Research Shows",
+  "title": "The Psychology of Self-Compassion: What Research Shows",
   "slug": "the-psychology-of-self-compassion",
   "category": "happiness-and-fulfillment",
   "focusGender": "both",
   "featured": false,
-  "tags": ["happiness", "emotions", "self-improvement"],
-  "metaTitle": "The Psychology of Self-Compassion — What Research Shows",
+  "tags": [
+    "happiness",
+    "emotions",
+    "self-improvement"
+  ],
+  "metaTitle": "The Psychology of Self-Compassion: What Research Shows",
   "metaDescription": "Why treating yourself with kindness tends to build more resilience and follow-through than harsh self-criticism, and what self-compassion really is.",
-  "coreFinding": "Self-compassion means treating yourself with the same kindness you would offer a good friend — especially when you fail or fall short. Research suggests it tends to build more resilience, motivation, and emotional stability than harsh self-criticism does. Far from being self-indulgent, it appears to help people recover from setbacks and keep trying rather than spiraling.",
+  "coreFinding": "Self-compassion means treating yourself with the same kindness you would offer a good friend, especially when you fail or fall short. Research suggests it tends to build more resilience, motivation, and emotional stability than harsh self-criticism does. Far from being self-indulgent, it appears to help people recover from setbacks and keep trying rather than spiraling.",
   "whatResearchShows": [
     "Kristin Neff (2003), who pioneered the modern research, describes self-compassion as three linked elements: self-kindness rather than self-judgment, a sense of common humanity rather than isolation, and mindful awareness of one's feelings rather than over-identifying with them. Across studies, higher self-compassion tends to be associated with lower anxiety and depression and greater emotional resilience.",
     "A frequent misunderstanding is that self-criticism keeps people disciplined. The evidence points the other way: research suggests self-compassion tends to support motivation and follow-through, partly because people who are kinder to themselves after a failure are more willing to acknowledge it, learn, and try again rather than avoid the whole painful area.",
-    "Self-compassion connects to how we regulate emotion. Work by Gross and John (2003) shows that reappraising difficult situations — a gentler, more balanced interpretation — tends to produce healthier emotional outcomes than suppression. Self-compassion offers exactly that kind of reappraisal toward oneself, softening the internal narrative during hard moments."
+    "Self-compassion connects to how we regulate emotion. Work by Gross and John (2003) shows that reappraising difficult situations (a gentler, more balanced interpretation) tends to produce healthier emotional outcomes than suppression. Self-compassion offers exactly that kind of reappraisal toward oneself, softening the internal narrative during hard moments."
   ],
   "whyItHappens": [
     "Harsh self-criticism often activates the same threat response as an external attack, which can drive shame, avoidance, and rumination. Self-compassion tends to calm that threat response, making it easier to face a mistake honestly and think clearly about what to do next.",
-    "Contingent self-worth — tying your value to achievements or others' approval, as described by Crocker and Wolfe (2001) — leaves people especially vulnerable when they fail. Self-compassion loosens that link by treating worth as something that does not have to be earned through constant success, which buffers the sting of setbacks.",
+    "Contingent self-worth, tying your value to achievements or others' approval as described by Crocker and Wolfe (2001), leaves people especially vulnerable when they fail. Self-compassion loosens that link by treating worth as something that does not have to be earned through constant success, which buffers the sting of setbacks.",
     "Many people learned their inner voice from critical or demanding environments, and they carry it forward assuming it keeps them safe or effective. Recognizing that this voice is learned, not simply 'the truth,' is often the first step toward responding to oneself more kindly."
   ],
   "realLifeExamples": [
     "After a mistake at work, one person berates themselves for days and avoids anything that reminds them of it; another acknowledges the error, feels the disappointment, and asks what they'd tell a friend in the same spot. The second tends to recover and adjust faster.",
-    "Someone starting a new habit slips up once and concludes they've 'failed' entirely, then quits. A more self-compassionate response — treating the slip as a normal part of change — tends to keep them going, which is what actually produces progress over time.",
+    "Someone starting a new habit slips up once and concludes they've 'failed' entirely, then quits. A more self-compassionate response, treating the slip as a normal part of change, tends to keep them going, which is what actually produces progress over time.",
     "A person going through a breakup who tells themselves the pain means they are unlovable often deepens the wound. Reminding themselves that heartbreak is a shared human experience, not a personal defect, tends to ease the isolation and speed recovery.",
     "A parent who loses their patience with a child at the end of a long day can either spiral into 'I'm a terrible parent' or pause and offer themselves the understanding they'd give a friend in the same spot. The kinder response tends to make it easier to repair with the child and do better next time, rather than getting stuck in shame."
   ],
@@ -33,8 +37,8 @@
     "Self-compassion can also reduce defensiveness in conflict. When a person is not terrified of being 'wrong,' they can hear feedback and repair more easily, because acknowledging a mistake no longer feels like a threat to their whole sense of worth."
   ],
   "theNuance": [
-    "While some research finds women report more self-criticism on average, the overlap between genders is large. Janet Hyde's gender similarities hypothesis (2005) is a useful reminder that men and women both struggle with a harsh inner voice, even if socialization shapes its themes differently — appearance and care-giving for some, competence and status for others.",
-    "Self-compassion is a skill that varies widely between individuals and can be developed with practice. It is not about lowering standards or never feeling bad; it is about how you treat yourself while pursuing goals and while hurting — a stance that tends to support, rather than replace, genuine effort."
+    "While some research finds women report more self-criticism on average, the overlap between genders is large. Janet Hyde's gender similarities hypothesis (2005) is a useful reminder that men and women both struggle with a harsh inner voice, even if socialization shapes its themes differently, appearance and care-giving for some, competence and status for others.",
+    "Self-compassion is a skill that varies widely between individuals and can be developed with practice. It is not about lowering standards or never feeling bad; it is about how you treat yourself while pursuing goals and while hurting, a stance that tends to support, rather than replace, genuine effort."
   ],
   "faqs": [
     {
@@ -47,7 +51,7 @@
     },
     {
       "question": "How is self-compassion different from self-esteem?",
-      "answer": "Self-esteem often depends on feeling special or above average and can collapse when you fall short. Self-compassion does not require being better than anyone, so it tends to stay steadier precisely when you most need support — after a failure, rejection, or mistake, when self-esteem often falters."
+      "answer": "Self-esteem often depends on feeling special or above average and can collapse when you fall short. Self-compassion does not require being better than anyone, so it tends to stay steadier precisely when you most need support, after a failure, rejection, or mistake, when self-esteem often falters."
     },
     {
       "question": "Does self-criticism help people improve?",
@@ -76,7 +80,7 @@
     "how-to-build-emotional-resilience"
   ],
   "quickTake": "Self-compassion is treating yourself with the kindness you'd offer a good friend, especially when you fail. Far from self-indulgent, research links it to more resilience, motivation, and follow-through than harsh self-criticism produces.",
-  "pullQuote": "Kindness makes it safe to look at failure honestly rather than defend against it — which is why self-compassionate people tend to take more responsibility, not less.",
+  "pullQuote": "Kindness makes it safe to look at failure honestly rather than defend against it, which is why self-compassionate people tend to take more responsibility, not less.",
   "keyStats": [
     {
       "value": "3 components",
@@ -97,13 +101,25 @@
   "comparison": {
     "title": "At a glance: average tendencies",
     "rows": [
-      { "aspect": "Self-criticism", "men": "Wrestle with a harsh inner voice too", "women": "Report somewhat more self-criticism on average" },
-      { "aspect": "Themes of the inner critic", "men": "Often competence and status", "women": "Often appearance and caregiving" },
-      { "aspect": "Capacity for self-compassion", "men": "A learnable skill; large overlap", "women": "A learnable skill; large overlap" }
+      {
+        "aspect": "Self-criticism",
+        "men": "Wrestle with a harsh inner voice too",
+        "women": "Report somewhat more self-criticism on average"
+      },
+      {
+        "aspect": "Themes of the inner critic",
+        "men": "Often competence and status",
+        "women": "Often appearance and caregiving"
+      },
+      {
+        "aspect": "Capacity for self-compassion",
+        "men": "A learnable skill; large overlap",
+        "women": "A learnable skill; large overlap"
+      }
     ]
   },
   "keyTakeaways": [
-    "Self-compassion is treating yourself as you would a good friend — kindness, shared humanity, and mindful awareness.",
+    "Self-compassion is treating yourself as you would a good friend, kindness, shared humanity, and mindful awareness.",
     "It is not weakness or self-pity: it tends to increase responsibility and follow-through, not excuse-making.",
     "It differs from self-esteem, which can collapse under failure; self-compassion stays steadier when you most need it.",
     "Harsh self-criticism often triggers shame and avoidance, which tend to hinder learning rather than sharpen it.",

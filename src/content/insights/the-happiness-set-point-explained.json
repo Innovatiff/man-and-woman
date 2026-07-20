@@ -4,29 +4,32 @@
   "category": "happiness-and-fulfillment",
   "focusGender": "both",
   "featured": false,
-  "tags": ["happiness", "emotions"],
-  "metaTitle": "The Happiness Set Point Explained — Research",
-  "metaDescription": "What the happiness set point really means: the role of genes, adaptation, and intentional activity — and why your baseline is more movable than it sounds.",
-  "coreFinding": "Research suggests each person tends to have a characteristic baseline level of happiness, shaped substantially by genetics and temperament, that we drift back toward after good and bad events alike. But the set point is a tendency, not a fixed ceiling. Studies indicate that a meaningful share of lasting happiness comes from intentional activities and habits — the part most within a person's influence.",
+  "tags": [
+    "happiness",
+    "emotions"
+  ],
+  "metaTitle": "The Happiness Set Point Explained: Research",
+  "metaDescription": "What the happiness set point really means: the role of genes, adaptation, and intentional activity, and why your baseline is more movable than it sounds.",
+  "coreFinding": "Research suggests each person tends to have a characteristic baseline level of happiness, shaped substantially by genetics and temperament, that we drift back toward after good and bad events alike. But the set point is a tendency, not a fixed ceiling. Studies indicate that a meaningful share of lasting happiness comes from intentional activities and habits, the part most within a person's influence.",
   "whatResearchShows": [
-    "David Lykken and Auke Tellegen's twin research (1996) found that a substantial portion of the variation in people's stable, long-term happiness is heritable — identical twins, even raised apart, tend to resemble each other in baseline well-being more than fraternal twins do. They proposed that each person has a genetically influenced happiness set point that life circumstances nudge but rarely move permanently. Lykken later cautioned against reading this fatalistically, noting that habits still matter.",
-    "The idea of adaptation comes partly from Philip Brickman, Dan Coates and Ronnie Janoff-Bulman's classic 1978 study of lottery winners and accident victims. It suggested that people tend to adjust to dramatic changes in fortune over time, with major life events affecting happiness less, and less durably, than intuition predicts. We habituate to new circumstances and drift back toward our baseline — a process often called the hedonic treadmill.",
-    "Sonja Lyubomirsky, Kennon Sheldon and David Schkade (2005) proposed an influential model dividing the determinants of happiness into a genetic set point, life circumstances, and intentional activity. In their framework, circumstances explain less than people assume, while deliberate activities — how we act, what we attend to, the relationships we build — account for a meaningful and changeable share. The exact proportions are debated, but the core point holds: a real portion of well-being is within reach of effort. These patterns apply broadly across men and women."
+    "David Lykken and Auke Tellegen's twin research (1996) found that a substantial portion of the variation in people's stable, long-term happiness is heritable. Identical twins, even raised apart, tend to resemble each other in baseline well-being more than fraternal twins do. They proposed that each person has a genetically influenced happiness set point that life circumstances nudge but rarely move permanently. Lykken later cautioned against reading this fatalistically, noting that habits still matter.",
+    "The idea of adaptation comes partly from Philip Brickman, Dan Coates and Ronnie Janoff-Bulman's classic 1978 study of lottery winners and accident victims. It suggested that people tend to adjust to dramatic changes in fortune over time, with major life events affecting happiness less, and less durably, than intuition predicts. We habituate to new circumstances and drift back toward our baseline, a process often called the hedonic treadmill.",
+    "Sonja Lyubomirsky, Kennon Sheldon and David Schkade (2005) proposed an influential model dividing the determinants of happiness into a genetic set point, life circumstances, and intentional activity. In their framework, circumstances explain less than people assume, while deliberate activities (how we act, what we attend to, the relationships we build) account for a meaningful and changeable share. The exact proportions are debated, but the core point holds: a real portion of well-being is within reach of effort. These patterns apply broadly across men and women."
   ],
   "whyItHappens": [
     "Part of the set point reflects stable temperament. Traits linked to mood, like extraversion and emotional reactivity, are partly heritable and tend to persist across life, giving each person a characteristic emotional baseline that colors how they experience events.",
-    "Adaptation is the other key mechanism. Human attention is drawn to change rather than to steady states, so a new car, a raise, or even a setback gradually fades into the background as it becomes the norm. This is part of why both windfalls and hardships tend to affect long-term happiness less than people expect — the novelty wears off and the baseline reasserts itself.",
-    "Crucially, intentional activity resists full adaptation better than circumstances do. Lyubomirsky's research suggests that ongoing, varied, effortful activities — nurturing relationships, pursuing goals, practicing gratitude — keep generating fresh positive experience rather than fading into a fixed backdrop, which is why they can shift well-being more durably than a one-time change in situation."
+    "Adaptation is the other key mechanism. Human attention is drawn to change rather than to steady states, so a new car, a raise, or even a setback gradually fades into the background as it becomes the norm. This is part of why both windfalls and hardships tend to affect long-term happiness less than people expect. The novelty wears off and the baseline reasserts itself.",
+    "Crucially, intentional activity resists full adaptation better than circumstances do. Lyubomirsky's research suggests that ongoing, varied, effortful activities (nurturing relationships, pursuing goals, practicing gratitude) keep generating fresh positive experience rather than fading into a fixed backdrop, which is why they can shift well-being more durably than a one-time change in situation."
   ],
   "realLifeExamples": [
-    "Someone gets a long-awaited promotion and feels elated for weeks, then notices the glow fading as the new role becomes routine. Their day-to-day mood settles close to where it was before — a familiar experience of adaptation rather than a sign anything went wrong.",
-    "After a serious setback — a job loss or a breakup — a person often feels they will never recover, yet many find their baseline mood gradually returns over months. Recovery is rarely instant and varies by individual, but the pull back toward a personal baseline is a recurring pattern in the research.",
+    "Someone gets a long-awaited promotion and feels elated for weeks, then notices the glow fading as the new role becomes routine. Their day-to-day mood settles close to where it was before, a familiar experience of adaptation rather than a sign anything went wrong.",
+    "After a serious setback, a job loss or a breakup, a person often feels they will never recover, yet many find their baseline mood gradually returns over months. Recovery is rarely instant and varies by individual, but the pull back toward a personal baseline is a recurring pattern in the research.",
     "Two people in nearly identical circumstances can report quite different levels of happiness, while the same person stays roughly similar in mood across very different chapters of life. This points to a stable internal baseline that travels with the person more than with their situation.",
-    "Someone finally buys the house or the car they had dreamed of for years and feels a genuine lift — then a few months on catches themselves already eyeing the next upgrade, the thrill quietly absorbed into ordinary life. The purchase delivered a real but temporary bump rather than a permanent rise in baseline mood."
+    "Someone finally buys the house or the car they had dreamed of for years and feels a genuine lift, then a few months on catches themselves already eyeing the next upgrade, the thrill quietly absorbed into ordinary life. The purchase delivered a real but temporary bump rather than a permanent rise in baseline mood."
   ],
   "whatPeopleGetWrong": [
     "The biggest misconception is treating the set point as a hard ceiling that makes effort pointless. Research suggests the opposite: while a baseline exists, a meaningful portion of lasting happiness comes from intentional activity, so habits and choices genuinely matter. The set point is a tendency to drift back, not a locked thermostat.",
-    "People also tend to overestimate how much circumstances — income, possessions, a change of scenery — will durably raise their happiness. Because of adaptation, these often deliver a temporary lift that fades. Underestimating adaptation can lead to chasing changes that feel important but move the baseline less than expected."
+    "People also tend to overestimate how much circumstances (income, possessions, a change of scenery) will durably raise their happiness. Because of adaptation, these often deliver a temporary lift that fades. Underestimating adaptation can lead to chasing changes that feel important but move the baseline less than expected."
   ],
   "relationshipImplications": [
     "Understanding adaptation can ease pressure within relationships. Recognizing that the early thrill of a new partner naturally cools, and that no single milestone permanently fixes happiness, can help couples stop treating ordinary settling as failure and instead invest in the ongoing activities that resist habituation.",
@@ -34,7 +37,7 @@
   ],
   "theNuance": [
     "Set point research describes population-level tendencies, and individuals vary considerably. Janet Hyde's gender similarities hypothesis (2005) is a useful reminder that on most psychological measures men and women are far more alike than different, and the basic architecture of the happiness set point appears to apply across both.",
-    "The exact size of the genetic, circumstantial, and intentional shares is debated, and some circumstances — chronic adversity, poverty, isolation, untreated illness — clearly weigh on well-being in ways adaptation does not fully erase. The set point is best read as a meaningful influence on baseline mood, not a deterministic verdict, and not a reason to dismiss real hardship."
+    "The exact size of the genetic, circumstantial, and intentional shares is debated, and some circumstances (chronic adversity, poverty, isolation, untreated illness) clearly weigh on well-being in ways adaptation does not fully erase. The set point is best read as a meaningful influence on baseline mood, not a deterministic verdict, and not a reason to dismiss real hardship."
   ],
   "faqs": [
     {
@@ -43,7 +46,7 @@
     },
     {
       "question": "Can you really change your happiness baseline?",
-      "answer": "Research suggests you can influence it, even if you can't fully escape it. Models like Lyubomirsky's attribute a meaningful share of lasting happiness to intentional activity — habits, relationships, and where we direct attention. The set point is a pull back toward baseline, not a locked thermostat, so effort tends to matter."
+      "answer": "Research suggests you can influence it, even if you can't fully escape it. Models like Lyubomirsky's attribute a meaningful share of lasting happiness to intentional activity, habits, relationships, and where we direct attention. The set point is a pull back toward baseline, not a locked thermostat, so effort tends to matter."
     },
     {
       "question": "Why don't big life events make us permanently happier?",
@@ -55,7 +58,7 @@
     },
     {
       "question": "Is the happiness set point different for men and women?",
-      "answer": "Research suggests the basic architecture — a genetically influenced baseline plus adaptation and intentional activity — applies broadly across both. Consistent with Hyde's gender similarities hypothesis, men and women appear far more alike than different here, with individual temperament mattering more than gender."
+      "answer": "Research suggests the basic architecture, a genetically influenced baseline plus adaptation and intentional activity, applies broadly across both. Consistent with Hyde's gender similarities hypothesis, men and women appear far more alike than different here, with individual temperament mattering more than gender."
     },
     {
       "question": "What actually raises happiness in a lasting way?",
@@ -75,12 +78,12 @@
     "how-gratitude-improves-wellbeing",
     "how-relationships-affect-happiness"
   ],
-  "quickTake": "You do have a happiness baseline, shaped substantially by genes and temperament, that you drift back toward after highs and lows. But it's a tendency, not a ceiling — a real, changeable share of well-being comes from intentional habits and relationships.",
-  "pullQuote": "The set point is a pull back toward baseline, not a locked thermostat — a real portion of well-being stays within reach of effort.",
+  "quickTake": "You do have a happiness baseline, shaped substantially by genes and temperament, that you drift back toward after highs and lows. But it's a tendency, not a ceiling. A real, changeable share of well-being comes from intentional habits and relationships.",
+  "pullQuote": "The set point is a pull back toward baseline, not a locked thermostat. A real portion of well-being stays within reach of effort.",
   "keyStats": [
     {
       "value": "Twin study",
-      "label": "Identical twins, even raised apart, resemble each other in baseline well-being more than fraternal twins — evidence that a substantial share of stable happiness is heritable.",
+      "label": "Identical twins, even raised apart, resemble each other in baseline well-being more than fraternal twins, evidence that a substantial share of stable happiness is heritable.",
       "source": "Lykken & Tellegen (1996)"
     },
     {
@@ -90,16 +93,16 @@
     },
     {
       "value": "3 sources",
-      "label": "An influential model splits happiness into a genetic set point, life circumstances, and intentional activity — with the activity share being the changeable part.",
+      "label": "An influential model splits happiness into a genetic set point, life circumstances, and intentional activity, with the activity share being the changeable part.",
       "source": "Lyubomirsky, Sheldon & Schkade (2005)"
     }
   ],
   "keyTakeaways": [
     "Each person tends to have a characteristic happiness baseline, shaped substantially by genes and temperament, that they drift back toward.",
-    "Adaptation — the hedonic treadmill — means both windfalls and setbacks affect long-term mood less, and less durably, than we intuitively expect.",
+    "Adaptation, the hedonic treadmill, means both windfalls and setbacks affect long-term mood less, and less durably, than we intuitively expect.",
     "The set point is a tendency to drift back, not a fixed ceiling; a meaningful share of lasting happiness comes from intentional activity.",
     "Ongoing, varied, effortful habits resist adaptation better than one-time changes in circumstance, so they shift well-being more durably.",
-    "Chronic adversity, poverty, and isolation genuinely weigh on well-being in ways adaptation does not fully erase — the set point is not a reason to dismiss hardship.",
+    "Chronic adversity, poverty, and isolation genuinely weigh on well-being in ways adaptation does not fully erase. The set point is not a reason to dismiss hardship.",
     "The basic architecture appears to apply across men and women alike, with individual temperament mattering more than gender."
   ],
   "lastReviewed": "2026-06"

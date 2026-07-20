@@ -1,35 +1,41 @@
 {
-  "title": "How to Be a Better Partner — What the Research Actually Supports",
+  "title": "How to Be a Better Partner: What the Research Actually Supports",
   "slug": "how-to-be-a-better-partner",
   "category": "relationships-and-communication",
   "focusGender": "both",
   "featured": false,
-  "tags": ["responsiveness", "communication", "growth", "relationships", "connection"],
+  "tags": [
+    "responsiveness",
+    "communication",
+    "growth",
+    "relationships",
+    "connection"
+  ],
   "metaTitle": "How to Be a Better Partner, Backed by Research",
-  "metaDescription": "Research-backed ways to be a better partner: responsiveness, turning toward bids, repair, gratitude, and sharing the load — practical for both people, not blame.",
-  "coreFinding": "Becoming a better partner is less about grand romance and more about a handful of learnable, everyday habits: showing your partner they are understood and cared for, turning toward their small bids for attention, repairing after conflict, expressing genuine appreciation, and carrying a fair share of the load. These apply equally to both people. The research frames this as growth, not blame — small, consistent effort from each partner tends to matter far more than any single dramatic act.",
+  "metaDescription": "Research-backed ways to be a better partner: responsiveness, turning toward bids, repair, gratitude, and sharing the load, practical for both people, not blame.",
+  "coreFinding": "Becoming a better partner is less about grand romance and more about a handful of learnable, everyday habits: showing your partner they are understood and cared for, turning toward their small bids for attention, repairing after conflict, expressing genuine appreciation, and carrying a fair share of the load. These apply equally to both people. The research frames this as growth, not blame. Small, consistent effort from each partner tends to matter far more than any single dramatic act.",
   "whatResearchShows": [
-    "One of the most robust findings in relationship science is the power of perceived partner responsiveness. Reis and Shaver's model, developed across decades of work, describes intimacy as a process in which one partner feels understood, validated, and cared for by the other. When people believe their partner truly gets them and has their back, satisfaction, trust, and even individual wellbeing tend to rise. Responsiveness, not agreement, is the engine — you do not have to solve everything, but you do have to make your partner feel seen.",
-    "John Gottman's research adds a set of concrete behaviors. Couples who 'turn toward' each other's everyday bids for attention — a comment, a question, a small request — far more often than they turn away tend to build stronger friendships and weather conflict better. Gottman also emphasizes repair after arguments, a gentle rather than harsh start-up, and maintaining a culture of fondness and admiration. These are ordinary, repeatable acts, not personality traits, which is what makes them learnable.",
-    "Two further lines of research round out the picture. Algoe's work on gratitude (including Algoe, Gable and Maisel, 2010) finds that expressing genuine appreciation functions like a 'booster shot,' strengthening bonds and making both partners feel more invested. And Daminger's (2019) research on the cognitive dimension of household labor — the often-invisible mental load of anticipating, planning, and monitoring — shows how unevenly that work is frequently distributed, and why noticing and sharing it is a concrete way to be a fairer, more supportive partner."
+    "One of the most robust findings in relationship science is the power of perceived partner responsiveness. Reis and Shaver's model, developed across decades of work, describes intimacy as a process in which one partner feels understood, validated, and cared for by the other. When people believe their partner truly gets them and has their back, satisfaction, trust, and even individual wellbeing tend to rise. Responsiveness, not agreement, is the engine. You do not have to solve everything, but you do have to make your partner feel seen.",
+    "John Gottman's research adds a set of concrete behaviors. Couples who 'turn toward' each other's everyday bids for attention (a comment, a question, a small request) far more often than they turn away tend to build stronger friendships and weather conflict better. Gottman also emphasizes repair after arguments, a gentle rather than harsh start-up, and maintaining a culture of fondness and admiration. These are ordinary, repeatable acts, not personality traits, which is what makes them learnable.",
+    "Two further lines of research round out the picture. Algoe's work on gratitude (including Algoe, Gable and Maisel, 2010) finds that expressing genuine appreciation functions like a 'booster shot,' strengthening bonds and making both partners feel more invested. And Daminger's (2019) research on the cognitive dimension of household labor (the often-invisible mental load of anticipating, planning, and monitoring) shows how unevenly that work is frequently distributed, and why noticing and sharing it is a concrete way to be a fairer, more supportive partner."
   ],
   "whyItHappens": [
     "These habits work because relationships run on a sense of safety. When a partner is reliably responsive, the nervous system learns the relationship is a secure base, which frees both people to be more open, generous, and resilient under stress. Attachment research suggests this security is built through countless small moments of availability far more than through occasional big reassurances.",
-    "Self-regulation is the quiet prerequisite. Much of what erodes a relationship happens in reactive moments — a sharp reply when tired, defensiveness when criticized, withdrawal when overwhelmed. Pausing to manage your own state before responding is one of the most reliable ways to avoid the corrosive patterns Gottman identifies, and it is a skill either partner can strengthen with practice.",
-    "Gratitude and fair sharing work through reciprocity and recognition. Feeling appreciated makes people want to give more, creating an upward spiral; feeling taken for granted does the reverse. Likewise, when the invisible labor of running a shared life is noticed and shared rather than assumed, both partners feel respected, and resentment — one of the slower killers of intimacy — has less room to grow."
+    "Self-regulation is the quiet prerequisite. Much of what erodes a relationship happens in reactive moments, a sharp reply when tired, defensiveness when criticized, withdrawal when overwhelmed. Pausing to manage your own state before responding is one of the most reliable ways to avoid the corrosive patterns Gottman identifies, and it is a skill either partner can strengthen with practice.",
+    "Gratitude and fair sharing work through reciprocity and recognition. Feeling appreciated makes people want to give more, creating an upward spiral; feeling taken for granted does the reverse. Likewise, when the invisible labor of running a shared life is noticed and shared rather than assumed, both partners feel respected, and resentment, one of the slower killers of intimacy, has less room to grow."
   ],
   "realLifeExamples": [
-    "A partner comes home clearly deflated. Being responsive here is not fixing the problem or offering advice — it is putting the phone down, asking what happened, and reflecting back that it sounds genuinely hard. The other person leaves the conversation feeling understood, which does more for the bond than any solution would have.",
-    "In the middle of cooking, one partner says, 'Look at that sunset.' Turning toward is simply glancing up and sharing the moment for a few seconds. It seems trivial, but Gottman's research suggests these micro-responses, repeated thousands of times, are where trust is actually built — and turning away, again and again, is how couples drift.",
-    "One partner notices that the other always seems to remember the dentist appointments, the gift for the birthday party, the running low on essentials. Naming that invisible work out loud — 'You carry a lot of the mental load; let me take the school logistics' — and then actually following through is a concrete, unglamorous way of being a better partner that appreciation alone cannot replace."
+    "A partner comes home clearly deflated. Being responsive here is not fixing the problem or offering advice; it is putting the phone down, asking what happened, and reflecting back that it sounds genuinely hard. The other person leaves the conversation feeling understood, which does more for the bond than any solution would have.",
+    "In the middle of cooking, one partner says, 'Look at that sunset.' Turning toward is simply glancing up and sharing the moment for a few seconds. It seems trivial, but Gottman's research suggests these micro-responses, repeated thousands of times, are where trust is actually built, and turning away, again and again, is how couples drift.",
+    "One partner notices that the other always seems to remember the dentist appointments, the gift for the birthday party, the running low on essentials. Naming that invisible work out loud, 'You carry a lot of the mental load; let me take the school logistics', and then actually following through is a concrete, unglamorous way of being a better partner that appreciation alone cannot replace."
   ],
   "whatPeopleGetWrong": [
     "A frequent misconception is that being a good partner is mostly about big romantic gestures or grand declarations. The evidence points to the opposite emphasis: everyday responsiveness, small acts of turning toward, and consistent follow-through matter more over time. Dramatic gestures can be genuine and welcome, but they cannot offset a daily pattern of distraction, defensiveness, or being taken for granted.",
-    "The other common error is treating 'being a better partner' as a fix for one person to perform, often framed as figuring out what the other wants and delivering it. Healthy relationships are mutual: both people practicing responsiveness, both repairing, both appreciating, both sharing the load. Framing improvement as blame — the idea that one partner simply needs to try harder while the other evaluates — tends to breed resentment rather than closeness."
+    "The other common error is treating 'being a better partner' as a fix for one person to perform, often framed as figuring out what the other wants and delivering it. Healthy relationships are mutual: both people practicing responsiveness, both repairing, both appreciating, both sharing the load. Framing improvement as blame, the idea that one partner simply needs to try harder while the other evaluates, tends to breed resentment rather than closeness."
   ],
   "relationshipImplications": [
     "In practice, a few habits carry most of the weight for either partner: listen to understand before responding, turn toward small bids instead of brushing them off, repair quickly and sincerely after friction, say specifically what you appreciate, and notice and share the invisible work. None of these require a personality transplant; they are behaviors that improve with attention, and even modest, consistent effort tends to shift a relationship's tone.",
-    "It also helps to make growth a shared project rather than a scorecard. Partners who periodically ask each other, without defensiveness, 'What would help you feel more supported by me?' and then act on the answer tend to grow together. The goal is not to become a flawless partner but a responsive, accountable, and improving one — and to extend the same patience to your partner's growth that you hope for with your own."
+    "It also helps to make growth a shared project rather than a scorecard. Partners who periodically ask each other, without defensiveness, 'What would help you feel more supported by me?' and then act on the answer tend to grow together. The goal is not to become a flawless partner but a responsive, accountable, and improving one, and to extend the same patience to your partner's growth that you hope for with your own."
   ],
   "theNuance": [
     "There is no universal template for a good partner, because people differ in what makes them feel cared for. Some feel most loved through words, others through help, time, or touch, and responsiveness means learning your specific partner rather than applying a generic formula. Curiosity about who this person actually is tends to outperform any checklist.",
@@ -38,7 +44,7 @@
   "faqs": [
     {
       "question": "What's the single most important thing that makes a good partner?",
-      "answer": "If research had to name one thing, it would likely be responsiveness — reliably showing your partner they are understood, valued, and cared for. It does not require solving every problem; it requires making your partner feel genuinely seen, which tends to underpin trust and satisfaction."
+      "answer": "If research had to name one thing, it would likely be responsiveness, reliably showing your partner they are understood, valued, and cared for. It does not require solving every problem; it requires making your partner feel genuinely seen, which tends to underpin trust and satisfaction."
     },
     {
       "question": "Do small everyday actions really matter more than big gestures?",
@@ -58,7 +64,7 @@
     },
     {
       "question": "How do I know what my partner actually needs from me?",
-      "answer": "The most reliable method is to ask and to pay attention, since people differ in what makes them feel loved. A low-pressure question like 'What would help you feel more supported by me?' — asked without defensiveness and acted on — tends to reveal more than any generic advice."
+      "answer": "The most reliable method is to ask and to pay attention, since people differ in what makes them feel loved. A low-pressure question like 'What would help you feel more supported by me?', asked without defensiveness and acted on, tends to reveal more than any generic advice."
     }
   ],
   "researchSources": [
@@ -75,7 +81,7 @@
     "how-to-support-a-struggling-partner",
     "why-listening-matters-more-than-advice"
   ],
-  "quickTake": "Being a better partner comes down to learnable everyday habits — responsiveness, turning toward bids, repairing, appreciating, and sharing the load — practiced by both people, not performed by one.",
+  "quickTake": "Being a better partner comes down to learnable everyday habits (responsiveness, turning toward bids, repairing, appreciating, and sharing the load) practiced by both people, not performed by one.",
   "pullQuote": "You do not have to solve everything; you do have to make your partner feel seen. Trust is built in thousands of small moments, not a few grand ones.",
   "keyStats": [
     {
@@ -99,14 +105,30 @@
     "leftLabel": "Builds the bond",
     "rightLabel": "Wears it down",
     "rows": [
-      { "aspect": "When your partner shares", "men": "Listen to understand and reflect it back", "women": "Jump to advice, minimize, or half-listen" },
-      { "aspect": "Small bids for attention", "men": "Turn toward them, even briefly", "women": "Turn away or stay absorbed elsewhere" },
-      { "aspect": "After conflict", "men": "Repair sincerely and take responsibility", "women": "Stay defensive, keep score, or withdraw" },
-      { "aspect": "The shared load", "men": "Notice, name, and split the invisible work", "women": "Assume it is handled and take it for granted" }
+      {
+        "aspect": "When your partner shares",
+        "men": "Listen to understand and reflect it back",
+        "women": "Jump to advice, minimize, or half-listen"
+      },
+      {
+        "aspect": "Small bids for attention",
+        "men": "Turn toward them, even briefly",
+        "women": "Turn away or stay absorbed elsewhere"
+      },
+      {
+        "aspect": "After conflict",
+        "men": "Repair sincerely and take responsibility",
+        "women": "Stay defensive, keep score, or withdraw"
+      },
+      {
+        "aspect": "The shared load",
+        "men": "Notice, name, and split the invisible work",
+        "women": "Assume it is handled and take it for granted"
+      }
     ]
   },
   "keyTakeaways": [
-    "Perceived responsiveness — making your partner feel understood and cared for — is the core skill.",
+    "Perceived responsiveness, making your partner feel understood and cared for, is the core skill.",
     "Everyday turning toward small bids matters more than occasional grand gestures.",
     "Repair after conflict, gentle start-ups, and genuine gratitude reliably strengthen bonds.",
     "Sharing the invisible mental load is a concrete, often-overlooked way to be a fairer partner.",

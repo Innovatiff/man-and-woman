@@ -1,31 +1,34 @@
 {
-  "title": "How Women Make Decisions — What Psychology Actually Shows",
+  "title": "How Women Make Decisions: What Psychology Actually Shows",
   "slug": "how-women-make-decisions",
   "category": "how-women-think",
   "focusGender": "women",
   "featured": false,
-  "tags": ["how-they-think", "behavior"],
-  "metaTitle": "How Women Make Decisions — The Real Psychology",
+  "tags": [
+    "how-they-think",
+    "behavior"
+  ],
+  "metaTitle": "How Women Make Decisions: The Real Psychology",
   "metaDescription": "How women make decisions: research finds a slight average lean toward caution and thoroughness, but it is context-dependent with large overlap with men.",
-  "coreFinding": "Research finds a modest average difference in decision-making: women tend to be slightly more risk-averse than men in many contexts, weighing potential downsides somewhat more carefully. But this is a small, highly context-dependent tendency with enormous overlap between the sexes — not a sign that women are indecisive, overly cautious, or that they think in a fundamentally different way. The differences shrink or reverse depending on the type of decision and how familiar it is.",
+  "coreFinding": "Research finds a modest average difference in decision-making: women tend to be slightly more risk-averse than men in many contexts, weighing potential downsides somewhat more carefully. But this is a small, highly context-dependent tendency with enormous overlap between the sexes, not a sign that women are indecisive, overly cautious, or that they think in a fundamentally different way. The differences shrink or reverse depending on the type of decision and how familiar it is.",
   "whatResearchShows": [
-    "The most cited evidence is a meta-analysis by Byrnes, Miller and Schafer (1999) covering more than 150 studies of risk-taking. On average, men took somewhat more risks than women — but the size of the difference varied enormously by context and, in several domains, was small or negligible. The authors stressed that the gap was shrinking over time and was never a clean, across-the-board divide. It describes averages, not how any individual decides.",
-    "Crucially, the difference is not uniform. In some areas — certain physical or financial risks — men averaged higher risk-taking; in others the gap nearly vanished. Familiarity, expertise, framing, and social context all shift the picture, sometimes erasing or reversing the average difference. This makes any blanket claim about how 'women decide' versus 'men decide' unreliable.",
-    "A related but separate factor is rumination. Nolen-Hoeksema's work (2000) found women are somewhat more likely, on average, to engage in repetitive thinking, which can mean turning a decision over more thoroughly — sometimes leading to careful, well-considered choices and sometimes to second-guessing. Importantly, more deliberation is not the same as worse decisions; it is a different style, not a deficit, and the overlap with men is large."
+    "The most cited evidence is a meta-analysis by Byrnes, Miller and Schafer (1999) covering more than 150 studies of risk-taking. On average, men took somewhat more risks than women, but the size of the difference varied enormously by context and, in several domains, was small or negligible. The authors stressed that the gap was shrinking over time and was never a clean, across-the-board divide. It describes averages, not how any individual decides.",
+    "Crucially, the difference is not uniform. In some areas, certain physical or financial risks, men averaged higher risk-taking; in others the gap nearly vanished. Familiarity, expertise, framing, and social context all shift the picture, sometimes erasing or reversing the average difference. This makes any blanket claim about how 'women decide' versus 'men decide' unreliable.",
+    "A related but separate factor is rumination. Nolen-Hoeksema's work (2000) found women are somewhat more likely, on average, to engage in repetitive thinking, which can mean turning a decision over more thoroughly, sometimes leading to careful, well-considered choices and sometimes to second-guessing. Importantly, more deliberation is not the same as worse decisions; it is a different style, not a deficit, and the overlap with men is large."
   ],
   "whyItHappens": [
-    "Part of the average difference appears to be socialization. Many girls are encouraged toward caution and discouraged from risk-taking, while many boys are rewarded for boldness — patterns that can shape decision-making tendencies into adulthood. As these norms have shifted toward greater equality, the measured gap in risk-taking has narrowed, suggesting culture plays a substantial role.",
+    "Part of the average difference appears to be socialization. Many girls are encouraged toward caution and discouraged from risk-taking, while many boys are rewarded for boldness, patterns that can shape decision-making tendencies into adulthood. As these norms have shifted toward greater equality, the measured gap in risk-taking has narrowed, suggesting culture plays a substantial role.",
     "Thoroughness can be an adaptive strategy rather than hesitation. Carefully weighing downsides tends to reduce costly mistakes, and a slightly more risk-attentive style can lead to robust, well-reasoned decisions. What is sometimes labeled 'overthinking' is often diligent information-gathering, particularly for choices that carry real consequences.",
     "Context drives much of the variation. The same person makes fast, confident calls in areas of expertise and deliberates carefully in unfamiliar ones. Because women and men are, on average, socialized toward and given experience in different domains, some apparent decision-style differences reflect differing familiarity rather than any inherent way of thinking."
   ],
   "realLifeExamples": [
-    "A woman who asks more questions, reads more reviews, or sleeps on a big purchase before deciding is often not being indecisive — she may be gathering information to make a choice she will not regret. The same careful style applied to a decision in her area of expertise can look fast and confident, because thoroughness scales with stakes and familiarity, not gender.",
+    "A woman who asks more questions, reads more reviews, or sleeps on a big purchase before deciding is often not being indecisive. She may be gathering information to make a choice she will not regret. The same careful style applied to a decision in her area of expertise can look fast and confident, because thoroughness scales with stakes and familiarity, not gender.",
     "In group settings, a woman who voices the potential downsides of a plan is frequently doing valuable risk-assessment, even if it reads as caution. Teams that include this perspective often make more robust decisions, because someone is checking the assumptions others rush past.",
-    "The same woman who deliberates carefully over an unfamiliar, high-stakes decision may be quick and decisive about choices she knows well. This shift within one person illustrates how much context — not a fixed 'female' style — shapes how any of us decide.",
+    "The same woman who deliberates carefully over an unfamiliar, high-stakes decision may be quick and decisive about choices she knows well. This shift within one person illustrates how much context, not a fixed 'female' style, shapes how any of us decide.",
     "Choosing between two job offers, a woman might map out the trade-offs, consult a few trusted people, and take a night before committing. Framed as indecision it looks like a flaw; framed as due diligence on a high-stakes, unfamiliar choice it looks like exactly what the moment calls for."
   ],
   "whatPeopleGetWrong": [
-    "The biggest misconception is that women are inherently indecisive or that careful deliberation signals weakness or confusion. The research suggests a small average lean toward caution in some contexts, but thoroughness is a legitimate, often advantageous decision style — not a flaw. Equating decisiveness with good judgment is itself a mistake; fast and well-considered are different things, and neither maps cleanly onto a gender.",
+    "The biggest misconception is that women are inherently indecisive or that careful deliberation signals weakness or confusion. The research suggests a small average lean toward caution in some contexts, but thoroughness is a legitimate, often advantageous decision style, not a flaw. Equating decisiveness with good judgment is itself a mistake; fast and well-considered are different things, and neither maps cleanly onto a gender.",
     "Pop culture also overstates the size and consistency of the difference. The risk-taking gap is modest, context-dependent, shrinking over time, and swamped by individual variation. Claims that men and women 'think completely differently' about decisions are not supported by the evidence, which points to large overlap and small averages."
   ],
   "relationshipImplications": [
@@ -33,7 +36,7 @@
     "It also helps to avoid gendered assumptions about who should decide what. Decision style tracks personality, expertise, and context far more than sex, so the best approach is usually to lean on whoever has the relevant knowledge and to treat careful deliberation as a contribution rather than a delay."
   ],
   "theNuance": [
-    "These are small averages with very large overlap. Janet Hyde's gender similarities hypothesis (2005) shows men and women are far more alike than different on most psychological measures, and decision-making is a clear example — plenty of women are bold risk-takers and plenty of men are careful deliberators. Knowing someone's gender tells you very little about how they will decide.",
+    "These are small averages with very large overlap. Janet Hyde's gender similarities hypothesis (2005) shows men and women are far more alike than different on most psychological measures, and decision-making is a clear example. Plenty of women are bold risk-takers and plenty of men are careful deliberators. Knowing someone's gender tells you very little about how they will decide.",
     "Personality, experience, culture, and the specific decision matter far more than sex. Risk tolerance varies hugely within each gender, the measured gap has been shrinking with changing norms, and the same person decides differently across domains. Any individual is best understood on their own terms, not through a population average."
   ],
   "faqs": [
@@ -43,7 +46,7 @@
     },
     {
       "question": "Are women more risk-averse than men?",
-      "answer": "Somewhat, on average, and only in certain domains. The risk-taking gap varies enormously by context — large in some areas, negligible in others — and is influenced by familiarity, framing, and socialization. As gender norms have grown more equal, the measured difference has narrowed considerably."
+      "answer": "Somewhat, on average, and only in certain domains. The risk-taking gap varies enormously by context (large in some areas, negligible in others) and is influenced by familiarity, framing, and socialization. As gender norms have grown more equal, the measured difference has narrowed considerably."
     },
     {
       "question": "Does deliberating more mean women are indecisive?",
@@ -51,7 +54,7 @@
     },
     {
       "question": "Why might a woman take longer over a big decision?",
-      "answer": "Often because she is gathering information to make a choice she will not regret, especially when stakes are high or the situation is unfamiliar. Thoroughness tends to scale with consequences and familiarity rather than gender — the same person may decide quickly in areas she knows well."
+      "answer": "Often because she is gathering information to make a choice she will not regret, especially when stakes are high or the situation is unfamiliar. Thoroughness tends to scale with consequences and familiarity rather than gender. The same person may decide quickly in areas she knows well."
     },
     {
       "question": "Is careful decision-making an advantage?",
@@ -74,7 +77,7 @@
     "what-drives-female-behavior",
     "female-intuition-explained"
   ],
-  "quickTake": "Women lean slightly toward caution and thoroughness in some decisions on average, weighing downsides a bit more carefully. But it's a small, context-dependent tendency with huge overlap with men — not indecision, and not a fundamentally different way of thinking.",
+  "quickTake": "Women lean slightly toward caution and thoroughness in some decisions on average, weighing downsides a bit more carefully. But it's a small, context-dependent tendency with huge overlap with men, not indecision, and not a fundamentally different way of thinking.",
   "pullQuote": "What is sometimes labeled 'overthinking' is often diligent information-gathering, particularly for choices that carry real consequences.",
   "keyStats": [
     {
@@ -96,17 +99,33 @@
   "comparison": {
     "title": "At a glance: average tendencies",
     "rows": [
-      { "aspect": "Risk appetite", "men": "Slightly higher on average in some domains", "women": "Slightly more risk-attentive on average in some domains" },
-      { "aspect": "Deliberation", "men": "Somewhat quicker to commit, on average", "women": "Somewhat more likely to weigh downsides first" },
-      { "aspect": "Context dependence", "men": "Style shifts with familiarity and expertise", "women": "Style shifts with familiarity and expertise" },
-      { "aspect": "Size of the gap", "men": "Small and shrinking over time", "women": "Small and shrinking over time" }
+      {
+        "aspect": "Risk appetite",
+        "men": "Slightly higher on average in some domains",
+        "women": "Slightly more risk-attentive on average in some domains"
+      },
+      {
+        "aspect": "Deliberation",
+        "men": "Somewhat quicker to commit, on average",
+        "women": "Somewhat more likely to weigh downsides first"
+      },
+      {
+        "aspect": "Context dependence",
+        "men": "Style shifts with familiarity and expertise",
+        "women": "Style shifts with familiarity and expertise"
+      },
+      {
+        "aspect": "Size of the gap",
+        "men": "Small and shrinking over time",
+        "women": "Small and shrinking over time"
+      }
     ]
   },
   "keyTakeaways": [
-    "On average, women lean slightly more risk-attentive in some contexts — but the effect is small and highly context-dependent.",
+    "On average, women lean slightly more risk-attentive in some contexts, but the effect is small and highly context-dependent.",
     "Thoroughness is a legitimate, often advantageous decision style, not indecision or weakness.",
     "The risk-taking gap varies by domain, has been shrinking with changing norms, and is swamped by individual variation.",
-    "Familiarity and expertise drive how anyone decides more than gender — the same person is fast in known areas and careful in new ones.",
+    "Familiarity and expertise drive how anyone decides more than gender. The same person is fast in known areas and careful in new ones.",
     "Pairing a cautious and a risk-tolerant style can strengthen joint decisions when both perspectives are respected.",
     "Decisiveness and good judgment are not the same; fast and well-considered are different things."
   ],

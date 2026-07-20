@@ -1,35 +1,39 @@
 {
-  "title": "How Women Can Recover From Burnout — What Research Shows",
+  "title": "How Women Can Recover From Burnout: What Research Shows",
   "slug": "how-women-can-recover-from-burnout",
   "category": "self-improvement-women",
   "focusGender": "women",
   "featured": false,
-  "tags": ["self-improvement", "emotions", "behavior"],
-  "metaTitle": "How Women Can Recover From Burnout — A Research Guide",
+  "tags": [
+    "self-improvement",
+    "emotions",
+    "behavior"
+  ],
+  "metaTitle": "How Women Can Recover From Burnout: A Research Guide",
   "metaDescription": "Research-based recovery from burnout: easing the invisible mental load, restoring autonomy and rest, setting boundaries, and interrupting rumination.",
   "coreFinding": "Burnout is exhaustion that builds when ongoing demands outpace recovery, and research suggests it is often worsened for women by the invisible mental load of anticipating and managing others' needs. Recovery tends to depend less on a single rest and more on structurally reducing demands, restoring autonomy and genuine rest, setting boundaries, and interrupting the rumination that keeps the stress response switched on.",
   "whatResearchShows": [
-    "Allison Daminger's research on the cognitive dimension of household labor (2019) describes how much of the work in a home is invisible — anticipating needs, monitoring, and planning — and that this mental load tends to fall disproportionately on women. Because it is continuous and hard to put down, it can drain recovery time even when the visible tasks are shared, which helps explain why rest alone often does not fix burnout.",
-    "Self-determination theory (Deci and Ryan, 2000) finds that autonomy — a sense of acting from one's own choices rather than constant obligation — is a basic need that supports vitality. Burnout frequently coincides with low autonomy: long stretches of doing what one 'must' with little say. Recovery research suggests restoring even small areas of genuine choice helps replenish energy.",
+    "Allison Daminger's research on the cognitive dimension of household labor (2019) describes how much of the work in a home is invisible (anticipating needs, monitoring, and planning) and that this mental load tends to fall disproportionately on women. Because it is continuous and hard to put down, it can drain recovery time even when the visible tasks are shared, which helps explain why rest alone often does not fix burnout.",
+    "Self-determination theory (Deci and Ryan, 2000) finds that autonomy, a sense of acting from one's own choices rather than constant obligation, is a basic need that supports vitality. Burnout frequently coincides with low autonomy: long stretches of doing what one 'must' with little say. Recovery research suggests restoring even small areas of genuine choice helps replenish energy.",
     "Susan Nolen-Hoeksema's work on rumination (2000) shows that repetitively dwelling on problems and distress, a coping style more common among women on average, tends to prolong and deepen low mood rather than resolve it. When recovery time is spent mentally rehearsing stressors, the nervous system stays activated, which can stall the rest that burnout requires."
   ],
   "whyItHappens": [
-    "Burnout rarely comes from a single overwhelming event. It accumulates when demands — paid work, caregiving, emotional labor, the mental load — consistently exceed the time and resources for recovery. Because the mental load is ongoing and invisible, a person can look like they are 'just managing' right up until they are depleted.",
+    "Burnout rarely comes from a single overwhelming event. It accumulates when demands (paid work, caregiving, emotional labor, the mental load) consistently exceed the time and resources for recovery. Because the mental load is ongoing and invisible, a person can look like they are 'just managing' right up until they are depleted.",
     "Socialization toward caretaking and accommodation can make rest feel undeserved or selfish, so recovery gets postponed in favor of others' needs. Many women report difficulty stopping while anything is left undone, which keeps the demand side high and the recovery side perpetually deferred.",
     "Rumination keeps the stress response engaged off the clock. Worrying about work in bed, replaying a difficult interaction, or mentally managing tomorrow's logistics all prevent the physiological down-regulation that real recovery depends on, so even nominal rest does not restore much."
   ],
   "realLifeExamples": [
-    "Someone who takes a long-awaited vacation but spends it coordinating the household and answering messages may return no less exhausted — a sign that the mental load, not just the hours, is what needs reducing.",
+    "Someone who takes a long-awaited vacation but spends it coordinating the household and answering messages may return no less exhausted, a sign that the mental load, not just the hours, is what needs reducing.",
     "A woman who delegates a task but still carries the responsibility of remembering and checking it has handed off the doing but not the cognitive load. Genuine relief often comes only when both the task and the ownership of it move.",
     "Practices like a firm end to the workday, a walk without a phone, or writing down tomorrow's worries so they can be set aside tend to help because they interrupt rumination and create a real boundary between demand and recovery.",
-    "Someone who is 'the one who remembers everything' — birthdays, refills, permission slips, the state of the fridge — may feel wired and depleted at once, unable to relax even with an empty afternoon. Handing off whole domains, so someone else owns the tracking rather than waiting to be told, tends to lighten the load in a way that a single day off cannot."
+    "Someone who is 'the one who remembers everything' (birthdays, refills, permission slips, the state of the fridge) may feel wired and depleted at once, unable to relax even with an empty afternoon. Handing off whole domains, so someone else owns the tracking rather than waiting to be told, tends to lighten the load in a way that a single day off cannot."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that burnout is solved by a weekend off or better time management. Research suggests it is usually structural: if the underlying demands and the invisible mental load remain unchanged, rest provides only temporary relief. Lasting recovery tends to require reducing the load itself.",
     "Another error is reading burnout as a personal failing or lack of resilience. More often it reflects a genuine mismatch between sustained demands and recovery, frequently amplified by an unequal distribution of invisible labor rather than by any deficiency in the person."
   ],
   "relationshipImplications": [
-    "Because so much of the burden is invisible, partners may genuinely not see it, and burnout can quietly breed resentment. Naming the mental load specifically — not just 'help more' but 'own the planning and remembering for these areas' — tends to redistribute it more effectively than vague requests.",
+    "Because so much of the burden is invisible, partners may genuinely not see it, and burnout can quietly breed resentment. Naming the mental load specifically, not just 'help more' but 'own the planning and remembering for these areas', tends to redistribute it more effectively than vague requests.",
     "Recovery is easier when those around a depleted person treat rest as legitimate rather than optional. Protecting time, sharing the cognitive load, and not interpreting boundaries as rejection all give recovery room to happen."
   ],
   "theNuance": [
@@ -55,7 +59,7 @@
     },
     {
       "question": "How does overthinking make burnout worse?",
-      "answer": "Nolen-Hoeksema's work suggests that ruminating — repeatedly dwelling on stressors — keeps the stress response engaged and tends to prolong low mood. When recovery time is spent mentally rehearsing problems, the nervous system never fully down-regulates, which can stall the rest that recovery requires."
+      "answer": "Nolen-Hoeksema's work suggests that ruminating, repeatedly dwelling on stressors, keeps the stress response engaged and tends to prolong low mood. When recovery time is spent mentally rehearsing problems, the nervous system never fully down-regulates, which can stall the rest that recovery requires."
     },
     {
       "question": "How can someone start recovering from burnout?",
@@ -84,7 +88,7 @@
     },
     {
       "value": "Basic need",
-      "label": "Autonomy — acting from one's own choices rather than constant obligation — is a basic psychological need that supports vitality, and burnout often coincides with low autonomy.",
+      "label": "Autonomy, acting from one's own choices rather than constant obligation, is a basic psychological need that supports vitality, and burnout often coincides with low autonomy.",
       "source": "Deci & Ryan (2000)"
     },
     {
@@ -101,15 +105,31 @@
   "comparison": {
     "title": "Burnout and the mental load: average tendencies",
     "rows": [
-      { "aspect": "Invisible mental load", "men": "Often carries less of the anticipating and planning", "women": "Often carries more of the ongoing monitoring" },
-      { "aspect": "Guilt about resting", "men": "Present, less tied to caretaking norms", "women": "More often feels rest is undeserved or selfish" },
-      { "aspect": "Rumination off the clock", "men": "Reported somewhat less on average", "women": "Reported somewhat more on average" },
-      { "aspect": "What recovery needs", "men": "Reducing demands, real rest", "women": "Reducing demands, offloading the load, real rest" }
+      {
+        "aspect": "Invisible mental load",
+        "men": "Often carries less of the anticipating and planning",
+        "women": "Often carries more of the ongoing monitoring"
+      },
+      {
+        "aspect": "Guilt about resting",
+        "men": "Present, less tied to caretaking norms",
+        "women": "More often feels rest is undeserved or selfish"
+      },
+      {
+        "aspect": "Rumination off the clock",
+        "men": "Reported somewhat less on average",
+        "women": "Reported somewhat more on average"
+      },
+      {
+        "aspect": "What recovery needs",
+        "men": "Reducing demands, real rest",
+        "women": "Reducing demands, offloading the load, real rest"
+      }
     ]
   },
   "keyTakeaways": [
     "Burnout is a demand-recovery imbalance that accumulates, not a single crisis or a sign of weakness.",
-    "A vacation rarely fixes it: if the underlying load stays, relief is temporary — the load itself has to come down.",
+    "A vacation rarely fixes it: if the underlying load stays, relief is temporary. The load itself has to come down.",
     "The invisible mental load drains recovery even when visible chores are shared, so it must be redistributed by name.",
     "Restoring even small areas of genuine choice and rest helps replenish energy that obligation depletes.",
     "Rumination keeps the stress response on off the clock; firm boundaries and interrupting the loop protect real rest.",

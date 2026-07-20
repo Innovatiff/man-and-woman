@@ -1,13 +1,16 @@
 {
-  "title": "What Men Find Attractive in Personality — What Research Shows",
+  "title": "What Men Find Attractive in Personality: What Research Shows",
   "slug": "what-men-find-attractive-in-personality",
   "category": "what-men-want",
   "focusGender": "men",
   "featured": false,
-  "tags": ["attraction", "what-they-want"],
-  "metaTitle": "What Men Find Attractive in Personality — The Research",
+  "tags": [
+    "attraction",
+    "what-they-want"
+  ],
+  "metaTitle": "What Men Find Attractive in Personality: The Research",
   "metaDescription": "Beyond looks, what personality traits do men tend to find attractive? Research points to kindness, warmth, and intelligence as the most valued qualities.",
-  "coreFinding": "When researchers ask men what they want in a partner, kindness, warmth, and intelligence consistently rank at or near the top — often above physical attractiveness when it comes to a long-term relationship. Men and women's stated priorities overlap far more than the stereotypes suggest, and the few average differences shrink further once real attraction is studied face to face.",
+  "coreFinding": "When researchers ask men what they want in a partner, kindness, warmth, and intelligence consistently rank at or near the top, often above physical attractiveness when it comes to a long-term relationship. Men and women's stated priorities overlap far more than the stereotypes suggest, and the few average differences shrink further once real attraction is studied face to face.",
   "whatResearchShows": [
     "David Buss's landmark cross-cultural study of mate preferences (1989), spanning thirty-seven cultures, found that both men and women rated kindness and intelligence among the most desired traits in a partner. Men did, on average, place somewhat more weight on physical attractiveness than women did, but warmth and a dependable, kind character were near-universal priorities for both sexes.",
     "Eastwick and Finkel's speed-dating research (2008) complicated the older picture. When men's stated preferences were compared with what actually predicted their attraction during live interactions, the supposed male emphasis on looks did not reliably forecast who they were drawn to in person. Qualities like warmth, responsiveness, and a sense of humor mattered a great deal once people were interacting rather than reading a checklist.",
@@ -16,16 +19,16 @@
   "whyItHappens": [
     "Kindness and warmth are strong signals of how someone is likely to treat a partner over the long run. From an evolutionary standpoint, Buss argued that traits predicting cooperation, care, and reliability are valuable to anyone seeking a lasting bond, which helps explain why they show up at the top of both men's and women's lists rather than being a 'female' preference.",
     "Intelligence and a lively personality also signal compatibility and the promise of an interesting life together. People tend to be drawn to those who feel stimulating to be around and easy to share a future with, and humor in particular often reads as a marker of warmth and intelligence at once.",
-    "The gap between what men say and what actually attracts them likely reflects how stated preferences work. It is easy to name physical attractiveness in the abstract, but in a real encounter the felt experience of someone's warmth, attentiveness, and wit tends to drive the spark — which is why checklists predict attraction poorly."
+    "The gap between what men say and what actually attracts them likely reflects how stated preferences work. It is easy to name physical attractiveness in the abstract, but in a real encounter the felt experience of someone's warmth, attentiveness, and wit tends to drive the spark, which is why checklists predict attraction poorly."
   ],
   "realLifeExamples": [
     "A man who describes his 'type' in physical terms but ends up falling for someone who simply makes him laugh and feel at ease is living out the gap Eastwick and Finkel documented between stated preference and lived attraction.",
-    "Many men report that feeling genuinely liked and accepted by someone warm is a powerful draw — being around a person whose kindness extends to waiters, friends, and strangers often registers as more attractive over time than striking looks alone.",
+    "Many men report that feeling genuinely liked and accepted by someone warm is a powerful draw. Being around a person whose kindness extends to waiters, friends, and strangers often registers as more attractive over time than striking looks alone.",
     "Shared humor frequently does heavy lifting early on. A conversation that flows and turns playful can shift someone from 'attractive on paper' to 'I can't stop thinking about them,' which is why personality so often outlasts first impressions.",
-    "A man who swiped past someone's profile photos without a second thought can find himself completely won over after one easy, funny conversation — the warmth and quick wit in person rewriting a first impression that looks alone had already dismissed."
+    "A man who swiped past someone's profile photos without a second thought can find himself completely won over after one easy, funny conversation, the warmth and quick wit in person rewriting a first impression that looks alone had already dismissed."
   ],
   "whatPeopleGetWrong": [
-    "The biggest misconception is that men are driven mainly by looks. The research suggests physical attractiveness matters more on average to men's initial interest, but for a relationship of any depth, kindness, intelligence, and warmth tend to weigh at least as heavily — and predict actual attraction better than appearance does once people interact.",
+    "The biggest misconception is that men are driven mainly by looks. The research suggests physical attractiveness matters more on average to men's initial interest, but for a relationship of any depth, kindness, intelligence, and warmth tend to weigh at least as heavily, and predict actual attraction better than appearance does once people interact.",
     "It is also a mistake to read the average male edge on valuing looks as a large or universal difference. The overlap with women is substantial, and many men prioritize character and connection from the start."
   ],
   "relationshipImplications": [
@@ -74,7 +77,7 @@
     "the-psychology-of-physical-attraction",
     "how-attraction-works"
   ],
-  "quickTake": "Beyond looks, men consistently rank kindness, warmth, and intelligence at or near the top of what they find attractive — often above appearance for anything lasting. And once real attraction is studied face to face, the supposed male focus on looks largely fades.",
+  "quickTake": "Beyond looks, men consistently rank kindness, warmth, and intelligence at or near the top of what they find attractive, often above appearance for anything lasting. And once real attraction is studied face to face, the supposed male focus on looks largely fades.",
   "pullQuote": "It is easy to name a physical type in the abstract, but in a real encounter the felt experience of someone's warmth, wit, and attentiveness tends to drive the spark.",
   "keyStats": [
     {
@@ -96,18 +99,34 @@
   "comparison": {
     "title": "At a glance: average tendencies",
     "rows": [
-      { "aspect": "Top-ranked traits", "men": "Kindness, intelligence, warmth", "women": "Kindness, intelligence, warmth" },
-      { "aspect": "Weight on physical looks", "men": "Somewhat higher, especially for initial interest", "women": "Somewhat lower, on average" },
-      { "aspect": "Stated 'type' vs. real attraction", "men": "Often diverge — checklists predict poorly", "women": "Also diverge, though tend to state preferences more accurately" },
-      { "aspect": "What sustains attraction", "men": "Warmth, humor, feeling at ease together", "women": "Warmth, responsiveness, feeling understood" }
+      {
+        "aspect": "Top-ranked traits",
+        "men": "Kindness, intelligence, warmth",
+        "women": "Kindness, intelligence, warmth"
+      },
+      {
+        "aspect": "Weight on physical looks",
+        "men": "Somewhat higher, especially for initial interest",
+        "women": "Somewhat lower, on average"
+      },
+      {
+        "aspect": "Stated 'type' vs. real attraction",
+        "men": "Often diverge. Checklists predict poorly",
+        "women": "Also diverge, though tend to state preferences more accurately"
+      },
+      {
+        "aspect": "What sustains attraction",
+        "men": "Warmth, humor, feeling at ease together",
+        "women": "Warmth, responsiveness, feeling understood"
+      }
     ]
   },
   "keyTakeaways": [
     "Kindness, warmth, and intelligence consistently rank at or near the top of what men find attractive, often above looks for a lasting relationship.",
     "Men do report weighing physical attractiveness somewhat more than women on average, but the gap is modest and the overlap large.",
-    "Stated 'types' predict real attraction poorly — in live interaction, warmth and humor drive the spark more than a checklist does.",
+    "Stated 'types' predict real attraction poorly. In live interaction, warmth and humor drive the spark more than a checklist does.",
     "Humor often reads as a marker of warmth and intelligence at once, which is why it does so much early work.",
-    "Personality preferences are shaped by culture, age, and life stage far more than by gender — these are averages, not a formula."
+    "Personality preferences are shaped by culture, age, and life stage far more than by gender. These are averages, not a formula."
   ],
   "lastReviewed": "2026-06"
 }

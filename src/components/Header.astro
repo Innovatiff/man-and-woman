@@ -122,7 +122,7 @@ const isGroup = (
   .brand-accent {
     color: var(--color-primary);
   }
-  /* Phones: heart only — the wordmark is kept for tablet and desktop. The brand
+  /* Phones: heart only. The wordmark is kept for tablet and desktop. The brand
      keeps its font-size so the em-sized heart mark stays the right size. */
   @media (max-width: 600px) {
     .brand-text {
@@ -469,7 +469,7 @@ const isGroup = (
     }
   });
 
-  // Theme toggle — flips data-theme and remembers the choice.
+  // Theme toggle: flips data-theme and remembers the choice.
   document.getElementById('theme-toggle')?.addEventListener('click', () => {
     const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
     const next = isDark ? 'light' : 'dark';

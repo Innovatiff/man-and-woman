@@ -6,7 +6,7 @@
   /sitemap-index.xml -> /sitemap-0.xml (regenerated every build with the current
   URL list). Some tools and people expect the sitemap at /sitemap.xml, so this
   static index simply points at the always-current /sitemap-0.xml. It contains a
-  pointer only — never a hard-coded URL list — so it never goes stale as pages
+  pointer only, never a hard-coded URL list, so it never goes stale as pages
   are added. Submitting either /sitemap.xml or /sitemap-index.xml to Search
   Console works and resolves to the same set of URLs.
 -->

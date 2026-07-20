@@ -23,8 +23,8 @@ const { rows, title, leftLabel, rightLabel } = Astro.props;
 const neutral = Boolean(leftLabel && rightLabel);
 const heading = title ?? (neutral ? 'At a glance' : 'At a glance: average tendencies');
 const note = neutral
-  ? 'A side-by-side contrast to make the distinction concrete — patterns and tendencies, not rigid rules.'
-  : "Broad averages with heavy overlap — many people differ from their group's tendency. This is a map, not a measurement of any one person.";
+  ? 'A side-by-side contrast to make the distinction concrete, patterns and tendencies, not rigid rules.'
+  : "Broad averages with heavy overlap. Many people differ from their group's tendency. This is a map, not a measurement of any one person.";
 ---
 
 <section class="cmp" aria-label={heading}>

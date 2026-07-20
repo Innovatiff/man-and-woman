@@ -5,9 +5,9 @@ import DisclaimerBox from '../../components/DisclaimerBox.astro';
 import { SITE } from '../../config';
 import { QUESTIONS, SCALE, RESULTS, STYLE_ORDER } from '../../data/quizzes/attachment-style';
 
-const metaTitle = "What's Your Attachment Style? — Free Research-Based Quiz";
+const metaTitle = "What's Your Attachment Style? A Free Research-Based Quiz";
 const metaDescription =
-  'A short, research-based attachment style quiz. See whether you lean secure, anxious, avoidant, or fearful-avoidant — and what it means for your relationships.';
+  'A short, research-based attachment style quiz. See whether you lean secure, anxious, avoidant, or fearful-avoidant, and what it means for your relationships.';
 
 // Escaped so the JSON can never break out of the <script> tag.
 const quizData = JSON.stringify({
@@ -49,7 +49,7 @@ const jsonLd = {
       <p class="eyebrow">Research-based quiz</p>
       <h1>What's your attachment style?</h1>
       <p class="lede">
-        A short reflection on how you tend to bond in close relationships — scored on the two
+        A short reflection on how you tend to bond in close relationships, scored on the two
         dimensions psychologists actually measure: attachment anxiety and attachment avoidance.
       </p>
     </header>
@@ -59,7 +59,7 @@ const jsonLd = {
       <section id="quiz-intro" class="quiz-card">
         <h2>Before you start</h2>
         <p>
-          There are four broad attachment patterns — <strong>secure</strong>,
+          There are four broad attachment patterns: <strong>secure</strong>,
           <strong>anxious</strong>, <strong>avoidant</strong>, and
           <strong>fearful-avoidant</strong>. Most people are a blend, and where you land can shift
           over time and even between relationships.
@@ -71,7 +71,7 @@ const jsonLd = {
         <ul class="quiz-meta">
           <li>16 quick questions</li>
           <li>About 2 minutes</li>
-          <li>Your answers stay in your browser — nothing is sent or stored</li>
+          <li>Your answers stay in your browser: nothing is sent or stored</li>
         </ul>
         <button type="button" class="btn btn--primary btn--lg" id="quiz-start">Start the quiz</button>
         <noscript>
@@ -92,7 +92,7 @@ const jsonLd = {
         </fieldset>
         <div class="quiz-controls">
           <button type="button" class="btn btn--ghost" id="quiz-back">← Back</button>
-          <span class="quiz-hint muted">Pick the option that fits best — there are no right answers.</span>
+          <span class="quiz-hint muted">Pick the option that fits best. There are no right answers.</span>
         </div>
       </section>
 

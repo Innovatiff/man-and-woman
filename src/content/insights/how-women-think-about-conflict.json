@@ -1,28 +1,32 @@
 {
-  "title": "How Women Think About Conflict — The Psychology",
+  "title": "How Women Think About Conflict: The Psychology",
   "slug": "how-women-think-about-conflict",
   "category": "how-women-think",
   "focusGender": "women",
   "featured": false,
-  "tags": ["how-they-think", "conflict", "communication"],
-  "metaTitle": "How Women Think About Conflict — What Research Shows",
+  "tags": [
+    "how-they-think",
+    "conflict",
+    "communication"
+  ],
+  "metaTitle": "How Women Think About Conflict: What Research Shows",
   "metaDescription": "Research suggests many women tend to raise issues and seek engagement in conflict, often treating a fight as an attempt to reconnect and repair.",
-  "coreFinding": "Research suggests many women, on average, are somewhat more likely to raise issues and push for engagement during conflict, while a partner withdraws — the well-documented demand-withdraw pattern. For many women, a fight is often less about winning than about being heard and restoring connection. The willingness to bring problems forward frequently reflects investment in the relationship rather than a wish to argue.",
+  "coreFinding": "Research suggests many women, on average, are somewhat more likely to raise issues and push for engagement during conflict, while a partner withdraws, the well-documented demand-withdraw pattern. For many women, a fight is often less about winning than about being heard and restoring connection. The willingness to bring problems forward frequently reflects investment in the relationship rather than a wish to argue.",
   "whatResearchShows": [
-    "Christensen and Heavey's research on the demand-withdraw pattern (1990) found that, on average, women more often take the demanding or engaging role in conflict — raising concerns, pressing for discussion, seeking change — while their partners more often withdraw or stonewall. Crucially, they showed this is not purely a gender trait: the roles shift depending on who wants change. Whoever is seeking change tends to demand, and since women often raise relationship issues, they more frequently occupy that role.",
-    "Gottman and Silver's marriage research (1999) reframes what conflict is for. They found that how couples handle disagreement matters more than whether they disagree, and that repair attempts — efforts to de-escalate and reconnect during a fight — strongly predict whether relationships last. For many women, raising an issue is itself a bid for repair: an attempt to resolve something so the connection can be restored, rather than an attack.",
-    "Rumination research adds nuance to the aftermath. Nolen-Hoeksema (2000) found that women are, on average, somewhat more prone to rumination — replaying and analyzing distressing events. This can mean conflicts stay mentally active longer, fueling a wish to talk things through to resolution. None of this is unique to women; the average differences from men are modest, with heavy overlap, and the demand-withdraw dynamic depends heavily on the specific issue and pairing."
+    "Christensen and Heavey's research on the demand-withdraw pattern (1990) found that, on average, women more often take the demanding or engaging role in conflict (raising concerns, pressing for discussion, seeking change) while their partners more often withdraw or stonewall. Crucially, they showed this is not purely a gender trait: the roles shift depending on who wants change. Whoever is seeking change tends to demand, and since women often raise relationship issues, they more frequently occupy that role.",
+    "Gottman and Silver's marriage research (1999) reframes what conflict is for. They found that how couples handle disagreement matters more than whether they disagree, and that repair attempts, efforts to de-escalate and reconnect during a fight, strongly predict whether relationships last. For many women, raising an issue is itself a bid for repair: an attempt to resolve something so the connection can be restored, rather than an attack.",
+    "Rumination research adds nuance to the aftermath. Nolen-Hoeksema (2000) found that women are, on average, somewhat more prone to rumination, replaying and analyzing distressing events. This can mean conflicts stay mentally active longer, fueling a wish to talk things through to resolution. None of this is unique to women; the average differences from men are modest, with heavy overlap, and the demand-withdraw dynamic depends heavily on the specific issue and pairing."
   ],
   "whyItHappens": [
     "The tendency to engage rather than avoid makes sense given what conflict is often about. Christensen and Heavey (1990) showed the demanding role usually falls to whoever wants change, and since many women raise relationship and emotional issues, they more often press for discussion. Approaching conflict as something to be talked through, rather than waited out, follows naturally from caring about resolving the underlying problem.",
-    "Framing a fight as an attempt to reconnect fits Gottman's repair research (1999). If raising an issue is fundamentally a bid to fix something and restore closeness, then pushing for engagement is an investment in the relationship, not a rejection of it. Many women describe wanting to resolve a conflict precisely because they do not want distance to settle in — silence can feel more threatening than the argument.",
+    "Framing a fight as an attempt to reconnect fits Gottman's repair research (1999). If raising an issue is fundamentally a bid to fix something and restore closeness, then pushing for engagement is an investment in the relationship, not a rejection of it. Many women describe wanting to resolve a conflict precisely because they do not want distance to settle in. Silence can feel more threatening than the argument.",
     "Rumination (Nolen-Hoeksema, 2000) helps explain why unresolved conflict can be hard to set aside. If distressing events stay mentally active and get replayed, then leaving a fight unfinished is uncomfortable, which can intensify the wish to talk until things feel settled. This is an average tendency, not a universal one, and it can be a strength when it drives toward resolution or a burden when it loops without relief."
   ],
   "realLifeExamples": [
-    "A woman who keeps raising an unresolved issue may be seeking repair rather than rehashing the fight for its own sake. From the inside it often feels like trying to reconnect; when a partner withdraws, the pursuit can intensify — the classic demand-withdraw escalation (Christensen and Heavey) where one presses harder as the other pulls further away.",
+    "A woman who keeps raising an unresolved issue may be seeking repair rather than rehashing the fight for its own sake. From the inside it often feels like trying to reconnect; when a partner withdraws, the pursuit can intensify, the classic demand-withdraw escalation (Christensen and Heavey) where one presses harder as the other pulls further away.",
     "Because conflict is often experienced as a bid for connection, a partner's willingness to stay engaged and attempt repair can matter more than who is right. Many women report that being heard and feeling the relationship is being tended to de-escalates a conflict faster than a quick concession that skips the emotional point.",
     "After a fight, a woman may continue thinking it over and want to revisit it, partly because the event stays mentally active (Nolen-Hoeksema). What can look like dwelling is often an attempt to reach a sense of resolution so the issue can finally be set down rather than left hanging.",
-    "One partner brings up a recurring frustration about chores; the other, feeling criticized, goes quiet and reaches for their phone, which prompts the first to press harder and raise their voice. Within minutes the specific chore is forgotten and the fight is about the withdrawal itself — a textbook demand-withdraw loop (Christensen and Heavey) that eases only when the quiet partner re-engages and the other softens the opening."
+    "One partner brings up a recurring frustration about chores; the other, feeling criticized, goes quiet and reaches for their phone, which prompts the first to press harder and raise their voice. Within minutes the specific chore is forgotten and the fight is about the withdrawal itself, a textbook demand-withdraw loop (Christensen and Heavey) that eases only when the quiet partner re-engages and the other softens the opening."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that a woman who raises conflict or pushes to talk is simply argumentative or trying to start a fight. The research suggests the opposite is often true: pressing for engagement usually reflects investment and a wish to repair (Gottman). And the demanding role tracks who wants change more than gender itself (Christensen and Heavey), so it is situational, not a fixed trait.",
@@ -33,13 +37,13 @@
     "This cuts both ways. The same drive that brings issues forward can tip into over-pursuit or rumination when conflict goes unresolved, so a softer start-up and a partner who does not stonewall both help. The aim is usually not to avoid conflict but to handle it in a way that restores connection, which research links to lasting relationships."
   ],
   "theNuance": [
-    "These are averages, and the overlap between women and men is large. Janet Hyde's gender similarities hypothesis (2005) shows that on most psychological measures the sexes are far more alike than different. Plenty of men are the ones who raise and pursue conflict while their partners withdraw, and plenty of women are conflict-avoidant — the roles depend heavily on the issue and the pairing.",
+    "These are averages, and the overlap between women and men is large. Janet Hyde's gender similarities hypothesis (2005) shows that on most psychological measures the sexes are far more alike than different. Plenty of men are the ones who raise and pursue conflict while their partners withdraw, and plenty of women are conflict-avoidant. The roles depend heavily on the issue and the pairing.",
     "Attachment style and the specific relationship often predict conflict behavior better than sex does. An anxiously attached person of either gender may pursue and seek reassurance; an avoidant one may withdraw. Culture, upbringing, and what is actually at stake all reshape the picture, so any single woman may differ markedly from the group average."
   ],
   "faqs": [
     {
       "question": "How do many women tend to approach conflict?",
-      "answer": "Research suggests many women, on average, are somewhat more likely to raise issues and seek engagement, while a partner withdraws — the demand-withdraw pattern. For many women a fight is often about being heard and restoring connection rather than winning. This is an average tendency, with wide variation between individuals."
+      "answer": "Research suggests many women, on average, are somewhat more likely to raise issues and seek engagement, while a partner withdraws, the demand-withdraw pattern. For many women a fight is often about being heard and restoring connection rather than winning. This is an average tendency, with wide variation between individuals."
     },
     {
       "question": "Why does it sometimes feel like she keeps pushing while he goes quiet?",
@@ -51,7 +55,7 @@
     },
     {
       "question": "Why might a woman keep revisiting a conflict afterward?",
-      "answer": "Research suggests women are, on average, somewhat more prone to rumination — replaying distressing events. Unresolved conflict can stay mentally active, fueling a wish to talk until things feel settled. What can look like dwelling is often an attempt to reach resolution. This is a modest average tendency, not universal."
+      "answer": "Research suggests women are, on average, somewhat more prone to rumination, replaying distressing events. Unresolved conflict can stay mentally active, fueling a wish to talk until things feel settled. What can look like dwelling is often an attempt to reach resolution. This is a modest average tendency, not universal."
     },
     {
       "question": "What helps de-escalate conflict with a partner who engages strongly?",
@@ -74,8 +78,8 @@
     "why-women-need-to-feel-heard",
     "how-men-and-women-communicate"
   ],
-  "quickTake": "On average women are somewhat more likely to raise issues and push for engagement while a partner withdraws — the demand-withdraw pattern. For many, a fight is less about winning than about being heard and restoring connection, so bringing problems forward often signals investment.",
-  "pullQuote": "For many women, raising an issue is itself a bid for repair — an attempt to restore closeness, not an attack.",
+  "quickTake": "On average women are somewhat more likely to raise issues and push for engagement while a partner withdraws, the demand-withdraw pattern. For many, a fight is less about winning than about being heard and restoring connection, so bringing problems forward often signals investment.",
+  "pullQuote": "For many women, raising an issue is itself a bid for repair, an attempt to restore closeness, not an attack.",
   "keyStats": [
     {
       "value": "Who wants change",
@@ -84,31 +88,47 @@
     },
     {
       "value": "Repair predicts",
-      "label": "How couples handle disagreement — especially repair attempts to de-escalate — predicts whether relationships last more than whether they disagree.",
+      "label": "How couples handle disagreement, especially repair attempts to de-escalate, predicts whether relationships last more than whether they disagree.",
       "source": "Gottman & Silver (1999)"
     },
     {
       "value": "Modest",
-      "label": "Average female tendency toward rumination, replaying distressing events — small, with heavy overlap between the sexes.",
+      "label": "Average female tendency toward rumination, replaying distressing events, small, with heavy overlap between the sexes.",
       "source": "Nolen-Hoeksema (2000)"
     }
   ],
   "comparison": {
     "title": "At a glance: average tendencies",
     "rows": [
-      { "aspect": "Typical role in conflict", "men": "More often withdraw or stonewall", "women": "More often demand or engage" },
-      { "aspect": "What drives the role", "men": "Situational — depends on who wants change", "women": "Situational — depends on who wants change" },
-      { "aspect": "What a fight is often for", "men": "Sometimes to settle or avoid escalation", "women": "Often to be heard and restore connection" },
-      { "aspect": "After the conflict", "men": "May set it aside sooner", "women": "May ruminate and want to revisit" }
+      {
+        "aspect": "Typical role in conflict",
+        "men": "More often withdraw or stonewall",
+        "women": "More often demand or engage"
+      },
+      {
+        "aspect": "What drives the role",
+        "men": "Situational, depends on who wants change",
+        "women": "Situational, depends on who wants change"
+      },
+      {
+        "aspect": "What a fight is often for",
+        "men": "Sometimes to settle or avoid escalation",
+        "women": "Often to be heard and restore connection"
+      },
+      {
+        "aspect": "After the conflict",
+        "men": "May set it aside sooner",
+        "women": "May ruminate and want to revisit"
+      }
     ]
   },
   "keyTakeaways": [
-    "On average women more often take the engaging role and partners the withdrawing role — the demand-withdraw pattern.",
+    "On average women more often take the engaging role and partners the withdrawing role, the demand-withdraw pattern.",
     "The demanding role tracks who wants change more than gender, so it is situational, not fixed.",
     "For many women a fight is a bid for repair and reconnection, not a wish to argue.",
     "Repair attempts that de-escalate predict lasting relationships more than the frequency of disagreement.",
     "Demand-withdraw is co-created; it eases when the withdrawer engages and the demander softens the start-up.",
-    "These are averages with large overlap — plenty of men pursue and plenty of women avoid conflict."
+    "These are averages with large overlap. Plenty of men pursue and plenty of women avoid conflict."
   ],
   "lastReviewed": "2026-06"
 }

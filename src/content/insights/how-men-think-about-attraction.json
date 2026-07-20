@@ -4,14 +4,17 @@
   "category": "how-men-think",
   "focusGender": "men",
   "featured": false,
-  "tags": ["how-they-think", "attraction"],
-  "metaTitle": "How Men Think About Attraction — Beyond Looks",
+  "tags": [
+    "how-they-think",
+    "attraction"
+  ],
+  "metaTitle": "How Men Think About Attraction: Beyond Looks",
   "metaDescription": "Research suggests men's stated preferences and real-life attraction often diverge. Why kindness, competence, and similarity matter more than looks alone.",
   "coreFinding": "Men are often assumed to think about attraction almost entirely in terms of looks. Research suggests the picture is more complicated: stated preferences and what actually draws men in person frequently diverge, and qualities like kindness, warmth, competence, and similarity carry real weight. Physical attraction matters, but it is rarely the whole story it is made out to be.",
   "whatResearchShows": [
     "Survey research does find an average difference in stated priorities. Buss's (1989) large cross-cultural study reported that men, on average, place somewhat more emphasis on physical attractiveness when describing what they want, while women weight cues like resources somewhat more. These are group-level tendencies with wide overlap, not universal rules, and they describe what people say they want.",
-    "What people say, however, often differs from what moves them in person. Eastwick and Finkel (2008) found that in speed-dating studies, men's stated preference for looks did not reliably predict who they were actually drawn to once they met someone face to face. Live attraction was driven by chemistry and connection that the survey preferences failed to forecast — for men and women alike.",
-    "Similarity also plays a large role. Montoya and Horton's (2013) meta-analysis on the similarity-attraction effect found that perceiving someone as similar in values and outlook reliably increases liking. Beyond an initial spark, men commonly report being drawn to people who feel compatible, easy to talk to, and warm — qualities that have little to do with appearance and a lot to do with fit. None of these patterns is unique to men."
+    "What people say, however, often differs from what moves them in person. Eastwick and Finkel (2008) found that in speed-dating studies, men's stated preference for looks did not reliably predict who they were actually drawn to once they met someone face to face. Live attraction was driven by chemistry and connection that the survey preferences failed to forecast, for men and women alike.",
+    "Similarity also plays a large role. Montoya and Horton's (2013) meta-analysis on the similarity-attraction effect found that perceiving someone as similar in values and outlook reliably increases liking. Beyond an initial spark, men commonly report being drawn to people who feel compatible, easy to talk to, and warm, qualities that have little to do with appearance and a lot to do with fit. None of these patterns is unique to men."
   ],
   "whyItHappens": [
     "Initial visual attraction is fast and somewhat automatic, which is part of why it gets overemphasized. A man may notice physical appeal first simply because it registers quickly, but that first impression is often a doorway rather than the destination. What sustains attraction tends to involve personality, responsiveness, and shared ground that only emerge over time.",
@@ -19,10 +22,10 @@
     "Attraction also functions as part of a broader bonding process, not a standalone judgment of appearance. Feeling at ease, understood, and compatible deepens pull in ways that pure aesthetics cannot. This is why many men describe attraction growing as they get to know someone, sometimes well beyond what the first glance suggested."
   ],
   "realLifeExamples": [
-    "A man might describe his 'type' in physical terms, then end up genuinely drawn to someone who does not match that description at all — because the connection, ease, and shared sense of humor created a pull the stated type never accounted for.",
+    "A man might describe his 'type' in physical terms, then end up genuinely drawn to someone who does not match that description at all, because the connection, ease, and shared sense of humor created a pull the stated type never accounted for.",
     "Kindness and warmth frequently shift how attractive someone seems over time. A person a man found pleasant but not striking at first can become markedly more appealing as their character shows, illustrating how attraction is rarely fixed at first sight.",
     "Competence and passion can be powerfully attractive in ways unrelated to looks. Many men report being drawn to someone who is good at what they do or alive with interest in something, finding that energy and capability magnetic in a way a photograph could never capture.",
-    "At a speed-dating event, a man might arrive convinced he wants a particular look, yet leave most interested in the person he laughed with easily — a mismatch between his checklist and his chemistry that plays out again and again in the research."
+    "At a speed-dating event, a man might arrive convinced he wants a particular look, yet leave most interested in the person he laughed with easily, a mismatch between his checklist and his chemistry that plays out again and again in the research."
   ],
   "whatPeopleGetWrong": [
     "The biggest misconception is that men think about attraction in purely physical terms and little else. Research suggests stated emphasis on looks does not reliably predict real-life attraction, and qualities like warmth, similarity, and competence carry substantial weight once people actually interact.",
@@ -75,11 +78,11 @@
     "how-women-think-about-attraction"
   ],
   "quickTake": "Men are assumed to think about attraction almost entirely in terms of looks, but stated preferences and real-life attraction often diverge. Kindness, warmth, competence, and especially similarity carry real weight once people actually interact.",
-  "pullQuote": "What a man says he wants and who he is actually drawn to in person are often two different things — the first glance is a doorway, not the destination.",
+  "pullQuote": "What a man says he wants and who he is actually drawn to in person are often two different things. The first glance is a doorway, not the destination.",
   "keyStats": [
     {
       "value": "37 cultures",
-      "label": "In a large cross-cultural study, men on average stated somewhat more emphasis on physical attractiveness — but these are group tendencies with wide overlap, describing what people say they want.",
+      "label": "In a large cross-cultural study, men on average stated somewhat more emphasis on physical attractiveness, but these are group tendencies with wide overlap, describing what people say they want.",
       "source": "Buss (1989)"
     },
     {
@@ -89,21 +92,37 @@
     },
     {
       "value": "Reliable effect",
-      "label": "A meta-analysis found that perceiving someone as similar in values and outlook reliably increases liking — often more than appearance once people interact.",
+      "label": "A meta-analysis found that perceiving someone as similar in values and outlook reliably increases liking, often more than appearance once people interact.",
       "source": "Montoya & Horton (2013)"
     }
   ],
   "comparison": {
     "title": "Attraction: average tendencies",
     "rows": [
-      { "aspect": "Stated priority", "men": "Somewhat more emphasis on looks when asked", "women": "Somewhat more emphasis on resources when asked" },
-      { "aspect": "Live attraction", "men": "Stated preferences poorly predict real pull", "women": "Stated preferences poorly predict real pull too" },
-      { "aspect": "What sustains it", "men": "Warmth, similarity, competence, connection", "women": "Warmth, similarity, competence, connection" },
-      { "aspect": "How it develops", "men": "Often grows as compatibility emerges", "women": "Often grows as compatibility emerges" }
+      {
+        "aspect": "Stated priority",
+        "men": "Somewhat more emphasis on looks when asked",
+        "women": "Somewhat more emphasis on resources when asked"
+      },
+      {
+        "aspect": "Live attraction",
+        "men": "Stated preferences poorly predict real pull",
+        "women": "Stated preferences poorly predict real pull too"
+      },
+      {
+        "aspect": "What sustains it",
+        "men": "Warmth, similarity, competence, connection",
+        "women": "Warmth, similarity, competence, connection"
+      },
+      {
+        "aspect": "How it develops",
+        "men": "Often grows as compatibility emerges",
+        "women": "Often grows as compatibility emerges"
+      }
     ]
   },
   "keyTakeaways": [
-    "Men state somewhat more emphasis on looks on average, but this describes what they say — not reliably who draws them in person.",
+    "Men state somewhat more emphasis on looks on average, but this describes what they say, not reliably who draws them in person.",
     "In speed-dating research, stated preferences failed to predict real-life attraction for men and women alike.",
     "Similarity in values and outlook reliably increases liking, often more than appearance once people interact.",
     "Initial visual appeal is frequently a doorway; warmth, character, and compatibility sustain and can deepen the pull.",

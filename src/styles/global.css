@@ -1,11 +1,11 @@
 /* ==========================================================================
-   Men Women Psychology — Design system
+   Men Women Psychology: Design system
    Calm, intelligent, research-forward. Primary color: a deep, serious red
-   (trust over alarm). Gender-neutral throughout — no pink/blue coding.
+   (trust over alarm). Gender-neutral throughout, no pink/blue coding.
    ========================================================================== */
 
 :root {
-  /* Brand red — anchored on #dc2626 (primary), with harmonious tints/shades */
+  /* Brand red, anchored on #dc2626 (primary), with harmonious tints/shades */
   --red-50: #fef2f2;
   --red-100: #fee2e2;
   --red-200: #fecaca;
@@ -78,7 +78,7 @@
 
 /* --------------------------------------------------------------------------
    Dark theme. Applied when the root carries data-theme="dark" (set by the
-   no-flash script in the head). Only COLOUR tokens flip — the typography,
+   no-flash script in the head). Only COLOUR tokens flip, the typography,
    scale, layout, and spacing tokens live in :root and are shared by both
    themes. Components read tokens, so surfaces, text, borders, callouts, and
    shadows all adapt without per-component changes.

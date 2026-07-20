@@ -1,7 +1,7 @@
 /**
  * Attachment-style quiz.
  *
- * Modelled on how attachment is actually measured — the two dimensions of the
+ * Modelled on how attachment is actually measured: the two dimensions of the
  * Experiences in Close Relationships tradition (Brennan, Clark & Shaver):
  * attachment ANXIETY (fear of abandonment, need for reassurance) and attachment
  * AVOIDANCE (discomfort with closeness and depending on others). The four styles
@@ -73,7 +73,7 @@ export const RESULTS: Record<StyleId, QuizResult> = {
     axes: 'Lower anxiety · lower avoidance',
     description: [
       'You tend to experience closeness as safe and dependable. You can rely on others and let others rely on you, express needs fairly directly, and handle conflict or time apart without it feeling like a threat to the whole relationship.',
-      'Around half of people land roughly here. Security is not about being perfect or never anxious — it is a baseline sense that connection is trustworthy, and it is also something people can grow toward over time.',
+      'Around half of people land roughly here. Security is not about being perfect or never anxious. It is a baseline sense that connection is trustworthy, and it is also something people can grow toward over time.',
     ],
     strengths: [
       'Comfortable both depending on a partner and being depended on',
@@ -81,7 +81,7 @@ export const RESULTS: Record<StyleId, QuizResult> = {
       'Recovers from conflict without long shutdowns or spirals',
     ],
     growth: [
-      'Even secure people wobble under stress — keep naming needs out loud',
+      'Even secure people wobble under stress: keep naming needs out loud',
       'Stay curious about partners whose style differs from yours',
     ],
     links: [
@@ -93,10 +93,10 @@ export const RESULTS: Record<StyleId, QuizResult> = {
   anxious: {
     id: 'anxious',
     name: 'Anxious (Preoccupied)',
-    tagline: 'You value deep closeness — and can fear it slipping away.',
+    tagline: 'You value deep closeness, and can fear it slipping away.',
     axes: 'Higher anxiety · lower avoidance',
     description: [
-      'You tend to want deep connection and are highly attuned to a partner — a real strength — but you may also worry about being left, seek reassurance, and feel thrown by distance or ambiguity.',
+      'You tend to want deep connection and are highly attuned to a partner, a real strength, but you may also worry about being left, seek reassurance, and feel thrown by distance or ambiguity.',
       'This pattern often traces back to inconsistent early caregiving, where care was sometimes there and sometimes not. It is a learned pattern, not a flaw or a life sentence, and it can move toward security in safe, steady relationships.',
     ],
     strengths: [
@@ -121,7 +121,7 @@ export const RESULTS: Record<StyleId, QuizResult> = {
     tagline: 'You prize independence and can find closeness uncomfortable.',
     axes: 'Lower anxiety · higher avoidance',
     description: [
-      'You tend to be self-reliant and calm on the surface, but deep emotional closeness — or leaning on someone — can feel uncomfortable, so you may keep a little distance or pull back when things get intense.',
+      'You tend to be self-reliant and calm on the surface, but deep emotional closeness, or leaning on someone, can feel uncomfortable, so you may keep a little distance or pull back when things get intense.',
       'The needs for connection are usually still there underneath; the strategy is to turn them down rather than turn them off. This often traces to early experiences that quietly discouraged depending on others, and it can shift with patience and safety.',
     ],
     strengths: [
@@ -147,7 +147,7 @@ export const RESULTS: Record<StyleId, QuizResult> = {
     axes: 'Higher anxiety · higher avoidance',
     description: [
       'You may long for deep connection yet feel afraid of it, which can create a push-pull: reaching for closeness and then retreating when it arrives. Both the wish for love and the fear of it are strong at once.',
-      'This is the least common pattern and often traces to early experiences where the people you needed were also, at times, a source of fear or unpredictability. It can be tender territory — and, like the other patterns, it can change with safety, steadiness, and sometimes support from a professional.',
+      'This is the least common pattern and often traces to early experiences where the people you needed were also, at times, a source of fear or unpredictability. It can be tender territory, and, like the other patterns, it can change with safety, steadiness, and sometimes support from a professional.',
     ],
     strengths: [
       'Often deeply empathetic and aware of emotional undercurrents',
@@ -157,7 +157,7 @@ export const RESULTS: Record<StyleId, QuizResult> = {
     growth: [
       'Building safety and consistency, in relationships and with yourself',
       'Noticing the approach-and-retreat swing without acting on it instantly',
-      'Being gentle with yourself — this pattern usually formed for good reasons',
+      'Being gentle with yourself: this pattern usually formed for good reasons',
     ],
     links: [
       { label: 'The disorganized attachment style', href: '/insights/the-psychology-of-the-disorganized-attachment-style/' },

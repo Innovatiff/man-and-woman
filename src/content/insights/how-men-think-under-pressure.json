@@ -1,35 +1,39 @@
 {
-  "title": "How Men Think Under Pressure — Stress and Focus",
+  "title": "How Men Think Under Pressure: Stress and Focus",
   "slug": "how-men-think-under-pressure",
   "category": "how-men-think",
   "focusGender": "men",
   "featured": false,
-  "tags": ["how-they-think", "emotions", "behavior"],
-  "metaTitle": "How Men Think Under Pressure — The Psychology",
-  "metaDescription": "Research on how many men think under pressure: narrowing focus, action orientation, and stress responses — and why individual variation matters most.",
-  "coreFinding": "Under acute pressure, many men tend toward narrowing focus and moving to action — a fight-or-flight pattern that prioritizes solving the immediate problem over processing feelings in the moment. This can be effective in a crisis but may look like emotional shutdown to others. Much of the difference from women is modest, and coping style varies widely by individual.",
+  "tags": [
+    "how-they-think",
+    "emotions",
+    "behavior"
+  ],
+  "metaTitle": "How Men Think Under Pressure: The Psychology",
+  "metaDescription": "Research on how many men think under pressure: narrowing focus, action orientation, and stress responses, and why individual variation matters most.",
+  "coreFinding": "Under acute pressure, many men tend toward narrowing focus and moving to action, a fight-or-flight pattern that prioritizes solving the immediate problem over processing feelings in the moment. This can be effective in a crisis but may look like emotional shutdown to others. Much of the difference from women is modest, and coping style varies widely by individual.",
   "whatResearchShows": [
-    "Shelley Taylor and colleagues (2000) proposed that while the classic fight-or-flight stress response is well documented, women may also draw more on a 'tend-and-befriend' pattern — seeking connection and caregiving under threat. This suggests that under pressure, men may lean somewhat more toward confronting or withdrawing from a stressor, while support-seeking can be relatively more common in women. Taylor framed these as tendencies shaped by biology and socialization, not absolutes.",
+    "Shelley Taylor and colleagues (2000) proposed that while the classic fight-or-flight stress response is well documented, women may also draw more on a 'tend-and-befriend' pattern, seeking connection and caregiving under threat. This suggests that under pressure, men may lean somewhat more toward confronting or withdrawing from a stressor, while support-seeking can be relatively more common in women. Taylor framed these as tendencies shaped by biology and socialization, not absolutes.",
     "Research on emotion regulation by Gross (1998) distinguishes strategies like reappraisal (rethinking a situation) from suppression (holding feelings in). Under acute stress, some men lean on suppression and action, setting feelings aside to deal with the problem first. Suppression can help in the short term but tends to be costlier over time than reappraisal.",
     "It is important not to overstate these patterns. Janet Hyde's gender similarities hypothesis (2005) shows the sexes are far more alike than different on most psychological measures, including how they handle stress. Plenty of men seek support under pressure and plenty of women narrow and act. The averages are modest and the overlap is large."
   ],
   "whyItHappens": [
     "The acute stress response narrows attention toward the perceived threat and mobilizes the body for action. For someone whose habitual style is to act first, this can look like going quiet, tunneling in on the task, and setting emotions aside until the pressure passes.",
     "Socialization reinforces this in many men. Boys are often taught to stay composed, not to appear rattled, and to fix problems rather than voice distress. Under pressure, that training can surface as a calm, task-focused exterior that masks real strain underneath.",
-    "Suppressing feelings in the moment can be adaptive when quick action is needed, but it has a cost. Feelings held in during a crisis often need to be processed later; when they are not, stress can accumulate — and dwelling on it unproductively, what Nolen-Hoeksema (2000) called rumination, can make matters worse. This is one reason chronic pressure can show up as irritability, fatigue, or withdrawal well after the event."
+    "Suppressing feelings in the moment can be adaptive when quick action is needed, but it has a cost. Feelings held in during a crisis often need to be processed later; when they are not, stress can accumulate, and dwelling on it unproductively, what Nolen-Hoeksema (2000) called rumination, can make matters worse. This is one reason chronic pressure can show up as irritability, fatigue, or withdrawal well after the event."
   ],
   "realLifeExamples": [
-    "In an emergency, a man may become strikingly calm and directive, focusing entirely on what needs doing — and only afterward, once the pressure lifts, feel the emotional weight of what happened.",
+    "In an emergency, a man may become strikingly calm and directive, focusing entirely on what needs doing, and only afterward, once the pressure lifts, feel the emotional weight of what happened.",
     "During a tense conflict, some men go quiet and problem-focused rather than expressing what they feel, which a partner may read as coldness when it is closer to a narrowed, overloaded state.",
-    "Under sustained work or financial stress, a man may not talk about it, instead becoming more withdrawn or short-tempered at home — the pressure showing up indirectly because it was set aside rather than processed.",
-    "A man juggling a deadline crunch might answer 'I'm fine' when asked how he's doing, not to deceive but because he has genuinely filed the stress away to get through the week — and only when the deadline passes does the fatigue and short temper he'd been suppressing catch up with him."
+    "Under sustained work or financial stress, a man may not talk about it, instead becoming more withdrawn or short-tempered at home, the pressure showing up indirectly because it was set aside rather than processed.",
+    "A man juggling a deadline crunch might answer 'I'm fine' when asked how he's doing, not to deceive but because he has genuinely filed the stress away to get through the week, and only when the deadline passes does the fatigue and short temper he'd been suppressing catch up with him."
   ],
   "whatPeopleGetWrong": [
-    "A common misconception is that a man who stays calm and action-focused under pressure is unbothered. Often the composure is a coping style, not an absence of stress — feelings may be suppressed in the moment and surface later rather than never arising at all.",
+    "A common misconception is that a man who stays calm and action-focused under pressure is unbothered. Often the composure is a coping style, not an absence of stress. Feelings may be suppressed in the moment and surface later rather than never arising at all.",
     "Another mistake is assuming men handle pressure better because they show less. Showing less is not the same as feeling less; different coping styles have different costs, and quietly carrying stress can take its own toll over time."
   ],
   "relationshipImplications": [
-    "Recognizing that a partner may narrow and go quiet under pressure — rather than reject connection — can prevent misreadings during hard moments. Giving space to solve the immediate problem, then checking in once the pressure eases, often works better than demanding emotional processing mid-crisis.",
+    "Recognizing that a partner may narrow and go quiet under pressure, rather than reject connection, can prevent misreadings during hard moments. Giving space to solve the immediate problem, then checking in once the pressure eases, often works better than demanding emotional processing mid-crisis.",
     "This cuts both ways. Men who learn to name stress and reach for support, rather than only suppressing and acting, tend to cope better over the long run. Building the habit of processing pressure afterward, not just weathering it, protects both wellbeing and relationships."
   ],
   "theNuance": [
@@ -47,7 +51,7 @@
     },
     {
       "question": "Do men handle pressure better than women?",
-      "answer": "Not really — they often show less, which is different from feeling less. Research finds the sexes are far more alike than different in handling stress. Different coping styles carry different costs, and quietly suppressing pressure can take its own toll over time."
+      "answer": "Not really. They often show less, which is different from feeling less. Research finds the sexes are far more alike than different in handling stress. Different coping styles carry different costs, and quietly suppressing pressure can take its own toll over time."
     },
     {
       "question": "What is tend-and-befriend, and does it apply to men?",
@@ -74,12 +78,12 @@
     "how-men-make-decisions",
     "why-men-compartmentalize"
   ],
-  "quickTake": "Under acute pressure, many men narrow their focus and move to action, setting feelings aside to solve the problem first. It can look like shutdown but is usually a coping style — the stress often surfaces later, and individual variation is large.",
-  "pullQuote": "Showing less is not the same as feeling less — feelings suppressed to get through a crisis often need processing afterward.",
+  "quickTake": "Under acute pressure, many men narrow their focus and move to action, setting feelings aside to solve the problem first. It can look like shutdown but is usually a coping style. The stress often surfaces later, and individual variation is large.",
+  "pullQuote": "Showing less is not the same as feeling less. Feelings suppressed to get through a crisis often need processing afterward.",
   "keyStats": [
     {
       "value": "Tend-and-befriend",
-      "label": "Alongside fight-or-flight, women may draw relatively more on seeking connection and caregiving under threat — a tendency shaped by biology and socialization, not an absolute.",
+      "label": "Alongside fight-or-flight, women may draw relatively more on seeking connection and caregiving under threat, a tendency shaped by biology and socialization, not an absolute.",
       "source": "Taylor et al. (2000)"
     },
     {
@@ -96,19 +100,35 @@
   "comparison": {
     "title": "At a glance: average tendencies",
     "rows": [
-      { "aspect": "First move under acute stress", "men": "Often narrow focus and act on the problem", "women": "Also act, but relatively more likely to seek support" },
-      { "aspect": "Handling feelings in the moment", "men": "Frequently suppress and set them aside", "women": "Sometimes more likely to process or voice them" },
-      { "aspect": "Outward appearance", "men": "Calm, task-focused exterior that can mask strain", "women": "Varies; distress may be more visible on average" },
-      { "aspect": "When stress surfaces", "men": "Often later — irritability, fatigue, withdrawal", "women": "Also delayed sometimes, but support-seeking can vent it earlier" }
+      {
+        "aspect": "First move under acute stress",
+        "men": "Often narrow focus and act on the problem",
+        "women": "Also act, but relatively more likely to seek support"
+      },
+      {
+        "aspect": "Handling feelings in the moment",
+        "men": "Frequently suppress and set them aside",
+        "women": "Sometimes more likely to process or voice them"
+      },
+      {
+        "aspect": "Outward appearance",
+        "men": "Calm, task-focused exterior that can mask strain",
+        "women": "Varies; distress may be more visible on average"
+      },
+      {
+        "aspect": "When stress surfaces",
+        "men": "Often later, irritability, fatigue, withdrawal",
+        "women": "Also delayed sometimes, but support-seeking can vent it earlier"
+      }
     ]
   },
   "keyTakeaways": [
     "Under acute pressure, many men narrow focus and move to action, setting feelings aside to handle the immediate problem.",
-    "Composure is often a coping style, not an absence of stress — feelings may be suppressed in the moment and surface later.",
+    "Composure is often a coping style, not an absence of stress. Feelings may be suppressed in the moment and surface later.",
     "Showing less is not feeling less; quietly carrying stress can take its own toll over time.",
     "Suppression can be adaptive briefly but tends to cost more than reappraisal, and unprocessed pressure can accumulate.",
     "Giving space to solve the problem, then checking in once pressure eases, usually works better than demanding processing mid-crisis.",
-    "These are modest averages with large overlap — personality, attachment style, and the specific stressor predict coping better than gender."
+    "These are modest averages with large overlap. Personality, attachment style, and the specific stressor predict coping better than gender."
   ],
   "lastReviewed": "2026-06"
 }

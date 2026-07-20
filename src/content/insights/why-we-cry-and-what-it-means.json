@@ -1,34 +1,37 @@
 {
-  "title": "Why We Cry and What It Means — The Psychology of Tears",
+  "title": "Why We Cry and What It Means: The Psychology of Tears",
   "slug": "why-we-cry-and-what-it-means",
   "category": "emotions-and-feelings",
   "focusGender": "both",
   "featured": false,
-  "tags": ["emotions", "behavior"],
-  "metaTitle": "Why We Cry and What It Means — The Science of Tears",
+  "tags": [
+    "emotions",
+    "behavior"
+  ],
+  "metaTitle": "Why We Cry and What It Means: The Science of Tears",
   "metaDescription": "Why humans cry: tears as a social signal and a way to self-soothe, plus why men and women differ in crying on average due to socialization, not feeling.",
   "coreFinding": "Crying appears to serve two main purposes: it signals to others that we need support, and it can help us self-soothe and recover. Research suggests the well-known difference in how often men and women cry is largely shaped by socialization and physiology rather than by a difference in how deeply each feels. Tears are a normal, functional human response.",
   "whatResearchShows": [
     "Ad Vingerhoets, whose book Why Only Humans Weep (2013) synthesizes much of the science, argues that emotional tears are a distinctly human signal. They communicate vulnerability and a need for comfort in a way that is hard to fake, which can elicit support and strengthen social bonds. In this view, crying is not merely an overflow of feeling but a social behavior that helped our highly interdependent species care for one another.",
-    "Crying also appears linked to self-regulation. People often report feeling calmer or relieved after crying, particularly when they receive comfort or the situation resolves. The evidence here is mixed and context-dependent — crying does not always make people feel better, and whether it helps seems to depend heavily on the social response and setting — but for many, it functions as part of how the body releases and recovers from intense emotion.",
+    "Crying also appears linked to self-regulation. People often report feeling calmer or relieved after crying, particularly when they receive comfort or the situation resolves. The evidence here is mixed and context-dependent (crying does not always make people feel better, and whether it helps seems to depend heavily on the social response and setting) but for many, it functions as part of how the body releases and recovers from intense emotion.",
     "On gender, Kring and Gordon's research (1998) is instructive: when men and women watch emotional films, their reported inner experience and physiological responses are quite similar, even though women tend to show more outward expression. This points to a pattern where the difference in crying is more about expression than about the depth of the underlying feeling."
   ],
   "whyItHappens": [
-    "As a signal, tears work because they are visible, generally involuntary, and tied to distress, which makes them a credible cue that someone genuinely needs help. In a social species, a reliable signal of vulnerability can summon care, comfort, and cooperation — so the capacity to cry may have been favored precisely because it strengthens bonds.",
+    "As a signal, tears work because they are visible, generally involuntary, and tied to distress, which makes them a credible cue that someone genuinely needs help. In a social species, a reliable signal of vulnerability can summon care, comfort, and cooperation, so the capacity to cry may have been favored precisely because it strengthens bonds.",
     "As self-soothing, crying often accompanies a shift in the body's state, and being comforted while crying engages the same attachment and care systems that calm us in other contexts. The relief many people feel is frequently bound up with receiving support, which is part of why crying alone and crying with a caring witness can feel so different.",
     "The average gender gap in crying frequency likely reflects a mix of influences. Socialization teaches many boys to restrain tears while granting girls more permission to express them. There are also physiological factors, such as hormonal differences, that researchers think contribute. Crucially, these shape how readily tears come, not how much emotion is present underneath."
   ],
   "realLifeExamples": [
-    "Someone who tears up while telling a friend about a hard week is, in effect, sending a signal of need — and a friend who responds with warmth often helps them feel steadier, illustrating crying's social function in action.",
+    "Someone who tears up while telling a friend about a hard week is, in effect, sending a signal of need, and a friend who responds with warmth often helps them feel steadier, illustrating crying's social function in action.",
     "A man who feels deeply moved at a wedding or a funeral but holds back visible tears is showing the expression-versus-experience gap research describes: the feeling can be just as strong as anyone's, even when socialization has trained the outward display to stay restrained.",
-    "Many people notice they hold it together through a stressful event and only cry once they are safe — at home, with a partner, or alone afterward — reflecting how the social context shapes when tears are allowed to surface."
+    "Many people notice they hold it together through a stressful event and only cry once they are safe (at home, with a partner, or alone afterward) reflecting how the social context shapes when tears are allowed to surface."
   ],
   "whatPeopleGetWrong": [
     "A persistent misconception is that crying more means feeling more, and crying less means feeling less. Research suggests the inner emotional experience is quite similar across people who differ greatly in how much they outwardly cry. Restraint in tears, especially among many men, reflects socialization and expression norms rather than shallower emotion.",
     "Another error is treating crying as inherently a sign of weakness or, conversely, as always cathartic and healthy. The evidence is more balanced: crying is a normal functional response whose effect depends on context, and whether it brings relief hinges largely on the support and setting around it."
   ],
   "relationshipImplications": [
-    "Because tears are a bid for connection, how a partner responds matters. Meeting someone's tears with comfort rather than dismissal or discomfort tends to deepen trust, while reacting with impatience can teach a person to hide their feelings — which, over time, can erode closeness.",
+    "Because tears are a bid for connection, how a partner responds matters. Meeting someone's tears with comfort rather than dismissal or discomfort tends to deepen trust, while reacting with impatience can teach a person to hide their feelings, which, over time, can erode closeness.",
     "For couples, it can help to recognize that a partner who rarely cries is not necessarily less affected. Reading depth of feeling from visible tears alone can mislead. Creating a relationship where both partners feel safe to express emotion, in their own way, tends to support intimacy."
   ],
   "theNuance": [
@@ -42,7 +45,7 @@
     },
     {
       "question": "Does crying actually make you feel better?",
-      "answer": "Sometimes, but not always. People often report relief after crying, especially when they receive comfort or the situation resolves. The evidence is mixed and context-dependent — crying does not reliably improve mood on its own, and whether it helps seems to depend largely on the social response and setting."
+      "answer": "Sometimes, but not always. People often report relief after crying, especially when they receive comfort or the situation resolves. The evidence is mixed and context-dependent. Crying does not reliably improve mood on its own, and whether it helps seems to depend largely on the social response and setting."
     },
     {
       "question": "Do women feel emotions more than men because they cry more?",
@@ -50,7 +53,7 @@
     },
     {
       "question": "Why do men cry less than women on average?",
-      "answer": "The gap likely reflects socialization — many boys are taught to restrain tears while girls receive more permission to express them — alongside physiological factors such as hormonal differences. These shape how readily tears come, not the amount of emotion underneath. Individual variation is large in both sexes."
+      "answer": "The gap likely reflects socialization, many boys are taught to restrain tears while girls receive more permission to express them, alongside physiological factors such as hormonal differences. These shape how readily tears come, not the amount of emotion underneath. Individual variation is large in both sexes."
     },
     {
       "question": "Is crying a sign of weakness?",
@@ -74,7 +77,7 @@
     "how-women-handle-emotions"
   ],
   "quickTake": "Crying appears to do two jobs: it signals to others that we need support, and it can help us self-soothe and recover. The gap in how often men and women cry looks driven mostly by socialization and physiology, not by a difference in how deeply each feels.",
-  "pullQuote": "Restraint in tears reflects socialization and expression norms, not shallower emotion — crying less does not mean feeling less.",
+  "pullQuote": "Restraint in tears reflects socialization and expression norms, not shallower emotion. Crying less does not mean feeling less.",
   "keyStats": [
     {
       "value": "A human signal",
@@ -88,7 +91,7 @@
     },
     {
       "value": "Context-dependent relief",
-      "label": "People often feel calmer after crying, but the evidence is mixed — whether it helps depends heavily on the social response and setting.",
+      "label": "People often feel calmer after crying, but the evidence is mixed. Whether it helps depends heavily on the social response and setting.",
       "source": "Vingerhoets (2013); Gross (1998)"
     }
   ],
@@ -98,15 +101,31 @@
     "The average gender gap in crying reflects socialization and physiology, not depth of feeling.",
     "Whether crying brings relief depends largely on the comfort and setting around it, not the tears alone.",
     "A partner who rarely cries is not necessarily less affected; visible tears are a poor readout of feeling.",
-    "Individual variation is wide in both sexes — crying frequency is not a reliable measure of emotional health."
+    "Individual variation is wide in both sexes. Crying frequency is not a reliable measure of emotional health."
   ],
   "comparison": {
     "title": "At a glance: average tendencies",
     "rows": [
-      { "aspect": "Depth of inner feeling", "men": "Comparable, on average", "women": "Comparable, on average" },
-      { "aspect": "Outward expression via tears", "men": "Tend to cry less often", "women": "Tend to cry more readily" },
-      { "aspect": "Main driver of the gap", "men": "Socialization to restrain, plus physiology", "women": "More social permission to express, plus physiology" },
-      { "aspect": "When tears surface", "men": "Often held until private or safe", "women": "Often more readily in the moment" }
+      {
+        "aspect": "Depth of inner feeling",
+        "men": "Comparable, on average",
+        "women": "Comparable, on average"
+      },
+      {
+        "aspect": "Outward expression via tears",
+        "men": "Tend to cry less often",
+        "women": "Tend to cry more readily"
+      },
+      {
+        "aspect": "Main driver of the gap",
+        "men": "Socialization to restrain, plus physiology",
+        "women": "More social permission to express, plus physiology"
+      },
+      {
+        "aspect": "When tears surface",
+        "men": "Often held until private or safe",
+        "women": "Often more readily in the moment"
+      }
     ]
   },
   "lastReviewed": "2026-06"

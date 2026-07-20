@@ -4,7 +4,7 @@ import Breadcrumbs from '../components/Breadcrumbs.astro';
 
 const metaTitle = 'Search';
 const metaDescription =
-  'Search the full Men Women Psychology library — find any insight by topic, question, or keyword.';
+  'Search the full Men Women Psychology library: find any insight by topic, question, or keyword.';
 ---
 
 <BaseLayout
@@ -20,7 +20,7 @@ const metaDescription =
       <p class="eyebrow">The whole library</p>
       <h1>Search</h1>
       <p class="lede">
-        Find any insight across the site — search by topic, a question you have, or a single word.
+        Find any insight across the site: search by topic, a question you have, or a single word.
       </p>
     </header>
 
@@ -58,11 +58,11 @@ const metaDescription =
         showSubResults: true,
         pageSize: 8,
         resetStyles: false,
-        placeholder: 'Search insights — e.g. "why he pulls away", attachment, trust…',
+        placeholder: 'Search insights: "why he pulls away", attachment, trust…',
       });
     } else if (el) {
       el.innerHTML =
-        '<p class="muted">The search index is generated at build time — it will be available on the deployed site.</p>';
+        '<p class="muted">The search index is generated at build time. It will be available on the deployed site.</p>';
     }
   });
 </script>

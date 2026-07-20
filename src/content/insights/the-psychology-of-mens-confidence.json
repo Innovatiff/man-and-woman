@@ -1,38 +1,44 @@
 {
-  "title": "The Psychology of Men's Confidence — Secure vs. Fragile",
+  "title": "The Psychology of Men's Confidence: Secure vs. Fragile",
   "slug": "the-psychology-of-mens-confidence",
   "category": "male-psychology",
   "focusGender": "men",
   "featured": false,
-  "tags": ["confidence", "self-esteem", "masculinity", "insecurity", "self-worth"],
+  "tags": [
+    "confidence",
+    "self-esteem",
+    "masculinity",
+    "insecurity",
+    "self-worth"
+  ],
   "metaTitle": "The Psychology of Men's Confidence Explained",
   "metaDescription": "What real confidence in men looks like: secure vs. fragile self-esteem, earned prestige vs. dominance, and why bravado often hides doubt.",
-  "coreFinding": "Genuine confidence in men tends to be quiet and secure — grounded in competence and self-acceptance rather than in needing to prove anything. Research distinguishes this from fragile confidence, which looks bold on the surface but is defensive underneath, and from status earned through respect (prestige) versus intimidation (dominance). Masculine norms often pressure men to project confidence and hide doubt, which can make the fragile kind more common than it needs to be.",
+  "coreFinding": "Genuine confidence in men tends to be quiet and secure, grounded in competence and self-acceptance rather than in needing to prove anything. Research distinguishes this from fragile confidence, which looks bold on the surface but is defensive underneath, and from status earned through respect (prestige) versus intimidation (dominance). Masculine norms often pressure men to project confidence and hide doubt, which can make the fragile kind more common than it needs to be.",
   "whatResearchShows": [
-    "Psychologist Michael Kernis distinguished between secure and fragile high self-esteem. Secure self-esteem is stable, well-anchored, and does not need constant defending; fragile high self-esteem looks positive on the surface but is contingent, easily threatened, and often propped up by defensiveness, boasting, or lashing out when challenged. Kernis's research found that people with fragile high self-esteem tend to react to ego threats with more hostility and self-protection than those whose confidence is secure — a useful lens for reading the difference between calm assurance and brittle bravado.",
+    "Psychologist Michael Kernis distinguished between secure and fragile high self-esteem. Secure self-esteem is stable, well-anchored, and does not need constant defending; fragile high self-esteem looks positive on the surface but is contingent, easily threatened, and often propped up by defensiveness, boasting, or lashing out when challenged. Kernis's research found that people with fragile high self-esteem tend to react to ego threats with more hostility and self-protection than those whose confidence is secure, a useful lens for reading the difference between calm assurance and brittle bravado.",
     "Work by Joey Cheng, Jessica Tracy, and Joseph Henrich on how humans attain status distinguishes two routes: dominance (influence gained through intimidation, force, or coercion) and prestige (influence freely granted because others respect a person's skill or knowledge). Both can look like 'confidence,' but they rest on very different foundations. Prestige-based status tends to be more durable and better liked; dominance can command short-term deference while breeding resentment. Men navigating how to be confident are, in effect, choosing between these paths.",
-    "Research on masculine norms finds that ideals of self-reliance and emotional control can push men to perform confidence and conceal doubt, uncertainty, or the need for help. Studies of masculinity ideology associate this pressure to appear invulnerable with reluctance to seek support and, at times, with the defensive, fragile style of self-esteem — because admitting a gap feels like admitting inadequacy rather than being human."
+    "Research on masculine norms finds that ideals of self-reliance and emotional control can push men to perform confidence and conceal doubt, uncertainty, or the need for help. Studies of masculinity ideology associate this pressure to appear invulnerable with reluctance to seek support and, at times, with the defensive, fragile style of self-esteem, because admitting a gap feels like admitting inadequacy rather than being human."
   ],
   "whyItHappens": [
-    "Much of male confidence is scaffolded by socialization. Boys are often praised for competence and stoicism and discouraged from showing fear or doubt, so many men learn to equate confidence with never appearing uncertain. That can produce impressive-looking self-assurance, but when it is a mask rather than a foundation, it becomes fragile — dependent on constant validation and vulnerable to collapse the moment reality intrudes.",
-    "Competence genuinely matters. Confidence built on real skill and repeated experience — the sense of 'I have handled hard things before and can again' — is more stable than confidence borrowed from image or comparison. This is why mastery, preparation, and a track record tend to produce the quiet, secure variety, while confidence based mainly on how one is perceived stays brittle.",
-    "Modern comparison culture works against durable confidence. Social media offers an endless stream of curated success against which any man can feel he is falling short, and the resulting comparison tends to erode secure self-worth while inflating the pressure to project an image. Self-compassion — treating one's own failures with the understanding one would offer a friend — appears to buffer this, supporting confidence that survives setbacks rather than depending on winning every comparison."
+    "Much of male confidence is scaffolded by socialization. Boys are often praised for competence and stoicism and discouraged from showing fear or doubt, so many men learn to equate confidence with never appearing uncertain. That can produce impressive-looking self-assurance, but when it is a mask rather than a foundation, it becomes fragile, dependent on constant validation and vulnerable to collapse the moment reality intrudes.",
+    "Competence genuinely matters. Confidence built on real skill and repeated experience, the sense of 'I have handled hard things before and can again', is more stable than confidence borrowed from image or comparison. This is why mastery, preparation, and a track record tend to produce the quiet, secure variety, while confidence based mainly on how one is perceived stays brittle.",
+    "Modern comparison culture works against durable confidence. Social media offers an endless stream of curated success against which any man can feel he is falling short, and the resulting comparison tends to erode secure self-worth while inflating the pressure to project an image. Self-compassion, treating one's own failures with the understanding one would offer a friend, appears to buffer this, supporting confidence that survives setbacks rather than depending on winning every comparison."
   ],
   "realLifeExamples": [
-    "The most genuinely confident man in a room is often the calmest — comfortable saying 'I don't know,' unbothered by disagreement, and quick to credit others. His assurance doesn't need an audience. By contrast, the man who dominates conversation, name-drops, and bristles at any challenge is frequently displaying the fragile kind: a lot of signal, not much settled foundation.",
-    "A man who has quietly become excellent at his craft tends to carry a steady confidence that doesn't require him to announce it — people defer to him because they respect what he can do. That is prestige. A man who leads through intimidation may get compliance, but the respect is thinner and the resentment higher, and his standing tends to wobble the moment his power does.",
-    "A man scrolling through peers' highlight reels late at night can feel his confidence drain even after a genuinely good day, because comparison has quietly reset his baseline. The same man, focusing instead on his own progress and treating a recent failure with some kindness, often finds the assurance returns — a reminder that confidence is more about relationship to self than about ranking against others."
+    "The most genuinely confident man in a room is often the calmest, comfortable saying 'I don't know,' unbothered by disagreement, and quick to credit others. His assurance doesn't need an audience. By contrast, the man who dominates conversation, name-drops, and bristles at any challenge is frequently displaying the fragile kind: a lot of signal, not much settled foundation.",
+    "A man who has quietly become excellent at his craft tends to carry a steady confidence that doesn't require him to announce it. People defer to him because they respect what he can do. That is prestige. A man who leads through intimidation may get compliance, but the respect is thinner and the resentment higher, and his standing tends to wobble the moment his power does.",
+    "A man scrolling through peers' highlight reels late at night can feel his confidence drain even after a genuinely good day, because comparison has quietly reset his baseline. The same man, focusing instead on his own progress and treating a recent failure with some kindness, often finds the assurance returns, a reminder that confidence is more about relationship to self than about ranking against others."
   ],
   "whatPeopleGetWrong": [
-    "The biggest misconception is that loud equals confident. Bravado, boasting, and defensiveness are frequently signs of fragile self-esteem rather than the secure kind — a man who truly feels solid usually has less need to perform it. Reading volume as confidence gets it backwards more often than people expect.",
+    "The biggest misconception is that loud equals confident. Bravado, boasting, and defensiveness are frequently signs of fragile self-esteem rather than the secure kind. A man who truly feels solid usually has less need to perform it. Reading volume as confidence gets it backwards more often than people expect.",
     "A second misconception is that confidence means never feeling doubt or fear. Secure confidence is not the absence of doubt; it is the capacity to act, tolerate uncertainty, and recover from failure without one's sense of worth collapsing. Men who believe real confidence requires feeling no fear tend to interpret normal human uncertainty as proof they are inadequate, which ironically feeds the fragile style they are trying to escape."
   ],
   "relationshipImplications": [
-    "In relationships, fragile confidence often shows up as defensiveness, difficulty apologizing, or bristling at feedback — because a challenge feels like a threat to the whole self. Secure confidence makes a man easier to be close to: he can hear criticism, admit fault, and be vulnerable without feeling diminished. Partners can support the secure kind by offering appreciation that is genuine rather than flattering, and by making it safe for a man to show doubt without losing respect.",
-    "For men, the practical path is to build confidence from the inside out — through competence, honest self-appraisal, and self-compassion — rather than from image and comparison. Confidence grounded this way does not require winning every exchange or hiding every weakness, which makes it both more durable and far more attractive than the performed version. It also frees a man to ask for help, a strength the fragile style forbids."
+    "In relationships, fragile confidence often shows up as defensiveness, difficulty apologizing, or bristling at feedback, because a challenge feels like a threat to the whole self. Secure confidence makes a man easier to be close to: he can hear criticism, admit fault, and be vulnerable without feeling diminished. Partners can support the secure kind by offering appreciation that is genuine rather than flattering, and by making it safe for a man to show doubt without losing respect.",
+    "For men, the practical path is to build confidence from the inside out (through competence, honest self-appraisal, and self-compassion) rather than from image and comparison. Confidence grounded this way does not require winning every exchange or hiding every weakness, which makes it both more durable and far more attractive than the performed version. It also frees a man to ask for help, a strength the fragile style forbids."
   ],
   "theNuance": [
-    "These are patterns, not verdicts on individuals. Many men have deeply secure confidence, many struggle with the fragile kind, and most sit somewhere on a spectrum that shifts across domains and life stages — a man can be rock-solid at work and shaky in relationships. Women navigate secure versus fragile self-esteem too; the dominance-prestige and Kernis frameworks are human, not male-only.",
+    "These are patterns, not verdicts on individuals. Many men have deeply secure confidence, many struggle with the fragile kind, and most sit somewhere on a spectrum that shifts across domains and life stages. A man can be rock-solid at work and shaky in relationships. Women navigate secure versus fragile self-esteem too; the dominance-prestige and Kernis frameworks are human, not male-only.",
     "The research is stronger on the concepts than on precise sex differences. The secure-versus-fragile distinction and the dominance-versus-prestige model are well supported, but the claim that masculine norms push men toward performed confidence is a tendency observed on average, with wide individual and cultural variation. How a given man holds his confidence owes more to temperament, upbringing, and experience than to gender alone."
   ],
   "faqs": [
@@ -46,7 +52,7 @@
     },
     {
       "question": "Is real confidence loud or quiet?",
-      "answer": "Genuinely secure confidence tends to be quiet — comfortable saying 'I don't know,' unbothered by disagreement, and quick to credit others. Bravado and constant self-promotion more often signal the fragile kind. Reading volume as confidence usually gets it backwards."
+      "answer": "Genuinely secure confidence tends to be quiet, comfortable saying 'I don't know,' unbothered by disagreement, and quick to credit others. Bravado and constant self-promotion more often signal the fragile kind. Reading volume as confidence usually gets it backwards."
     },
     {
       "question": "What's the difference between dominance and prestige?",
@@ -74,8 +80,8 @@
     "how-men-can-overcome-insecurity",
     "why-men-seek-validation"
   ],
-  "quickTake": "Real male confidence is usually quiet and secure — built on competence and self-acceptance, not the need to prove anything. Bravado often signals the fragile kind, and masculine norms that reward hiding doubt tend to make it more common.",
-  "pullQuote": "The most genuinely confident man in a room is often the calmest — his assurance doesn't need an audience.",
+  "quickTake": "Real male confidence is usually quiet and secure, built on competence and self-acceptance, not the need to prove anything. Bravado often signals the fragile kind, and masculine norms that reward hiding doubt tend to make it more common.",
+  "pullQuote": "The most genuinely confident man in a room is often the calmest. His assurance doesn't need an audience.",
   "keyStats": [
     {
       "value": "Secure vs. fragile",
@@ -98,14 +104,30 @@
     "leftLabel": "Secure",
     "rightLabel": "Fragile",
     "rows": [
-      { "aspect": "Reaction to criticism", "men": "Can hear it and reflect without collapsing", "women": "Feels like an attack, met with defensiveness" },
-      { "aspect": "Need for validation", "men": "Low — doesn't require an audience", "women": "High — needs constant reassurance and praise" },
-      { "aspect": "Admitting 'I don't know'", "men": "Comfortable; no threat to worth", "women": "Avoided; feels like exposing inadequacy" },
-      { "aspect": "Basis", "men": "Competence and self-acceptance", "women": "Image, comparison, and appearing invulnerable" }
+      {
+        "aspect": "Reaction to criticism",
+        "men": "Can hear it and reflect without collapsing",
+        "women": "Feels like an attack, met with defensiveness"
+      },
+      {
+        "aspect": "Need for validation",
+        "men": "Low, doesn't require an audience",
+        "women": "High, needs constant reassurance and praise"
+      },
+      {
+        "aspect": "Admitting 'I don't know'",
+        "men": "Comfortable; no threat to worth",
+        "women": "Avoided; feels like exposing inadequacy"
+      },
+      {
+        "aspect": "Basis",
+        "men": "Competence and self-acceptance",
+        "women": "Image, comparison, and appearing invulnerable"
+      }
     ]
   },
   "keyTakeaways": [
-    "Genuine confidence tends to be quiet and secure — grounded in competence and self-acceptance, not in proving anything.",
+    "Genuine confidence tends to be quiet and secure, grounded in competence and self-acceptance, not in proving anything.",
     "Fragile confidence looks bold but is defensive underneath and reacts to challenges with hostility, per Kernis's research.",
     "Status comes two ways: prestige (earned respect) is durable and liked; dominance (intimidation) breeds resentment.",
     "Masculine norms that reward hiding doubt push men toward the fragile, performed style rather than the secure kind.",

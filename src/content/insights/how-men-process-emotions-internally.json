@@ -1,36 +1,39 @@
 {
-  "title": "How Men Process Emotions Internally — The Psychology Within",
+  "title": "How Men Process Emotions Internally: The Psychology Within",
   "slug": "how-men-process-emotions-internally",
   "category": "how-men-think",
   "focusGender": "men",
   "featured": false,
-  "tags": ["how-they-think", "emotions"],
-  "metaTitle": "How Men Process Emotions Internally — The Research",
+  "tags": [
+    "how-they-think",
+    "emotions"
+  ],
+  "metaTitle": "How Men Process Emotions Internally: The Research",
   "metaDescription": "How many men work through feelings inwardly: research on internal emotional processing, naming emotions, and why action often comes before words.",
-  "coreFinding": "Research suggests many men tend to process emotions more internally and gradually, often working through feelings privately or through action before, or instead of, putting them into words. This reflects learned habits and, for some, difficulty naming emotions — not a lack of feeling. The internal experience of emotion appears broadly similar across genders even when its outward expression differs.",
+  "coreFinding": "Research suggests many men tend to process emotions more internally and gradually, often working through feelings privately or through action before, or instead of, putting them into words. This reflects learned habits and, for some, difficulty naming emotions, not a lack of feeling. The internal experience of emotion appears broadly similar across genders even when its outward expression differs.",
   "whatResearchShows": [
-    "Kring and Gordon (1998) found a revealing pattern: when men and women watched emotional films, they reported similar internal feelings, but women were more facially and outwardly expressive while men's physiological responses were sometimes as strong or stronger. In other words, the difference often lies in expression rather than in the depth of what is felt — emotion can run high internally while showing little on the surface.",
-    "Research on alexithymia — difficulty identifying and describing one's own emotions — finds it is, on average, somewhat more common in men (Levant and colleagues, 2009). The authors link this to 'normative male alexithymia,' a learned consequence of socialization that discourages emotional fluency, rather than an innate deficit. Many men feel their emotions clearly but lack practiced language for them.",
-    "James Gross's work on emotion regulation (1998) helps explain the internal route many men take. Strategies like cognitive reappraisal — rethinking a situation to change its emotional charge — happen largely inside the mind, while some men also lean on suppression, which manages outward expression but does little to resolve the underlying feeling. These are average tendencies with large overlap between individuals."
+    "Kring and Gordon (1998) found a revealing pattern: when men and women watched emotional films, they reported similar internal feelings, but women were more facially and outwardly expressive while men's physiological responses were sometimes as strong or stronger. In other words, the difference often lies in expression rather than in the depth of what is felt. Emotion can run high internally while showing little on the surface.",
+    "Research on alexithymia, difficulty identifying and describing one's own emotions, finds it is, on average, somewhat more common in men (Levant and colleagues, 2009). The authors link this to 'normative male alexithymia,' a learned consequence of socialization that discourages emotional fluency, rather than an innate deficit. Many men feel their emotions clearly but lack practiced language for them.",
+    "James Gross's work on emotion regulation (1998) helps explain the internal route many men take. Strategies like cognitive reappraisal, rethinking a situation to change its emotional charge, happen largely inside the mind, while some men also lean on suppression, which manages outward expression but does little to resolve the underlying feeling. These are average tendencies with large overlap between individuals."
   ],
   "whyItHappens": [
     "Socialization is a major driver. Many boys are taught early that visible emotion, especially vulnerability, is risky or unwelcome, so they develop habits of containing feelings and working through them privately. Levant's concept of normative male alexithymia describes the long-term result: real emotions, but underdeveloped language and practice for naming them.",
-    "Processing through action rather than words is partly a learned coping style. When talking about feelings has not been modeled or rewarded, men may channel emotion into doing — exercise, work, fixing a problem, going for a drive — which can genuinely help regulate, even if it leaves the feeling unspoken.",
+    "Processing through action rather than words is partly a learned coping style. When talking about feelings has not been modeled or rewarded, men may channel emotion into doing (exercise, work, fixing a problem, going for a drive) which can genuinely help regulate, even if it leaves the feeling unspoken.",
     "There is also a timing element. Because the internal route is more gradual, a man may not know what he feels in the heat of a moment and may need solitude to sort it out. The familiar pattern of needing space after a conflict, then returning calmer, often reflects this slower internal processing rather than avoidance of the relationship."
   ],
   "realLifeExamples": [
     "A man who responds to bad news with 'I'm fine' and then becomes quiet for a day is often not suppressing on purpose so much as processing internally, working the feeling through before he can or will describe it.",
-    "Someone who handles grief or stress by throwing himself into a project or a workout may be regulating his emotions through action — a real coping strategy, even though an observer sees activity rather than open feeling.",
+    "Someone who handles grief or stress by throwing himself into a project or a workout may be regulating his emotions through action, a real coping strategy, even though an observer sees activity rather than open feeling.",
     "A partner who asks for space after an argument and comes back the next morning ready to talk is frequently showing the gradual internal route: the feelings needed time and solitude to become clear enough to put into words.",
-    "A man watching a moving film may sit stone-faced while feeling as much internally as a visibly teary partner beside him — the outward calm masks a physiological response that can run just as high."
+    "A man watching a moving film may sit stone-faced while feeling as much internally as a visibly teary partner beside him. The outward calm masks a physiological response that can run just as high."
   ],
   "whatPeopleGetWrong": [
-    "The biggest misconception is that internal or quiet processing means shallow feeling. Kring and Gordon's findings point the other way — men's internal and physiological responses can be just as strong as women's even when their faces and words show less. Quiet is not the same as empty.",
+    "The biggest misconception is that internal or quiet processing means shallow feeling. Kring and Gordon's findings point the other way. Men's internal and physiological responses can be just as strong as women's even when their faces and words show less. Quiet is not the same as empty.",
     "It is also wrong to treat alexithymia as 'just how men are.' Levant frames it as learned, which means emotional language can be developed. Difficulty naming feelings is a skill gap, not a permanent trait, and many men become far more fluent with practice."
   ],
   "relationshipImplications": [
     "Pressing a man to articulate feelings on the spot often backfires, because the internal route needs time. Allowing space and then inviting conversation tends to work better than demanding an immediate emotional account, and naming that you simply want to understand can lower the stakes.",
-    "At the same time, leaning only on internal processing and action has costs — suppression in particular does little to resolve feelings and can strain a partner left guessing. Men who build the habit of putting some of the internal work into words, even imperfectly, tend to feel closer to their partners and regulate more effectively over time."
+    "At the same time, leaning only on internal processing and action has costs. Suppression in particular does little to resolve feelings and can strain a partner left guessing. Men who build the habit of putting some of the internal work into words, even imperfectly, tend to feel closer to their partners and regulate more effectively over time."
   ],
   "theNuance": [
     "These are averages with substantial overlap. Plenty of men are highly emotionally expressive and articulate, and plenty of women process internally or struggle to name feelings. Personality, culture, and upbringing shape emotional style at least as much as gender does.",
@@ -74,7 +77,7 @@
     "why-men-need-alone-time",
     "how-women-process-emotions"
   ],
-  "quickTake": "Many men work through feelings inwardly and gradually, often through action before words. This reflects learned habits and, for some, less practiced emotional language — not shallower feeling. Internally, the emotion often runs just as strong.",
+  "quickTake": "Many men work through feelings inwardly and gradually, often through action before words. This reflects learned habits and, for some, less practiced emotional language, not shallower feeling. Internally, the emotion often runs just as strong.",
   "pullQuote": "Quiet is not the same as empty: men's internal and physiological responses can be just as strong as women's, even when their faces and words show less.",
   "keyStats": [
     {
@@ -84,29 +87,49 @@
     },
     {
       "value": "More common in men",
-      "label": "Alexithymia — difficulty identifying and describing one's own emotions — is on average somewhat more common in men, framed as learned 'normative male alexithymia' rather than innate.",
+      "label": "Alexithymia, difficulty identifying and describing one's own emotions, is on average somewhat more common in men, framed as learned 'normative male alexithymia' rather than innate.",
       "source": "Levant et al. (2009)"
     },
     {
       "value": "78%",
-      "label": "Of measured psychological gender differences are small or close to zero — the internal experience of emotion looks broadly similar across the sexes.",
+      "label": "Of measured psychological gender differences are small or close to zero. The internal experience of emotion looks broadly similar across the sexes.",
       "source": "Hyde (2005), review of 46 meta-analyses"
     }
   ],
   "comparison": {
     "title": "Emotional processing: average tendencies",
     "rows": [
-      { "aspect": "Internal experience", "men": "Feels emotion much the same, often as intensely", "women": "Feels emotion much the same, often as intensely" },
-      { "aspect": "Outward expression", "men": "Often more contained, less facially expressive", "women": "Often more openly and facially expressive" },
-      { "aspect": "Naming feelings", "men": "Somewhat more likely to find words harder", "women": "Somewhat more practiced emotional vocabulary" },
-      { "aspect": "Typical route", "men": "More gradual, private, sometimes through action", "women": "More likely to process by talking it through" },
-      { "aspect": "After conflict", "men": "May need space, then return calmer", "women": "May want to resolve by discussing sooner" }
+      {
+        "aspect": "Internal experience",
+        "men": "Feels emotion much the same, often as intensely",
+        "women": "Feels emotion much the same, often as intensely"
+      },
+      {
+        "aspect": "Outward expression",
+        "men": "Often more contained, less facially expressive",
+        "women": "Often more openly and facially expressive"
+      },
+      {
+        "aspect": "Naming feelings",
+        "men": "Somewhat more likely to find words harder",
+        "women": "Somewhat more practiced emotional vocabulary"
+      },
+      {
+        "aspect": "Typical route",
+        "men": "More gradual, private, sometimes through action",
+        "women": "More likely to process by talking it through"
+      },
+      {
+        "aspect": "After conflict",
+        "men": "May need space, then return calmer",
+        "women": "May want to resolve by discussing sooner"
+      }
     ]
   },
   "keyTakeaways": [
-    "Internally, men's emotional and physiological responses can be as strong as women's — the reliable difference is in expression, not depth of feeling.",
+    "Internally, men's emotional and physiological responses can be as strong as women's. The reliable difference is in expression, not depth of feeling.",
     "Difficulty naming emotions is largely learned through socialization, not innate, and can be developed with practice.",
-    "Processing through action — exercise, work, fixing a problem — is a real coping style that can genuinely help regulate feelings.",
+    "Processing through action (exercise, work, fixing a problem) is a real coping style that can genuinely help regulate feelings.",
     "The internal route is gradual, so a man may need solitude to sort out what he feels before he can put it into words.",
     "Suppressing outward expression does little to resolve the underlying feeling; balancing internal work with some spoken sharing tends to be healthier.",
     "These are averages with heavy overlap; personality and upbringing shape emotional style at least as much as gender does."

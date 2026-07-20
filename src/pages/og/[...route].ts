@@ -8,7 +8,7 @@ import { SITE } from '../../config';
  * Build-time social share images.
  *
  * Generates a branded 1200x630 PNG per content page (insights, categories,
- * topics, plus the homepage) at /og/<key>.png. PNG matters — most social
+ * topics, plus the homepage) at /og/<key>.png. PNG matters. Most social
  * platforms will not render an SVG OG image, so shared links previously showed
  * no card at all. Images are generated into dist/ at build (gitignored), so they
  * cost nothing in the repo and always reflect current titles.

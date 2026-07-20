@@ -1,30 +1,33 @@
 {
-  "title": "Understanding Fear of Abandonment — Why It Happens and What Helps",
+  "title": "Understanding Fear of Abandonment: Why It Happens and What Helps",
   "slug": "understanding-fear-of-abandonment",
   "category": "emotions-and-feelings",
   "focusGender": "both",
   "featured": false,
-  "tags": ["emotions", "behavior"],
-  "metaTitle": "Understanding Fear of Abandonment — The Psychology",
+  "tags": [
+    "emotions",
+    "behavior"
+  ],
+  "metaTitle": "Understanding Fear of Abandonment: The Psychology",
   "metaDescription": "What research suggests about fear of abandonment: how attachment anxiety forms, why reassurance loops happen, and how people move toward earned security.",
-  "coreFinding": "Fear of abandonment tends to be rooted in what attachment researchers call anxious attachment — a heightened sensitivity to signs of distance or rejection. It is not a character flaw or a sign someone loves 'too much.' Research suggests it often forms early and can soften over time through steady, responsive relationships and self-understanding rather than constant reassurance.",
+  "coreFinding": "Fear of abandonment tends to be rooted in what attachment researchers call anxious attachment, a heightened sensitivity to signs of distance or rejection. It is not a character flaw or a sign someone loves 'too much.' Research suggests it often forms early and can soften over time through steady, responsive relationships and self-understanding rather than constant reassurance.",
   "whatResearchShows": [
     "Attachment theory, extended to adults by Hazan and Shaver (1987), describes how people differ in how secure they feel in close bonds. Those higher in what researchers call attachment anxiety tend to worry about a partner's availability, scan for signs of rejection, and feel distress when a loved one seems distant. This is one of the more consistently measured dimensions in relationship psychology, and it varies significantly between individuals rather than dividing neatly by gender.",
     "Mikulincer and Shaver (2007) synthesized decades of work showing that attachment anxiety is linked to hyperactivation of the attachment system: when a person senses threat to the bond, their need for closeness intensifies and can become hard to soothe. Importantly, their review also emphasizes that attachment patterns are not fixed. People can move toward what is sometimes called earned security through corrective relationship experiences and reflection.",
-    "Research on how couples manage these worries, such as Murray, Holmes and Collins (2006), suggests that people who feel chronically uncertain about their worth often regulate risk by either seeking reassurance or pulling back to protect themselves. The findings indicate that perceived partner responsiveness — feeling understood and valued — tends to calm these fears more reliably than repeated verbal reassurance alone."
+    "Research on how couples manage these worries, such as Murray, Holmes and Collins (2006), suggests that people who feel chronically uncertain about their worth often regulate risk by either seeking reassurance or pulling back to protect themselves. The findings indicate that perceived partner responsiveness, feeling understood and valued, tends to calm these fears more reliably than repeated verbal reassurance alone."
   ],
   "whyItHappens": [
     "Attachment researchers generally trace these patterns to early experiences of inconsistent or unpredictable care, though that is not the only path. When closeness has at times felt unreliable, the nervous system can learn to stay alert for signs of withdrawal. This is better understood as an adaptive response that once made sense than as something broken, and it can persist into adult relationships as a low-level vigilance about being left.",
-    "A self-reinforcing loop often develops. Fear of abandonment can drive behaviors — frequent checking in, needing reassurance, or testing a partner — that are meant to confirm safety but can strain the very bond the person is trying to protect. Murray and colleagues' work on risk regulation suggests this cycle is common precisely because the underlying need, to feel securely valued, is universal.",
+    "A self-reinforcing loop often develops. Fear of abandonment can drive behaviors (frequent checking in, needing reassurance, or testing a partner) that are meant to confirm safety but can strain the very bond the person is trying to protect. Murray and colleagues' work on risk regulation suggests this cycle is common precisely because the underlying need, to feel securely valued, is universal.",
     "Stress, past betrayals, and life transitions can reactivate these fears even in people who usually feel secure. Mikulincer and Shaver note that attachment security is partly state-dependent: almost anyone can feel more anxious about a relationship during periods of threat, illness, or instability, which is why these fears are best seen on a spectrum that many people occupy at times."
   ],
   "realLifeExamples": [
     "Someone might read a delayed text reply as evidence a partner is losing interest, feel a wave of anxiety, and send several follow-up messages. The relief that follows a warm reply tends to be temporary, because the underlying worry was about the security of the bond rather than the single message.",
     "A person who fears abandonment may struggle to relax when things are going well, sometimes anticipating loss or even creating distance first to avoid being the one left. From the outside this can look like mixed signals, when internally it is often an attempt to manage a painful 'what if.'",
-    "In healthier patterns, a partner who responds with steady availability — neither punishing the fear nor endlessly accommodating it — can help the anxious person gradually trust that closeness will not vanish. Over time, research suggests, consistent responsiveness does more to ease the fear than dramatic gestures."
+    "In healthier patterns, a partner who responds with steady availability, neither punishing the fear nor endlessly accommodating it, can help the anxious person gradually trust that closeness will not vanish. Over time, research suggests, consistent responsiveness does more to ease the fear than dramatic gestures."
   ],
   "whatPeopleGetWrong": [
-    "A common misconception is that fear of abandonment means a person is needy, manipulative, or loves too intensely. Research frames it instead as a learned pattern of threat sensitivity. The underlying need — to feel that closeness is safe — is something nearly everyone shares; the difference is mainly in how easily the alarm is triggered.",
+    "A common misconception is that fear of abandonment means a person is needy, manipulative, or loves too intensely. Research frames it instead as a learned pattern of threat sensitivity. The underlying need, to feel that closeness is safe, is something nearly everyone shares; the difference is mainly in how easily the alarm is triggered.",
     "Another error is assuming endless reassurance is the cure. Studies on risk regulation suggest that while reassurance can help in the moment, lasting change tends to come from consistent responsiveness, self-compassion, and the person's own work toward security, rather than from a partner trying to prove their love repeatedly."
   ],
   "relationshipImplications": [
@@ -73,12 +76,12 @@
     "why-women-seek-reassurance",
     "why-we-repeat-relationship-patterns"
   ],
-  "quickTake": "Fear of abandonment is usually rooted in anxious attachment — a heightened sensitivity to signs of distance or rejection. It is not a flaw or loving 'too much.' It often forms early and can soften over time through steady, responsive relationships and self-understanding, not constant reassurance.",
+  "quickTake": "Fear of abandonment is usually rooted in anxious attachment, a heightened sensitivity to signs of distance or rejection. It is not a flaw or loving 'too much.' It often forms early and can soften over time through steady, responsive relationships and self-understanding, not constant reassurance.",
   "pullQuote": "This is better understood as an adaptive response that once made sense than as something broken.",
   "keyStats": [
     {
       "value": "Feeling valued",
-      "label": "Perceived partner responsiveness — feeling understood and valued — tends to calm these fears more reliably than repeated verbal reassurance alone.",
+      "label": "Perceived partner responsiveness, feeling understood and valued, tends to calm these fears more reliably than repeated verbal reassurance alone.",
       "source": "Murray, Holmes & Collins (2006)"
     },
     {
@@ -95,10 +98,26 @@
   "comparison": {
     "title": "At a glance: average tendencies",
     "rows": [
-      { "aspect": "Underlying pattern", "men": "Anxious attachment / threat sensitivity", "women": "Anxious attachment / threat sensitivity" },
-      { "aspect": "How the fear shows", "men": "May distance first or protect self to avoid being left", "women": "May seek reassurance or check in more openly" },
-      { "aspect": "What eases it", "men": "Steady, predictable responsiveness over time", "women": "Steady, predictable responsiveness over time" },
-      { "aspect": "What predicts it", "men": "Individual style and history, not gender", "women": "Individual style and history, not gender" }
+      {
+        "aspect": "Underlying pattern",
+        "men": "Anxious attachment / threat sensitivity",
+        "women": "Anxious attachment / threat sensitivity"
+      },
+      {
+        "aspect": "How the fear shows",
+        "men": "May distance first or protect self to avoid being left",
+        "women": "May seek reassurance or check in more openly"
+      },
+      {
+        "aspect": "What eases it",
+        "men": "Steady, predictable responsiveness over time",
+        "women": "Steady, predictable responsiveness over time"
+      },
+      {
+        "aspect": "What predicts it",
+        "men": "Individual style and history, not gender",
+        "women": "Individual style and history, not gender"
+      }
     ]
   },
   "keyTakeaways": [

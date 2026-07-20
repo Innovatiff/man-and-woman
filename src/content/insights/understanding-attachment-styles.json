@@ -1,26 +1,30 @@
 {
-  "title": "Understanding Attachment Styles — Secure, Anxious, Avoidant",
+  "title": "Understanding Attachment Styles: Secure, Anxious, Avoidant",
   "slug": "understanding-attachment-styles",
   "category": "behavior-patterns",
   "focusGender": "both",
   "featured": false,
-  "tags": ["behavior", "emotions", "commitment"],
-  "metaTitle": "Understanding Attachment Styles — The Real Psychology",
+  "tags": [
+    "behavior",
+    "emotions",
+    "commitment"
+  ],
+  "metaTitle": "Understanding Attachment Styles: The Real Psychology",
   "metaDescription": "What attachment styles really are: secure, anxious, avoidant, and fearful patterns, where they come from, and why they are not a fixed destiny.",
-  "coreFinding": "Attachment styles describe patterns in how people seek and respond to closeness, usually grouped as secure, anxious, avoidant, and fearful. They tend to form from early and ongoing relationship experiences and shape adult bonds. Research suggests they are influential but not destiny — styles can shift over time, and many people move toward greater security.",
+  "coreFinding": "Attachment styles describe patterns in how people seek and respond to closeness, usually grouped as secure, anxious, avoidant, and fearful. They tend to form from early and ongoing relationship experiences and shape adult bonds. Research suggests they are influential but not destiny. Styles can shift over time, and many people move toward greater security.",
   "whatResearchShows": [
-    "Hazan and Shaver (1987) made the foundational move of applying attachment theory to adult romantic love, proposing that the bonds between partners draw on the same system that links children to caregivers. Their early work described three patterns — secure, anxious, and avoidant — that predicted how people experienced and behaved in relationships, and it launched decades of research.",
-    "Bartholomew and Horowitz (1991) refined this into a four-category model organized around two dimensions: how positively people view themselves and how positively they view others. This yields secure (comfortable with closeness and autonomy), anxious or preoccupied (craving closeness while fearing rejection), dismissing-avoidant (valuing independence and downplaying intimacy), and fearful-avoidant (wanting closeness yet fearing it). Today researchers often describe these as positions along two continuous dimensions — attachment anxiety and avoidance — rather than rigid boxes.",
-    "Mikulincer and Shaver's extensive synthesis (2007) shows how these patterns play out across adult life: securely attached people tend to handle conflict and seek support more constructively, while higher anxiety or avoidance is associated with characteristic struggles. Importantly, this body of work also documents that attachment can change — through new relationships, reflection, and sometimes therapy — supporting the idea of 'earned security.'"
+    "Hazan and Shaver (1987) made the foundational move of applying attachment theory to adult romantic love, proposing that the bonds between partners draw on the same system that links children to caregivers. Their early work described three patterns (secure, anxious, and avoidant) that predicted how people experienced and behaved in relationships, and it launched decades of research.",
+    "Bartholomew and Horowitz (1991) refined this into a four-category model organized around two dimensions: how positively people view themselves and how positively they view others. This yields secure (comfortable with closeness and autonomy), anxious or preoccupied (craving closeness while fearing rejection), dismissing-avoidant (valuing independence and downplaying intimacy), and fearful-avoidant (wanting closeness yet fearing it). Today researchers often describe these as positions along two continuous dimensions, attachment anxiety and avoidance, rather than rigid boxes.",
+    "Mikulincer and Shaver's extensive synthesis (2007) shows how these patterns play out across adult life: securely attached people tend to handle conflict and seek support more constructively, while higher anxiety or avoidance is associated with characteristic struggles. Importantly, this body of work also documents that attachment can change (through new relationships, reflection, and sometimes therapy) supporting the idea of 'earned security.'"
   ],
   "whyItHappens": [
-    "Attachment patterns are thought to begin in early relationships, where repeated experiences with caregivers teach a child what to expect from closeness: whether bids for comfort are reliably met, inconsistently met, or discouraged. These expectations form internal working models — rough templates for how relationships go — that can carry into adulthood.",
+    "Attachment patterns are thought to begin in early relationships, where repeated experiences with caregivers teach a child what to expect from closeness: whether bids for comfort are reliably met, inconsistently met, or discouraged. These expectations form internal working models, rough templates for how relationships go, that can carry into adulthood.",
     "But early experience is not the whole story. Later relationships, significant life events, and ongoing patterns continue to shape attachment. A consistently responsive partner can gradually nudge someone toward security, while painful relationships can move someone the other way. This is why researchers describe attachment as relatively stable but genuinely open to change.",
     "The styles persist partly because they are self-reinforcing. Someone high in anxiety may monitor for signs of rejection and seek reassurance in ways that can strain a relationship; someone high in avoidance may withdraw when intimacy deepens, keeping bonds at a manageable distance. Each pattern tends to recreate the very dynamics it expects, which is part of why awareness can be so useful in interrupting it."
   ],
   "realLifeExamples": [
-    "A person with a more anxious pattern might feel a spike of worry when a partner is slow to reply, seek frequent reassurance, and read distance into ordinary quiet — behaviors that come from a deep desire for closeness paired with a fear of losing it.",
-    "Someone with a more avoidant pattern might feel crowded as a relationship gets serious, value self-reliance strongly, and pull back or change the subject when conversations turn emotional — not from lack of care, but from discomfort with depending on others.",
+    "A person with a more anxious pattern might feel a spike of worry when a partner is slow to reply, seek frequent reassurance, and read distance into ordinary quiet, behaviors that come from a deep desire for closeness paired with a fear of losing it.",
+    "Someone with a more avoidant pattern might feel crowded as a relationship gets serious, value self-reliance strongly, and pull back or change the subject when conversations turn emotional, not from lack of care, but from discomfort with depending on others.",
     "A securely attached person tends to express needs directly, offer and accept comfort, and stay relatively steady during conflict, trusting that closeness and a separate sense of self can coexist. Many people are mixtures, leaning one way under stress and another when secure."
   ],
   "whatPeopleGetWrong": [
@@ -33,7 +37,7 @@
   ],
   "theNuance": [
     "Attachment styles are tendencies, not fixed types, and they can differ across relationships and shift with experience. Many people do not fit one category cleanly, and stress can pull out patterns that calmer times keep in check. The framework is a useful lens, not a precise diagnosis.",
-    "While there are some average differences in how the patterns show up between men and women, attachment style itself is not a gender trait — both sexes span the full range. Janet Hyde's gender similarities hypothesis (2005) supports treating attachment as an individual characteristic that predicts relational behavior far better than gender does."
+    "While there are some average differences in how the patterns show up between men and women, attachment style itself is not a gender trait. Both sexes span the full range. Janet Hyde's gender similarities hypothesis (2005) supports treating attachment as an individual characteristic that predicts relational behavior far better than gender does."
   ],
   "faqs": [
     {
@@ -46,7 +50,7 @@
     },
     {
       "question": "Can your attachment style change?",
-      "answer": "Yes. Research describes attachment as relatively stable but genuinely open to change. Through consistently responsive relationships, reflection, and sometimes therapy, many people move toward greater security — often called earned security. A style is a pattern that can evolve, not a permanent verdict."
+      "answer": "Yes. Research describes attachment as relatively stable but genuinely open to change. Through consistently responsive relationships, reflection, and sometimes therapy, many people move toward greater security, often called earned security. A style is a pattern that can evolve, not a permanent verdict."
     },
     {
       "question": "Is one attachment style better than the others?",
@@ -54,7 +58,7 @@
     },
     {
       "question": "Do men and women have different attachment styles?",
-      "answer": "Attachment style is not a gender trait — both sexes span the full range of patterns. There are some average differences in how patterns show up, but Janet Hyde's research suggests attachment functions as an individual characteristic that predicts relational behavior far better than gender does."
+      "answer": "Attachment style is not a gender trait. Both sexes span the full range of patterns. There are some average differences in how patterns show up, but Janet Hyde's research suggests attachment functions as an individual characteristic that predicts relational behavior far better than gender does."
     },
     {
       "question": "What happens when an anxious and avoidant person date?",
@@ -73,22 +77,22 @@
     "how-attraction-works",
     "what-makes-relationships-last"
   ],
-  "quickTake": "Attachment styles — secure, anxious, avoidant, and fearful — describe patterns in how people seek and handle closeness. They form from early and ongoing relationship experiences and shape adult bonds, but they are tendencies, not destiny: many people move toward greater security over time.",
-  "pullQuote": "A style is a pattern that can evolve, not a permanent verdict — many people develop 'earned security' through responsive relationships, reflection, and sometimes therapy.",
+  "quickTake": "Attachment styles (secure, anxious, avoidant, and fearful) describe patterns in how people seek and handle closeness. They form from early and ongoing relationship experiences and shape adult bonds, but they are tendencies, not destiny: many people move toward greater security over time.",
+  "pullQuote": "A style is a pattern that can evolve, not a permanent verdict. Many people develop 'earned security' through responsive relationships, reflection, and sometimes therapy.",
   "keyStats": [
     {
       "value": "4 patterns",
-      "label": "Bartholomew and Horowitz's four-category model — secure, anxious/preoccupied, dismissing-avoidant, and fearful-avoidant — organized around views of self and others.",
+      "label": "Bartholomew and Horowitz's four-category model (secure, anxious/preoccupied, dismissing-avoidant, and fearful-avoidant) organized around views of self and others.",
       "source": "Bartholomew & Horowitz (1991)"
     },
     {
       "value": "2 dimensions",
-      "label": "Researchers increasingly describe attachment as positions along two continuous dimensions — anxiety and avoidance — rather than rigid boxes.",
+      "label": "Researchers increasingly describe attachment as positions along two continuous dimensions, anxiety and avoidance, rather than rigid boxes.",
       "source": "Mikulincer & Shaver (2007)"
     },
     {
       "value": "Changeable",
-      "label": "Attachment is relatively stable but genuinely open to change through new relationships, reflection, and sometimes therapy — the basis of 'earned security.'",
+      "label": "Attachment is relatively stable but genuinely open to change through new relationships, reflection, and sometimes therapy, the basis of 'earned security.'",
       "source": "Mikulincer & Shaver (2007)"
     },
     {
@@ -100,14 +104,30 @@
   "comparison": {
     "title": "At a glance: average tendencies",
     "rows": [
-      { "aspect": "Range of styles", "men": "Span the full range of patterns", "women": "Span the full range of patterns" },
-      { "aspect": "Common expression", "men": "Avoidant patterns are sometimes more visible on average", "women": "Anxious patterns are sometimes more visible on average" },
-      { "aspect": "Under stress", "men": "May lean toward withdrawal or self-reliance", "women": "May lean toward pursuit or reassurance-seeking" },
-      { "aspect": "What predicts behavior", "men": "Individual attachment style, not gender", "women": "Individual attachment style, not gender" }
+      {
+        "aspect": "Range of styles",
+        "men": "Span the full range of patterns",
+        "women": "Span the full range of patterns"
+      },
+      {
+        "aspect": "Common expression",
+        "men": "Avoidant patterns are sometimes more visible on average",
+        "women": "Anxious patterns are sometimes more visible on average"
+      },
+      {
+        "aspect": "Under stress",
+        "men": "May lean toward withdrawal or self-reliance",
+        "women": "May lean toward pursuit or reassurance-seeking"
+      },
+      {
+        "aspect": "What predicts behavior",
+        "men": "Individual attachment style, not gender",
+        "women": "Individual attachment style, not gender"
+      }
     ]
   },
   "keyTakeaways": [
-    "The main patterns are secure, anxious/preoccupied, dismissing-avoidant, and fearful-avoidant — often described along anxiety and avoidance dimensions.",
+    "The main patterns are secure, anxious/preoccupied, dismissing-avoidant, and fearful-avoidant, often described along anxiety and avoidance dimensions.",
     "Styles begin in early relationships but later relationships and life events keep shaping them.",
     "They are influential but not fixed; many people move toward greater security, sometimes called earned security.",
     "The anxious-pursues, avoidant-withdraws pairing is a classic painful cycle that naming, not blaming, can defuse.",

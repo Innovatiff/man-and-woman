@@ -10,7 +10,7 @@ export async function allInsights(): Promise<Insight[]> {
 }
 
 export function excerpt(insight: Insight): string {
-  // Use the meta description as the card excerpt — it is already tuned to be a
+  // Use the meta description as the card excerpt. It is already tuned to be a
   // tight, honest summary of the page.
   return insight.data.metaDescription;
 }

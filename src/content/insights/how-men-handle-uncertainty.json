@@ -1,36 +1,40 @@
 {
-  "title": "How Men Handle Uncertainty — Risk, Action Bias, and Ambiguity",
+  "title": "How Men Handle Uncertainty: Risk, Action Bias, and Ambiguity",
   "slug": "how-men-handle-uncertainty",
   "category": "how-men-think",
   "focusGender": "men",
   "featured": false,
-  "tags": ["how-they-think", "behavior", "emotions"],
-  "metaTitle": "How Men Handle Uncertainty — The Psychology",
+  "tags": [
+    "how-they-think",
+    "behavior",
+    "emotions"
+  ],
+  "metaTitle": "How Men Handle Uncertainty: The Psychology",
   "metaDescription": "How many men tend to handle uncertainty: a modest average lean toward risk and action, coping with ambiguity, and where individual variation matters most.",
-  "coreFinding": "On average, men show a modest tendency toward higher risk tolerance and an action-oriented response to uncertainty — moving to resolve ambiguity through decisions and doing rather than sitting with it. This is a small average difference with heavy overlap between the sexes, shaped as much by socialization as biology, and it varies enormously from person to person.",
+  "coreFinding": "On average, men show a modest tendency toward higher risk tolerance and an action-oriented response to uncertainty, moving to resolve ambiguity through decisions and doing rather than sitting with it. This is a small average difference with heavy overlap between the sexes, shaped as much by socialization as biology, and it varies enormously from person to person.",
   "whatResearchShows": [
-    "A large meta-analysis by Byrnes, Miller and Schafer (1999) found that men, on average, take somewhat more risks than women across many types of decisions — though the size of the gap depended heavily on the context and task, and the distributions overlapped substantially. The headline is a modest average difference, not a categorical divide, and it has narrowed in some domains over time.",
-    "Emotion-regulation research (Gross, 1998) helps explain how people manage the discomfort that uncertainty produces. Strategies range from reappraisal — rethinking a situation to change its emotional impact — to suppression, distraction, or moving quickly to action. Many men, on average, lean toward instrumental, problem-focused coping: reducing uncertainty by doing something about it rather than dwelling on the feeling.",
+    "A large meta-analysis by Byrnes, Miller and Schafer (1999) found that men, on average, take somewhat more risks than women across many types of decisions, though the size of the gap depended heavily on the context and task, and the distributions overlapped substantially. The headline is a modest average difference, not a categorical divide, and it has narrowed in some domains over time.",
+    "Emotion-regulation research (Gross, 1998) helps explain how people manage the discomfort that uncertainty produces. Strategies range from reappraisal, rethinking a situation to change its emotional impact, to suppression, distraction, or moving quickly to action. Many men, on average, lean toward instrumental, problem-focused coping: reducing uncertainty by doing something about it rather than dwelling on the feeling.",
     "It is important not to overstate this. Hyde's gender similarities hypothesis (2005) shows that on the large majority of psychological measures, men and women are far more alike than different. How a given person handles uncertainty is predicted better by their temperament, experience, and circumstances than by their gender, and plenty of women are more risk-tolerant and action-oriented than plenty of men."
   ],
   "whyItHappens": [
-    "Part of the pattern is socialization. Many men are encouraged from an early age to be decisive, to 'handle it,' and to avoid appearing anxious or hesitant. Converting uncertainty into action can therefore feel both natural and expected — it offers a sense of agency and fits a cultural script about competence and composure.",
+    "Part of the pattern is socialization. Many men are encouraged from an early age to be decisive, to 'handle it,' and to avoid appearing anxious or hesitant. Converting uncertainty into action can therefore feel both natural and expected. It offers a sense of agency and fits a cultural script about competence and composure.",
     "There may be a smaller biological component to average risk differences, but researchers caution against overstating it; the meta-analytic picture is of a modest gap that shifts with culture, era, and situation. Action bias also has a simple psychological appeal: doing something reduces the unpleasant tension of not knowing, even when waiting might serve better.",
-    "An action-focused style of coping can be genuinely adaptive — it gets decisions made and problems addressed. But it has a cost when uncertainty is not yet resolvable: rushing to act, or treating an ambiguous emotional situation as a problem to fix, can short-circuit reflection or leave feelings unprocessed underneath the activity."
+    "An action-focused style of coping can be genuinely adaptive. It gets decisions made and problems addressed. But it has a cost when uncertainty is not yet resolvable: rushing to act, or treating an ambiguous emotional situation as a problem to fix, can short-circuit reflection or leave feelings unprocessed underneath the activity."
   ],
   "realLifeExamples": [
-    "Facing an unclear situation at work or home, a man may move quickly to a plan or decision — partly to resolve the discomfort of ambiguity. This can be effective, though sometimes it forecloses options that more patience would have kept open.",
-    "In relationships, uncertainty about where things stand can prompt a man either to push for a definite answer or to step back and 'wait and see' — both being ways of managing not-knowing. Neither necessarily reflects how much he cares.",
-    "When a problem genuinely cannot be solved yet — an illness, a slow decision out of his hands — an action-oriented person can struggle, because the usual strategy of doing something is unavailable. Some channel the restlessness into adjacent tasks; others find sitting with the unknown especially hard.",
-    "Waiting on medical test results or a hiring decision, a man may reorganize the garage, take on an unrelated project, or overhaul a routine — not because those tasks are urgent, but because doing something adjacent eases the tension of a thing he cannot yet resolve."
+    "Facing an unclear situation at work or home, a man may move quickly to a plan or decision, partly to resolve the discomfort of ambiguity. This can be effective, though sometimes it forecloses options that more patience would have kept open.",
+    "In relationships, uncertainty about where things stand can prompt a man either to push for a definite answer or to step back and 'wait and see', both being ways of managing not-knowing. Neither necessarily reflects how much he cares.",
+    "When a problem genuinely cannot be solved yet (an illness, a slow decision out of his hands) an action-oriented person can struggle, because the usual strategy of doing something is unavailable. Some channel the restlessness into adjacent tasks; others find sitting with the unknown especially hard.",
+    "Waiting on medical test results or a hiring decision, a man may reorganize the garage, take on an unrelated project, or overhaul a routine, not because those tasks are urgent, but because doing something adjacent eases the tension of a thing he cannot yet resolve."
   ],
   "whatPeopleGetWrong": [
-    "A common misconception is that men are simply braver or more comfortable with uncertainty by nature. The evidence points to a modest average difference in risk tolerance, heavily shaped by context and socialization, with large overlap — not a fundamental gap in courage. Some of what looks like ease with risk is a learned reluctance to show hesitation.",
+    "A common misconception is that men are simply braver or more comfortable with uncertainty by nature. The evidence points to a modest average difference in risk tolerance, heavily shaped by context and socialization, with large overlap, not a fundamental gap in courage. Some of what looks like ease with risk is a learned reluctance to show hesitation.",
     "Another error is reading an action-focused response as not caring or not feeling the uncertainty. Often the feeling is there; moving to action is simply the preferred way of managing it. Quiet problem-solving is not the same as emotional indifference."
   ],
   "relationshipImplications": [
-    "Recognizing that some people cope with uncertainty by acting and others by talking it through can prevent needless friction. A partner who wants to process ambiguity aloud and one who wants to resolve it through a plan are not at odds about how much they care — they are using different strategies, and naming that can help.",
-    "It can also help to flag when a situation genuinely cannot be resolved yet, so that the urge to act does not lead to premature decisions. For action-oriented people, learning to tolerate unresolved uncertainty — and to check feelings rather than only fix problems — tends to support better choices and closer relationships."
+    "Recognizing that some people cope with uncertainty by acting and others by talking it through can prevent needless friction. A partner who wants to process ambiguity aloud and one who wants to resolve it through a plan are not at odds about how much they care. They are using different strategies, and naming that can help.",
+    "It can also help to flag when a situation genuinely cannot be resolved yet, so that the urge to act does not lead to premature decisions. For action-oriented people, learning to tolerate unresolved uncertainty, and to check feelings rather than only fix problems, tends to support better choices and closer relationships."
   ],
   "theNuance": [
     "These are averages with heavy overlap, not categories. Hyde's gender similarities hypothesis (2005) shows men and women are far more alike than different on most psychological measures, and risk and coping styles are no exception. The variation within each sex dwarfs the average difference between them.",
@@ -75,7 +79,7 @@
     "how-men-handle-emotions"
   ],
   "quickTake": "On average, men lean modestly toward higher risk tolerance and toward resolving uncertainty through action rather than sitting with it. It is a small average difference with heavy overlap, shaped as much by socialization as biology, and it varies enormously from person to person.",
-  "pullQuote": "Doing something reduces the unpleasant tension of not knowing — even when waiting might serve better.",
+  "pullQuote": "Doing something reduces the unpleasant tension of not knowing, even when waiting might serve better.",
   "keyStats": [
     {
       "value": "Modest gap",
@@ -96,17 +100,33 @@
   "comparison": {
     "title": "At a glance: average tendencies",
     "rows": [
-      { "aspect": "Risk tolerance", "men": "Modestly higher on average, context-dependent", "women": "Modestly more cautious on average, context-dependent" },
-      { "aspect": "Preferred coping", "men": "Often instrumental — reduce uncertainty by acting", "women": "Often more inclined to process the feeling aloud" },
-      { "aspect": "When a problem can't be solved yet", "men": "May redirect restlessness into adjacent tasks", "women": "May seek connection and talk it through" },
-      { "aspect": "What best predicts the response", "men": "Temperament, experience, situation", "women": "Temperament, experience, situation" }
+      {
+        "aspect": "Risk tolerance",
+        "men": "Modestly higher on average, context-dependent",
+        "women": "Modestly more cautious on average, context-dependent"
+      },
+      {
+        "aspect": "Preferred coping",
+        "men": "Often instrumental, reduce uncertainty by acting",
+        "women": "Often more inclined to process the feeling aloud"
+      },
+      {
+        "aspect": "When a problem can't be solved yet",
+        "men": "May redirect restlessness into adjacent tasks",
+        "women": "May seek connection and talk it through"
+      },
+      {
+        "aspect": "What best predicts the response",
+        "men": "Temperament, experience, situation",
+        "women": "Temperament, experience, situation"
+      }
     ]
   },
   "keyTakeaways": [
     "Men show a modest average lean toward higher risk tolerance, but it is context-dependent with heavy overlap, not a gap in courage.",
-    "Many men cope with uncertainty instrumentally — acting to restore a sense of agency rather than dwelling on the feeling.",
+    "Many men cope with uncertainty instrumentally, acting to restore a sense of agency rather than dwelling on the feeling.",
     "Moving quickly to a solution does not mean the uncertainty isn't felt; action is often just the preferred way to manage it.",
-    "Action bias has a cost when a situation isn't yet resolvable — it can foreclose options or leave feelings unprocessed.",
+    "Action bias has a cost when a situation isn't yet resolvable. It can foreclose options or leave feelings unprocessed.",
     "Couples clash less when they see that acting and talking it through are different strategies, not different levels of caring.",
     "Temperament, attachment style, culture, and experience predict the response better than gender does."
   ],

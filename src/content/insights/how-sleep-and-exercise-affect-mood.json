@@ -1,35 +1,39 @@
 {
-  "title": "How Sleep and Exercise Affect Mood — What Research Shows",
+  "title": "How Sleep and Exercise Affect Mood: What Research Shows",
   "slug": "how-sleep-and-exercise-affect-mood",
   "category": "happiness-and-fulfillment",
   "focusGender": "both",
   "featured": false,
-  "tags": ["happiness", "self-improvement", "emotions"],
-  "metaTitle": "How Sleep and Exercise Affect Mood — The Research",
+  "tags": [
+    "happiness",
+    "self-improvement",
+    "emotions"
+  ],
+  "metaTitle": "How Sleep and Exercise Affect Mood: The Research",
   "metaDescription": "How sleep and exercise shape mood and emotion regulation, what the research suggests, the limits of the evidence, and what people often get wrong.",
   "coreFinding": "Research consistently links regular exercise and adequate sleep with better mood and steadier emotion regulation. Exercise appears to meaningfully reduce depressive symptoms on average, and poor sleep tends to make feelings harder to manage. These are powerful supports rather than cures, and their size varies a lot between individuals.",
   "whatResearchShows": [
-    "A meta-analysis by Schuch and colleagues (2016), which adjusted for publication bias, found that exercise has a moderate antidepressant effect — large enough to matter clinically, even after correcting for the tendency of positive results to be over-reported. The benefit appeared across aerobic and resistance training, suggesting that movement itself, more than any single format, is what tends to help.",
-    "Mood is not only about how much we feel but how well we manage it. Work by Gross and John (2003) on emotion regulation shows that strategies like reappraisal predict better well-being, and chronic sleep loss appears to undermine exactly this capacity — making people more reactive and less able to reframe a stressful event calmly. When we are rested, the same setback often feels more workable.",
+    "A meta-analysis by Schuch and colleagues (2016), which adjusted for publication bias, found that exercise has a moderate antidepressant effect, large enough to matter clinically, even after correcting for the tendency of positive results to be over-reported. The benefit appeared across aerobic and resistance training, suggesting that movement itself, more than any single format, is what tends to help.",
+    "Mood is not only about how much we feel but how well we manage it. Work by Gross and John (2003) on emotion regulation shows that strategies like reappraisal predict better well-being, and chronic sleep loss appears to undermine exactly this capacity, making people more reactive and less able to reframe a stressful event calmly. When we are rested, the same setback often feels more workable.",
     "Lyubomirsky, Sheldon and Schkade (2005) argue that a sizable share of well-being lies in intentional activity rather than fixed circumstance. Habits like regular movement and protected sleep fall squarely in that controllable zone. None of this is gender-specific: the underlying links between physical health and mood appear broadly similar for men and women, with individual differences far outweighing any average between-group gap."
   ],
   "whyItHappens": [
-    "Exercise plausibly works through several overlapping routes: changes in neurochemistry and inflammation, a sense of mastery and routine, distraction from rumination, and often a social element. Researchers are still untangling which mechanisms matter most, and they likely combine differently for different people. What is reasonably clear is that the effect is not purely 'in the head' — the body and mood are tightly coupled.",
-    "Sleep appears foundational to emotion regulation because rest seems to help the brain process and dampen emotional reactivity. After poor sleep, many people notice that small frustrations feel larger and that reappraisal — the very skill Gross and John (2003) link to well-being — becomes harder to access. Mood and sleep also tend to feed each other, so a bad night and a low mood can reinforce one another.",
-    "Because these habits sit in what Lyubomirsky and colleagues (2005) call the 'intentional activity' space, they are partly under our control — which is encouraging, but also explains why they are easy to neglect under stress, exactly when they would help most."
+    "Exercise plausibly works through several overlapping routes: changes in neurochemistry and inflammation, a sense of mastery and routine, distraction from rumination, and often a social element. Researchers are still untangling which mechanisms matter most, and they likely combine differently for different people. What is reasonably clear is that the effect is not purely 'in the head.' The body and mood are tightly coupled.",
+    "Sleep appears foundational to emotion regulation because rest seems to help the brain process and dampen emotional reactivity. After poor sleep, many people notice that small frustrations feel larger and that reappraisal (the very skill Gross and John (2003) link to well-being) becomes harder to access. Mood and sleep also tend to feed each other, so a bad night and a low mood can reinforce one another.",
+    "Because these habits sit in what Lyubomirsky and colleagues (2005) call the 'intentional activity' space, they are partly under our control, which is encouraging, but also explains why they are easy to neglect under stress, exactly when they would help most."
   ],
   "realLifeExamples": [
-    "Someone going through a stressful stretch may notice that a daily walk or workout takes the edge off — not erasing the problem, but making it feel more manageable. The relief is often modest day to day yet adds up over weeks.",
+    "Someone going through a stressful stretch may notice that a daily walk or workout takes the edge off, not erasing the problem, but making it feel more manageable. The relief is often modest day to day yet adds up over weeks.",
     "After a few nights of poor sleep, a person may find themselves snapping at minor things or catastrophizing a setback that would not normally rattle them. Once rest is restored, the same circumstances frequently feel less overwhelming.",
     "People sometimes report that the hardest part is starting: motivation tends to follow action rather than precede it, so the first ten minutes of movement can be the real hurdle, after which mood and momentum often improve.",
-    "A couple who have both slept badly may find a minor disagreement over dinner plans escalating out of proportion, each reading the other as unusually short-tempered. On a well-rested night the same exchange might pass as a shrug — a reminder of how quietly fatigue can amplify friction between two people."
+    "A couple who have both slept badly may find a minor disagreement over dinner plans escalating out of proportion, each reading the other as unusually short-tempered. On a well-rested night the same exchange might pass as a shrug, a reminder of how quietly fatigue can amplify friction between two people."
   ],
   "whatPeopleGetWrong": [
-    "A common misconception is treating exercise or sleep as a complete substitute for therapy or medication in serious depression. The research suggests they are genuinely helpful supports and, for milder symptoms, can be quite effective — but for many people they work best alongside other care, not instead of it.",
+    "A common misconception is treating exercise or sleep as a complete substitute for therapy or medication in serious depression. The research suggests they are genuinely helpful supports and, for milder symptoms, can be quite effective, but for many people they work best alongside other care, not instead of it.",
     "Another error is expecting an instant, dramatic lift. The effects tend to be cumulative and probabilistic: regular habits shift the odds toward steadier mood over time rather than guaranteeing a good day, and the benefit varies considerably from person to person."
   ],
   "relationshipImplications": [
-    "Because poor sleep erodes emotion regulation, fatigue can quietly amplify conflict — a tired partner is often a more reactive one. Protecting rest and building in movement can be a shared, practical investment in how a couple handles stress together.",
+    "Because poor sleep erodes emotion regulation, fatigue can quietly amplify conflict. A tired partner is often a more reactive one. Protecting rest and building in movement can be a shared, practical investment in how a couple handles stress together.",
     "Supporting a partner's basic well-being habits, without nagging or moralizing, tends to help both people. Inviting someone to walk together, for instance, can pair the mood benefit of exercise with connection, which research links to well-being in its own right."
   ],
   "theNuance": [
@@ -79,7 +83,7 @@
   "keyStats": [
     {
       "value": "Moderate effect",
-      "label": "A meta-analysis adjusting for publication bias found exercise has a moderate antidepressant effect — large enough to matter clinically.",
+      "label": "A meta-analysis adjusting for publication bias found exercise has a moderate antidepressant effect, large enough to matter clinically.",
       "source": "Schuch et al. (2016)"
     },
     {
@@ -89,23 +93,39 @@
     },
     {
       "value": "Intentional activity",
-      "label": "A sizable share of well-being lies in intentional activity rather than fixed circumstance — the controllable zone where sleep and movement sit.",
+      "label": "A sizable share of well-being lies in intentional activity rather than fixed circumstance, the controllable zone where sleep and movement sit.",
       "source": "Lyubomirsky, Sheldon & Schkade (2005)"
     }
   ],
   "comparison": {
     "title": "At a glance: average tendencies",
     "rows": [
-      { "aspect": "Mood benefit from exercise", "men": "Present on average; varies by person", "women": "Present on average; varies by person" },
-      { "aspect": "Effect of poor sleep on regulation", "men": "More reactive, reappraisal harder", "women": "More reactive, reappraisal harder" },
-      { "aspect": "Size of individual variation", "men": "Large; outweighs any between-sex gap", "women": "Large; outweighs any between-sex gap" },
-      { "aspect": "How habits interact with mood", "men": "Two-way; low mood saps motivation", "women": "Two-way; low mood saps motivation" }
+      {
+        "aspect": "Mood benefit from exercise",
+        "men": "Present on average; varies by person",
+        "women": "Present on average; varies by person"
+      },
+      {
+        "aspect": "Effect of poor sleep on regulation",
+        "men": "More reactive, reappraisal harder",
+        "women": "More reactive, reappraisal harder"
+      },
+      {
+        "aspect": "Size of individual variation",
+        "men": "Large; outweighs any between-sex gap",
+        "women": "Large; outweighs any between-sex gap"
+      },
+      {
+        "aspect": "How habits interact with mood",
+        "men": "Two-way; low mood saps motivation",
+        "women": "Two-way; low mood saps motivation"
+      }
     ]
   },
   "keyTakeaways": [
     "Regular exercise has a moderate antidepressant effect on average, robust even after correcting for publication bias.",
     "Adequate sleep underpins emotion regulation; poor sleep makes people more reactive and reappraisal harder.",
-    "These are genuine supports, not cures — for serious depression they work best alongside professional care.",
+    "These are genuine supports, not cures. For serious depression they work best alongside professional care.",
     "Effects are cumulative and probabilistic, not an instant lift, and vary considerably between people.",
     "Sleep and movement sit in the 'intentional activity' space, so they're partly within our control.",
     "The links between physical health and mood look broadly similar for men and women; individual differences dominate."

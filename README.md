@@ -3,7 +3,7 @@
 **Understand men. Understand women. Understand yourself.**
 
 A research-driven, psychologically intelligent reference that helps people genuinely understand
-men, women, and human relationships through real science, honest research, and practical insight —
+men, women, and human relationships through real science, honest research, and practical insight,
 without stereotypes and without agenda.
 
 This is **one website with many pages**, built to scale from the first 25 insight pages to a planned
@@ -13,10 +13,10 @@ This is **one website with many pages**, built to scale from the first 25 insigh
 
 ## Tech stack
 
-- **[Astro](https://astro.build)** — static site generation, excellent SEO, content collections.
-- **Content collections** — every insight page is a JSON file in `src/content/insights/`, validated
+- **[Astro](https://astro.build)**: static site generation, excellent SEO, content collections.
+- **Content collections**: every insight page is a JSON file in `src/content/insights/`, validated
   against a Zod schema in `src/content.config.ts`.
-- **Zero-runtime by default** — ships static HTML/CSS; the only client JS is the Psychology Explorer
+- **Zero-runtime by default**: ships static HTML/CSS; the only client JS is the Psychology Explorer
   and the mobile nav toggle.
 - Self-hosted variable fonts (Fraunces for display, Inter for body) for speed and privacy.
 
@@ -30,7 +30,7 @@ npm run preview  # preview the production build
 ```
 
 Copy `.env.example` to `.env` to configure the canonical URL, AdSense, and analytics. Everything has
-safe defaults — the site builds with no configuration, and **ads and analytics are OFF until you turn
+safe defaults. The site builds with no configuration, and **ads and analytics are OFF until you turn
 them on**.
 
 ## Project structure
@@ -59,7 +59,7 @@ public/
 ## Adding a new insight page
 
 Drop a new JSON file into `src/content/insights/` matching the schema in `src/content.config.ts`.
-No template edits, no route changes — the page, its breadcrumbs, FAQ schema, sitemap entry, and
+No template edits, no route changes. The page, its breadcrumbs, FAQ schema, sitemap entry, and
 Explorer scoring are all generated automatically. The build fails loudly if any field is missing or
 malformed.
 

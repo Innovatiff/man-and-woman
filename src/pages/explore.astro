@@ -27,7 +27,7 @@ const tagReasons: Record<string, string> = {
 ---
 
 <BaseLayout
-  title="Psychology Explorer — Find the insights that fit you"
+  title="Psychology Explorer: Find the insights that fit you"
   description="A warm, private tool that points you to the most relevant, research-backed psychology insights for your situation. No account, no clickbait, and your answers are never stored."
   canonical="/explore"
 >
@@ -37,7 +37,7 @@ const tagReasons: Record<string, string> = {
       <h1>Psychology Explorer</h1>
       <p class="lede">
         Answer four short questions and we will point you to the most relevant, research-backed
-        insights — and a reading path that makes sense in order.
+        insights, and a reading path that makes sense in order.
       </p>
       <p class="privacy-note">
         <span aria-hidden="true">🔒</span> Private by design: no account, nothing is stored, and
@@ -119,12 +119,12 @@ const tagReasons: Record<string, string> = {
     <section class="explore-about prose">
       <h2>How the Psychology Explorer works</h2>
       <p>
-        The Explorer is a simple way to turn a vague question — "why does he pull away?", "what does
-        she actually want?", "how do I understand myself better?" — into a focused reading path. You
+        The Explorer is a simple way to turn a vague question ("why does he pull away?", "what does
+        she actually want?", "how do I understand myself better?") into a focused reading path. You
         answer four short questions about what you want to understand, what specifically interests
         you, where you are in life right now, and what matters most to you. Behind the scenes, each
         answer adds weight to a set of psychology topics, and the tool ranks our library of
-        research-backed insight pages by how well they match — then orders them so each one builds on
+        research-backed insight pages by how well they match, then orders them so each one builds on
         the last.
       </p>
       <p>
@@ -136,9 +136,9 @@ const tagReasons: Record<string, string> = {
 
       <h2>What your starting point means</h2>
       <p>
-        The six starting points — understanding men, understanding women, understanding your
+        The six starting points (understanding men, understanding women, understanding your
         relationship, understanding yourself as a man or a woman, or understanding attraction and
-        love — simply tell the Explorer which part of the library to lean into and whose psychology
+        love) simply tell the Explorer which part of the library to lean into and whose psychology
         to foreground. Whatever you choose, every recommendation is drawn from the same
         research-backed material and written to describe general tendencies, never rigid rules about
         any individual.
@@ -147,7 +147,7 @@ const tagReasons: Record<string, string> = {
       <h2>Our approach: patterns, not rules</h2>
       <p>
         Every page the Explorer can recommend is built from established psychology and behavioral
-        science — attachment theory, relationship research, well-being science — and written in
+        science (attachment theory, relationship research, well-being science) and written in
         deliberately careful language. Findings describe averages and tendencies observed across
         groups of people, with significant variation between individuals. We cover men and women
         with equal depth and respect, avoid stereotypes and clickbait, and treat understanding as a
@@ -157,7 +157,7 @@ const tagReasons: Record<string, string> = {
       <h2>Your privacy</h2>
       <p>
         The Explorer is private by design. It runs entirely in your browser, requires no account,
-        and does <strong>not</strong> send, save, or track the answers you give — they never leave
+        and does <strong>not</strong> send, save, or track the answers you give. They never leave
         your device, and closing the page clears them. You can start over as many times as you like.
         For the full picture of what the site does and does not collect, see our
         <a href="/privacy-policy/">privacy policy</a>.
@@ -317,10 +317,10 @@ const tagReasons: Record<string, string> = {
 
       if (ranked.length === 0) {
         intro.textContent =
-          'Here is a great place to begin — explore the full library to find what fits.';
+          'Here is a great place to begin. Explore the full library to find what fits.';
       } else {
         intro.textContent =
-          'Read them in this order — each one builds on the understanding before it.';
+          'Read them in this order. Each one builds on the understanding before it.';
       }
 
       ranked.forEach((r, i) => {

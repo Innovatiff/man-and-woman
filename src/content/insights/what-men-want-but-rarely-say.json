@@ -4,8 +4,12 @@
   "category": "what-men-want",
   "focusGender": "men",
   "featured": false,
-  "tags": ["what-they-want", "emotions", "communication"],
-  "metaTitle": "What Men Want But Rarely Ask For — The Psychology",
+  "tags": [
+    "what-they-want",
+    "emotions",
+    "communication"
+  ],
+  "metaTitle": "What Men Want But Rarely Ask For: The Psychology",
   "metaDescription": "Research on the needs men often leave unspoken: to feel desired, appreciated, admired, and safe to be vulnerable, and why masculine norms keep them quiet.",
   "coreFinding": "Many men carry real emotional needs they rarely voice: to feel genuinely desired, appreciated, and admired, to be reassured, and to feel safe being vulnerable without it being held against them. Research suggests these needs are no smaller than anyone else's. They go unspoken largely because many men are socialized to see asking as weakness or neediness.",
   "whatResearchShows": [
@@ -22,7 +26,7 @@
     "A man rarely says 'I want to feel desired,' yet many report that feeling wanted by their partner matters deeply to them. Initiated affection, expressed attraction, and being chosen can land far more powerfully than men typically let on, precisely because they so seldom ask for it directly.",
     "Appreciation and admiration are commonly craved and rarely requested. A man may pour effort into work, providing, or fixing things and quietly long for that effort to be seen, without ever saying so. Sincere recognition for something he cares about often does more than he will admit, while feeling unseen can corrode a relationship silently.",
     "Many men want a relationship where vulnerability is safe, where admitting fear, doubt, or sadness will be met with care rather than alarm or contempt. Because they rarely test this directly, a single dismissive reaction can teach a man to close off for years, and a single genuinely safe one can slowly open the door.",
-    "A man who has been stressed about work for weeks may never say 'I need you to tell me I'm doing okay' — but a partner who notices the strain and offers unprompted reassurance often sees the tension visibly drain from him, revealing a need he could not bring himself to name."
+    "A man who has been stressed about work for weeks may never say 'I need you to tell me I'm doing okay', but a partner who notices the strain and offers unprompted reassurance often sees the tension visibly drain from him, revealing a need he could not bring himself to name."
   ],
   "whatPeopleGetWrong": [
     "The biggest misconception is that men who do not ask for emotional things do not need them. The research on alexithymia and expressivity points the other way: the needs are present and often strong, but socialization suppresses the asking. Silence reflects learned reticence, not the absence of feeling, and treating it as indifference tends to deepen the very disconnection it misreads.",
@@ -75,17 +79,17 @@
     "what-women-want-but-rarely-say",
     "why-men-pull-away"
   ],
-  "quickTake": "Many men quietly want to feel desired, appreciated, and admired, to be reassured, and to feel safe being vulnerable — needs no smaller than anyone's. They go unspoken largely because masculine socialization frames asking for emotional things as weakness or neediness.",
+  "quickTake": "Many men quietly want to feel desired, appreciated, and admired, to be reassured, and to feel safe being vulnerable, needs no smaller than anyone's. They go unspoken largely because masculine socialization frames asking for emotional things as weakness or neediness.",
   "pullQuote": "The research points to a gap between wanting and asking, not a gap in wanting.",
   "keyStats": [
     {
       "value": "Higher difficulty",
-      "label": "Men score higher on average in difficulty identifying and describing their own emotions — normative male alexithymia, linked to socialization rather than incapacity.",
+      "label": "Men score higher on average in difficulty identifying and describing their own emotions, normative male alexithymia, linked to socialization rather than incapacity.",
       "source": "Levant, Hall, Williams & Hasan (2009)"
     },
     {
       "value": "Similar inside",
-      "label": "Men and women report broadly similar inner emotional experience, but men tend to be less expressive outwardly — the feelings are there; the signal is dampened.",
+      "label": "Men and women report broadly similar inner emotional experience, but men tend to be less expressive outwardly. The feelings are there; the signal is dampened.",
       "source": "Kring & Gordon (1998)"
     },
     {
@@ -97,19 +101,35 @@
   "comparison": {
     "title": "At a glance: average tendencies",
     "rows": [
-      { "aspect": "Depth of the emotional need", "men": "Present and strong", "women": "Present and strong" },
-      { "aspect": "Outward expression of feelings", "men": "Often dampened, less disclosed", "women": "On average more openly expressed" },
-      { "aspect": "Asking directly for what they want", "men": "Frequently suppressed by socialization", "women": "On average more likely to voice it" },
-      { "aspect": "How unmet needs surface", "men": "Vague discomfort, withdrawal, irritability", "women": "Often more explicitly named" }
+      {
+        "aspect": "Depth of the emotional need",
+        "men": "Present and strong",
+        "women": "Present and strong"
+      },
+      {
+        "aspect": "Outward expression of feelings",
+        "men": "Often dampened, less disclosed",
+        "women": "On average more openly expressed"
+      },
+      {
+        "aspect": "Asking directly for what they want",
+        "men": "Frequently suppressed by socialization",
+        "women": "On average more likely to voice it"
+      },
+      {
+        "aspect": "How unmet needs surface",
+        "men": "Vague discomfort, withdrawal, irritability",
+        "women": "Often more explicitly named"
+      }
     ]
   },
   "keyTakeaways": [
-    "Men often want to feel desired, appreciated, admired, reassured, and safe being vulnerable — but rarely ask for any of it.",
+    "Men often want to feel desired, appreciated, admired, reassured, and safe being vulnerable, but rarely ask for any of it.",
     "The silence reflects learned reticence and difficulty naming feelings, not an absence of the underlying need.",
     "Inner emotional experience is broadly similar across the sexes; men just tend to express and disclose less.",
     "Unspoken needs surface as vague discomfort, withdrawal, or irritability rather than clear requests, which is easy to misread.",
     "Because these needs go unvoiced, a partner's unprompted warmth and reassurance can matter more than waiting to be asked.",
-    "This is a common socialized tendency with large overlap, not a fixed feature of being a man — attachment and history shape it more than gender."
+    "This is a common socialized tendency with large overlap, not a fixed feature of being a man. Attachment and history shape it more than gender."
   ],
   "lastReviewed": "2026-06"
 }

@@ -1,13 +1,16 @@
 {
-  "title": "Why Rejection Hurts So Much — The Psychology of Social Pain",
+  "title": "Why Rejection Hurts So Much: The Psychology of Social Pain",
   "slug": "why-rejection-hurts-so-much",
   "category": "dating-psychology",
   "focusGender": "both",
   "featured": false,
-  "tags": ["emotions", "behavior"],
-  "metaTitle": "Why Rejection Hurts So Much — The Real Psychology",
+  "tags": [
+    "emotions",
+    "behavior"
+  ],
+  "metaTitle": "Why Rejection Hurts So Much: The Real Psychology",
   "metaDescription": "Why rejection hurts so much: research suggests social pain shares neural roots with physical pain, tied to a deep human need to belong.",
-  "coreFinding": "Rejection hurts so much because, research suggests, the brain processes social pain using some of the same neural circuitry involved in physical pain. This appears to be tied to a deep, evolved need to belong. The pain is not weakness or oversensitivity — it tends to be a built-in signal that a valued connection is threatened, and it is something nearly everyone feels.",
+  "coreFinding": "Rejection hurts so much because, research suggests, the brain processes social pain using some of the same neural circuitry involved in physical pain. This appears to be tied to a deep, evolved need to belong. The pain is not weakness or oversensitivity. It tends to be a built-in signal that a valued connection is threatened, and it is something nearly everyone feels.",
   "whatResearchShows": [
     "A landmark brain-imaging study by Eisenberger, Lieberman and Williams (2003) found that when people were socially excluded in a controlled game, regions associated with the distress of physical pain became more active. Their findings suggest that being left out registers in the brain in a way that overlaps with bodily hurt, which helps explain why rejection can feel so physically painful rather than merely disappointing.",
     "This makes sense in light of Baumeister and Leary's (1995) influential review proposing that humans have a fundamental 'need to belong.' They marshaled extensive evidence that the drive to form and maintain stable bonds is a basic motivation, and that threats to belonging reliably produce strong negative emotion. From this view, the sting of rejection is the felt cost of a threatened connection.",
@@ -15,12 +18,12 @@
   ],
   "whyItHappens": [
     "From an evolutionary standpoint, Baumeister and Leary argue that belonging was crucial to survival, so a strong internal alarm for social threat would have been adaptive. The pain of rejection can be understood as that alarm doing its job: signaling that an important bond is at risk and motivating us to repair or protect connection, much as physical pain warns of bodily harm.",
-    "The neural overlap Eisenberger and colleagues identified suggests the brain did not build a wholly separate system for social hurt. Instead it appears to recruit existing pain-related circuitry, which may be why the language of rejection — being 'hurt,' feeling 'crushed' — so often borrows from physical pain. This shared basis helps explain the surprising intensity of the experience.",
+    "The neural overlap Eisenberger and colleagues identified suggests the brain did not build a wholly separate system for social hurt. Instead it appears to recruit existing pain-related circuitry, which may be why the language of rejection (being 'hurt,' feeling 'crushed') so often borrows from physical pain. This shared basis helps explain the surprising intensity of the experience.",
     "Rejection also tends to threaten self-worth and certainty, not just connection. Being turned down can prompt questions about one's value and worry about future belonging, and rumination can prolong the pain. Sbarra and Emery's work suggests that how much someone keeps revisiting the loss influences how the recovery process unfolds."
   ],
   "realLifeExamples": [
     "Being turned down for a date, left off an invitation, or ignored in a group chat can produce a genuine ache that feels out of proportion to the event. Research on social pain suggests this reaction is a normal feature of how the brain registers threats to belonging, not a sign of being overly sensitive.",
-    "After a breakup, people often describe physical-sounding symptoms — a heavy chest, trouble eating or sleeping, a literal sense of hurt. The overlap between social and physical pain helps explain why heartbreak can feel bodily, and Sbarra and Emery's findings show such distress commonly eases over time.",
+    "After a breakup, people often describe physical-sounding symptoms, a heavy chest, trouble eating or sleeping, a literal sense of hurt. The overlap between social and physical pain helps explain why heartbreak can feel bodily, and Sbarra and Emery's findings show such distress commonly eases over time.",
     "Even small, ambiguous signs of exclusion can sting, like noticing friends made plans without you. Because the need to belong is so fundamental, the brain tends to be quick to flag potential rejection, which is part of why these moments can land harder than we expect."
   ],
   "whatPeopleGetWrong": [
@@ -28,7 +31,7 @@
     "Another error is expecting the pain to vanish immediately or assuming something is wrong if it lingers. Studies on breakup recovery suggest distress often follows a gradual process. Allowing time, support, and self-compassion tends to fit the evidence better than pressuring oneself to 'just get over it.'"
   ],
   "relationshipImplications": [
-    "Understanding rejection as social pain can reduce shame about feeling it, which often makes recovery easier. The research supports leaning on belonging itself as part of healing — reaching out to supportive people rather than isolating — since the underlying wound is about threatened connection.",
+    "Understanding rejection as social pain can reduce shame about feeling it, which often makes recovery easier. The research supports leaning on belonging itself as part of healing, reaching out to supportive people rather than isolating, since the underlying wound is about threatened connection.",
     "Because rumination can prolong the hurt, gently redirecting attention and practicing self-compassion tend to help, in line with the recovery patterns studies describe. Recognizing that this pain is universal can also foster empathy: knowing how much rejection stings is reason to handle others' feelings, and our own, with care."
   ],
   "theNuance": [
@@ -74,7 +77,7 @@
     "the-psychology-of-ghosting"
   ],
   "quickTake": "Rejection hurts because the brain appears to process social pain using some of the same circuitry as physical pain, tied to a deep need to belong. Feeling it strongly is a normal built-in signal, not weakness or oversensitivity.",
-  "pullQuote": "Social pain seems to borrow the brain's physical-pain circuitry — which is why being left out can genuinely ache rather than merely disappoint.",
+  "pullQuote": "Social pain seems to borrow the brain's physical-pain circuitry, which is why being left out can genuinely ache rather than merely disappoint.",
   "keyStats": [
     {
       "value": "Shared circuitry",
@@ -94,7 +97,7 @@
   ],
   "keyTakeaways": [
     "Rejection can feel physically painful because the brain appears to register social exclusion using some of the same circuitry as bodily hurt.",
-    "The sting traces to a deep, evolved need to belong — the pain is an alarm that a valued connection is threatened.",
+    "The sting traces to a deep, evolved need to belong. The pain is an alarm that a valued connection is threatened.",
     "Feeling rejection strongly signals a normally functioning social brain, not weakness or being too sensitive.",
     "Recovery tends to be gradual; rumination can prolong it, while support and self-compassion tend to help.",
     "The basic experience of social pain appears across genders, with individual differences outweighing average gender differences."
@@ -102,10 +105,26 @@
   "comparison": {
     "title": "At a glance: average tendencies",
     "rows": [
-      { "aspect": "Capacity to feel social pain", "men": "Present and comparable, on average", "women": "Present and comparable, on average" },
-      { "aspect": "Outward expression of hurt", "men": "May be more likely to mask or minimize it", "women": "May be more likely to voice and share it" },
-      { "aspect": "Coping tendencies", "men": "Sometimes lean toward distraction or solitude", "women": "Sometimes lean toward talking it through with others" },
-      { "aspect": "Underlying driver", "men": "Threatened belonging and self-worth", "women": "Threatened belonging and self-worth" }
+      {
+        "aspect": "Capacity to feel social pain",
+        "men": "Present and comparable, on average",
+        "women": "Present and comparable, on average"
+      },
+      {
+        "aspect": "Outward expression of hurt",
+        "men": "May be more likely to mask or minimize it",
+        "women": "May be more likely to voice and share it"
+      },
+      {
+        "aspect": "Coping tendencies",
+        "men": "Sometimes lean toward distraction or solitude",
+        "women": "Sometimes lean toward talking it through with others"
+      },
+      {
+        "aspect": "Underlying driver",
+        "men": "Threatened belonging and self-worth",
+        "women": "Threatened belonging and self-worth"
+      }
     ]
   },
   "lastReviewed": "2026-06"

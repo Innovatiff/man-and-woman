@@ -45,7 +45,7 @@ for (const f of files) {
   try {
     data = JSON.parse(readFileSync(join(dir, f), 'utf8'));
   } catch (e) {
-    errors.push(`${f}: invalid JSON — ${e.message}`);
+    errors.push(`${f}: invalid JSON: ${e.message}`);
     continue;
   }
   insights.push({ file: f, data });

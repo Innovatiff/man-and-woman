@@ -8,7 +8,7 @@ const categorySlugs = CATEGORIES.map((c) => c.slug) as [string, ...string[]];
  * The `insights` collection powers every individual insight page.
  *
  * Each insight is a single JSON file in src/content/insights/. To add a new
- * page, drop in a new JSON file matching this schema — no template edits, no
+ * page, drop in a new JSON file matching this schema, no template edits, no
  * route changes. Long-form fields are arrays of paragraph strings so the prose
  * stays readable in source and renders as clean, separated paragraphs.
  *

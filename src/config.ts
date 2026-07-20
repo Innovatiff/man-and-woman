@@ -11,7 +11,7 @@ export const SITE = {
   name: 'Men Women Psychology',
   tagline: 'Understand men. Understand women. Understand yourself.',
   description:
-    'Real psychology, honest research, and practical insight into how men and women think, feel, love, and live — without stereotypes and without agenda.',
+    'Real psychology, honest research, and practical insight into how men and women think, feel, love, and live, without stereotypes and without agenda.',
   url: import.meta.env.SITE_URL || 'https://menwomenpsychology.com',
   locale: 'en',
   // Used for Open Graph / structured data.
@@ -91,7 +91,7 @@ export const ADS = {
  * Firebase / Google Analytics configuration.
  *
  * Analytics is OFF unless PUBLIC_ANALYTICS_ENABLED === "true". The default
- * config below is a public web config (these keys are not secrets — they
+ * config below is a public web config (these keys are not secrets; they
  * identify the project to Google's client SDK and are safe to ship), but it
  * stays inert until explicitly enabled so local builds and previews collect
  * nothing. All collection is disclosed in the privacy policy.
@@ -117,4 +117,4 @@ export const FIREBASE = {
  * language stays identical everywhere it appears.
  */
 export const DISCLAIMER =
-  'Men Women Psychology presents psychology research, behavioral science findings, and documented behavioral patterns for educational purposes. All content represents general tendencies observed in research — not universal rules that apply to every individual. This is not therapy, clinical advice, or relationship counseling. Individual variation is always significant.';
+  'Men Women Psychology presents psychology research, behavioral science findings, and documented behavioral patterns for educational purposes. All content represents general tendencies observed in research, not universal rules that apply to every individual. This is not therapy, clinical advice, or relationship counseling. Individual variation is always significant.';

@@ -1,45 +1,49 @@
 {
-  "title": "The Psychology of Passive Aggression — Why Anger Goes Indirect",
+  "title": "The Psychology of Passive Aggression: Why Anger Goes Indirect",
   "slug": "the-psychology-of-passive-aggression",
   "category": "behavior-patterns",
   "focusGender": "both",
   "featured": false,
-  "tags": ["behavior", "communication", "conflict"],
-  "metaTitle": "The Psychology of Passive Aggression — What Research Shows",
+  "tags": [
+    "behavior",
+    "communication",
+    "conflict"
+  ],
+  "metaTitle": "The Psychology of Passive Aggression: What Research Shows",
   "metaDescription": "What psychology suggests about passive aggression: why anger gets expressed indirectly, the role of avoidance and suppression, and how to address it.",
-  "coreFinding": "Research suggests passive aggression is what tends to happen when anger or a need feels too risky to express directly, so it leaks out sideways — through silence, withdrawal, procrastination, subtle digs, or 'forgetting.' It often reflects a learned strategy for avoiding open conflict rather than calculated malice. The pattern tends to confuse and frustrate everyone involved precisely because the real issue stays unspoken.",
+  "coreFinding": "Research suggests passive aggression is what tends to happen when anger or a need feels too risky to express directly, so it leaks out sideways, through silence, withdrawal, procrastination, subtle digs, or 'forgetting.' It often reflects a learned strategy for avoiding open conflict rather than calculated malice. The pattern tends to confuse and frustrate everyone involved precisely because the real issue stays unspoken.",
   "whatResearchShows": [
-    "Passive aggression sits where avoidance and suppressed anger meet. Andrew Christensen and Christopher Heavey's research on the demand-withdraw pattern (1990) describes how one partner pressing an issue while the other withdraws can entrench conflict. Withdrawal that carries unspoken resentment — going quiet, stalling, complying on the surface while resisting underneath — is a recognizable face of passive aggression, and their work shows how such patterns can become self-reinforcing in couples.",
-    "James Gross and Oliver John's work on emotion regulation (2003) distinguishes expression from suppression — pushing feelings down without voicing them. Their research associates habitual suppression with costs, including weaker social connection, partly because hidden feelings don't disappear; they often find indirect outlets. Passive aggression can be understood as suppressed anger that surfaces through behavior rather than words, since the feeling persists even when its direct expression is blocked.",
-    "John Gottman and Robert Levenson's longitudinal research (1992) found that how couples handle conflict predicts relationship outcomes over time. Indirect hostility — contempt, stonewalling, and the kind of veiled criticism passive aggression delivers — tends to corrode trust because grievances never get aired and resolved. Their work suggests it is not conflict itself but the way it is expressed that matters, and indirect expression tends to leave problems festering."
+    "Passive aggression sits where avoidance and suppressed anger meet. Andrew Christensen and Christopher Heavey's research on the demand-withdraw pattern (1990) describes how one partner pressing an issue while the other withdraws can entrench conflict. Withdrawal that carries unspoken resentment (going quiet, stalling, complying on the surface while resisting underneath) is a recognizable face of passive aggression, and their work shows how such patterns can become self-reinforcing in couples.",
+    "James Gross and Oliver John's work on emotion regulation (2003) distinguishes expression from suppression, pushing feelings down without voicing them. Their research associates habitual suppression with costs, including weaker social connection, partly because hidden feelings don't disappear; they often find indirect outlets. Passive aggression can be understood as suppressed anger that surfaces through behavior rather than words, since the feeling persists even when its direct expression is blocked.",
+    "John Gottman and Robert Levenson's longitudinal research (1992) found that how couples handle conflict predicts relationship outcomes over time. Indirect hostility (contempt, stonewalling, and the kind of veiled criticism passive aggression delivers) tends to corrode trust because grievances never get aired and resolved. Their work suggests it is not conflict itself but the way it is expressed that matters, and indirect expression tends to leave problems festering."
   ],
   "whyItHappens": [
-    "Passive aggression often grows where direct expression of anger feels unsafe or forbidden. Someone who learned early that openly objecting led to punishment, withdrawal of affection, or escalation may default to indirect resistance instead — it feels safer than confrontation while still registering a protest. In this light, the behavior is frequently a learned coping strategy rather than deliberate cruelty.",
+    "Passive aggression often grows where direct expression of anger feels unsafe or forbidden. Someone who learned early that openly objecting led to punishment, withdrawal of affection, or escalation may default to indirect resistance instead. It feels safer than confrontation while still registering a protest. In this light, the behavior is frequently a learned coping strategy rather than deliberate cruelty.",
     "Avoidance of conflict is a major driver. For people uncomfortable with open disagreement, expressing displeasure indirectly can feel like a way to register a grievance without the perceived risk of a confrontation. Christensen and Heavey's research on withdrawal shows how this can become a stable pattern, especially when one person pursues and the other retreats, each response feeding the other.",
-    "Suppression keeps the underlying emotion alive. As Gross and John's work suggests, feelings that are pushed down rather than processed tend to leak out — through tone, delay, 'forgetting,' or subtle obstruction. The person may not even fully recognize they are angry, which is part of why passive aggression can be genuinely confusing for everyone, including the one expressing it."
+    "Suppression keeps the underlying emotion alive. As Gross and John's work suggests, feelings that are pushed down rather than processed tend to leak out, through tone, delay, 'forgetting,' or subtle obstruction. The person may not even fully recognize they are angry, which is part of why passive aggression can be genuinely confusing for everyone, including the one expressing it."
   ],
   "realLifeExamples": [
     "A partner who agrees to a plan but then repeatedly 'forgets' the steps involved may be expressing reluctance they didn't feel able to state directly. The behavior reads as carelessness, but underneath it can be an unvoiced objection that never made it into words.",
-    "Saying 'fine, whatever you want' in a clipped tone while clearly not meaning it is a familiar form of indirect protest — surface compliance carrying unspoken resentment. Research on withdrawal suggests this can leave the other person sensing a problem but unable to address it, since nothing was openly named.",
+    "Saying 'fine, whatever you want' in a clipped tone while clearly not meaning it is a familiar form of indirect protest, surface compliance carrying unspoken resentment. Research on withdrawal suggests this can leave the other person sensing a problem but unable to address it, since nothing was openly named.",
     "Going quiet and withdrawing warmth after a disagreement, without explaining why, can function as a way to register displeasure indirectly. Gottman's work suggests this kind of silent punishment tends to erode trust over time precisely because the actual grievance stays unaddressed.",
-    "Feeling overlooked on a shared task, someone drops small barbs disguised as jokes — 'must be nice to have all that free time' — rather than saying they feel unsupported. The dig lets the resentment surface without the risk of a direct request, but it leaves the other person defensive and the real need still unspoken."
+    "Feeling overlooked on a shared task, someone drops small barbs disguised as jokes, 'must be nice to have all that free time', rather than saying they feel unsupported. The dig lets the resentment surface without the risk of a direct request, but it leaves the other person defensive and the real need still unspoken."
   ],
   "whatPeopleGetWrong": [
-    "A common misconception is that passive aggression is always a calculated manipulation. Research suggests it more often reflects a learned, semi-automatic strategy for handling anger that felt unsafe to express directly — sometimes outside the person's full awareness. Framing it purely as scheming tends to escalate conflict rather than resolve it.",
-    "Another error is treating it as a personality verdict rather than a pattern in context. Most people slip into indirect expression sometimes, especially in environments where directness feels risky. Research on emotion regulation suggests the behavior tends to ease when the underlying feeling can be named and expressed safely — which means the conditions matter as much as the individual."
+    "A common misconception is that passive aggression is always a calculated manipulation. Research suggests it more often reflects a learned, semi-automatic strategy for handling anger that felt unsafe to express directly, sometimes outside the person's full awareness. Framing it purely as scheming tends to escalate conflict rather than resolve it.",
+    "Another error is treating it as a personality verdict rather than a pattern in context. Most people slip into indirect expression sometimes, especially in environments where directness feels risky. Research on emotion regulation suggests the behavior tends to ease when the underlying feeling can be named and expressed safely, which means the conditions matter as much as the individual."
   ],
   "relationshipImplications": [
     "Because the real issue stays hidden, passive aggression tends to keep conflicts unresolved and trust slowly eroding, as Gottman and Levenson's research on conflict patterns suggests. The frustrating part for a partner is sensing that something is wrong while being told 'nothing's wrong,' which can leave them feeling both blamed and powerless to fix it.",
     "The more constructive path, research suggests, runs through making direct expression feel safe enough to use. When both people can name grievances calmly and trust they'll be heard rather than punished, the incentive for indirect protest tends to fade. Addressing the conditions that make directness feel risky often does more than calling out each individual behavior."
   ],
   "theNuance": [
-    "Passive aggression appears across genders, and the underlying mechanics — suppressed anger seeking an indirect outlet — look broadly shared. Janet Hyde's gender similarities hypothesis (2005) suggests men and women are far more alike than different on most psychological measures; any average differences in how indirect expression shows up tend to be modest, with large overlap between individuals.",
+    "Passive aggression appears across genders, and the underlying mechanics, suppressed anger seeking an indirect outlet, look broadly shared. Janet Hyde's gender similarities hypothesis (2005) suggests men and women are far more alike than different on most psychological measures; any average differences in how indirect expression shows up tend to be modest, with large overlap between individuals.",
     "It is also worth distinguishing occasional indirect expression, which nearly everyone does under stress, from an entrenched pattern. A clipped 'fine' on a hard day is not the same as a chronic style of avoiding all direct conflict. Context, history, and how safe directness feels all shape whether the behavior is a passing moment or a persistent dynamic worth addressing."
   ],
   "faqs": [
     {
       "question": "What does psychology suggest passive aggression actually is?",
-      "answer": "Research frames it as what tends to happen when anger or a need feels too risky to express directly, so it leaks out indirectly — through silence, stalling, subtle digs, or 'forgetting.' It often reflects a learned strategy for avoiding open conflict rather than deliberate malice, and the real issue usually stays unspoken."
+      "answer": "Research frames it as what tends to happen when anger or a need feels too risky to express directly, so it leaks out indirectly, through silence, stalling, subtle digs, or 'forgetting.' It often reflects a learned strategy for avoiding open conflict rather than deliberate malice, and the real issue usually stays unspoken."
     },
     {
       "question": "Is passive aggression always intentional manipulation?",
@@ -47,7 +51,7 @@
     },
     {
       "question": "Why do people express anger indirectly instead of just saying it?",
-      "answer": "Often because direct expression has felt unsafe — punished, escalated, or met with withdrawal in the past. Indirect protest can feel like a way to register a grievance while avoiding feared confrontation. Gross and John's work suggests suppressed feelings tend to leak out through behavior when they aren't voiced directly."
+      "answer": "Often because direct expression has felt unsafe, punished, escalated, or met with withdrawal in the past. Indirect protest can feel like a way to register a grievance while avoiding feared confrontation. Gross and John's work suggests suppressed feelings tend to leak out through behavior when they aren't voiced directly."
     },
     {
       "question": "How does passive aggression affect relationships?",
@@ -75,7 +79,7 @@
     "how-resentment-builds-in-relationships",
     "the-psychology-of-emotional-withdrawal"
   ],
-  "quickTake": "Passive aggression is what tends to happen when anger or a need feels too risky to say directly, so it leaks out sideways — silence, stalling, subtle digs, 'forgetting.' It's usually a learned way to avoid open conflict, not calculated malice, and it frustrates everyone because the real issue stays unspoken.",
+  "quickTake": "Passive aggression is what tends to happen when anger or a need feels too risky to say directly, so it leaks out sideways, silence, stalling, subtle digs, 'forgetting.' It's usually a learned way to avoid open conflict, not calculated malice, and it frustrates everyone because the real issue stays unspoken.",
   "pullQuote": "The pattern confuses and frustrates everyone involved precisely because the real issue stays unspoken.",
   "keyStats": [
     {
@@ -85,29 +89,41 @@
     },
     {
       "value": "Suppression has costs",
-      "label": "Habitually pushing feelings down without voicing them is associated with weaker social connection — partly because hidden feelings don't disappear, they find indirect outlets.",
+      "label": "Habitually pushing feelings down without voicing them is associated with weaker social connection, partly because hidden feelings don't disappear, they find indirect outlets.",
       "source": "Gross & John (2003)"
     },
     {
       "value": "How, not whether",
-      "label": "Longitudinal research finds it is the way couples handle conflict — not conflict itself — that predicts outcomes, and indirect hostility tends to corrode trust because grievances never get aired.",
+      "label": "Longitudinal research finds it is the way couples handle conflict, not conflict itself, that predicts outcomes, and indirect hostility tends to corrode trust because grievances never get aired.",
       "source": "Gottman & Levenson (1992)"
     }
   ],
   "comparison": {
     "title": "At a glance: average tendencies",
     "rows": [
-      { "aspect": "Underlying mechanism", "men": "Suppressed anger seeking an indirect outlet", "women": "Suppressed anger seeking an indirect outlet" },
-      { "aspect": "How much it differs by gender", "men": "Any average differences tend to be modest, with large overlap", "women": "Any average differences tend to be modest, with large overlap" },
-      { "aspect": "What tends to help", "men": "Making direct expression feel safe enough to use", "women": "Making direct expression feel safe enough to use" }
+      {
+        "aspect": "Underlying mechanism",
+        "men": "Suppressed anger seeking an indirect outlet",
+        "women": "Suppressed anger seeking an indirect outlet"
+      },
+      {
+        "aspect": "How much it differs by gender",
+        "men": "Any average differences tend to be modest, with large overlap",
+        "women": "Any average differences tend to be modest, with large overlap"
+      },
+      {
+        "aspect": "What tends to help",
+        "men": "Making direct expression feel safe enough to use",
+        "women": "Making direct expression feel safe enough to use"
+      }
     ]
   },
   "keyTakeaways": [
     "Passive aggression tends to surface when direct expression of anger or a need feels too risky.",
-    "It's more often a learned, semi-automatic coping strategy than deliberate manipulation — sometimes outside the person's full awareness.",
+    "It's more often a learned, semi-automatic coping strategy than deliberate manipulation, sometimes outside the person's full awareness.",
     "Suppressed feelings don't vanish; they leak out through tone, delay, 'forgetting,' and subtle obstruction.",
     "Indirect hostility erodes trust over time because the real grievance never gets aired and resolved.",
-    "The behavior tends to ease when direct expression feels safe — so addressing the conditions matters as much as the individual.",
+    "The behavior tends to ease when direct expression feels safe, so addressing the conditions matters as much as the individual.",
     "The mechanics look broadly shared across genders, with large overlap between individuals."
   ],
   "lastReviewed": "2026-06"

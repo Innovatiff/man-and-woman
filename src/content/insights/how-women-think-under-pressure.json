@@ -1,44 +1,48 @@
 {
-  "title": "How Women Think Under Pressure — Stress, Support, and the Multitasking Myth",
+  "title": "How Women Think Under Pressure: Stress, Support, and the Multitasking Myth",
   "slug": "how-women-think-under-pressure",
   "category": "how-women-think",
   "focusGender": "women",
   "featured": false,
-  "tags": ["how-they-think", "emotions", "behavior"],
-  "metaTitle": "How Women Think Under Pressure — The Psychology",
+  "tags": [
+    "how-they-think",
+    "emotions",
+    "behavior"
+  ],
+  "metaTitle": "How Women Think Under Pressure: The Psychology",
   "metaDescription": "How many women tend to respond to stress: tend-and-befriend, seeking support, and why the multitasking stereotype is more myth than fact, per research.",
-  "coreFinding": "Under pressure, research suggests many women lean toward a 'tend-and-befriend' response — seeking connection and support alongside the classic fight-or-flight reaction. There is also a tendency toward rumination when stress lingers. But these are averages with wide overlap, and the popular idea that women are natural multitaskers is largely a myth.",
+  "coreFinding": "Under pressure, research suggests many women lean toward a 'tend-and-befriend' response, seeking connection and support alongside the classic fight-or-flight reaction. There is also a tendency toward rumination when stress lingers. But these are averages with wide overlap, and the popular idea that women are natural multitaskers is largely a myth.",
   "whatResearchShows": [
-    "Taylor and colleagues (2000) proposed that the standard 'fight-or-flight' model of stress was built mostly on male samples, and that women, on average, more often show a 'tend-and-befriend' response — protecting and nurturing others and reaching out for social support when threatened. They linked this partly to caregiving history and to affiliative processes. It is a tendency layered on top of fight-or-flight, not a replacement for it.",
-    "Nolen-Hoeksema's (2000) research on rumination found that women, on average, are somewhat more likely than men to respond to distress by dwelling on it — turning problems over repeatedly. This can deepen and prolong low mood, though it also reflects a form of trying to understand and process. The gap is modest, and both men and women ruminate; the style differs more than the capacity.",
+    "Taylor and colleagues (2000) proposed that the standard 'fight-or-flight' model of stress was built mostly on male samples, and that women, on average, more often show a 'tend-and-befriend' response, protecting and nurturing others and reaching out for social support when threatened. They linked this partly to caregiving history and to affiliative processes. It is a tendency layered on top of fight-or-flight, not a replacement for it.",
+    "Nolen-Hoeksema's (2000) research on rumination found that women, on average, are somewhat more likely than men to respond to distress by dwelling on it, turning problems over repeatedly. This can deepen and prolong low mood, though it also reflects a form of trying to understand and process. The gap is modest, and both men and women ruminate; the style differs more than the capacity.",
     "The widespread belief that women are better multitaskers has little solid support. Careful studies find that switching between demanding tasks carries a performance cost for essentially everyone, with no reliable, large advantage for either sex. Much of the multitasking women appear to do reflects an unequal load of responsibilities rather than a special cognitive gift."
   ],
   "whyItHappens": [
-    "The tend-and-befriend pattern likely reflects both biology and socialization. Reaching for connection under stress can be adaptive — support buffers the physiological impact of pressure — and many women are encouraged from early life to maintain relationships and read others' needs, which reinforces support-seeking as a coping strategy.",
+    "The tend-and-befriend pattern likely reflects both biology and socialization. Reaching for connection under stress can be adaptive, support buffers the physiological impact of pressure, and many women are encouraged from early life to maintain relationships and read others' needs, which reinforces support-seeking as a coping strategy.",
     "Rumination often grows from a genuine attempt to make sense of a problem. Turning a situation over can be useful up to a point; past it, the same effort loops without resolving. Gross's (1998) work on emotion regulation helps clarify why: strategies that reframe a stressor tend to help, while dwelling on it without resolution can prolong distress. Socialization that encourages emotional attentiveness may make the ruminative style more common in women, but it is a matter of degree, not a categorical difference.",
-    "The multitasking myth persists partly because many women carry a heavy 'mental load' — tracking countless household and relational details at once. Doing a lot in parallel out of necessity can look like a natural talent for it, when it is really a response to how responsibilities are distributed."
+    "The multitasking myth persists partly because many women carry a heavy 'mental load', tracking countless household and relational details at once. Doing a lot in parallel out of necessity can look like a natural talent for it, when it is really a response to how responsibilities are distributed."
   ],
   "realLifeExamples": [
-    "Faced with a crisis, a woman may instinctively call a friend or check on the people around her before problem-solving alone. This is not avoidance — reaching for support is itself a coping strategy that can steady her before she acts.",
+    "Faced with a crisis, a woman may instinctively call a friend or check on the people around her before problem-solving alone. This is not avoidance. Reaching for support is itself a coping strategy that can steady her before she acts.",
     "After a stressful conversation, someone might replay it repeatedly, searching for what it meant or what she could have said. Up to a point this helps her process; when it loops without end, it tends to amplify distress rather than resolve it.",
-    "A woman juggling work, childcare logistics, and household planning at once may seem effortlessly multitasking, but she is usually paying the same task-switching cost anyone would — and often carrying an invisible load a partner does not fully see."
+    "A woman juggling work, childcare logistics, and household planning at once may seem effortlessly multitasking, but she is usually paying the same task-switching cost anyone would, and often carrying an invisible load a partner does not fully see."
   ],
   "whatPeopleGetWrong": [
-    "A common misconception is that a woman seeking support under stress is weak or unable to cope alone. Research frames support-seeking as an effective coping strategy in its own right — one that buffers stress physiologically. Reaching out is often a sign of resourcefulness, not fragility.",
+    "A common misconception is that a woman seeking support under stress is weak or unable to cope alone. Research frames support-seeking as an effective coping strategy in its own right, one that buffers stress physiologically. Reaching out is often a sign of resourcefulness, not fragility.",
     "Another mistake is believing women are wired to multitask better. The evidence does not support a meaningful sex difference; task-switching costs apply broadly. Praising women for 'being great at juggling' can quietly excuse an unfair distribution of the mental and household load."
   ],
   "relationshipImplications": [
-    "For partners, it helps to recognize that when a woman shares a stressor, she may be seeking connection and understanding before, or instead of, solutions. Offering presence and listening first — rather than jumping straight to fixing — tends to match what the tend-and-befriend response is reaching for.",
-    "It also helps to look honestly at how load is shared. If one partner seems to be 'multitasking' constantly, the issue may be an unequal mental load rather than a talent to celebrate. Rebalancing responsibilities tends to reduce the chronic pressure behind it — and this applies whichever partner is carrying more."
+    "For partners, it helps to recognize that when a woman shares a stressor, she may be seeking connection and understanding before, or instead of, solutions. Offering presence and listening first, rather than jumping straight to fixing, tends to match what the tend-and-befriend response is reaching for.",
+    "It also helps to look honestly at how load is shared. If one partner seems to be 'multitasking' constantly, the issue may be an unequal mental load rather than a talent to celebrate. Rebalancing responsibilities tends to reduce the chronic pressure behind it, and this applies whichever partner is carrying more."
   ],
   "theNuance": [
-    "These are averages with substantial overlap. Janet Hyde's gender similarities hypothesis (2005) shows men and women are far more alike than different on most psychological measures, and stress responses are no exception — many men seek support and connection under pressure, and many women narrow, act, and problem-solve alone. The distributions overlap heavily.",
+    "These are averages with substantial overlap. Janet Hyde's gender similarities hypothesis (2005) shows men and women are far more alike than different on most psychological measures, and stress responses are no exception. Many men seek support and connection under pressure, and many women narrow, act, and problem-solve alone. The distributions overlap heavily.",
     "Attachment style, temperament, culture, and the specific situation usually predict how someone responds to pressure better than gender does. Tend-and-befriend and fight-or-flight are tendencies available to everyone. The patterns here describe group leanings, never a fixed script for any individual woman."
   ],
   "faqs": [
     {
       "question": "How do many women tend to respond to stress?",
-      "answer": "Research suggests many women lean toward a 'tend-and-befriend' response — seeking support and connection alongside the classic fight-or-flight reaction. Both men and women show both patterns; the difference is one of average tendency, with wide overlap and strong influence from personality and circumstance."
+      "answer": "Research suggests many women lean toward a 'tend-and-befriend' response, seeking support and connection alongside the classic fight-or-flight reaction. Both men and women show both patterns; the difference is one of average tendency, with wide overlap and strong influence from personality and circumstance."
     },
     {
       "question": "Is seeking support under pressure a sign of weakness?",
@@ -50,15 +54,15 @@
     },
     {
       "question": "Why might a woman replay a stressful conversation over and over?",
-      "answer": "This is rumination — a tendency, somewhat more common in women on average, to dwell on distress while trying to make sense of it. Up to a point it aids processing; past that it can amplify low mood. Both men and women ruminate, and the difference is modest rather than categorical."
+      "answer": "This is rumination, a tendency, somewhat more common in women on average, to dwell on distress while trying to make sense of it. Up to a point it aids processing; past that it can amplify low mood. Both men and women ruminate, and the difference is modest rather than categorical."
     },
     {
       "question": "Does she want solutions or support when she's stressed?",
-      "answer": "Often support and understanding first, though it varies by person and situation. The tend-and-befriend pattern suggests connection can be part of how many women steady themselves before acting. Listening before offering fixes tends to help — but the reliable move is to ask what she actually needs."
+      "answer": "Often support and understanding first, though it varies by person and situation. The tend-and-befriend pattern suggests connection can be part of how many women steady themselves before acting. Listening before offering fixes tends to help, but the reliable move is to ask what she actually needs."
     },
     {
       "question": "Do all women think the same way under pressure?",
-      "answer": "No — individual differences are large. Many women narrow their focus and problem-solve alone, and many men seek connection and support. Attachment style, temperament, and the specific situation predict stress responses better than gender. The tendencies described here are averages across groups, not a rule for anyone."
+      "answer": "No. Individual differences are large. Many women narrow their focus and problem-solve alone, and many men seek connection and support. Attachment style, temperament, and the specific situation predict stress responses better than gender. The tendencies described here are averages across groups, not a rule for anyone."
     }
   ],
   "researchSources": [
@@ -73,8 +77,8 @@
     "how-women-make-decisions",
     "how-men-think-under-pressure"
   ],
-  "quickTake": "Under pressure, many women lean toward 'tend-and-befriend' — reaching for connection and support alongside fight-or-flight — and are somewhat more prone to rumination when stress lingers. The idea that women are natural multitaskers, though, is largely a myth.",
-  "pullQuote": "Reaching for support under stress is a coping strategy in its own right, not a failure to cope — it buffers pressure rather than signalling weakness.",
+  "quickTake": "Under pressure, many women lean toward 'tend-and-befriend', reaching for connection and support alongside fight-or-flight, and are somewhat more prone to rumination when stress lingers. The idea that women are natural multitaskers, though, is largely a myth.",
+  "pullQuote": "Reaching for support under stress is a coping strategy in its own right, not a failure to cope. It buffers pressure rather than signalling weakness.",
   "keyStats": [
     {
       "value": "Tend-and-befriend",
@@ -83,7 +87,7 @@
     },
     {
       "value": "Small effect",
-      "label": "Women are somewhat more likely to ruminate — dwell on distress — but both sexes ruminate and the gap is modest, a difference of style more than capacity.",
+      "label": "Women are somewhat more likely to ruminate, dwell on distress, but both sexes ruminate and the gap is modest, a difference of style more than capacity.",
       "source": "Nolen-Hoeksema (2000)"
     },
     {
@@ -95,17 +99,33 @@
   "comparison": {
     "title": "At a glance: average tendencies",
     "rows": [
-      { "aspect": "Common stress response", "men": "Often fight-or-flight, narrow and act", "women": "Often tend-and-befriend alongside fight-or-flight" },
-      { "aspect": "Seeking social support", "men": "Sometimes less readily", "women": "Somewhat more readily on average" },
-      { "aspect": "Rumination when stress lingers", "men": "Present, somewhat less", "women": "Somewhat more common on average" },
-      { "aspect": "Multitasking ability", "men": "Same task-switching cost", "women": "Same task-switching cost — no real edge" }
+      {
+        "aspect": "Common stress response",
+        "men": "Often fight-or-flight, narrow and act",
+        "women": "Often tend-and-befriend alongside fight-or-flight"
+      },
+      {
+        "aspect": "Seeking social support",
+        "men": "Sometimes less readily",
+        "women": "Somewhat more readily on average"
+      },
+      {
+        "aspect": "Rumination when stress lingers",
+        "men": "Present, somewhat less",
+        "women": "Somewhat more common on average"
+      },
+      {
+        "aspect": "Multitasking ability",
+        "men": "Same task-switching cost",
+        "women": "Same task-switching cost, no real edge"
+      }
     ]
   },
   "keyTakeaways": [
-    "Many women lean toward tend-and-befriend under stress — seeking connection and support on top of fight-or-flight.",
+    "Many women lean toward tend-and-befriend under stress, seeking connection and support on top of fight-or-flight.",
     "Support-seeking is an effective coping strategy that buffers stress physiologically, not a sign of fragility.",
     "Women ruminate somewhat more on average; up to a point it aids processing, past it, it amplifies distress.",
-    "The 'natural multitasker' idea is largely a myth — task-switching costs everyone, and apparent multitasking often reflects an unequal load.",
+    "The 'natural multitasker' idea is largely a myth. Task-switching costs everyone, and apparent multitasking often reflects an unequal load.",
     "When she shares a stressor, presence and listening first often match what she's reaching for better than jumping to fixes.",
     "These are averages with heavy overlap; attachment, temperament, and situation predict responses better than gender."
   ],

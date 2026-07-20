@@ -1,35 +1,39 @@
 {
-  "title": "The Stages of Falling in Love — How Love Develops",
+  "title": "The Stages of Falling in Love: How Love Develops",
   "slug": "the-stages-of-falling-in-love",
   "category": "love-and-attraction",
   "focusGender": "both",
   "featured": false,
-  "tags": ["falling-in-love", "attraction", "emotions"],
-  "metaTitle": "The Stages of Falling in Love — What Psychology Shows",
-  "metaDescription": "How love develops through stages: passionate early longing, attachment and bonding, and steady companionate love — what psychology research actually finds.",
+  "tags": [
+    "falling-in-love",
+    "attraction",
+    "emotions"
+  ],
+  "metaTitle": "The Stages of Falling in Love: What Psychology Shows",
+  "metaDescription": "How love develops through stages: passionate early longing, attachment and bonding, and steady companionate love, what psychology research actually finds.",
   "coreFinding": "Falling in love tends to unfold in overlapping phases rather than a single switch. Intense, arousal-driven passionate love usually comes first, often alongside the gradual formation of an attachment bond, which over time can mature into steadier companionate love. These stages overlap heavily and vary in pace, and the pattern is broadly similar for men and women.",
   "whatResearchShows": [
-    "Researchers distinguish passionate love from companionate love. Hatfield and Sprecher (1986) developed the Passionate Love Scale to measure the intense, arousal-driven longing and preoccupation characteristic of early love. This state is typically marked by idealization, craving for closeness, and emotional highs and lows — powerful but, research suggests, not designed to stay at peak intensity indefinitely.",
+    "Researchers distinguish passionate love from companionate love. Hatfield and Sprecher (1986) developed the Passionate Love Scale to measure the intense, arousal-driven longing and preoccupation characteristic of early love. This state is typically marked by idealization, craving for closeness, and emotional highs and lows, powerful but, research suggests, not designed to stay at peak intensity indefinitely.",
     "Hazan and Shaver (1987) reframed adult romantic love as an attachment process drawing on the same system that bonds infants to caregivers. As a relationship deepens, partners often become a 'secure base' and 'safe haven' for one another. This attachment bond tends to form gradually and underlies the shift from frantic early longing toward a calmer, more durable connection.",
     "Aron and colleagues (2000) added the self-expansion perspective: people bond intensely with partners who expand their sense of who they are, and shared novel, arousing experiences can intensify and renew closeness. Together these lines of work describe love as developing through overlapping phases. As Hyde's gender similarities hypothesis (2005) notes, the sexes are far more alike than different in how this unfolds."
   ],
   "whyItHappens": [
-    "The early passionate phase appears to involve heightened arousal and reward-related responses that focus attention intensely on the new partner. This helps explain the preoccupation, idealization, and urgency of early love, as well as why it tends to soften over time — sustained peak arousal is not something the system maintains indefinitely.",
+    "The early passionate phase appears to involve heightened arousal and reward-related responses that focus attention intensely on the new partner. This helps explain the preoccupation, idealization, and urgency of early love, as well as why it tends to soften over time. Sustained peak arousal is not something the system maintains indefinitely.",
     "Underneath the fireworks, an attachment bond is usually forming. Through repeated experiences of closeness met with responsiveness, partners gradually become each other's source of comfort and security. This is the quieter machinery of love: it is less dramatic than passion but tends to be more durable, and it is what allows a relationship to outlast the initial intensity.",
     "Self-expansion offers a third mechanism. Early love rapidly expands the self as partners merge perspectives, resources, and identities, which feels exhilarating. As that rapid expansion naturally slows, couples who keep introducing shared novelty and growth tend to sustain more of the early spark, suggesting the stages are not purely automatic but can be influenced."
   ],
   "realLifeExamples": [
     "The early weeks of constant texting, idealizing a new partner, and feeling distracted by thoughts of them are hallmarks of passionate love. People sometimes worry when that intensity later eases, but a shift from preoccupation toward steadier comfort usually signals an attachment bond forming, not love fading.",
-    "The first time a partner becomes the person you instinctively call when something goes wrong — for reassurance rather than logistics — is a visible sign of attachment taking hold. That move from excitement to felt security marks a real stage in the deepening of love.",
-    "Couples who try new things together — travel, learning, shared challenges — often report renewed closeness. This reflects the self-expansion effect: novelty and shared growth can reignite some of the early intensity even well into a relationship."
+    "The first time a partner becomes the person you instinctively call when something goes wrong, for reassurance rather than logistics, is a visible sign of attachment taking hold. That move from excitement to felt security marks a real stage in the deepening of love.",
+    "Couples who try new things together (travel, learning, shared challenges) often report renewed closeness. This reflects the self-expansion effect: novelty and shared growth can reignite some of the early intensity even well into a relationship."
   ],
   "whatPeopleGetWrong": [
     "The biggest misconception is that the fading of early passion means love is dying. Research suggests passionate love is not built to remain at peak intensity, and its softening usually coincides with a deeper attachment bond taking its place. Mistaking this transition for failure can lead people to abandon relationships that are actually maturing.",
-    "Pop culture also tends to present falling in love as a single dramatic event. The evidence points instead to overlapping, gradually unfolding processes with no fixed timeline — passion, attachment, and companionate love blend and develop at different paces for different people, rather than arriving in tidy, separate steps."
+    "Pop culture also tends to present falling in love as a single dramatic event. The evidence points instead to overlapping, gradually unfolding processes with no fixed timeline. Passion, attachment, and companionate love blend and develop at different paces for different people, rather than arriving in tidy, separate steps."
   ],
   "relationshipImplications": [
     "Recognizing the stages can ease anxiety during transitions. When early intensity gives way to calm, it often signals a bond deepening rather than interest waning; the task shifts from chasing the high to nurturing security and responsiveness, which is what sustains love over time.",
-    "Because shared novelty and growth can renew closeness, couples who keep exploring and expanding together — rather than relying on the relationship to coast on its early momentum — tend to maintain more vitality. Love, on this view, is something developed and tended, not merely fallen into."
+    "Because shared novelty and growth can renew closeness, couples who keep exploring and expanding together, rather than relying on the relationship to coast on its early momentum, tend to maintain more vitality. Love, on this view, is something developed and tended, not merely fallen into."
   ],
   "theNuance": [
     "The pace and shape of these stages vary enormously between individuals, and the differences between men and women are small. Hyde's gender similarities hypothesis (2005) reminds us the sexes are far more alike than different here; some people move through passion to attachment quickly, others slowly, and not everyone experiences an intense passionate phase at all.",
@@ -74,11 +78,11 @@
     "how-women-fall-in-love"
   ],
   "quickTake": "Love tends to unfold in overlapping phases, not one switch. Intense, arousal-driven passionate love usually comes first, alongside a slowly forming attachment bond that can mature into steadier companionate love. The stages blend, vary in pace, and look broadly similar across men and women.",
-  "pullQuote": "The fading of early passion usually coincides with a deeper attachment bond taking its place — the softening is a transition, not a failure.",
+  "pullQuote": "The fading of early passion usually coincides with a deeper attachment bond taking its place. The softening is a transition, not a failure.",
   "keyStats": [
     {
       "value": "Passionate → companionate",
-      "label": "The Passionate Love Scale measures the intense, arousal-driven longing of early love — a state research treats as one phase, not built to stay at peak intensity indefinitely.",
+      "label": "The Passionate Love Scale measures the intense, arousal-driven longing of early love, a state research treats as one phase, not built to stay at peak intensity indefinitely.",
       "source": "Hatfield & Sprecher (1986)"
     },
     {
@@ -88,26 +92,42 @@
     },
     {
       "value": "Novelty renews closeness",
-      "label": "Couples who shared novel, arousing activities reported higher relationship quality — evidence the stages can be influenced, and early intensity partly renewed.",
+      "label": "Couples who shared novel, arousing activities reported higher relationship quality, evidence the stages can be influenced, and early intensity partly renewed.",
       "source": "Aron et al. (2000)"
     }
   ],
   "comparison": {
     "title": "At a glance: average tendencies",
     "rows": [
-      { "aspect": "Early passionate phase", "men": "Intense longing and preoccupation; broadly similar", "women": "Intense longing and preoccupation; broadly similar" },
-      { "aspect": "Forming an attachment bond", "men": "Gradual shift toward felt security", "women": "Gradual shift toward felt security" },
-      { "aspect": "What predicts the journey", "men": "Attachment style more than gender", "women": "Attachment style more than gender" },
-      { "aspect": "Renewing early spark", "men": "Shared novelty and growth help", "women": "Shared novelty and growth help" }
+      {
+        "aspect": "Early passionate phase",
+        "men": "Intense longing and preoccupation; broadly similar",
+        "women": "Intense longing and preoccupation; broadly similar"
+      },
+      {
+        "aspect": "Forming an attachment bond",
+        "men": "Gradual shift toward felt security",
+        "women": "Gradual shift toward felt security"
+      },
+      {
+        "aspect": "What predicts the journey",
+        "men": "Attachment style more than gender",
+        "women": "Attachment style more than gender"
+      },
+      {
+        "aspect": "Renewing early spark",
+        "men": "Shared novelty and growth help",
+        "women": "Shared novelty and growth help"
+      }
     ]
   },
   "keyTakeaways": [
-    "Falling in love unfolds in overlapping phases — passionate, attachment, companionate — not a single dramatic event.",
+    "Falling in love unfolds in overlapping phases (passionate, attachment, companionate) not a single dramatic event.",
     "Passionate love isn't built to stay at peak intensity; its softening usually signals a deeper bond forming.",
     "Underneath the fireworks, an attachment bond forms gradually through closeness met with responsiveness.",
     "Shared novelty and growth can renew closeness and reignite some early intensity well into a relationship.",
     "The broad stages look similar across men and women; attachment style shapes the journey more than gender.",
-    "There's no fixed timeline — the phases blend and move at different paces for different people."
+    "There's no fixed timeline. The phases blend and move at different paces for different people."
   ],
   "lastReviewed": "2026-06"
 }

@@ -32,7 +32,7 @@ export const CATEGORIES: Category[] = [
     shortName: 'How Men Think',
     focus: 'men',
     description:
-      'How men tend to process decisions, weigh risk, compartmentalize problems, and reason about relationships and the future. The focus is on documented cognitive and behavioral tendencies — not on the idea that any one man thinks a single fixed way.',
+      'How men tend to process decisions, weigh risk, compartmentalize problems, and reason about relationships and the future. The focus is on documented cognitive and behavioral tendencies, not on the idea that any one man thinks a single fixed way.',
     keyFinding:
       'Most measured sex differences in cognition are small and heavily overlapping. Where patterns appear, they tend to reflect socialization, context, and individual temperament far more than any hard-wired "male brain."',
     targetPages: 70,
@@ -56,9 +56,9 @@ export const CATEGORIES: Category[] = [
     shortName: 'How Women Think',
     focus: 'women',
     description:
-      'How women tend to approach decisions, social information, risk, and relationships. As with men, the emphasis is on patterns observed in research and the heavy individual variation around them — not on stereotypes about a single "female mind."',
+      'How women tend to approach decisions, social information, risk, and relationships. As with men, the emphasis is on patterns observed in research and the heavy individual variation around them, not on stereotypes about a single "female mind."',
     keyFinding:
-      'On most cognitive measures, differences between women and men are small. Some of the more reliable findings — such as a modest average edge in certain verbal and social-cognition tasks — still describe overlapping distributions, not separate categories.',
+      'On most cognitive measures, differences between women and men are small. Some of the more reliable findings, such as a modest average edge in certain verbal and social-cognition tasks, still describe overlapping distributions, not separate categories.',
     targetPages: 70,
     faqs: [
       {
@@ -69,7 +69,7 @@ export const CATEGORIES: Category[] = [
       {
         question: 'Do women overthink relationships more than men?',
         answer:
-          'Rumination is somewhat more common among women on average, a pattern Susan Nolen-Hoeksema documented extensively, but it is a coping style influenced by stress and socialization — not evidence that women are less rational.',
+          'Rumination is somewhat more common among women on average, a pattern Susan Nolen-Hoeksema documented extensively, but it is a coping style influenced by stress and socialization, not evidence that women are less rational.',
       },
     ],
     related: ['female-psychology', 'how-men-think', 'emotions-and-feelings'],
@@ -80,9 +80,9 @@ export const CATEGORIES: Category[] = [
     shortName: 'What Men Want',
     focus: 'men',
     description:
-      'What men commonly report needing and wanting in relationships — respect, partnership, physical and emotional closeness, and the sense of being genuinely needed — and how those needs are often expressed indirectly.',
+      'What men commonly report needing and wanting in relationships (respect, partnership, physical and emotional closeness, and the sense of being genuinely needed) and how those needs are often expressed indirectly.',
     keyFinding:
-      'Studies of relationship needs find men consistently rank emotional connection, appreciation, and feeling respected near the top — often higher than popular culture assumes. The stereotype that men mainly want sex understates how much they value being valued.',
+      'Studies of relationship needs find men consistently rank emotional connection, appreciation, and feeling respected near the top, often higher than popular culture assumes. The stereotype that men mainly want sex understates how much they value being valued.',
     targetPages: 80,
     faqs: [
       {
@@ -104,9 +104,9 @@ export const CATEGORIES: Category[] = [
     shortName: 'What Women Want',
     focus: 'women',
     description:
-      'What women commonly report needing in relationships — emotional safety, responsiveness, reliability, and being genuinely understood — and why these needs are about security far more than romance for its own sake.',
+      'What women commonly report needing in relationships (emotional safety, responsiveness, reliability, and being genuinely understood) and why these needs are about security far more than romance for its own sake.',
     keyFinding:
-      'Across relationship research, perceived partner responsiveness — feeling understood, validated, and cared for — is one of the strongest predictors of women\'s relationship satisfaction and a core ingredient of intimacy for both sexes.',
+      'Across relationship research, perceived partner responsiveness (feeling understood, validated, and cared for) is one of the strongest predictors of women\'s relationship satisfaction and a core ingredient of intimacy for both sexes.',
     targetPages: 80,
     faqs: [
       {
@@ -128,7 +128,7 @@ export const CATEGORIES: Category[] = [
     shortName: 'Male Psychology',
     focus: 'men',
     description:
-      'The broad study of men\'s emotional lives, identity, stress responses, friendships, and behavior. It covers how masculine socialization shapes — and sometimes constrains — how men experience and express what they feel.',
+      'The broad study of men\'s emotional lives, identity, stress responses, friendships, and behavior. It covers how masculine socialization shapes, and sometimes constrains, how men experience and express what they feel.',
     keyFinding:
       'Research on "normative male alexithymia" (Ronald Levant) suggests many men are socialized away from naming emotions, not away from having them. The feelings are present; the practiced vocabulary often is not.',
     targetPages: 120,
@@ -152,9 +152,9 @@ export const CATEGORIES: Category[] = [
     shortName: 'Female Psychology',
     focus: 'women',
     description:
-      'The broad study of women\'s emotional lives, identity, stress responses, social bonds, and behavior — including how socialization around relationships and caretaking shapes the way women process and express experience.',
+      'The broad study of women\'s emotional lives, identity, stress responses, social bonds, and behavior, including how socialization around relationships and caretaking shapes the way women process and express experience.',
     keyFinding:
-      'Under stress, women on average show a stronger "tend-and-befriend" response (Shelley Taylor) — seeking social connection — alongside the fight-or-flight response shared with men. Connection-seeking is a documented coping strategy, not a weakness.',
+      'Under stress, women on average show a stronger "tend-and-befriend" response (Shelley Taylor), seeking social connection, alongside the fight-or-flight response shared with men. Connection-seeking is a documented coping strategy, not a weakness.',
     targetPages: 120,
     faqs: [
       {
@@ -176,15 +176,15 @@ export const CATEGORIES: Category[] = [
     shortName: 'Relationships',
     focus: 'both',
     description:
-      'How couples build, maintain, and sometimes damage connection — covering conflict styles, repair, listening, and the communication habits that research links to relationships that last.',
+      'How couples build, maintain, and sometimes damage connection, covering conflict styles, repair, listening, and the communication habits that research links to relationships that last.',
     keyFinding:
-      'John Gottman\'s decades of observational work find that what predicts breakup is not the presence of conflict but how couples handle it — specifically the "Four Horsemen" of criticism, contempt, defensiveness, and stonewalling, with contempt the single strongest predictor of divorce.',
+      'John Gottman\'s decades of observational work find that what predicts breakup is not the presence of conflict but how couples handle it, specifically the "Four Horsemen" of criticism, contempt, defensiveness, and stonewalling, with contempt the single strongest predictor of divorce.',
     targetPages: 100,
     faqs: [
       {
         question: 'What is the biggest predictor of divorce?',
         answer:
-          'In Gottman\'s research, contempt — treating a partner with disgust or superiority — is the most corrosive and the strongest single predictor of divorce. Its absence matters more than the absence of disagreement.',
+          'In Gottman\'s research, contempt, treating a partner with disgust or superiority, is the most corrosive and the strongest single predictor of divorce. Its absence matters more than the absence of disagreement.',
       },
       {
         question: 'Do men and women communicate that differently?',
@@ -224,7 +224,7 @@ export const CATEGORIES: Category[] = [
     shortName: 'Happiness',
     focus: 'both',
     description:
-      'What actually makes people content over a lifetime — drawing on well-being science, self-determination theory, and the longest-running studies of adult development to separate what predicts fulfillment from what we assume does.',
+      'What actually makes people content over a lifetime, drawing on well-being science, self-determination theory, and the longest-running studies of adult development to separate what predicts fulfillment from what we assume does.',
     keyFinding:
       'The Harvard Study of Adult Development, tracking lives for over 80 years, found the strongest predictor of long-term health and happiness is not wealth or achievement but the quality of close relationships.',
     targetPages: 80,
@@ -237,7 +237,7 @@ export const CATEGORIES: Category[] = [
       {
         question: 'Does happiness differ for men and women?',
         answer:
-          'The core ingredients — connection, purpose, autonomy, competence — are shared. Some sources of happiness are shaped differently by social roles, but the underlying psychological needs are remarkably similar across sexes.',
+          'The core ingredients (connection, purpose, autonomy, competence) are shared. Some sources of happiness are shaped differently by social roles, but the underlying psychological needs are remarkably similar across sexes.',
       },
     ],
     related: ['self-improvement-men', 'self-improvement-women', 'what-men-want'],
@@ -248,7 +248,7 @@ export const CATEGORIES: Category[] = [
     shortName: 'Self Improvement (Men)',
     focus: 'men',
     description:
-      'Evidence-based ways men can build a better life — strengthening friendships, emotional skills, physical health, and purpose — grounded in psychology rather than hustle-culture slogans.',
+      'Evidence-based ways men can build a better life (strengthening friendships, emotional skills, physical health, and purpose) grounded in psychology rather than hustle-culture slogans.',
     keyFinding:
       'The changes with the strongest evidence behind them are unglamorous: investing in close friendships, regular exercise, sleep, and learning to name and share emotions. These predict well-being far more reliably than status or income beyond a comfortable baseline.',
     targetPages: 80,
@@ -261,7 +261,7 @@ export const CATEGORIES: Category[] = [
       {
         question: 'Is it weak for men to seek therapy or support?',
         answer:
-          'No — and the data argues the opposite. Men who can ask for help and express emotion tend to have better mental and physical health. Avoidant coping, not vulnerability, is the documented risk factor.',
+          'No, and the data argues the opposite. Men who can ask for help and express emotion tend to have better mental and physical health. Avoidant coping, not vulnerability, is the documented risk factor.',
       },
     ],
     related: ['male-psychology', 'happiness-and-fulfillment', 'self-improvement-women'],
@@ -272,9 +272,9 @@ export const CATEGORIES: Category[] = [
     shortName: 'Self Improvement (Women)',
     focus: 'women',
     description:
-      'Evidence-based ways women can build a fuller life — including self-compassion, boundaries, managing rumination, and protecting autonomy alongside connection — grounded in psychological research.',
+      'Evidence-based ways women can build a fuller life (including self-compassion, boundaries, managing rumination, and protecting autonomy alongside connection) grounded in psychological research.',
     keyFinding:
-      'Kristin Neff\'s research finds self-compassion is more strongly linked to resilience and well-being than self-esteem, and it does not lower standards — it raises follow-through by removing the harsh self-criticism that fuels avoidance.',
+      'Kristin Neff\'s research finds self-compassion is more strongly linked to resilience and well-being than self-esteem, and it does not lower standards. It raises follow-through by removing the harsh self-criticism that fuels avoidance.',
     targetPages: 80,
     faqs: [
       {
@@ -285,7 +285,7 @@ export const CATEGORIES: Category[] = [
       {
         question: 'How can women stop overthinking?',
         answer:
-          'Nolen-Hoeksema\'s work suggests rumination responds to action and distraction — brief problem-solving, movement, connection, or scheduled "worry time" — far better than trying to think your way to calm.',
+          'Nolen-Hoeksema\'s work suggests rumination responds to action and distraction (brief problem-solving, movement, connection, or scheduled "worry time") far better than trying to think your way to calm.',
       },
     ],
     related: ['female-psychology', 'happiness-and-fulfillment', 'self-improvement-men'],
@@ -296,15 +296,15 @@ export const CATEGORIES: Category[] = [
     shortName: 'Emotions',
     focus: 'both',
     description:
-      'How people experience, regulate, and express emotion — including the difference between feeling and showing emotion, why some people shut down, and how emotional skills can be learned at any age.',
+      'How people experience, regulate, and express emotion, including the difference between feeling and showing emotion, why some people shut down, and how emotional skills can be learned at any age.',
     keyFinding:
-      'Emotion-regulation research shows the gap between men and women is mostly in expression and strategy, not in how intensely emotions are felt. Suppression — common in those taught to "stay strong" — reliably backfires, raising stress rather than lowering it.',
+      'Emotion-regulation research shows the gap between men and women is mostly in expression and strategy, not in how intensely emotions are felt. Suppression, common in those taught to "stay strong", reliably backfires, raising stress rather than lowering it.',
     targetPages: 60,
     faqs: [
       {
         question: 'Why do some people shut down emotionally?',
         answer:
-          'Shutting down (stonewalling) often follows physiological "flooding" — a stress response that overwhelms the ability to stay engaged. Gottman found men flood more easily in conflict, which makes withdrawal a self-protective reflex rather than indifference.',
+          'Shutting down (stonewalling) often follows physiological "flooding": a stress response that overwhelms the ability to stay engaged. Gottman found men flood more easily in conflict, which makes withdrawal a self-protective reflex rather than indifference.',
       },
       {
         question: 'Can emotional intelligence be learned?',
@@ -320,9 +320,9 @@ export const CATEGORIES: Category[] = [
     shortName: 'Behavior Patterns',
     focus: 'both',
     description:
-      'The recurring behaviors that show up in relationships — pursuing and withdrawing, testing and reassurance-seeking, conflict cycles — and the psychological mechanisms, especially attachment, that drive them.',
+      'The recurring behaviors that show up in relationships (pursuing and withdrawing, testing and reassurance-seeking, conflict cycles) and the psychological mechanisms, especially attachment, that drive them.',
     keyFinding:
-      'Many relationship behaviors that look puzzling make sense through attachment theory: anxious and avoidant strategies, learned early, shape how people seek closeness or distance under stress — and the two can lock into a self-reinforcing pursue-withdraw cycle.',
+      'Many relationship behaviors that look puzzling make sense through attachment theory: anxious and avoidant strategies, learned early, shape how people seek closeness or distance under stress, and the two can lock into a self-reinforcing pursue-withdraw cycle.',
     targetPages: 60,
     faqs: [
       {
@@ -333,7 +333,7 @@ export const CATEGORIES: Category[] = [
       {
         question: 'Are these patterns about gender?',
         answer:
-          'Only loosely. Women slightly more often occupy the "demand" role and men the "withdraw" role on average, but the pattern is driven by the issue, power, and attachment styles — and the roles frequently reverse.',
+          'Only loosely. Women slightly more often occupy the "demand" role and men the "withdraw" role on average, but the pattern is driven by the issue, power, and attachment styles, and the roles frequently reverse.',
       },
     ],
     related: ['relationships-and-communication', 'emotions-and-feelings', 'love-and-attraction'],
@@ -344,9 +344,9 @@ export const CATEGORIES: Category[] = [
     shortName: 'Dating Psychology',
     focus: 'both',
     description:
-      'The psychology of meeting, attracting, and choosing partners — what genuinely drives attraction, how first impressions form, and how to read early behavior honestly rather than through manipulation tactics.',
+      'The psychology of meeting, attracting, and choosing partners: what genuinely drives attraction, how first impressions form, and how to read early behavior honestly rather than through manipulation tactics.',
     keyFinding:
-      'Research on attraction points to a few reliable drivers — proximity, familiarity, similarity, and reciprocal liking (we tend to like people who like us). These ordinary factors predict real-world attraction better than any "technique."',
+      'Research on attraction points to a few reliable drivers: proximity, familiarity, similarity, and reciprocal liking (we tend to like people who like us). These ordinary factors predict real-world attraction better than any "technique."',
     targetPages: 60,
     faqs: [
       {

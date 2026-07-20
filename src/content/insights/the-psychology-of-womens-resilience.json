@@ -1,38 +1,42 @@
 {
-  "title": "The Psychology of Women's Resilience — How Recovery Works",
+  "title": "The Psychology of Women's Resilience: How Recovery Works",
   "slug": "the-psychology-of-womens-resilience",
   "category": "female-psychology",
   "focusGender": "women",
   "featured": false,
-  "tags": ["emotions", "behavior", "self-improvement"],
-  "metaTitle": "The Psychology of Women's Resilience — The Evidence",
+  "tags": [
+    "emotions",
+    "behavior",
+    "self-improvement"
+  ],
+  "metaTitle": "The Psychology of Women's Resilience: The Evidence",
   "metaDescription": "What research reveals about women's resilience: why bouncing back is ordinary, the role of social support, and how recovery after adversity actually works.",
-  "coreFinding": "Resilience is far more common than the word 'extraordinary' suggests. Research finds that most people, women included, recover from serious adversity and often return to baseline functioning. Resilience is not a rare toughness or a personality gift but a set of ordinary processes — social support, meaning-making, and flexible coping — that can be strengthened. Many women lean particularly on connection to get through hard times.",
+  "coreFinding": "Resilience is far more common than the word 'extraordinary' suggests. Research finds that most people, women included, recover from serious adversity and often return to baseline functioning. Resilience is not a rare toughness or a personality gift but a set of ordinary processes (social support, meaning-making, and flexible coping) that can be strengthened. Many women lean particularly on connection to get through hard times.",
   "whatResearchShows": [
-    "George Bonanno's research on loss and trauma (2004) overturned a long-standing assumption. Following people through bereavement and other serious events, he found that resilience — a stable trajectory of healthy functioning after adversity — is the most common outcome, not a rare one. Many people grieve deeply yet do not develop lasting dysfunction, and there is no single 'right' way to recover.",
-    "Ann Masten's work on resilience (2001) calls it 'ordinary magic.' Across decades of developmental research, she found that resilience arises from commonplace human resources — supportive relationships, a sense of competence, problem-solving skills, and self-regulation — rather than extraordinary traits. This reframes bouncing back as something built from everyday assets many people already have or can develop.",
-    "Shelley Taylor and colleagues' 'tend-and-befriend' model (2000) suggests that, on average, women's stress response leans somewhat toward seeking and giving social support alongside fight-or-flight. Because strong social ties are among the most reliable predictors of resilience, this orientation toward connection can be a genuine strength in weathering adversity — described as a tendency shaped by biology and socialization, not a universal rule."
+    "George Bonanno's research on loss and trauma (2004) overturned a long-standing assumption. Following people through bereavement and other serious events, he found that resilience, a stable trajectory of healthy functioning after adversity, is the most common outcome, not a rare one. Many people grieve deeply yet do not develop lasting dysfunction, and there is no single 'right' way to recover.",
+    "Ann Masten's work on resilience (2001) calls it 'ordinary magic.' Across decades of developmental research, she found that resilience arises from commonplace human resources (supportive relationships, a sense of competence, problem-solving skills, and self-regulation) rather than extraordinary traits. This reframes bouncing back as something built from everyday assets many people already have or can develop.",
+    "Shelley Taylor and colleagues' 'tend-and-befriend' model (2000) suggests that, on average, women's stress response leans somewhat toward seeking and giving social support alongside fight-or-flight. Because strong social ties are among the most reliable predictors of resilience, this orientation toward connection can be a genuine strength in weathering adversity, described as a tendency shaped by biology and socialization, not a universal rule."
   ],
   "whyItHappens": [
-    "Social support does a lot of the work. Confiding in others, feeling understood, and having practical help all buffer stress and speed recovery. Where women, on average, tend to build and draw on close support networks, that connection provides a real resource during hard times — reaching out is a coping strategy, not a weakness.",
-    "Meaning-making shapes the trajectory. People who can, over time, make some sense of what happened — finding coherence, purpose, or a story that integrates the loss — tend to recover more fully. This is not forced positivity but the gradual work of fitting a painful experience into a livable understanding of one's life.",
-    "Flexible coping matters more than any single technique. Bonanno's later work emphasizes 'coping flexibility' — the capacity to shift strategies to fit the situation, sometimes expressing emotion, sometimes setting it aside, sometimes seeking support, sometimes soldiering on. Resilience looks less like one heroic response than like adapting the response to what the moment needs."
+    "Social support does a lot of the work. Confiding in others, feeling understood, and having practical help all buffer stress and speed recovery. Where women, on average, tend to build and draw on close support networks, that connection provides a real resource during hard times. Reaching out is a coping strategy, not a weakness.",
+    "Meaning-making shapes the trajectory. People who can, over time, make some sense of what happened (finding coherence, purpose, or a story that integrates the loss) tend to recover more fully. This is not forced positivity but the gradual work of fitting a painful experience into a livable understanding of one's life.",
+    "Flexible coping matters more than any single technique. Bonanno's later work emphasizes 'coping flexibility', the capacity to shift strategies to fit the situation, sometimes expressing emotion, sometimes setting it aside, sometimes seeking support, sometimes soldiering on. Resilience looks less like one heroic response than like adapting the response to what the moment needs."
   ],
   "realLifeExamples": [
-    "After a painful breakup, someone may feel genuinely shattered for a stretch, then gradually rebuild — leaning on friends, making meaning of what happened, and returning to herself. The initial pain does not predict lasting damage.",
+    "After a painful breakup, someone may feel genuinely shattered for a stretch, then gradually rebuild, leaning on friends, making meaning of what happened, and returning to herself. The initial pain does not predict lasting damage.",
     "A woman facing a health crisis or job loss might process it partly by talking it through with trusted people, which eases the load in a way that quietly toughing it out alone often does not.",
-    "In grief, a person may move between waves of sorrow and stretches of ordinary functioning — laughing, working, connecting — and this oscillation is a normal, adaptive feature of recovery rather than a sign of denial or fragility."
+    "In grief, a person may move between waves of sorrow and stretches of ordinary functioning (laughing, working, connecting) and this oscillation is a normal, adaptive feature of recovery rather than a sign of denial or fragility."
   ],
   "whatPeopleGetWrong": [
-    "The biggest misconception is that resilience means not being affected — staying stoic and unbothered. Research suggests the opposite: deeply feeling loss and still recovering is the common pattern, and suppressing all emotion is not the same as being resilient. Recovery usually includes pain, not its absence.",
+    "The biggest misconception is that resilience means not being affected, staying stoic and unbothered. Research suggests the opposite: deeply feeling loss and still recovering is the common pattern, and suppressing all emotion is not the same as being resilient. Recovery usually includes pain, not its absence.",
     "Another error is treating reliance on social support as weakness. For many women, reaching out is a core resilience strategy, and the research on social ties strongly supports its value. Independence has its place, but 'befriending' one's way through hardship is a strength, not a failure of self-reliance."
   ],
   "relationshipImplications": [
-    "Because support is so protective, showing up for someone in adversity — listening, being present, offering practical help — materially aids recovery. Partners and friends do not need to fix the situation; steady, understanding presence is itself a resilience resource.",
+    "Because support is so protective, showing up for someone in adversity (listening, being present, offering practical help) materially aids recovery. Partners and friends do not need to fix the situation; steady, understanding presence is itself a resilience resource.",
     "It also helps to make space for the natural oscillation of grief and stress rather than expecting a straight line back to normal. Allowing someone to feel deeply, take support, and find her own meaning, at her own pace, tends to support recovery better than pressure to 'be strong' or move on quickly."
   ],
   "theNuance": [
-    "These are averages with substantial overlap, not claims about any individual. Janet Hyde's gender similarities hypothesis (2005) shows men and women are far more alike than different on most psychological measures, and resilience is widespread across both — many men rely heavily on connection, and many women cope in more independent ways.",
+    "These are averages with substantial overlap, not claims about any individual. Janet Hyde's gender similarities hypothesis (2005) shows men and women are far more alike than different on most psychological measures, and resilience is widespread across both. Many men rely heavily on connection, and many women cope in more independent ways.",
     "Resilience is also not guaranteed or a moral test. Circumstances, resources, prior trauma, and the severity of what someone faces all shape recovery, and struggling longer is not a personal failing. Individual history and context usually predict the path more than gender does."
   ],
   "faqs": [
@@ -42,23 +46,23 @@
     },
     {
       "question": "Does being resilient mean not feeling the pain?",
-      "answer": "No. Research suggests the common pattern is feeling loss deeply and still recovering over time. Suppressing all emotion is not the same as resilience. Recovery usually includes real pain and grief — resilience is about the trajectory back toward functioning, not the absence of suffering."
+      "answer": "No. Research suggests the common pattern is feeling loss deeply and still recovering over time. Suppressing all emotion is not the same as resilience. Recovery usually includes real pain and grief. Resilience is about the trajectory back toward functioning, not the absence of suffering."
     },
     {
       "question": "Why might social support matter so much for women's resilience?",
-      "answer": "Strong social ties are among the most reliable predictors of recovery, and the tend-and-befriend model suggests women's stress response, on average, leans somewhat toward connection. Reaching out to trusted people can buffer stress and aid recovery — a strength rather than a weakness."
+      "answer": "Strong social ties are among the most reliable predictors of recovery, and the tend-and-befriend model suggests women's stress response, on average, leans somewhat toward connection. Reaching out to trusted people can buffer stress and aid recovery, a strength rather than a weakness."
     },
     {
       "question": "Can resilience be built, or is it fixed?",
-      "answer": "It can largely be built. Masten's work frames resilience as ordinary processes — supportive relationships, competence, self-regulation, flexible coping — that can be developed. It is less a fixed trait you either have or lack and more a set of resources and skills that can grow over time."
+      "answer": "It can largely be built. Masten's work frames resilience as ordinary processes (supportive relationships, competence, self-regulation, flexible coping) that can be developed. It is less a fixed trait you either have or lack and more a set of resources and skills that can grow over time."
     },
     {
       "question": "Are women more resilient than men?",
-      "answer": "Research shows large overlap, so it is not accurate to rank one gender as more resilient. Coping styles may differ on average — women more often leaning on support, men sometimes on independent strategies — but resilience itself is widespread across both, shaped more by circumstance and history than sex."
+      "answer": "Research shows large overlap, so it is not accurate to rank one gender as more resilient. Coping styles may differ on average (women more often leaning on support, men sometimes on independent strategies) but resilience itself is widespread across both, shaped more by circumstance and history than sex."
     },
     {
       "question": "What is coping flexibility?",
-      "answer": "It is the capacity to shift coping strategies to fit the situation — expressing emotion when helpful, setting it aside when needed, seeking support at times and self-soothing at others. Research suggests this flexibility predicts recovery better than any single technique used rigidly across every situation."
+      "answer": "It is the capacity to shift coping strategies to fit the situation, expressing emotion when helpful, setting it aside when needed, seeking support at times and self-soothing at others. Research suggests this flexibility predicts recovery better than any single technique used rigidly across every situation."
     }
   ],
   "researchSources": [
@@ -73,17 +77,17 @@
     "how-women-experience-stress",
     "the-psychology-of-female-friendship"
   ],
-  "quickTake": "Bouncing back is ordinary, not rare. Most people — women included — recover from serious adversity and return to baseline. Resilience isn't a personality gift but a set of everyday processes: social support, meaning-making, and flexible coping. Many women lean especially on connection to get through.",
-  "pullQuote": "Resilience is not a rare toughness but 'ordinary magic' — built from everyday assets many people already have or can develop.",
+  "quickTake": "Bouncing back is ordinary, not rare. Most people, women included, recover from serious adversity and return to baseline. Resilience isn't a personality gift but a set of everyday processes: social support, meaning-making, and flexible coping. Many women lean especially on connection to get through.",
+  "pullQuote": "Resilience is not a rare toughness but 'ordinary magic', built from everyday assets many people already have or can develop.",
   "keyStats": [
     {
       "value": "Most common outcome",
-      "label": "Following people through bereavement and trauma, a stable trajectory of healthy functioning — resilience — was the typical response, not a rare one.",
+      "label": "Following people through bereavement and trauma, a stable trajectory of healthy functioning, resilience, was the typical response, not a rare one.",
       "source": "Bonanno (2004)"
     },
     {
       "value": "Ordinary magic",
-      "label": "Decades of developmental research found resilience arises from commonplace resources — supportive relationships, competence, self-regulation — not extraordinary traits.",
+      "label": "Decades of developmental research found resilience arises from commonplace resources (supportive relationships, competence, self-regulation) not extraordinary traits.",
       "source": "Masten (2001)"
     },
     {
@@ -95,18 +99,34 @@
   "comparison": {
     "title": "At a glance: average tendencies",
     "rows": [
-      { "aspect": "Stress response", "men": "Fight-or-flight more emphasized on average", "women": "Somewhat more tend-and-befriend alongside fight-or-flight" },
-      { "aspect": "Coping preference", "men": "Sometimes lean more on independent strategies", "women": "More often lean on confiding and social support" },
-      { "aspect": "Capacity to recover", "men": "Resilience widespread", "women": "Resilience widespread — the common outcome for both" },
-      { "aspect": "What predicts the path", "men": "Circumstance, resources, history", "women": "Circumstance, resources, history — more than gender" }
+      {
+        "aspect": "Stress response",
+        "men": "Fight-or-flight more emphasized on average",
+        "women": "Somewhat more tend-and-befriend alongside fight-or-flight"
+      },
+      {
+        "aspect": "Coping preference",
+        "men": "Sometimes lean more on independent strategies",
+        "women": "More often lean on confiding and social support"
+      },
+      {
+        "aspect": "Capacity to recover",
+        "men": "Resilience widespread",
+        "women": "Resilience widespread, the common outcome for both"
+      },
+      {
+        "aspect": "What predicts the path",
+        "men": "Circumstance, resources, history",
+        "women": "Circumstance, resources, history, more than gender"
+      }
     ]
   },
   "keyTakeaways": [
-    "Resilience is the most common response to adversity, not a rare gift — most people recover, though the path varies.",
-    "It's built from ordinary resources — supportive relationships, competence, self-regulation, flexible coping — that can be strengthened.",
+    "Resilience is the most common response to adversity, not a rare gift. Most people recover, though the path varies.",
+    "It's built from ordinary resources (supportive relationships, competence, self-regulation, flexible coping) that can be strengthened.",
     "Recovery usually includes real pain; feeling loss deeply and still bouncing back is the norm, not stoic unaffectedness.",
     "Strong social ties are among the most reliable predictors of recovery; reaching out is a strength, not a weakness.",
-    "Coping flexibility — shifting strategies to fit the moment — predicts recovery better than any single rigid technique.",
+    "Coping flexibility, shifting strategies to fit the moment, predicts recovery better than any single rigid technique.",
     "Men and women overlap heavily; circumstance and history shape the path more than gender does."
   ],
   "lastReviewed": "2026-06"

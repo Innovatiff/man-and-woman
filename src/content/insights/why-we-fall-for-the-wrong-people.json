@@ -1,11 +1,15 @@
 {
-  "title": "Why We Fall for the Wrong People — The Psychology of Familiar Patterns",
+  "title": "Why We Fall for the Wrong People: The Psychology of Familiar Patterns",
   "slug": "why-we-fall-for-the-wrong-people",
   "category": "love-and-attraction",
   "focusGender": "both",
   "featured": false,
-  "tags": ["attraction", "behavior", "falling-in-love"],
-  "metaTitle": "Why We Fall for the Wrong People — The Psychology",
+  "tags": [
+    "attraction",
+    "behavior",
+    "falling-in-love"
+  ],
+  "metaTitle": "Why We Fall for the Wrong People: The Psychology",
   "metaDescription": "Research suggests attachment patterns, familiarity, and early relationship templates help explain why many people are drawn to partners who hurt them.",
   "coreFinding": "Research suggests that falling for partners who are not good for us is rarely random. Familiarity, attachment patterns learned early in life, and the pull of what feels recognizable can draw people toward dynamics that echo old wounds. The 'wrong person' often feels powerfully right precisely because they fit a template the nervous system already knows.",
   "whatResearchShows": [
@@ -14,14 +18,14 @@
     "None of this implies a fixed fate. The same research that maps these patterns also finds that attachment styles can shift over time through corrective relationships and reflection. The pull toward the familiar is a tendency on average, not a rule, and it varies significantly between individuals depending on temperament, awareness, and circumstance."
   ],
   "whyItHappens": [
-    "The mechanism is largely about internal templates. According to attachment theory, early bonds with caregivers leave people with implicit expectations about closeness, reliability, and how much they can count on others. These working models run quietly in the background, biasing whom we find magnetic. A partner who fits the template — even an unhealthy one — can feel like home, because the nervous system mistakes familiarity for safety.",
+    "The mechanism is largely about internal templates. According to attachment theory, early bonds with caregivers leave people with implicit expectations about closeness, reliability, and how much they can count on others. These working models run quietly in the background, biasing whom we find magnetic. A partner who fits the template, even an unhealthy one, can feel like home, because the nervous system mistakes familiarity for safety.",
     "The anxious-avoidant dynamic is a recognizable example of this. An anxiously attached person tends to seek closeness and reassurance, while an avoidant partner tends to withdraw under pressure. Each one activates the other's deepest fears, which can produce a charged, on-and-off intensity. The highs feel euphoric and the lows feel like withdrawal, and that contrast can be mistaken for passion rather than dysregulation.",
-    "Familiarity also amplifies the effect over time. The more we are exposed to a particular relational style, the more natural it feels, and feelings of recognition are easily confused with feelings of rightness. This is one reason people sometimes describe a difficult partner as 'someone I just clicked with' — the click can be the echo of a known pattern rather than genuine compatibility."
+    "Familiarity also amplifies the effect over time. The more we are exposed to a particular relational style, the more natural it feels, and feelings of recognition are easily confused with feelings of rightness. This is one reason people sometimes describe a difficult partner as 'someone I just clicked with.' The click can be the echo of a known pattern rather than genuine compatibility."
   ],
   "realLifeExamples": [
     "Someone who grew up with an emotionally unavailable parent may find themselves repeatedly drawn to partners who are hard to reach, then working hard to earn a closeness that rarely quite arrives. The effort can feel like love, when in fact it is a familiar form of striving.",
     "Another common pattern is the person who describes steady, kind partners as lacking 'spark,' while feeling electric chemistry with people who run hot and cold. Research suggests the spark in these cases can partly reflect intermittent reinforcement and uncertainty rather than deep suitability.",
-    "It is not always the dramatic cases. Sometimes the 'wrong person' is simply someone whose values or life direction quietly clash, but whose surface familiarity — a similar sense of humor, a recognizable temperament — makes the mismatch easy to overlook until later."
+    "It is not always the dramatic cases. Sometimes the 'wrong person' is simply someone whose values or life direction quietly clash, but whose surface familiarity (a similar sense of humor, a recognizable temperament) makes the mismatch easy to overlook until later."
   ],
   "whatPeopleGetWrong": [
     "A common misconception is that being drawn to the wrong people reflects poor judgment or low self-worth alone. Research suggests the pull is often driven by deep, largely automatic attachment processes that operate beneath conscious choice. Understanding this tends to be more useful than self-blame.",
@@ -29,7 +33,7 @@
   ],
   "relationshipImplications": [
     "Recognizing a pattern is often the first lever for changing it. People who can name their attachment tendencies tend to be better placed to notice when 'chemistry' is really familiarity, and to give steadier, kinder partners a fairer chance rather than dismissing calm as boredom.",
-    "This applies to both partners and to both genders equally. Men and women alike can carry anxious or avoidant patterns, and either can find themselves repeating old dynamics. Corrective experiences — including secure relationships and, for some, therapy — can gradually reshape what feels safe and attractive."
+    "This applies to both partners and to both genders equally. Men and women alike can carry anxious or avoidant patterns, and either can find themselves repeating old dynamics. Corrective experiences (including secure relationships and, for some, therapy) can gradually reshape what feels safe and attractive."
   ],
   "theNuance": [
     "These tendencies are averages with wide individual variation, and the differences between men and women here are modest. Janet Hyde's gender similarities hypothesis (2005) reminds us that on most psychological measures the sexes overlap heavily, and the pull toward familiar patterns shows up across genders rather than belonging to one.",
@@ -73,8 +77,8 @@
     "why-people-self-sabotage-relationships",
     "love-vs-infatuation"
   ],
-  "quickTake": "Falling for the wrong person is rarely random. Attachment patterns learned early make a familiar dynamic feel like chemistry — so what your nervous system already knows can be mistaken for what is actually good for you.",
-  "pullQuote": "The click can be the echo of a known pattern rather than genuine compatibility — the nervous system mistakes familiarity for safety.",
+  "quickTake": "Falling for the wrong person is rarely random. Attachment patterns learned early make a familiar dynamic feel like chemistry, so what your nervous system already knows can be mistaken for what is actually good for you.",
+  "pullQuote": "The click can be the echo of a known pattern rather than genuine compatibility. The nervous system mistakes familiarity for safety.",
   "keyStats": [
     {
       "value": "Anxious + avoidant",
@@ -88,23 +92,39 @@
     },
     {
       "value": "Not fixed",
-      "label": "Attachment styles can shift over time through corrective relationships and reflection — the pull toward the familiar is a tendency, not a fate.",
+      "label": "Attachment styles can shift over time through corrective relationships and reflection. The pull toward the familiar is a tendency, not a fate.",
       "source": "Hazan & Shaver (1987); Mikulincer & Shaver (2007)"
     }
   ],
   "comparison": {
     "title": "At a glance: average tendencies",
     "rows": [
-      { "aspect": "How the 'wrong' pull tends to show up", "men": "Often as chasing a partner who runs hot and cold", "women": "Often as over-giving to earn a distant partner's closeness" },
-      { "aspect": "Anxious and avoidant patterns", "men": "Found across men, in either role", "women": "Found across women, in either role" },
-      { "aspect": "What 'chemistry' can mask", "men": "Familiar instability read as excitement", "women": "Familiar striving read as connection" },
-      { "aspect": "What tends to change the pattern", "men": "Awareness and corrective, secure experience", "women": "Awareness and corrective, secure experience" }
+      {
+        "aspect": "How the 'wrong' pull tends to show up",
+        "men": "Often as chasing a partner who runs hot and cold",
+        "women": "Often as over-giving to earn a distant partner's closeness"
+      },
+      {
+        "aspect": "Anxious and avoidant patterns",
+        "men": "Found across men, in either role",
+        "women": "Found across women, in either role"
+      },
+      {
+        "aspect": "What 'chemistry' can mask",
+        "men": "Familiar instability read as excitement",
+        "women": "Familiar striving read as connection"
+      },
+      {
+        "aspect": "What tends to change the pattern",
+        "men": "Awareness and corrective, secure experience",
+        "women": "Awareness and corrective, secure experience"
+      }
     ]
   },
   "keyTakeaways": [
     "The pull toward the 'wrong' person is usually driven by early attachment templates, not poor judgment or low self-worth.",
     "Anxious and avoidant partners can lock into an on-and-off intensity that gets mistaken for passion rather than dysregulation.",
-    "Familiarity is easily confused with rightness — a calm, kind partner can feel 'boring' when instability is what you learned love to be.",
+    "Familiarity is easily confused with rightness. A calm, kind partner can feel 'boring' when instability is what you learned love to be.",
     "Intense chemistry alone does not distinguish genuine connection from an activated old pattern; slowing down to watch how the relationship functions does.",
     "These patterns appear across genders and can shift over time through awareness, secure relationships, and sometimes therapy."
   ],

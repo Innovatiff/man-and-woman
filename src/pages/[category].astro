@@ -29,7 +29,7 @@ const extra = CATEGORY_OVERVIEWS[data.slug];
 const overview = extra?.overview ?? [];
 const allFaqs = [...data.faqs, ...(extra?.faqs ?? [])];
 
-const metaTitle = `${data.name} — Psychology, Research & Insights`;
+const metaTitle = `${data.name}: Psychology, Research & Insights`;
 const metaDescription = data.description.slice(0, 158);
 
 const jsonLd = [
@@ -120,7 +120,7 @@ const jsonLd = [
         )
       }
       <p class="roadmap muted">
-        This category is part of a growing library — planned to reach roughly {data.targetPages}{' '}
+        This category is part of a growing library, planned to reach roughly {data.targetPages}{' '}
         evergreen pages as the research is written and reviewed.
       </p>
     </section>

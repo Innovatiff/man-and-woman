@@ -4,8 +4,12 @@
   "category": "how-men-think",
   "focusGender": "men",
   "featured": false,
-  "tags": ["commitment", "how-they-think", "behavior"],
-  "metaTitle": "How Men Think About Commitment — The Psychology",
+  "tags": [
+    "commitment",
+    "how-they-think",
+    "behavior"
+  ],
+  "metaTitle": "How Men Think About Commitment: The Psychology",
   "metaDescription": "Research on how men approach commitment: satisfaction, alternatives and investment, sliding versus deciding, readiness, and why 'fear' oversimplifies it.",
   "coreFinding": "For most men, commitment is less a fear to overcome than a calculation and an identity shift. Research suggests it deepens as satisfaction rises, attractive alternatives feel fewer, and investment grows. Many men also describe commitment as a deliberate decision about readiness and identity rather than just finding the right person, which is why timing and how a relationship forms matter so much.",
   "whatResearchShows": [
@@ -22,7 +26,7 @@
     "A man who is happy in a relationship but resists defining it may not be uninterested. He may be in the gap the investment model describes: satisfied, but not yet feeling the weight of investment or the absence of alternatives that tips him into committed certainty. The shift, when it comes, can look sudden from outside even though it built gradually.",
     "Couples who slide into living together to save rent or out of convenience sometimes find their commitment levels never quite caught up to the milestone. One partner may treat moving in as a step toward marriage while the other saw it as practical, the sliding-versus-deciding gap that Stanley and colleagues describe, and the mismatch surfaces only later.",
     "It is common for a man to commit readily at one stage of life after years of hesitation earlier, not because he finally met someone 'better,' but because his sense of readiness changed. Reaching a career foothold or simply feeling he has lived enough independence can move autonomy concerns into the background.",
-    "A man who has invested years, shared a home, and built a life with someone often reports that leaving feels almost unthinkable — not because the early spark is stronger, but because the accumulated investment the model describes has quietly become part of who he is."
+    "A man who has invested years, shared a home, and built a life with someone often reports that leaving feels almost unthinkable, not because the early spark is stronger, but because the accumulated investment the model describes has quietly become part of who he is."
   ],
   "whatPeopleGetWrong": [
     "The biggest misconception is that 'men fear commitment' as a blanket trait. Research points instead to a weighing of satisfaction, alternatives, and investment, plus an identity and autonomy adjustment and a sense of readiness. What looks like fear is often deliberation, timing, or attachment style. Many men commit deeply and early; the variation among men is far larger than any average gap between men and women.",
@@ -75,12 +79,12 @@
     "how-women-think-about-commitment",
     "what-men-need-in-relationship"
   ],
-  "quickTake": "For most men, commitment is less a fear to overcome than a calculation and an identity shift. It deepens as satisfaction rises, alternatives feel fewer, and investment grows — and readiness tied to life stage often matters as much as the partner.",
-  "pullQuote": "What looks like fear of commitment is often deliberation, timing, or attachment style — many men commit deeply and early.",
+  "quickTake": "For most men, commitment is less a fear to overcome than a calculation and an identity shift. It deepens as satisfaction rises, alternatives feel fewer, and investment grows, and readiness tied to life stage often matters as much as the partner.",
+  "pullQuote": "What looks like fear of commitment is often deliberation, timing, or attachment style. Many men commit deeply and early.",
   "keyStats": [
     {
       "value": "3 factors",
-      "label": "The investment model predicts commitment from satisfaction, quality of alternatives, and investment size — one of the most validated frameworks in relationship science, applying across genders.",
+      "label": "The investment model predicts commitment from satisfaction, quality of alternatives, and investment size, one of the most validated frameworks in relationship science, applying across genders.",
       "source": "Rusbult (1980); Rusbult, Martz & Agnew (1998)"
     },
     {
@@ -90,24 +94,44 @@
     },
     {
       "value": "Predicts better",
-      "label": "Attachment style — avoidant, secure, anxious — tracks commitment behavior more closely than gender does.",
+      "label": "Attachment style (avoidant, secure, anxious) tracks commitment behavior more closely than gender does.",
       "source": "Hazan & Shaver (1987)"
     }
   ],
   "comparison": {
     "title": "Commitment: average tendencies",
     "rows": [
-      { "aspect": "What drives it", "men": "Satisfaction, few alternatives, investment", "women": "Satisfaction, few alternatives, investment" },
-      { "aspect": "Identity shift", "men": "Often felt as giving up some autonomy", "women": "Often felt as gaining security and a shared future" },
-      { "aspect": "Role of readiness", "men": "Life stage and independence weigh heavily", "women": "Life stage and readiness matter too" },
-      { "aspect": "Early caution", "men": "May hold back until investment accumulates", "women": "May evaluate compatibility deliberately" },
-      { "aspect": "Best predictor", "men": "Attachment style over gender", "women": "Attachment style over gender" }
+      {
+        "aspect": "What drives it",
+        "men": "Satisfaction, few alternatives, investment",
+        "women": "Satisfaction, few alternatives, investment"
+      },
+      {
+        "aspect": "Identity shift",
+        "men": "Often felt as giving up some autonomy",
+        "women": "Often felt as gaining security and a shared future"
+      },
+      {
+        "aspect": "Role of readiness",
+        "men": "Life stage and independence weigh heavily",
+        "women": "Life stage and readiness matter too"
+      },
+      {
+        "aspect": "Early caution",
+        "men": "May hold back until investment accumulates",
+        "women": "May evaluate compatibility deliberately"
+      },
+      {
+        "aspect": "Best predictor",
+        "men": "Attachment style over gender",
+        "women": "Attachment style over gender"
+      }
     ]
   },
   "keyTakeaways": [
     "Commitment is better understood as a weighing of satisfaction, alternatives, and investment than as a blanket 'fear of commitment.'",
     "It also involves an identity and autonomy shift; for many men, reassurance about keeping their selfhood makes committing easier.",
-    "Readiness tied to life stage can be as decisive as the partner — the same man may hesitate at one point and commit readily at another.",
+    "Readiness tied to life stage can be as decisive as the partner. The same man may hesitate at one point and commit readily at another.",
     "Deciding beats sliding: talking explicitly about milestones tends to produce clearer, more stable commitment than drifting into them.",
     "Attachment style predicts an individual's approach to commitment better than gender does.",
     "These are averages with heavy overlap; variation among men is far larger than any average gap between men and women."

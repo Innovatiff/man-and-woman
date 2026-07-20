@@ -1,11 +1,15 @@
 {
-  "title": "The Psychology of Online Dating — What It Changes and Its Limits",
+  "title": "The Psychology of Online Dating: What It Changes and Its Limits",
   "slug": "the-psychology-of-online-dating",
   "category": "dating-psychology",
   "focusGender": "both",
   "featured": false,
-  "tags": ["attraction", "behavior", "communication"],
-  "metaTitle": "The Psychology of Online Dating — What Research Shows",
+  "tags": [
+    "attraction",
+    "behavior",
+    "communication"
+  ],
+  "metaTitle": "The Psychology of Online Dating: What Research Shows",
   "metaDescription": "What research suggests about online dating: how it widens access, where matching algorithms fall short, and why chemistry depends on meeting in person.",
   "coreFinding": "Research suggests online dating genuinely changes how people meet, mainly by widening access to potential partners, but it does not transform the fundamentals of attraction. Profiles and algorithms struggle to predict real-world chemistry, which tends to emerge through interaction. The tools are powerful for introductions and less reliable at forecasting who will actually click.",
   "whatResearchShows": [
@@ -21,7 +25,7 @@
   "realLifeExamples": [
     "Someone might match with a person who seems ideal on paper, then feel little spark when they meet, while feeling unexpected chemistry with someone whose profile they almost skipped. Research on the gap between stated preferences and actual attraction helps explain why this is common rather than a personal failing.",
     "A person scrolling through dozens of profiles in one sitting may notice they start evaluating people like options to compare, finding it harder to focus on any single conversation. This evaluative mindset is one of the effects the literature flags as a downside of abundant choice.",
-    "On the positive side, online platforms regularly connect people who would never have crossed paths otherwise — different social circles, neighborhoods, or schedules. The research is clear that this expanded access is the technology's most reliable and genuine advantage.",
+    "On the positive side, online platforms regularly connect people who would never have crossed paths otherwise, different social circles, neighborhoods, or schedules. The research is clear that this expanded access is the technology's most reliable and genuine advantage.",
     "Two people trade witty messages for two weeks and build a vivid picture of each other, then meet and find the easy rhythm just isn't there in person. The disappointment can feel personal, but it mostly reflects how much attraction depends on live interaction that text simply can't stand in for."
   ],
   "whatPeopleGetWrong": [
@@ -74,7 +78,7 @@
     "the-psychology-of-first-impressions",
     "why-we-overthink-dating-and-texting"
   ],
-  "quickTake": "Online dating mainly widens access to potential partners — that part genuinely works. What it can't do well is predict chemistry: profiles and algorithms miss the interactional qualities that actually drive attraction, which tend to emerge only when you meet in person.",
+  "quickTake": "Online dating mainly widens access to potential partners, that part genuinely works. What it can't do well is predict chemistry: profiles and algorithms miss the interactional qualities that actually drive attraction, which tend to emerge only when you meet in person.",
   "pullQuote": "The platform is generally better at introductions than at prediction.",
   "keyStats": [
     {
@@ -89,16 +93,28 @@
     },
     {
       "value": "Responsiveness matters",
-      "label": "A meta-analysis of the similarity-attraction effect points to perceived responsiveness and live interaction as central to attraction — qualities a static profile cannot capture.",
+      "label": "A meta-analysis of the similarity-attraction effect points to perceived responsiveness and live interaction as central to attraction, qualities a static profile cannot capture.",
       "source": "Montoya & Horton (2013)"
     }
   ],
   "comparison": {
     "title": "At a glance: average tendencies",
     "rows": [
-      { "aspect": "How the tools are used", "men": "Broadly similar; individual variation outweighs gender differences", "women": "Broadly similar; individual variation outweighs gender differences" },
-      { "aspect": "What predicts real chemistry", "men": "In-person interaction, not profile data", "women": "In-person interaction, not profile data" },
-      { "aspect": "Effect of abundant choice", "men": "Can encourage comparison over investment, varying by person", "women": "Can encourage comparison over investment, varying by person" }
+      {
+        "aspect": "How the tools are used",
+        "men": "Broadly similar; individual variation outweighs gender differences",
+        "women": "Broadly similar; individual variation outweighs gender differences"
+      },
+      {
+        "aspect": "What predicts real chemistry",
+        "men": "In-person interaction, not profile data",
+        "women": "In-person interaction, not profile data"
+      },
+      {
+        "aspect": "Effect of abundant choice",
+        "men": "Can encourage comparison over investment, varying by person",
+        "women": "Can encourage comparison over investment, varying by person"
+      }
     ]
   },
   "keyTakeaways": [
@@ -106,7 +122,7 @@
     "There is little evidence that matching algorithms predict long-term compatibility better than chance.",
     "People are often poor at forecasting whom they will actually be drawn to; chemistry emerges through interaction.",
     "Abundant choice can push people toward comparison and away from investing, though the effect varies a lot by individual.",
-    "Treat apps as a tool for introductions, not a verdict on compatibility — meeting relatively early gives a more accurate read than prolonged texting.",
+    "Treat apps as a tool for introductions, not a verdict on compatibility. Meeting relatively early gives a more accurate read than prolonged texting.",
     "Reported gender differences in app use tend to be overstated; individual variation usually outweighs them."
   ],
   "lastReviewed": "2026-06"

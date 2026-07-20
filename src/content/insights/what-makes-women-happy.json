@@ -4,27 +4,31 @@
   "category": "happiness-and-fulfillment",
   "focusGender": "women",
   "featured": true,
-  "tags": ["happiness", "self-improvement", "emotions"],
-  "metaTitle": "What Makes Women Happy — The Real Psychology",
-  "metaDescription": "Research-based look at what actually makes women happy: autonomy, competence, close relationships, purpose — and why 'just wants romance' gets it wrong.",
-  "coreFinding": "What sustains women's happiness looks a lot like what sustains anyone's: a sense of autonomy, competence, and close connection, plus meaningful work and purpose. Autonomy matters as much as relationships, not less. Carrying an invisible 'mental load' and over-functioning for others can quietly erode well-being, which is why having needs met — not only meeting others' — is central.",
+  "tags": [
+    "happiness",
+    "self-improvement",
+    "emotions"
+  ],
+  "metaTitle": "What Makes Women Happy: The Real Psychology",
+  "metaDescription": "Research-based look at what actually makes women happy: autonomy, competence, close relationships, purpose, and why 'just wants romance' gets it wrong.",
+  "coreFinding": "What sustains women's happiness looks a lot like what sustains anyone's: a sense of autonomy, competence, and close connection, plus meaningful work and purpose. Autonomy matters as much as relationships, not less. Carrying an invisible 'mental load' and over-functioning for others can quietly erode well-being, which is why having needs met, not only meeting others', is central.",
   "whatResearchShows": [
     "Self-determination theory (Deci and Ryan, 2000) identifies three basic psychological needs whose satisfaction predicts well-being across cultures and genders: autonomy (feeling that your actions are self-chosen), competence (feeling effective at things that matter to you), and relatedness (feeling connected to others). For women as for men, lasting happiness tends to rest on all three, not on relationships alone.",
-    "Close, responsive relationships are a robust ingredient. Reis and Shaver's (1988) intimacy-as-process model describes intimacy growing when self-disclosure is met with responsive understanding — being known and accepted. That kind of connection reliably supports well-being, but the research frames it as one pillar alongside autonomy and competence, not a substitute for them.",
-    "On the cost side, Nolen-Hoeksema's work on rumination (1991; Nolen-Hoeksema, Larson and Grayson, 1999) shows how a tendency to dwell on problems and on others' needs can prolong low mood. Combined with the disproportionate 'mental load' many women carry — the ongoing planning, remembering, and emotional management for a household — chronic over-functioning for others can crowd out the autonomy and rest that well-being depends on."
+    "Close, responsive relationships are a robust ingredient. Reis and Shaver's (1988) intimacy-as-process model describes intimacy growing when self-disclosure is met with responsive understanding, being known and accepted. That kind of connection reliably supports well-being, but the research frames it as one pillar alongside autonomy and competence, not a substitute for them.",
+    "On the cost side, Nolen-Hoeksema's work on rumination (1991; Nolen-Hoeksema, Larson and Grayson, 1999) shows how a tendency to dwell on problems and on others' needs can prolong low mood. Combined with the disproportionate 'mental load' many women carry (the ongoing planning, remembering, and emotional management for a household) chronic over-functioning for others can crowd out the autonomy and rest that well-being depends on."
   ],
   "whyItHappens": [
-    "Autonomy is doing heavier lifting than the stereotype allows. When choices feel imposed rather than self-authored — a career path, a caregiving role, a relationship script — Deci and Ryan's framework predicts well-being suffers even if the situation looks good from outside. Feeling like the author of your own life is not a luxury; it is a core driver of contentment.",
+    "Autonomy is doing heavier lifting than the stereotype allows. When choices feel imposed rather than self-authored (a career path, a caregiving role, a relationship script) Deci and Ryan's framework predicts well-being suffers even if the situation looks good from outside. Feeling like the author of your own life is not a luxury; it is a core driver of contentment.",
     "Competence and purpose matter because human beings are motivated by mastery and meaning. Meaningful work, creative pursuits, skill, and contribution all feed the competence need. The idea that women are fulfilled primarily through romance underrates how much purpose and effectiveness contribute to a good life.",
-    "The mental load and the pull to prioritize others are partly socialized. Many women are raised to anticipate needs and keep relationships running smoothly, which is valuable but can become invisible, unshared labor. When self-care and one's own goals are perpetually deferred, the relatedness need is met while autonomy and competence go hungry — a recipe for depletion rather than happiness."
+    "The mental load and the pull to prioritize others are partly socialized. Many women are raised to anticipate needs and keep relationships running smoothly, which is valuable but can become invisible, unshared labor. When self-care and one's own goals are perpetually deferred, the relatedness need is met while autonomy and competence go hungry, a recipe for depletion rather than happiness."
   ],
   "realLifeExamples": [
-    "A woman with a supportive partner and family may still feel flat if she has little say over how her days are structured. Restoring a sense of autonomy — a project of her own, real input into decisions, protected time — often lifts well-being more than another kind gesture.",
+    "A woman with a supportive partner and family may still feel flat if she has little say over how her days are structured. Restoring a sense of autonomy (a project of her own, real input into decisions, protected time) often lifts well-being more than another kind gesture.",
     "Returning to meaningful work, study, or a long-shelved interest frequently brings a noticeable boost, reflecting the competence and purpose needs rather than anything romantic. Fulfillment that comes from one's own effectiveness is easy to overlook but powerful.",
     "Someone who manages every birthday, appointment, and emotional crisis for a household can feel quietly exhausted even when nothing is obviously wrong. Naming and redistributing that mental load tends to free up the energy that contentment runs on."
   ],
   "whatPeopleGetWrong": [
-    "The biggest misconception is that women just want romance, or a partner, to be happy. Relationships are genuinely important, but the research treats connection as one of three needs — alongside autonomy and competence — not the whole picture. Reducing women's fulfillment to a relationship both flatters and shortchanges them.",
+    "The biggest misconception is that women just want romance, or a partner, to be happy. Relationships are genuinely important, but the research treats connection as one of three needs, alongside autonomy and competence, not the whole picture. Reducing women's fulfillment to a relationship both flatters and shortchanges them.",
     "A related error is assuming that constantly doing for others is the same as flourishing. Caregiving can be deeply meaningful, but when it eclipses a woman's own autonomy, rest, and goals, it tends to drain well-being rather than build it. Self-sacrifice is not a reliable engine of happiness."
   ],
   "relationshipImplications": [
@@ -33,7 +37,7 @@
   ],
   "theNuance": [
     "These are general patterns, and the overlap with men is large. Janet Hyde's gender similarities hypothesis (2005) shows the sexes are far more alike than different on most psychological measures, and the basic ingredients of well-being are largely shared. Autonomy, competence, and relatedness predict happiness for people in general, not for one gender uniquely.",
-    "What any individual weighs most heavily varies enormously by personality, values, life stage, and culture. Some women find their deepest fulfillment in caregiving, others in career, others in solitude or creativity — and most in a shifting mix. There is no single template for a happy woman, and treating one as universal misreads both the science and the person."
+    "What any individual weighs most heavily varies enormously by personality, values, life stage, and culture. Some women find their deepest fulfillment in caregiving, others in career, others in solitude or creativity, and most in a shifting mix. There is no single template for a happy woman, and treating one as universal misreads both the science and the person."
   ],
   "faqs": [
     {
@@ -46,11 +50,11 @@
     },
     {
       "question": "Why does my partner seem unhappy when things look fine?",
-      "answer": "One common reason is a lack of autonomy or an unshared mental load — the invisible planning and emotional labor of running a life. Outwardly fine situations can still leave core needs unmet. Asking directly, and sharing that load, often does more than another gesture of affection."
+      "answer": "One common reason is a lack of autonomy or an unshared mental load, the invisible planning and emotional labor of running a life. Outwardly fine situations can still leave core needs unmet. Asking directly, and sharing that load, often does more than another gesture of affection."
     },
     {
       "question": "Does career or family make women happier?",
-      "answer": "It depends entirely on the individual. Both can satisfy core needs — family through relatedness, career through competence and purpose — and many women want a blend. The research points to meeting autonomy, competence, and relatedness, not to one path being right for all women."
+      "answer": "It depends entirely on the individual. Both can satisfy core needs (family through relatedness, career through competence and purpose) and many women want a blend. The research points to meeting autonomy, competence, and relatedness, not to one path being right for all women."
     },
     {
       "question": "Can doing too much for others hurt well-being?",
@@ -74,12 +78,12 @@
     "what-makes-men-happy",
     "how-women-handle-emotions"
   ],
-  "quickTake": "What sustains women's happiness looks a lot like what sustains anyone's: autonomy, competence, and close connection, plus meaningful work and purpose. Autonomy matters as much as relationships — and carrying an invisible mental load can quietly erode wellbeing.",
+  "quickTake": "What sustains women's happiness looks a lot like what sustains anyone's: autonomy, competence, and close connection, plus meaningful work and purpose. Autonomy matters as much as relationships, and carrying an invisible mental load can quietly erode wellbeing.",
   "pullQuote": "Feeling like the author of your own life is not a luxury; it is a core driver of contentment.",
   "keyStats": [
     {
       "value": "3 needs",
-      "label": "Self-determination theory finds wellbeing rests on autonomy, competence, and relatedness — for women as for men, not on relationships alone.",
+      "label": "Self-determination theory finds wellbeing rests on autonomy, competence, and relatedness, for women as for men, not on relationships alone.",
       "source": "Deci & Ryan (2000)"
     },
     {
@@ -96,15 +100,31 @@
   "comparison": {
     "title": "At a glance: average tendencies",
     "rows": [
-      { "aspect": "Core drivers of wellbeing", "men": "Autonomy, competence, relatedness", "women": "Autonomy, competence, relatedness (the same)" },
-      { "aspect": "Invisible mental load", "men": "On average carry less of it at home", "women": "On average carry more of it at home" },
-      { "aspect": "Tendency to ruminate", "men": "Somewhat less prone", "women": "Somewhat more prone, which can prolong low mood" },
-      { "aspect": "Role of close relationships", "men": "One pillar of wellbeing", "women": "One pillar of wellbeing (not the whole picture)" }
+      {
+        "aspect": "Core drivers of wellbeing",
+        "men": "Autonomy, competence, relatedness",
+        "women": "Autonomy, competence, relatedness (the same)"
+      },
+      {
+        "aspect": "Invisible mental load",
+        "men": "On average carry less of it at home",
+        "women": "On average carry more of it at home"
+      },
+      {
+        "aspect": "Tendency to ruminate",
+        "men": "Somewhat less prone",
+        "women": "Somewhat more prone, which can prolong low mood"
+      },
+      {
+        "aspect": "Role of close relationships",
+        "men": "One pillar of wellbeing",
+        "women": "One pillar of wellbeing (not the whole picture)"
+      }
     ]
   },
   "keyTakeaways": [
     "Women's happiness rests on the same core needs as anyone's: autonomy, competence, and relatedness, plus purpose.",
-    "Autonomy matters as much as relationships — feeling like the author of your own life is a core driver of contentment.",
+    "Autonomy matters as much as relationships. Feeling like the author of your own life is a core driver of contentment.",
     "The idea that women 'just want romance' underrates how much meaningful work and effectiveness contribute to a good life.",
     "Carrying a disproportionate invisible mental load can deplete wellbeing even when nothing looks obviously wrong.",
     "Constantly doing for others is not the same as flourishing; self-sacrifice is not a reliable engine of happiness.",

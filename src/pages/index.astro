@@ -31,8 +31,8 @@ const featured = await featuredInsights(featuredSlugs);
 const strip = [
   'Based on real psychology research',
   'Equal depth on men and women',
-  'No stereotypes — patterns, not rules',
-  'No agenda — just honest findings',
+  'No stereotypes: patterns, not rules',
+  'No agenda: just honest findings',
   'Written for curious, intelligent people',
 ];
 
@@ -73,7 +73,7 @@ const jsonLd = [
 ---
 
 <BaseLayout
-  title={`${SITE.name} — Understand men, women, and yourself`}
+  title={`${SITE.name}: Understand men, women, and yourself`}
   description={SITE.description}
   canonical="/"
   ogImage="/og/home.png"
@@ -86,12 +86,12 @@ const jsonLd = [
       <h1 class="hero-title">Understand men.<br />Understand women.<br /><span class="accent">Understand yourself.</span></h1>
       <p class="lede hero-lede">
         Real psychology. Honest research. Practical insight into how men and women think, feel,
-        love, and live — without stereotypes and without agenda.
+        love, and live, without stereotypes and without agenda.
       </p>
       <div class="hero-cta">
         <a href="/explore/" class="btn btn--primary btn--lg">Explore the Psychology</a>
       </div>
-      <p class="hero-note muted">No account. No clickbait. No gender-war framing — just findings.</p>
+      <p class="hero-note muted">No account. No clickbait. No gender-war framing: just findings.</p>
 
       <ul class="hero-stats" aria-label="What's inside">
         <li><strong>{insightsRounded}</strong><span>in-depth, cited articles</span></li>
@@ -120,7 +120,7 @@ const jsonLd = [
         <div class="quiz-cta-text">
           <p class="eyebrow">Free research-based quiz</p>
           <h2>What's your attachment style?</h2>
-          <p>Answer 16 quick questions to see whether you lean secure, anxious, avoidant, or fearful-avoidant — and what it means for how you love.</p>
+          <p>Answer 16 quick questions to see whether you lean secure, anxious, avoidant, or fearful-avoidant, and what it means for how you love.</p>
         </div>
         <span class="quiz-cta-btn">Take the quiz →</span>
       </a>
@@ -176,7 +176,7 @@ const jsonLd = [
       <header class="section-head">
         <p class="eyebrow">Cutting across categories</p>
         <h2>Browse by topic</h2>
-        <p class="lede">Go deep on a single theme — attachment, trust, conflict, meaning — wherever it appears in the library.</p>
+        <p class="lede">Go deep on a single theme (attachment, trust, conflict, meaning) wherever it appears in the library.</p>
       </header>
       <div class="topic-links">
         {TOPICS.map((t) => <a class="topic-link" href={`/topics/${t.slug}/`}>{t.title}</a>)}
@@ -191,7 +191,7 @@ const jsonLd = [
       <header class="section-head">
         <p class="eyebrow">Featured insight pages</p>
         <h2>Where most people start</h2>
-        <p class="lede">Ten of the questions readers ask most — answered plainly, then in depth.</p>
+        <p class="lede">Ten of the questions readers ask most, answered plainly, then in depth.</p>
       </header>
       <div class="grid grid--3">
         {

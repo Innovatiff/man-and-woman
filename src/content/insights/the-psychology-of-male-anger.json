@@ -1,27 +1,30 @@
 {
-  "title": "The Psychology of Male Anger — What It Often Hides",
+  "title": "The Psychology of Male Anger: What It Often Hides",
   "slug": "the-psychology-of-male-anger",
   "category": "male-psychology",
   "focusGender": "men",
   "featured": false,
-  "tags": ["emotions", "behavior"],
-  "metaTitle": "The Psychology of Male Anger — What It Often Masks",
+  "tags": [
+    "emotions",
+    "behavior"
+  ],
+  "metaTitle": "The Psychology of Male Anger: What It Often Masks",
   "metaDescription": "Research on male anger: why it is often the more permitted emotion for men, how it can mask hurt, fear, or shame, and what helps with regulation.",
   "coreFinding": "Research suggests anger is often the more socially permitted emotion for many men, which can make it the surface expression of underlying feelings like hurt, fear, or shame that feel harder to show. Men do not feel more anger on average than women so much as express it more outwardly. These are tendencies with wide individual variation and large overlap between the sexes.",
   "whatResearchShows": [
-    "Studies of emotional expression find a nuanced picture. Ann Kring and Albert Gordon (1998) reported that men and women experience emotions with broadly similar intensity, but differ somewhat in expression — and anger is one emotion that men, on average, are more likely to express outwardly. The gap appears to be more about display and what feels permitted than about how much is felt internally.",
-    "Ronald Levant's work on masculinity (2009) describes how many boys are socialized into a narrow emotional range in which anger is acceptable but softer or more vulnerable feelings — sadness, fear, shame — are discouraged. When those underlying feelings have no sanctioned outlet, they can surface as irritability or anger instead, a process sometimes described as funneling many emotions through the one that feels allowed.",
+    "Studies of emotional expression find a nuanced picture. Ann Kring and Albert Gordon (1998) reported that men and women experience emotions with broadly similar intensity, but differ somewhat in expression, and anger is one emotion that men, on average, are more likely to express outwardly. The gap appears to be more about display and what feels permitted than about how much is felt internally.",
+    "Ronald Levant's work on masculinity (2009) describes how many boys are socialized into a narrow emotional range in which anger is acceptable but softer or more vulnerable feelings (sadness, fear, shame) are discouraged. When those underlying feelings have no sanctioned outlet, they can surface as irritability or anger instead, a process sometimes described as funneling many emotions through the one that feels allowed.",
     "James Gross and Oliver John's research on emotion regulation (2003) helps explain why regulation strategy matters so much here. People who habitually reappraise situations tend to manage anger better and report more well-being, while those who suppress tend to fare worse. None of this is unique to men; as Hyde's gender similarities hypothesis (2005) shows, the sexes overlap heavily, and the differences in anger expression are matters of degree."
   ],
   "whyItHappens": [
     "A core mechanism is emotional channeling. If a person has learned that sadness or fear invite ridicule but anger commands respect, the nervous system's distress can get routed toward the safer-feeling emotion. Hurt that might otherwise show as tears can instead come out as frustration, because that is the response that was never punished.",
     "Shame plays a particular role. Feeling exposed, inadequate, or disrespected is intensely uncomfortable, and for many men anger offers a quick way to convert that vulnerability into something that feels more active and less helpless. Anger restores a sense of agency in a moment that otherwise feels powerless.",
-    "There is also a regulation gap. If softer emotions were rarely named or discussed growing up, a person may have fewer tools for sitting with them or talking them through. Anger, by contrast, is loud and discharges quickly — making it the default release valve when feelings build with nowhere to go."
+    "There is also a regulation gap. If softer emotions were rarely named or discussed growing up, a person may have fewer tools for sitting with them or talking them through. Anger, by contrast, is loud and discharges quickly, making it the default release valve when feelings build with nowhere to go."
   ],
   "realLifeExamples": [
     "A man who snaps over something small after a stressful day is often not really angry about the small thing. The irritation can be accumulated stress, worry, or feeling overwhelmed finding the one outlet that feels available.",
     "Receiving criticism or feeling disrespected, some men respond with a flash of anger that masks a sting of shame underneath. The anger arrives fast precisely because the vulnerable feeling beneath it is harder to acknowledge.",
-    "Fear for a loved one can come out sideways as anger — a parent who is terrified after a child wanders off may yell rather than weep. The yelling is the fear, transformed into the emotion that feels more manageable to express.",
+    "Fear for a loved one can come out sideways as anger. A parent who is terrified after a child wanders off may yell rather than weep. The yelling is the fear, transformed into the emotion that feels more manageable to express.",
     "A man facing job insecurity or money worries may become short-tempered and critical at home over minor things, when the real feeling is fear about failing to provide. The household reads irritability; underneath is anxiety that has no permitted outlet."
   ],
   "whatPeopleGetWrong": [
@@ -29,7 +32,7 @@
     "It is also wrong to assume men are inherently more angry than women. Studies suggest the felt intensity of emotion is broadly similar across the sexes; what differs, on average, is which emotions feel permitted to show. Anger's visibility is partly a fact about social rules, not just about men."
   ],
   "relationshipImplications": [
-    "Responding to the feeling underneath the anger, rather than only to the volume, often de-escalates conflict. Curiosity about what hurt, fear, or pressure might be driving an outburst tends to work better than meeting anger with anger — though this is not a license to tolerate aggression, which is never acceptable regardless of what it masks.",
+    "Responding to the feeling underneath the anger, rather than only to the volume, often de-escalates conflict. Curiosity about what hurt, fear, or pressure might be driving an outburst tends to work better than meeting anger with anger, though this is not a license to tolerate aggression, which is never acceptable regardless of what it masks.",
     "On the personal side, learning to name the softer emotion before it converts into anger is a learnable skill. Reappraisal, naming feelings, and physical outlets for arousal all help, and men who build these tools tend to have calmer, more connected relationships."
   ],
   "theNuance": [
@@ -43,7 +46,7 @@
     },
     {
       "question": "What does male anger often mask?",
-      "answer": "It frequently sits on top of more vulnerable feelings — hurt, fear, shame, or feeling disrespected — that can feel harder or riskier to show. For many men, anger offers a quicker, more active outlet than acknowledging those softer states. Looking for the feeling underneath an outburst often explains it better than the anger itself."
+      "answer": "It frequently sits on top of more vulnerable feelings (hurt, fear, shame, or feeling disrespected) that can feel harder or riskier to show. For many men, anger offers a quicker, more active outlet than acknowledging those softer states. Looking for the feeling underneath an outburst often explains it better than the anger itself."
     },
     {
       "question": "Why does he get angry instead of sad?",
@@ -75,7 +78,7 @@
     "how-to-regulate-your-emotions",
     "how-men-deal-with-stress"
   ],
-  "quickTake": "For many men, anger is the emotion that feels permitted, so it often becomes the visible surface of hurt, fear, or shame underneath. Men do not feel more anger than women on average — they tend to express it more outwardly. Reading what it protects, not just its volume, usually explains it.",
+  "quickTake": "For many men, anger is the emotion that feels permitted, so it often becomes the visible surface of hurt, fear, or shame underneath. Men do not feel more anger than women on average. They tend to express it more outwardly. Reading what it protects, not just its volume, usually explains it.",
   "pullQuote": "Hurt that might otherwise show as tears can instead come out as frustration, because that is the response that was never punished.",
   "keyStats": [
     {
@@ -97,17 +100,33 @@
   "comparison": {
     "title": "At a glance: average tendencies",
     "rows": [
-      { "aspect": "Felt intensity of emotion", "men": "Broadly similar to women", "women": "Broadly similar to men" },
-      { "aspect": "Outward expression of anger", "men": "Somewhat more likely to show it outwardly", "women": "Somewhat more likely to voice softer feelings" },
-      { "aspect": "Emotional range that feels 'permitted'", "men": "Often narrower, with anger the safe outlet", "women": "Often wider for sadness and fear" },
-      { "aspect": "What matters most", "men": "Upbringing, temperament, stress load", "women": "Upbringing, temperament, stress load" }
+      {
+        "aspect": "Felt intensity of emotion",
+        "men": "Broadly similar to women",
+        "women": "Broadly similar to men"
+      },
+      {
+        "aspect": "Outward expression of anger",
+        "men": "Somewhat more likely to show it outwardly",
+        "women": "Somewhat more likely to voice softer feelings"
+      },
+      {
+        "aspect": "Emotional range that feels 'permitted'",
+        "men": "Often narrower, with anger the safe outlet",
+        "women": "Often wider for sadness and fear"
+      },
+      {
+        "aspect": "What matters most",
+        "men": "Upbringing, temperament, stress load",
+        "women": "Upbringing, temperament, stress load"
+      }
     ]
   },
   "keyTakeaways": [
     "Anger is often the more socially permitted emotion for men, so it becomes the visible surface of hurt, fear, or shame.",
-    "Men do not feel more anger on average than women — the difference is in outward expression, not felt intensity.",
+    "Men do not feel more anger on average than women. The difference is in outward expression, not felt intensity.",
     "Shame in particular converts quickly into anger because it restores a sense of agency in a powerless moment.",
-    "A regulation gap — fewer tools for softer feelings — makes anger the default release valve.",
+    "A regulation gap, fewer tools for softer feelings, makes anger the default release valve.",
     "Reappraisal, naming the underlying feeling, and physical outlets are learnable skills that help.",
     "Understanding what anger masks is never a reason to tolerate aggression, which is never acceptable."
   ],

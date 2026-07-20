@@ -1,31 +1,35 @@
 {
-  "title": "The Science of Lasting Happiness — What Actually Moves the Needle",
+  "title": "The Science of Lasting Happiness: What Actually Moves the Needle",
   "slug": "the-science-of-lasting-happiness",
   "category": "happiness-and-fulfillment",
   "focusGender": "both",
   "featured": false,
-  "tags": ["happiness", "self-improvement", "emotions"],
-  "metaTitle": "The Science of Lasting Happiness — What Research Shows",
+  "tags": [
+    "happiness",
+    "self-improvement",
+    "emotions"
+  ],
+  "metaTitle": "The Science of Lasting Happiness: What Research Shows",
   "metaDescription": "What psychology shows about lasting happiness: the set point, hedonic adaptation, and why intentional activity matters more than circumstances.",
-  "coreFinding": "Research suggests a large share of happiness traces to a relatively stable set point, that people adapt to most good and bad events more than they expect, and that day-to-day intentional activity — how we act and think — tends to carry more lasting weight than changes in circumstances. Lasting happiness looks less like a destination reached and more like practices sustained over time.",
+  "coreFinding": "Research suggests a large share of happiness traces to a relatively stable set point, that people adapt to most good and bad events more than they expect, and that day-to-day intentional activity, how we act and think, tends to carry more lasting weight than changes in circumstances. Lasting happiness looks less like a destination reached and more like practices sustained over time.",
   "whatResearchShows": [
-    "One influential framework comes from Sonja Lyubomirsky, Kennon Sheldon and David Schkade (2005), who proposed that sustainable happiness reflects a combination of a genetically influenced set point, life circumstances, and intentional activity. They argued that intentional activity — the deliberate things people do and the way they direct their attention — offers a more promising route to lasting change than chasing new circumstances, because circumstances are prone to adaptation. The specific proportions they suggested have been debated and refined since, but the broad point endures.",
+    "One influential framework comes from Sonja Lyubomirsky, Kennon Sheldon and David Schkade (2005), who proposed that sustainable happiness reflects a combination of a genetically influenced set point, life circumstances, and intentional activity. They argued that intentional activity, the deliberate things people do and the way they direct their attention, offers a more promising route to lasting change than chasing new circumstances, because circumstances are prone to adaptation. The specific proportions they suggested have been debated and refined since, but the broad point endures.",
     "The phenomenon of adaptation was vividly illustrated by Philip Brickman, Dan Coates and Ronnie Janoff-Bulman (1978) in their study comparing lottery winners and people who had suffered serious accidents. Strikingly, lottery winners were not dramatically happier in everyday life than a comparison group, and accident victims were not as unhappy as one might assume. The work suggested that people tend to drift back toward a characteristic baseline after major events, a process often called hedonic adaptation.",
     "Ed Diener and Martin Seligman (2002) approached the question from the other direction by studying very happy people. They found that the happiest individuals were not distinguished by money, religion, or dramatic life events, but tended to have rich and satisfying social relationships. This hints that lasting happiness has more to do with the texture of everyday connection and engagement than with isolated highs."
   ],
   "whyItHappens": [
     "Hedonic adaptation appears to be partly functional. A nervous system that kept responding at full intensity to a raise, a new home, or a fresh romance would have little capacity left to notice new information. By recalibrating toward a baseline, attention is freed up for whatever changes next. The same machinery that dulls the thrill of a windfall also softens the sting of many setbacks, which is part of why people are often more resilient than they predict.",
-    "Because circumstances fade into the background once they become familiar, the activities people repeatedly engage in tend to have more durable effects. Intentional activity resists adaptation more easily because it can be varied, savored, and renewed — a person can keep finding new angles on a hobby, a friendship, or a practice of gratitude, whereas a static possession simply becomes the new normal.",
+    "Because circumstances fade into the background once they become familiar, the activities people repeatedly engage in tend to have more durable effects. Intentional activity resists adaptation more easily because it can be varied, savored, and renewed. A person can keep finding new angles on a hobby, a friendship, or a practice of gratitude, whereas a static possession simply becomes the new normal.",
     "Temperament also plays a part. Traits linked to characteristic mood, such as extraversion and emotional stability, are fairly stable across the lifespan and help explain why people tend to return to a personal baseline. This does not mean happiness is fixed; it means the starting point differs between individuals, and change tends to come through sustained habits rather than single events."
   ],
   "realLifeExamples": [
-    "Someone who finally buys the car they dreamed about often feels a genuine lift — for a while. Within months the car has become simply the thing they drive to work, and the glow has faded. This is hedonic adaptation in everyday form, and it helps explain why the next purchase rarely delivers the lasting boost people expect.",
+    "Someone who finally buys the car they dreamed about often feels a genuine lift, for a while. Within months the car has become simply the thing they drive to work, and the glow has faded. This is hedonic adaptation in everyday form, and it helps explain why the next purchase rarely delivers the lasting boost people expect.",
     "By contrast, a person who builds a regular ritual of seeing close friends, taking a weekly walk, or writing down a few things they are grateful for tends to draw a steadier, renewable kind of satisfaction. The activity can be refreshed each time, so it resists going flat the way a possession does.",
-    "People recovering from a hard loss frequently surprise themselves. The grief is real and should not be minimized, yet many find that, over time, they return closer to their former baseline than they would have predicted at the worst moment — an everyday illustration of the resilience adaptation can provide.",
-    "Someone who lands a long-awaited promotion or pay rise often notices the excitement lasting weeks rather than years. The higher salary quietly becomes the new normal, and daily mood settles back near where it started — a reminder that circumstances tend to fade into the background once they grow familiar, while sustained habits and relationships keep doing work."
+    "People recovering from a hard loss frequently surprise themselves. The grief is real and should not be minimized, yet many find that, over time, they return closer to their former baseline than they would have predicted at the worst moment, an everyday illustration of the resilience adaptation can provide.",
+    "Someone who lands a long-awaited promotion or pay rise often notices the excitement lasting weeks rather than years. The higher salary quietly becomes the new normal, and daily mood settles back near where it started, a reminder that circumstances tend to fade into the background once they grow familiar, while sustained habits and relationships keep doing work."
   ],
   "whatPeopleGetWrong": [
-    "A common misreading is that happiness is mostly about engineering the right circumstances — the better job, the bigger home, the perfect relationship. Research on adaptation suggests circumstances matter less for lasting happiness than people assume, because so much of their initial impact wears off. This is not a reason for fatalism but a redirection toward what tends to last.",
+    "A common misreading is that happiness is mostly about engineering the right circumstances, the better job, the bigger home, the perfect relationship. Research on adaptation suggests circumstances matter less for lasting happiness than people assume, because so much of their initial impact wears off. This is not a reason for fatalism but a redirection toward what tends to last.",
     "Another misconception is that the set point makes happiness fixed and effort pointless. The evidence suggests the opposite: while a baseline exists, the portion linked to intentional activity is precisely the part most open to deliberate change. The set point is better understood as a gravitational pull than a ceiling."
   ],
   "relationshipImplications": [
@@ -34,7 +38,7 @@
   ],
   "theNuance": [
     "These patterns describe broad tendencies, and individuals vary enormously in their baseline and in what lifts them. There is also large overlap between men and women here; Janet Hyde's gender similarities hypothesis (2005) reminds us that on most psychological measures the sexes are far more alike than different, and the architecture of happiness is not meaningfully a gendered story.",
-    "It is also worth holding the set-point idea loosely. Circumstances are not irrelevant — chronic hardship, poverty, illness, or isolation can weigh heavily and are not simply adapted away. The research points to where leverage tends to be greatest for those with their basic needs met, not to a claim that mindset alone overrides genuine adversity."
+    "It is also worth holding the set-point idea loosely. Circumstances are not irrelevant. Chronic hardship, poverty, illness, or isolation can weigh heavily and are not simply adapted away. The research points to where leverage tends to be greatest for those with their basic needs met, not to a claim that mindset alone overrides genuine adversity."
   ],
   "faqs": [
     {
@@ -47,11 +51,11 @@
     },
     {
       "question": "Why doesn't getting what I want make me happier for long?",
-      "answer": "Because of adaptation, the lift from a new possession, job, or milestone tends to fade as it becomes familiar. Research suggests intentional activities — things you repeatedly do and savor — resist this fading better than static circumstances, since they can be varied and renewed rather than simply becoming the new normal."
+      "answer": "Because of adaptation, the lift from a new possession, job, or milestone tends to fade as it becomes familiar. Research suggests intentional activities, things you repeatedly do and savor, resist this fading better than static circumstances, since they can be varied and renewed rather than simply becoming the new normal."
     },
     {
       "question": "Can you actually become a happier person?",
-      "answer": "The evidence suggests yes, within limits. While a baseline pulls people back, the portion of happiness tied to intentional activity is the part most responsive to effort. Sustained habits — nurturing relationships, gratitude, engaging activity — tend to matter more than any single change in circumstances."
+      "answer": "The evidence suggests yes, within limits. While a baseline pulls people back, the portion of happiness tied to intentional activity is the part most responsive to effort. Sustained habits (nurturing relationships, gratitude, engaging activity) tend to matter more than any single change in circumstances."
     },
     {
       "question": "What predicts lasting happiness best?",
@@ -73,17 +77,17 @@
     "why-money-doesnt-buy-happiness",
     "the-role-of-purpose-in-a-meaningful-life"
   ],
-  "quickTake": "A large share of happiness traces to a fairly stable set point, and we adapt to most good and bad events more than we expect. What tends to last is intentional activity — how we act and think day to day — more than changes in circumstances.",
+  "quickTake": "A large share of happiness traces to a fairly stable set point, and we adapt to most good and bad events more than we expect. What tends to last is intentional activity, how we act and think day to day, more than changes in circumstances.",
   "pullQuote": "Lasting happiness looks less like a destination reached and more like practices sustained over time.",
   "keyStats": [
     {
       "value": "Set point + activity",
-      "label": "Sustainable happiness is framed as a mix of a partly genetic set point, circumstances, and intentional activity — with intentional activity the most promising route to lasting change.",
+      "label": "Sustainable happiness is framed as a mix of a partly genetic set point, circumstances, and intentional activity, with intentional activity the most promising route to lasting change.",
       "source": "Lyubomirsky, Sheldon & Schkade (2005)"
     },
     {
       "value": "Winners ≈ baseline",
-      "label": "Lottery winners were not dramatically happier day-to-day than a comparison group, and accident survivors not as unhappy as expected — people drift back toward a baseline.",
+      "label": "Lottery winners were not dramatically happier day-to-day than a comparison group, and accident survivors not as unhappy as expected. People drift back toward a baseline.",
       "source": "Brickman, Coates & Janoff-Bulman (1978)"
     },
     {
@@ -93,7 +97,7 @@
     }
   ],
   "keyTakeaways": [
-    "A meaningful portion of happiness reflects a relatively stable, partly genetic set point — a pull, not a ceiling.",
+    "A meaningful portion of happiness reflects a relatively stable, partly genetic set point, a pull, not a ceiling.",
     "Hedonic adaptation drifts us back toward baseline after big events, softening both windfalls and many setbacks.",
     "Circumstances matter less for lasting happiness than people assume, because so much of their impact wears off.",
     "Intentional activity resists adaptation because it can be varied, savored, and renewed rather than becoming the new normal.",
