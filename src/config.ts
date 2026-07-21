@@ -21,15 +21,22 @@ export const SITE = {
 } as const;
 
 /**
- * The site's founder and named editor. Every insight is published under his
- * name ("Created by Daniel Hernandez"), and he is responsible for the standards
- * the site is held to. This is the single source of truth for the byline,
- * article cards, the About page, and structured data, so they never drift apart.
+ * Daniel Hernandez founded and launched Men Women Psychology. He sets the
+ * standards the site is held to and is named as the founder on the About page
+ * and in the editorial policy. Individual articles are published under the
+ * editorial-team byline below, not under his personal name.
  */
 export const AUTHOR = {
   name: 'Daniel Hernandez',
-  role: 'Founder and editor',
+  role: 'Founder',
 } as const;
+
+/**
+ * The byline every insight is published under: in the article header, on
+ * article cards, and in structured data. Single source of truth so the three
+ * never drift apart.
+ */
+export const EDITORIAL_TEAM = `${SITE.name} Editorial Team`;
 
 /**
  * Primary navigation shown in the header.

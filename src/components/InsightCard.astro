@@ -1,9 +1,8 @@
 ---
-import { Image } from 'astro:assets';
 import GenderBadge from './GenderBadge.astro';
-import daniel from '../assets/daniel-hernandez.png';
+import BrandMark from './BrandMark.astro';
 import { categoryName } from '../data/categories';
-import { AUTHOR } from '../config';
+import { EDITORIAL_TEAM } from '../config';
 
 export interface Props {
   title: string;
@@ -27,17 +26,8 @@ const { title, slug, category, focusGender, excerpt, reason } = Astro.props;
   {reason && <p class="insight-card-reason"><strong>Why this:</strong> {reason}</p>}
   <div class="insight-card-foot">
     <span class="insight-card-author">
-      <Image
-        class="insight-card-avatar"
-        src={daniel}
-        alt=""
-        width={44}
-        height={44}
-        format="webp"
-        quality={82}
-        loading="lazy"
-      />
-      <span>Created by <strong>{AUTHOR.name}</strong></span>
+      <span class="insight-card-mark" aria-hidden="true"><BrandMark size={16} /></span>
+      <span>Created by the <strong>{EDITORIAL_TEAM}</strong></span>
     </span>
     <span class="insight-card-cta">Read the insight →</span>
   </div>
@@ -100,12 +90,14 @@ const { title, slug, category, focusGender, excerpt, reason } = Astro.props;
     color: var(--color-text);
     font-weight: 600;
   }
-  .insight-card-avatar {
+  .insight-card-mark {
     flex: none;
+    display: grid;
+    place-items: center;
     width: 1.5rem;
     height: 1.5rem;
     border-radius: 50%;
-    object-fit: cover;
+    background: var(--color-primary-soft);
     border: 1px solid var(--color-border);
   }
   .insight-card-cta {
