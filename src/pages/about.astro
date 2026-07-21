@@ -1,83 +1,162 @@
 ---
+import { Image } from 'astro:assets';
 import TextPage from '../layouts/TextPage.astro';
+import daniel from '../assets/daniel-hernandez.png';
+import { AUTHOR, SITE } from '../config';
 ---
 
 <TextPage
   title="About Men Women Psychology"
-  description="Men Women Psychology is a research-backed psychology reference that helps people understand men, women, and relationships honestly, without stereotypes, clickbait, or agenda."
+  description="Men Women Psychology is a research-backed psychology reference created by Daniel Hernandez to help people understand men, women, and relationships honestly, without stereotypes, clickbait, or agenda."
   canonical="/about"
-  intro="A serious, honest psychology reference, built to help people understand themselves and the people they care about."
+  intro="The story behind the site, and why one person set out to explain men, women, and relationships honestly."
 >
-  <h2>Why this site exists</h2>
+  <div class="founder-card">
+    <Image
+      class="founder-photo"
+      src={daniel}
+      alt={`${AUTHOR.name}, founder of ${SITE.name}`}
+      width={320}
+      height={320}
+      format="webp"
+      quality={85}
+    />
+    <div class="founder-id">
+      <p class="founder-name">{AUTHOR.name}</p>
+      <p class="founder-role">Founder and editor, {SITE.name}</p>
+      <p class="founder-lead">
+        I built this site because I could not find an honest one. This is the whole
+        reason it exists, and the standard I try to hold it to.
+      </p>
+    </div>
+  </div>
+
+  <h2>Why I built this</h2>
   <p>
-    Most of what is written about men, women, and relationships online falls into two camps:
-    clickbait that flatters one side and demeans the other, or self-help that states confident
-    "rules" no real study would support. Both treat people as caricatures. Both get the science
-    wrong.
+    I am Daniel Hernandez, and I made Men Women Psychology because I got tired of how the
+    internet talks about men and women. Almost everything I found fell into one of two piles.
+    On one side was clickbait that flattered whoever was reading and mocked the other half of
+    the population. On the other was confident self-help that laid out strict "rules" about
+    how men or women "always" behave, rules no serious study would ever back up. Both treated
+    real people as cartoons. Both got the psychology wrong.
   </p>
   <p>
-    Men Women Psychology was built as a deliberate alternative: a calm, research-forward library that
-    explains the real psychology of how men and women think, feel, love, and live, with equal
-    depth, equal respect, and equal honesty for both.
+    What I actually wanted was simple, and I kept failing to find it: one calm place that
+    would explain how men and women tend to think, feel, love, and struggle, treating both
+    with the same respect and sticking to what research actually says. Not a side to root for.
+    Not a list of tricks. Just an honest answer, written like the reader is an adult. When I
+    could not find that place, I decided to build it.
+  </p>
+  <p>
+    So this is my attempt at the resource I went looking for and could not find. Every page
+    is here to help one real person understand themselves, or someone they love, a little
+    better, and to do it without stereotypes, without an agenda, and without pretending the
+    science is tidier than it is.
   </p>
 
-  <h2>What we believe</h2>
+  <h2>What I believe</h2>
   <ul>
     <li>
       <strong>Patterns, not rules.</strong> Research describes averages and tendencies across
-      groups. It never tells you what a specific person feels. We hedge our language on purpose,
-      because the honest version of psychology is full of "on average," "tends to," and "it
-      varies."
+      large groups. It never tells you what one specific person feels. I hedge the language on
+      purpose, because the honest version of psychology is full of "on average," "tends to,"
+      and "it varies."
     </li>
     <li>
-      <strong>Men and women, equally.</strong> Every topic is covered with the same care for both.
-      We do not run a gender-war angle, and we do not claim one sex is better, smarter, or more
+      <strong>Men and women, equally.</strong> Every topic gets the same care for both. I do
+      not run a gender-war angle, and I do not claim one sex is better, smarter, or more
       emotional than the other.
     </li>
     <li>
-      <strong>Real research or nothing.</strong> We cite established psychology and behavioral
-      science (attachment theory, relationship science, well-being research) and we are clear
-      about where the evidence is strong, weak, or genuinely mixed.
+      <strong>Real research or nothing.</strong> I lean on established psychology and
+      behavioral science, things like attachment theory, relationship science, and well-being
+      research, and I try to be clear about where the evidence is strong, weak, or genuinely
+      mixed.
     </li>
     <li>
       <strong>Understanding over tactics.</strong> This is not a site about manipulating people
-      into liking you. It is about understanding behavior so you can relate to others, and
+      into liking you. It is about understanding behavior so you can relate to others, and to
       yourself, with more clarity and less frustration.
     </li>
   </ul>
 
-  <h2>Who writes this</h2>
+  <h2>Who I am, and who I am not</h2>
   <p>
-    Everything on the site is produced by the <strong>Men Women Psychology Editorial Team</strong> — 
-    the group responsible for researching, writing, reviewing, and updating our content. We publish
-    under a team byline rather than inventing individual author personas, because we would rather be
-    transparent about how the work is actually made than dress it up. We are not clinicians and we
-    do not run our own studies; our job is to explain established psychology accurately and fairly.
-    Every article is reviewed by a person against our published standards before it goes live.
+    I want to be straight with you about this, because trust is the only thing a site like this
+    has. I am not a clinician, and I do not run my own studies. I am a person who cares a lot
+    about getting this right. What I do is read the research carefully, use good tools to gather
+    and organize the literature, write it up in plain language, and then review every page
+    against the standards I have set before it goes live. My name is on the work because I am
+    the one responsible for it. If something here is wrong, that is on me to fix.
   </p>
-
-  <h2>How content is made</h2>
   <p>
-    Each insight page starts from the published research on its topic, is written to lead with the
-    honest answer, and is reviewed for accuracy, balance, and tone before publishing. We avoid
-    sensational claims, we name the nuance, and we date every page so you can see when it was last
-    reviewed. For the full detail (our sourcing standards, review process, corrections policy, and
-    how we keep editorial content independent of advertising), see our
-    <a href="/editorial-policy/">editorial policy</a>,
-    <a href="/research-methodology/">research methodology</a>, and
-    <a href="/data-sources/">data sources</a>.
+    You can read exactly how each page is put together, sourced, and reviewed in the
+    <a href="/editorial-policy/">editorial policy</a>, how I weigh evidence in the
+    <a href="/research-methodology/">research methodology</a>, and the broader bodies of work I
+    rely on in <a href="/data-sources/">data sources</a>. I would rather be transparent about
+    how the work is really made than dress it up.
   </p>
 
   <h2>What this is not</h2>
   <p>
-    Men Women Psychology is an educational resource, not a substitute for professional help. It is not
-    therapy, clinical advice, or relationship counseling. If you are struggling, a licensed
-    professional can offer support tailored to you in a way no general article can.
+    Men Women Psychology is an educational resource, not a substitute for professional help. It
+    is not therapy, clinical advice, or relationship counseling. If you are struggling, a
+    licensed professional can offer support built around you in a way no general article ever
+    can.
   </p>
 
   <h2>Get in touch</h2>
   <p>
-    Questions, corrections, or a study we should cite? We genuinely want to hear it. Accuracy
-    matters more to us than being right. Reach us through the <a href="/contact/">contact page</a>.
+    Questions, corrections, or a study I should be citing? I genuinely want to hear it. Getting
+    it right matters to me more than being right. You can reach me through the
+    <a href="/contact/">contact page</a>.
   </p>
 </TextPage>
+
+<style>
+  .founder-card {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: var(--space-4);
+    padding: var(--space-4);
+    margin-bottom: var(--space-5);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+    background: var(--color-primary-soft);
+  }
+  .founder-photo {
+    flex: none;
+    width: 8.5rem;
+    height: 8.5rem;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid var(--color-card);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
+  }
+  .founder-id {
+    flex: 1 1 16rem;
+    min-width: 0;
+  }
+  .founder-name {
+    margin: 0;
+    font-family: var(--font-display);
+    font-size: var(--step-2);
+    font-weight: 600;
+    color: var(--color-text);
+    line-height: 1.1;
+  }
+  .founder-role {
+    margin: 0.2rem 0 0;
+    font-size: 0.9rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    color: var(--color-primary-strong);
+  }
+  .founder-lead {
+    margin: var(--space-3) 0 0;
+    color: var(--color-text-soft);
+    font-size: 0.98rem;
+    line-height: 1.6;
+  }
+</style>

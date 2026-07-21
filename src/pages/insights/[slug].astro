@@ -18,8 +18,10 @@ import KeyTakeaways from '../../components/KeyTakeaways.astro';
 import ComparisonTable from '../../components/ComparisonTable.astro';
 import QuickTake from '../../components/QuickTake.astro';
 import PullQuote from '../../components/PullQuote.astro';
+import { getImage } from 'astro:assets';
+import daniel from '../../assets/daniel-hernandez.png';
 import { categoryName, CATEGORY_BY_SLUG } from '../../data/categories';
-import { SITE } from '../../config';
+import { SITE, AUTHOR } from '../../config';
 import { allInsights, relatedInsights, moreInCategory, topicsForInsight, excerpt } from '../../lib/insights';
 import { pickLayout, readingMinutes } from '../../lib/present';
 
@@ -44,6 +46,9 @@ const more = await moreInCategory(
 
 const layout = pickLayout(d);
 const minutes = readingMinutes(d);
+
+// Optimized, build-time author headshot used for structured data (E-E-A-T).
+const authorImg = await getImage({ src: daniel, width: 400, height: 400, format: 'webp' });
 
 const sections = [
   { id: 'research', heading: 'What the research actually shows', eyebrow: 'The evidence', paragraphs: d.whatResearchShows, tone: 'research' as const },
@@ -75,11 +80,13 @@ const jsonLd = [
     timeRequired: `PT${minutes}M`,
     dateModified: `${d.lastReviewed}-01`,
     author: {
-      '@type': 'Organization',
-      name: `${SITE.name} Editorial Team`,
+      '@type': 'Person',
+      name: AUTHOR.name,
+      jobTitle: AUTHOR.role,
       url: `${SITE.url}/about/`,
+      image: `${SITE.url}${authorImg.src}`,
     },
-    reviewedBy: { '@type': 'Organization', name: `${SITE.name} Editorial Team` },
+    reviewedBy: { '@type': 'Person', name: AUTHOR.name, url: `${SITE.url}/about/` },
     publisher: {
       '@type': 'Organization',
       name: SITE.name,
@@ -229,7 +236,7 @@ const jsonLd = [
       <div class="insight-reviewed">
         <LastReviewed date={d.lastReviewed} />
         <p class="insight-reviewed-note">
-          Written and reviewed by the <a href="/about/">{SITE.name} Editorial Team</a> against our
+          Created and reviewed by <a href="/about/">{AUTHOR.name}</a> against our
           <a href="/editorial-policy/"> editorial standards</a>. This article is educational and is
           not a substitute for professional advice.
         </p>

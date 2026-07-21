@@ -15,9 +15,20 @@ export const SITE = {
   url: import.meta.env.SITE_URL || 'https://menwomenpsychology.com',
   locale: 'en',
   // Used for Open Graph / structured data.
-  author: 'Men Women Psychology Editorial',
+  author: 'Daniel Hernandez',
   email: 'hello@menwomenpsychology.com',
   founded: '2026',
+} as const;
+
+/**
+ * The site's founder and named editor. Every insight is published under his
+ * name ("Created by Daniel Hernandez"), and he is responsible for the standards
+ * the site is held to. This is the single source of truth for the byline,
+ * article cards, the About page, and structured data, so they never drift apart.
+ */
+export const AUTHOR = {
+  name: 'Daniel Hernandez',
+  role: 'Founder and editor',
 } as const;
 
 /**
