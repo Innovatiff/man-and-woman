@@ -105,7 +105,10 @@ const jsonLdBlocks = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
       ))
     }
 
-    {/* AdSense loader: only injected once a publisher ID is configured AND ads are enabled. */}
+    {/* Associates the site with the AdSense account (site verification + review). */}
+    {ADS.client && <meta name="google-adsense-account" content={ADS.client} />}
+
+    {/* AdSense loader: injected when ads are enabled. Drives Auto ads and any ad units. */}
     {
       ADS.enabled && (
         <script

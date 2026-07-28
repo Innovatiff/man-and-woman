@@ -3,11 +3,12 @@
  * Policy-safe ad slot.
  *
  * Three states, by design:
- *   1. Ads disabled (default, pre-approval): renders NOTHING. No fake ads, no
- *      empty boxes, no "advertisement" labels with no ad, exactly what Google
- *      AdSense and Publisher policies expect before a site is approved.
+ *   1. Ads disabled: renders NOTHING. No fake ads, no empty boxes, no
+ *      "advertisement" labels with no ad, exactly what Google AdSense and
+ *      Publisher policies expect.
  *   2. Ads enabled WITHOUT a slot id: renders a clearly-labelled reserved zone
- *      (used only when explicitly previewing layout). Never shown in production.
+ *      in DEV ONLY, for previewing layout. Production renders nothing here, so
+ *      placement is left to Auto ads until real ad units exist.
  *   3. Ads enabled WITH a slot id: renders a real <ins class="adsbygoogle"> unit.
  *
  * Placement rules (enforced by where this is used, not here): never inside the
@@ -26,7 +27,8 @@ export interface Props {
 
 const { slot, variant = 'in-content', format = 'auto' } = Astro.props;
 const showReal = ADS.enabled && !!slot;
-const showPlaceholder = ADS.enabled && !slot;
+// Preview box is a dev-only layout aid; it never ships to production.
+const showPlaceholder = ADS.enabled && !slot && import.meta.env.DEV;
 ---
 
 {
@@ -41,7 +43,7 @@ const showPlaceholder = ADS.enabled && !slot;
         data-ad-format={format}
         data-full-width-responsive="true"
       />
-      <script type="text/partytown" is:inline>
+      <script is:inline>
         (adsbygoogle = window.adsbygoogle || []).push({});
       </script>
     </aside>

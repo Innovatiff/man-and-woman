@@ -90,19 +90,19 @@ export const NAV_LINKS: NavItem[] = [
 /**
  * AdSense configuration.
  *
- * Ads are OFF until two conditions are met:
- *   1. PUBLIC_ADSENSE_CLIENT is set (e.g. "ca-pub-0000000000000000")
- *   2. PUBLIC_ADS_ENABLED is the string "true"
+ * The publisher ID is public (it also appears in /ads.txt), so it ships as the
+ * default and needs no env var. Ads ship ENABLED, which puts the AdSense loader
+ * in every page <head> so Google can review the site and Auto ads can serve once
+ * the account is approved. To suppress ads (a local preview or a staging build)
+ * set PUBLIC_ADS_ENABLED="false".
  *
- * This guarantees the site never ships fake or empty ad units before approval,
- * while keeping every layout zone wired up so ads can go live with a config
- * change and zero template edits.
+ * Individual <AdSlot> units render a real ad only when given an ad-unit `slot`
+ * id; until ad units are created in AdSense, placement is handled by Auto ads.
  */
+const ADSENSE_CLIENT = import.meta.env.PUBLIC_ADSENSE_CLIENT || 'ca-pub-7759354256906782';
 export const ADS = {
-  client: import.meta.env.PUBLIC_ADSENSE_CLIENT || '',
-  enabled:
-    (import.meta.env.PUBLIC_ADS_ENABLED || '') === 'true' &&
-    !!import.meta.env.PUBLIC_ADSENSE_CLIENT,
+  client: ADSENSE_CLIENT,
+  enabled: (import.meta.env.PUBLIC_ADS_ENABLED ?? 'true') !== 'false' && !!ADSENSE_CLIENT,
 } as const;
 
 /**
